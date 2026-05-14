@@ -1,0 +1,5 @@
+default_band: malayalam
+timezone: Asia/Kolkata
+movies_per_batch: 15
+lookahead_hours: 36   # generate new slots only when less than this many hours remain
+dedup_hours: 48       # avoid repeating a movie that aired within this window

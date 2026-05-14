@@ -1,0 +1,13 @@
+{
+  "name": "cinema-radio",
+  "version": "0.1.0",
+  "description": "A 24x7 browser-based movie station that plays like a channel",
+  "private": true,
+  "scripts": {
+    "generate": "node scripts/generate.js",
+    "generate:fetch": "node scripts/generate.js --fetch-durations"
+  },
+  "dependencies": {
+    "js-yaml": "^4.1.0"
+  }
+}

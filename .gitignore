@@ -1,0 +1,4 @@
+node_modules/
+.claude/
+cache/issues.json
+.DS_Store

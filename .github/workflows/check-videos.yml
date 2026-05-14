@@ -1,0 +1,122 @@
+name: Check Video Health
+
+on:
+  schedule:
+    # Every Monday at 6:00 AM IST = Sunday 00:30 UTC
+    - cron: '30 0 * * 1'
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      issues: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Check all video URLs
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs   = require('fs');
+            const yaml = require('js-yaml');
+            const path = require('path');
+
+            const LIBRARY_DIR = 'library';
+            const files = fs.readdirSync(LIBRARY_DIR).filter(f => f.endsWith('.yaml'));
+
+            const broken    = [];
+            const available = [];
+
+            for (const file of files) {
+              const bandId = path.basename(file, '.yaml');
+              const raw    = yaml.load(fs.readFileSync(path.join(LIBRARY_DIR, file), 'utf8'));
+              const movies = raw.movies || [];
+
+              for (const movie of movies) {
+                const urlMatch = movie.url.match(/(?:v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
+                if (!urlMatch) continue;
+                const videoId = urlMatch[1];
+
+                try {
+                  const res = await fetch(
+                    `https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`
+                  );
+                  if (res.ok) {
+                    available.push({ band: bandId, videoId, title: movie.title });
+                  } else {
+                    broken.push({ band: bandId, videoId, title: movie.title, status: res.status });
+                  }
+                } catch (e) {
+                  broken.push({ band: bandId, videoId, title: movie.title, status: 'fetch-error' });
+                }
+
+                // Polite delay between requests
+                await new Promise(r => setTimeout(r, 500));
+              }
+            }
+
+            console.log(`Checked ${available.length + broken.length} videos`);
+            console.log(`Available: ${available.length} | Broken: ${broken.length}`);
+
+            // Get all open broken-video issues
+            const existingIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'broken-video',
+            });
+
+            // Open new issues for newly broken videos
+            const existingTitles = new Set(existingIssues.data.map(i => i.title));
+
+            for (const v of broken) {
+              const title = `[broken] ${v.band} — ${v.title || v.videoId}`;
+              if (existingTitles.has(title)) continue;
+
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: [
+                  `Video is unavailable (status: ${v.status}).`,
+                  ``,
+                  `**Band:** \`${v.band}\``,
+                  `**Video ID:** \`${v.videoId}\``,
+                  `**Title:** ${v.title || '_(no title)_'}`,
+                  ``,
+                  `**Fix:** Remove or replace this entry in \`library/${v.band}.yaml\`.`,
+                ].join('\n'),
+                labels: ['broken-video'],
+              });
+            }
+
+            // Close issues for videos that are now available again
+            for (const issue of existingIssues.data) {
+              const match = issue.title.match(/\[broken\] (\S+) — (.+)/);
+              if (!match) continue;
+              const wasFixed = available.some(
+                v => v.band === match[1] && (v.title === match[2] || v.videoId === match[2])
+              );
+              if (wasFixed) {
+                await github.rest.issues.update({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.number,
+                  state: 'closed',
+                  body: issue.body + '\n\n_Auto-closed: video is available again._',
+                });
+              }
+            }

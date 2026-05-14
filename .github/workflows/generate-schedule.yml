@@ -1,0 +1,91 @@
+name: Generate Schedule
+
+on:
+  schedule:
+    # 5:00 AM IST = 23:30 UTC (previous day)
+    - cron: '30 23 * * *'
+  workflow_dispatch: # allow manual trigger
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Install yt-dlp
+        run: |
+          pip install yt-dlp --quiet
+          yt-dlp --version
+
+      - name: Generate schedules
+        run: node scripts/generate.js --fetch-durations
+        env:
+          CI: true
+
+      - name: Open GitHub Issues for unavailable videos
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const issuesFile = 'cache/issues.json';
+            if (!fs.existsSync(issuesFile)) return;
+
+            const issues = JSON.parse(fs.readFileSync(issuesFile, 'utf8'));
+            if (issues.length === 0) return;
+
+            // Get existing open issues to avoid duplicates
+            const existing = await github.rest.issues.listForRepo({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              state: 'open',
+              labels: 'broken-video',
+            });
+            const existingTitles = new Set(existing.data.map(i => i.title));
+
+            for (const issue of issues) {
+              const title = `[broken] ${issue.band} — ${issue.title || issue.videoId}`;
+              if (existingTitles.has(title)) continue;
+
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title,
+                body: [
+                  `A video in the library is unavailable and was skipped during schedule generation.`,
+                  ``,
+                  `**Band:** \`${issue.band}\``,
+                  `**Video ID:** \`${issue.videoId}\``,
+                  `**Title:** ${issue.title || '_(no title)_'}`,
+                  `**Reason:** ${issue.reason}`,
+                  ``,
+                  `**Fix:** Remove or replace this entry in \`library/${issue.band}.yaml\`.`,
+                ].join('\n'),
+                labels: ['broken-video'],
+              });
+            }
+
+            // Clean up issues file
+            fs.unlinkSync(issuesFile);
+
+      - name: Commit updated schedules
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedules/ cache/durations.json
+          git diff --staged --quiet || git commit -m "chore: update schedules [$(date '+%Y-%m-%d')]"
+          git push
