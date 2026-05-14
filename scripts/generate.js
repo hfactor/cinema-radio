@@ -23,7 +23,8 @@ const config           = yaml.load(fs.readFileSync(CONFIG_FILE, 'utf8'));
 const TIMEZONE         = config.timezone         || 'Asia/Kolkata';
 const MOVIES_PER_BATCH = config.movies_per_batch || 15;
 const LOOKAHEAD_HOURS  = config.lookahead_hours  || 36;
-const DEDUP_HOURS      = config.dedup_hours      || 48; // avoid repeating movies within this window
+const DEDUP_HOURS      = config.dedup_hours      || 48;
+const BAND_ORDER       = config.band_order       || [];
 const FETCH_DURATIONS  = process.argv.includes('--fetch-durations');
 
 // ─── Time helpers ─────────────────────────────────────────────────────────────
@@ -115,9 +116,17 @@ function extractVideoId(url) {
 }
 
 function loadLibrary() {
-  const files = fs.readdirSync(LIBRARY_DIR)
+  const discovered = fs.readdirSync(LIBRARY_DIR)
     .filter(f => f.endsWith('.yaml'))
-    .sort();
+    .map(f => path.basename(f, '.yaml'));
+
+  // Respect explicit band_order from config; append any unlisted bands at end
+  const ordered = [
+    ...BAND_ORDER.filter(id => discovered.includes(id)),
+    ...discovered.filter(id => !BAND_ORDER.includes(id)).sort(),
+  ];
+
+  const files = ordered.map(id => `${id}.yaml`);
 
   return files.map(file => {
     const bandId = path.basename(file, '.yaml');

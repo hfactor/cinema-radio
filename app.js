@@ -22,6 +22,7 @@ let isPowered         = false;
 let tickInterval      = null;
 let consecutiveErrors = 0;
 let peekOffset        = 0;
+const scheduleCache   = {};   // pre-fetched schedules keyed by band id
 
 const MAX_ERRORS = 3;
 
@@ -268,22 +269,46 @@ function renderBandDots() {
   el('dial-face').style.transform = `rotate(${dialAngle}deg)`;
 }
 
+function applySchedule(data) {
+  schedule   = data;
+  peekOffset = 0;
+  const slot = findActiveSlot(schedule.slots);
+  activeSlot = slot;
+  loadSlot(slot);
+}
+
 function loadBand(bandIdx) {
   activeBandIdx = bandIdx;
   const band = bands[bandIdx];
   el('band-label').textContent = band.name;
   renderBandDots();
 
+  // Use cache if available — keeps loadVideoById in the synchronous
+  // gesture call stack, which iOS requires for media playback
+  if (scheduleCache[band.band]) {
+    applySchedule(scheduleCache[band.band]);
+    return;
+  }
+
   fetch(CONFIG.schedulePath(band.band))
     .then(r => { if (!r.ok) throw new Error(); return r.json(); })
     .then(data => {
-      schedule   = data;
-      peekOffset = 0;
-      const slot = findActiveSlot(schedule.slots);
-      activeSlot = slot;
-      loadSlot(slot);
+      scheduleCache[band.band] = data;
+      applySchedule(data);
     })
     .catch(() => showOffAir());
+}
+
+function prefetchBands() {
+  // Fetch all non-default band schedules silently in the background
+  // so they're ready in cache before the user taps the dial
+  bands.forEach(band => {
+    if (scheduleCache[band.band]) return;
+    fetch(CONFIG.schedulePath(band.band))
+      .then(r => r.ok ? r.json() : null)
+      .then(data => { if (data) scheduleCache[band.band] = data; })
+      .catch(() => {});
+  });
 }
 
 // ─── Schedule modal ───────────────────────────────────────────────────────────
@@ -350,14 +375,15 @@ async function init() {
 
   // Default band schedule — already in hand, no second round trip
   if (scheduleRes.status === 'fulfilled') {
-    schedule   = scheduleRes.value;
-    peekOffset = 0;
-    const slot = findActiveSlot(schedule.slots);
-    activeSlot = slot;
-    loadSlot(slot);
+    scheduleCache[bands[activeBandIdx].band] = scheduleRes.value;
+    applySchedule(scheduleRes.value);
   } else {
     loadBand(activeBandIdx);   // fallback: try again normally
   }
+
+  // Pre-fetch all other bands in the background so dial switches
+  // are synchronous (required for iOS media playback gesture policy)
+  prefetchBands();
 
   tickInterval = setInterval(tick, 1000);
 
