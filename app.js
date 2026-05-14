@@ -4,7 +4,7 @@
 
 // ─── Config ───────────────────────────────────────────────────────────────────
 const CONFIG = {
-  defaultBand:  'malayalam',
+  defaultBand:  'comedy-malayalam',
   timezone:     'Asia/Kolkata',
   indexPath:    'schedules/index.json',
   schedulePath: band => `schedules/${band}.json`,
@@ -145,6 +145,8 @@ function onPlayerReady() {
 function onPlayerStateChange(e) {
   if (e.data === YT.PlayerState.PLAYING) consecutiveErrors = 0;
   if (e.data === YT.PlayerState.ENDED)   advanceSegment();
+  // iOS pauses after loadVideoById — resume immediately if we're powered
+  if (e.data === YT.PlayerState.PAUSED && isPowered) ytPlayer.playVideo();
 }
 
 function onPlayerError(e) {
@@ -171,6 +173,7 @@ function loadSlot(slot) {
 
   if (!ytReady || !isPowered) return;
   ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: seekTo });
+  ytPlayer.playVideo();
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
 
@@ -186,6 +189,7 @@ function powerOn() {
     const { seekTo, segIdx } = computeSeek(slot);
     activeSegIdx = segIdx;
     ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: seekTo });
+    ytPlayer.playVideo();
     ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
     updateDisplay(slot);
   } else {
