@@ -14,5 +14,9 @@
   {
     "band": "test-band",
     "name": "Test Band"
+  },
+  {
+    "band": "loop-test",
+    "name": "Loop Test"
   }
 ]

@@ -1,0 +1,20 @@
+name: Loop Test
+allow_repeats: true
+movies:
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem
+
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem (Repeat)
+
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem (Matinee)
+
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem (Evening Show)
+
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem (Night Show)
+
+  - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
+    title: Summer in Bethlehem (Special Screening)
