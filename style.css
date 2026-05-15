@@ -443,6 +443,23 @@ body.powered .power-hint {
   opacity: 0;
 }
 
+.debug-bar {
+  text-align: center;
+  padding-bottom: 4px;
+}
+.debug-refresh {
+  font-family: var(--ui-font);
+  font-size: 10px;
+  color: var(--label);
+  background: none;
+  border: 1px solid #333;
+  border-radius: 4px;
+  padding: 2px 8px;
+  cursor: pointer;
+  opacity: 0.5;
+}
+.debug-refresh:hover { opacity: 1; }
+
 /* ─── Bottom sheets ──────────────────────────────────────────────────────── */
 .modal-wrap {
   position: fixed;
