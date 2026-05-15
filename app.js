@@ -23,6 +23,7 @@ let tickInterval      = null;
 let consecutiveErrors = 0;
 let peekOffset        = 0;
 let lastCueMs         = 0;     // timestamp of last cueVideoById — scopes PAUSED auto-resume
+let offAirUntil       = 0;     // epoch sec — don't retry a failed slot until this time passes
 let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
 let staticNode        = null;  // currently playing static source node
 const scheduleCache   = {};   // pre-fetched schedules keyed by band id
@@ -169,7 +170,9 @@ function onPlayerError(e) {
   consecutiveErrors++;
   if (consecutiveErrors >= MAX_ERRORS) {
     consecutiveErrors = 0;
-    activeSlot = null;
+    // Block retrying the same slot — wait until it's scheduled to end
+    offAirUntil = activeSlot ? isoSec(activeSlot.end) : nowSec() + 300;
+    activeSlot  = null;
     showOffAir();
     return;
   }
@@ -280,10 +283,13 @@ function tick() {
   if (!schedule) return;
   const now = nowSec();
 
-  // Off-air: keep scanning until a slot becomes active
+  // Off-air: keep scanning until a slot becomes active (respects offAirUntil to avoid
+  // infinite retries on non-embeddable or deleted videos)
   if (!activeSlot) {
-    const slot = findActiveSlot(schedule.slots);
-    if (slot) { activeSlot = slot; loadSlot(slot); }
+    if (now >= offAirUntil) {
+      const slot = findActiveSlot(schedule.slots);
+      if (slot) { offAirUntil = 0; activeSlot = slot; loadSlot(slot); }
+    }
     return;
   }
 

@@ -107,6 +107,17 @@ async function fetchTitleOembed(videoId) {
   }
 }
 
+async function checkEmbeddable(videoId) {
+  // Returns true if the video can be embedded in an iframe.
+  // 401/403 = embedding disabled by owner; 404 = deleted.
+  try {
+    const res = await fetch(`https://www.youtube.com/oembed?url=https://www.youtube.com/watch?v=${videoId}&format=json`);
+    return res.ok;
+  } catch {
+    return true; // network error — don't exclude, let it fail at play time
+  }
+}
+
 // ─── Library loading ──────────────────────────────────────────────────────────
 
 function extractVideoId(url) {
@@ -201,6 +212,16 @@ async function resolveDurations(bands) {
         } else {
           movie.title = movie.videoId;
           console.warn(`  ⚠ [${band.id}] No title for ${movie.videoId} — add one to your YAML`);
+        }
+      }
+
+      // Skip videos that can't be embedded — they'll never play in the iframe
+      if (FETCH_DURATIONS) {
+        const embeddable = await checkEmbeddable(movie.videoId);
+        if (!embeddable) {
+          console.warn(`  ✗ [${band.id}] "${movie.title}" is not embeddable — skipping`);
+          issues.push({ band: band.id, videoId: movie.videoId, title: movie.title, reason: 'not-embeddable' });
+          continue;
         }
       }
 

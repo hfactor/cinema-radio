@@ -10,7 +10,7 @@ jobs:
   check:
     runs-on: ubuntu-latest
     permissions:
-      contents: read
+      contents: write   # needed to commit YAML changes for non-embeddable videos
       issues: write
 
     steps:
@@ -37,13 +37,14 @@ jobs:
             const LIBRARY_DIR = 'library';
             const files = fs.readdirSync(LIBRARY_DIR).filter(f => f.endsWith('.yaml'));
 
-            const broken    = [];
-            const available = [];
+            const broken       = [];   // 404 — deleted / unavailable
+            const notEmbedable = [];   // 401 — exists but embedding disabled
+            const available    = [];
 
             for (const file of files) {
-              const bandId = path.basename(file, '.yaml');
-              const raw    = yaml.load(fs.readFileSync(path.join(LIBRARY_DIR, file), 'utf8'));
-              const movies = raw.movies || [];
+              const bandId  = path.basename(file, '.yaml');
+              const raw     = yaml.load(fs.readFileSync(path.join(LIBRARY_DIR, file), 'utf8'));
+              const movies  = raw.movies || [];
 
               for (const movie of movies) {
                 const urlMatch = movie.url.match(/(?:v=|youtu\.be\/)([A-Za-z0-9_-]{11})/);
@@ -56,6 +57,8 @@ jobs:
                   );
                   if (res.ok) {
                     available.push({ band: bandId, videoId, title: movie.title });
+                  } else if (res.status === 401 || res.status === 403) {
+                    notEmbedable.push({ band: bandId, file, videoId, title: movie.title });
                   } else {
                     broken.push({ band: bandId, videoId, title: movie.title, status: res.status });
                   }
@@ -68,30 +71,106 @@ jobs:
               }
             }
 
-            console.log(`Checked ${available.length + broken.length} videos`);
-            console.log(`Available: ${available.length} | Broken: ${broken.length}`);
+            console.log(`Checked ${available.length + broken.length + notEmbedable.length} videos`);
+            console.log(`Available: ${available.length} | Broken: ${broken.length} | Not embeddable: ${notEmbedable.length}`);
 
-            // Get all open broken-video issues
+            // ── Auto-comment out non-embeddable entries in YAML ────────────────
+            // Comments out the full movie entry so it's never scheduled again.
+            // The comment preserves the original lines so a human can review/replace.
+            function commentOutEntry(fileContent, videoId) {
+              const lines  = fileContent.split('\n');
+              const result = [];
+              let i = 0;
+              while (i < lines.length) {
+                const line = lines[i];
+                if (line.includes(`watch?v=${videoId}`) || line.includes(`youtu.be/${videoId}`)) {
+                  // Detect the indent of the list item (spaces before "- ")
+                  const entryIndent = (line.match(/^(\s+)-/) || ['',''])[1].length;
+                  result.push('# [not-embeddable] ' + line.trim());
+                  i++;
+                  // Comment out all subsequent lines belonging to this entry
+                  while (i < lines.length) {
+                    const next = lines[i];
+                    if (next.trim() === '') { result.push(next); i++; break; }
+                    const nextIndent = (next.match(/^(\s+)/) || ['',''])[1].length;
+                    if (nextIndent > entryIndent) {
+                      result.push('# ' + next);
+                      i++;
+                    } else {
+                      break;
+                    }
+                  }
+                } else {
+                  result.push(line);
+                  i++;
+                }
+              }
+              return result.join('\n');
+            }
+
+            const modifiedFiles = new Set();
+            for (const v of notEmbedable) {
+              const filePath = path.join(LIBRARY_DIR, v.file);
+              let content    = fs.readFileSync(filePath, 'utf8');
+              content        = commentOutEntry(content, v.videoId);
+              fs.writeFileSync(filePath, content, 'utf8');
+              modifiedFiles.add(v.file);
+              console.log(`Commented out ${v.title} (${v.videoId}) in ${v.file}`);
+            }
+
+            // Commit the YAML changes if any
+            if (modifiedFiles.size > 0) {
+              const { execSync } = require('child_process');
+              execSync('git config user.name "github-actions[bot]"');
+              execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+              for (const f of modifiedFiles) execSync(`git add library/${f}`);
+              const names = notEmbedable.map(v => v.title || v.videoId).join(', ');
+              execSync(`git commit -m "chore: disable non-embeddable videos\\n\\n${names}"`);
+              execSync('git push');
+            }
+
+            // ── Issues for non-embeddable (informational, after auto-fix) ─────
             const existingIssues = await github.rest.issues.listForRepo({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              state: 'open',
-              labels: 'broken-video',
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'not-embeddable',
             });
-
-            // Open new issues for newly broken videos
             const existingTitles = new Set(existingIssues.data.map(i => i.title));
+
+            for (const v of notEmbedable) {
+              const title = `[not-embeddable] ${v.band} — ${v.title || v.videoId}`;
+              if (existingTitles.has(title)) continue;
+              await github.rest.issues.create({
+                owner: context.repo.owner, repo: context.repo.repo,
+                title,
+                body: [
+                  `This video has embedding disabled — it cannot play in the radio player.`,
+                  ``,
+                  `**Band:** \`${v.band}\``,
+                  `**Video ID:** \`${v.videoId}\`  `,
+                  `**Title:** ${v.title || '_(no title)_'}`,
+                  ``,
+                  `The entry has been automatically commented out in \`library/${v.band}.yaml\`.`,
+                  `Replace it with an embeddable copy to bring the movie back.`,
+                ].join('\n'),
+                labels: ['not-embeddable'],
+              });
+            }
+
+            // ── Issues for broken / deleted videos (existing behaviour) ───────
+            const brokenIssues = await github.rest.issues.listForRepo({
+              owner: context.repo.owner, repo: context.repo.repo,
+              state: 'open', labels: 'broken-video',
+            });
+            const brokenTitles = new Set(brokenIssues.data.map(i => i.title));
 
             for (const v of broken) {
               const title = `[broken] ${v.band} — ${v.title || v.videoId}`;
-              if (existingTitles.has(title)) continue;
-
+              if (brokenTitles.has(title)) continue;
               await github.rest.issues.create({
-                owner: context.repo.owner,
-                repo: context.repo.repo,
+                owner: context.repo.owner, repo: context.repo.repo,
                 title,
                 body: [
-                  `Video is unavailable (status: ${v.status}).`,
+                  `Video is unavailable (HTTP ${v.status}).`,
                   ``,
                   `**Band:** \`${v.band}\``,
                   `**Video ID:** \`${v.videoId}\``,
@@ -103,8 +182,8 @@ jobs:
               });
             }
 
-            // Close issues for videos that are now available again
-            for (const issue of existingIssues.data) {
+            // Close broken-video issues for videos that are now available again
+            for (const issue of brokenIssues.data) {
               const match = issue.title.match(/\[broken\] (\S+) — (.+)/);
               if (!match) continue;
               const wasFixed = available.some(
@@ -112,8 +191,7 @@ jobs:
               );
               if (wasFixed) {
                 await github.rest.issues.update({
-                  owner: context.repo.owner,
-                  repo: context.repo.repo,
+                  owner: context.repo.owner, repo: context.repo.repo,
                   issue_number: issue.number,
                   state: 'closed',
                   body: issue.body + '\n\n_Auto-closed: video is available again._',

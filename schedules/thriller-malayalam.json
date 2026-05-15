@@ -1,48 +1,12 @@
 {
   "band": "thriller-malayalam",
-  "generated": "2026-05-15T06:51:06+05:30",
+  "generated": "2026-05-15T17:37:31+05:30",
   "slots": [
-    {
-      "youtube": "_SJvTBkd0Kw",
-      "title": "Janathipathyam",
-      "start": "2026-05-15T04:48:40+05:30",
-      "end": "2026-05-15T07:20:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9100
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-05-15T07:20:20+05:30",
-      "end": "2026-05-15T10:15:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-05-15T10:15:12+05:30",
-      "end": "2026-05-15T12:53:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
     {
       "youtube": "cxW9_c15JHg",
       "title": "Sathyameva Jayathe",
-      "start": "2026-05-15T12:53:43+05:30",
-      "end": "2026-05-15T15:42:40+05:30",
+      "start": "2026-05-15T17:37:31+05:30",
+      "end": "2026-05-15T20:26:28+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,70 +15,70 @@
       ]
     },
     {
-      "youtube": "ZAhTG43v2iI",
-      "title": "Pathram",
-      "start": "2026-05-15T15:42:40+05:30",
-      "end": "2026-05-15T18:37:29+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-05-15T20:26:28+05:30",
+      "end": "2026-05-15T23:21:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10489
+          "to": 10479
         }
       ]
     },
     {
-      "youtube": "1t2OVFYzP1A",
-      "title": "Utharam",
-      "start": "2026-05-15T18:37:29+05:30",
-      "end": "2026-05-15T20:45:25+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-05-15T23:21:07+05:30",
+      "end": "2026-05-16T01:39:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7676
+          "to": 8325
         }
       ]
     },
     {
-      "youtube": "LWhUPJuAgIs",
-      "title": "Nariman",
-      "start": "2026-05-15T20:45:25+05:30",
-      "end": "2026-05-15T23:28:16+05:30",
+      "youtube": "736fPkyRFIo",
+      "title": "Smart City",
+      "start": "2026-05-16T01:39:52+05:30",
+      "end": "2026-05-16T03:38:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9771
+          "to": 7132
         }
       ]
     },
     {
-      "youtube": "IYXumxgZr0k",
-      "title": "Bharath Chandran IPS",
-      "start": "2026-05-15T23:28:16+05:30",
-      "end": "2026-05-16T01:23:19+05:30",
+      "youtube": "AnUcMymvPAA",
+      "title": "The Truth",
+      "start": "2026-05-16T03:38:44+05:30",
+      "end": "2026-05-16T06:00:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6903
+          "to": 8524
         }
       ]
     },
     {
-      "youtube": "jzswDqpoeQY",
-      "title": "Robin Hood",
-      "start": "2026-05-16T01:23:19+05:30",
-      "end": "2026-05-16T03:44:46+05:30",
+      "youtube": "JCIBchOokuk",
+      "title": "Kalikkalam",
+      "start": "2026-05-16T06:00:48+05:30",
+      "end": "2026-05-16T07:59:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8487
+          "to": 7128
         }
       ]
     },
     {
       "youtube": "0c_CCxtHAGg",
       "title": "Runway",
-      "start": "2026-05-16T03:44:46+05:30",
-      "end": "2026-05-16T06:25:41+05:30",
+      "start": "2026-05-16T07:59:36+05:30",
+      "end": "2026-05-16T10:40:31+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,170 +87,98 @@
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-05-16T06:25:41+05:30",
-      "end": "2026-05-16T09:09:40+05:30",
+      "youtube": "1t2OVFYzP1A",
+      "title": "Utharam",
+      "start": "2026-05-16T10:40:31+05:30",
+      "end": "2026-05-16T12:48:27+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 7676
         }
       ]
     },
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-05-16T09:09:40+05:30",
-      "end": "2026-05-16T12:04:19+05:30",
+      "youtube": "trj6rb7lV9Q",
+      "title": "FIR",
+      "start": "2026-05-16T12:48:27+05:30",
+      "end": "2026-05-16T15:33:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
+          "to": 9908
         }
       ]
     },
     {
-      "youtube": "AnUcMymvPAA",
-      "title": "The Truth",
-      "start": "2026-05-16T12:04:19+05:30",
-      "end": "2026-05-16T14:26:23+05:30",
+      "youtube": "SzwStt19vtw",
+      "title": "Memories",
+      "start": "2026-05-16T15:33:35+05:30",
+      "end": "2026-05-16T17:56:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8524
+          "to": 8589
         }
       ]
     },
     {
-      "youtube": "doEjX02hQV8",
-      "title": "Vazhunnor",
-      "start": "2026-05-16T14:26:23+05:30",
-      "end": "2026-05-16T17:02:34+05:30",
+      "youtube": "jzswDqpoeQY",
+      "title": "Robin Hood",
+      "start": "2026-05-16T17:56:44+05:30",
+      "end": "2026-05-16T20:18:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9371
+          "to": 8487
+        }
+      ]
+    },
+    {
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-05-16T20:18:11+05:30",
+      "end": "2026-05-16T22:56:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9511
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-05-16T22:56:42+05:30",
+      "end": "2026-05-17T01:51:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "LWhUPJuAgIs",
+      "title": "Nariman",
+      "start": "2026-05-17T01:51:34+05:30",
+      "end": "2026-05-17T04:34:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9771
         }
       ]
     },
     {
       "youtube": "VmH-3H6f8uE",
       "title": "Oru CBI Diary Kurippu",
-      "start": "2026-05-16T17:02:34+05:30",
-      "end": "2026-05-16T19:14:18+05:30",
+      "start": "2026-05-17T04:34:25+05:30",
+      "end": "2026-05-17T06:46:09+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7904
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-05-16T19:14:18+05:30",
-      "end": "2026-05-16T21:33:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "doEjX02hQV8",
-      "title": "Vazhunnor",
-      "start": "2026-05-17T24:35:47+05:30",
-      "end": "2026-05-17T03:11:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9371
-        }
-      ]
-    },
-    {
-      "youtube": "VmH-3H6f8uE",
-      "title": "Oru CBI Diary Kurippu",
-      "start": "2026-05-17T03:11:58+05:30",
-      "end": "2026-05-17T05:23:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7904
-        }
-      ]
-    },
-    {
-      "youtube": "T1FlaOoOTE4",
-      "title": "The King",
-      "start": "2026-05-17T05:23:42+05:30",
-      "end": "2026-05-17T08:26:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10964
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-05-17T08:26:26+05:30",
-      "end": "2026-05-17T10:45:11+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-05-17T10:45:11+05:30",
-      "end": "2026-05-17T13:39:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "AnUcMymvPAA",
-      "title": "The Truth",
-      "start": "2026-05-17T13:39:50+05:30",
-      "end": "2026-05-17T16:01:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8524
-        }
-      ]
-    },
-    {
-      "youtube": "AnUcMymvPAA",
-      "title": "The Truth",
-      "start": "2026-05-17T16:01:54+05:30",
-      "end": "2026-05-17T18:23:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8524
-        }
-      ]
-    },
-    {
-      "youtube": "T1FlaOoOTE4",
-      "title": "The King",
-      "start": "2026-05-17T18:23:58+05:30",
-      "end": "2026-05-17T21:26:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10964
         }
       ]
     }

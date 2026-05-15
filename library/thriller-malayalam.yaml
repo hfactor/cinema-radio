@@ -60,5 +60,4 @@ movies:
   - url: https://www.youtube.com/watch?v=_SJvTBkd0Kw
     title: Janathipathyam
 
-  - url: https://www.youtube.com/watch?v=IYXumxgZr0k
-    title: Bharath Chandran IPS
+  # Bharath Chandran IPS removed — not embeddable

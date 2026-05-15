@@ -48,11 +48,4 @@ movies:
   - url: https://www.youtube.com/watch?v=yXnh6yb0oz4
     title: Ponmuttayidunna Tharavu
   
-  - url: https://www.youtube.com/watch?v=I-eOcrzL4CA
-    title: God Father
-    
-  - url: https://www.youtube.com/watch?v=xeVgrYrcyTw
-    title: Mannar Mathai Speaking
-    
-  - url: https://www.youtube.com/watch?v=WZpq5vs0dBQ
-    title: Vietnam Colony
+  # God Father, Mannar Mathai Speaking, Vietnam Colony removed — not embeddable
