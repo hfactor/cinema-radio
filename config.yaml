@@ -7,4 +7,6 @@ dedup_hours: 48
 band_order:
   - comedy-malayalam
   - mass-malayalam
+  - thriller-malayalam
+  - senti-party
   - kairali

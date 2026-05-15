@@ -1,51 +1,187 @@
-name: Malayalam Comedy
+name: Comedy Malayalam
 movies:
-  - url: https://www.youtube.com/watch?v=isacm3_fbmA
-    title: Sakshal Sreeman Chathunni
-
-  - url: https://www.youtube.com/watch?v=ocISEYOb9KY
-    title: Megham
-
-  - url: https://www.youtube.com/watch?v=OlakJF7FbNU
-    title: Friends
+  - url: https://www.youtube.com/watch?v=ZHzyq4-sEj4
+    title: Vellimoonga
 
   - url: https://www.youtube.com/watch?v=GtgJJotwcRQ
     title: Summer in Bethlehem
 
-  - url: https://www.youtube.com/watch?v=40nfhLC7i84
-    title: Vettam
+  - url: https://www.youtube.com/watch?v=3Wt-6kRCgP0
+    title: Aalibabayum Aararakallanmarum
 
-  - url: https://www.youtube.com/watch?v=gF3X54sk0hc
-    title: Kalyanaraman
-
-  - url: https://www.youtube.com/watch?v=IoTeFxml2Bo
-    title: Oru Maravathoor Kanavu
-
-  - url: https://www.youtube.com/watch?v=jqlKkPdm1AU
+  - url: https://www.youtube.com/watch?v=N-_uc9HoouY
     title: Pattanapravesham
 
-  - url: https://www.youtube.com/watch?v=yONBHGfb9Ok
-    title: Sreekrishnapurathe Nakshathrathilakkam
+  - url: https://www.youtube.com/watch?v=yYOXLlxBHdc
+    title: Kalyana Sougandhikam
 
-  - url: https://www.youtube.com/watch?v=ZHzyq4-sEj4
-    title: Vellimoonga
+  - url: https://www.youtube.com/watch?v=isacm3_fbmA
+    title: Sakshal Sreeman Chathunni
 
-  - url: https://www.youtube.com/watch?v=mo4XpjEx__s
-    title: Kilukkam
-
-  - url: https://www.youtube.com/watch?v=94Ek0DI9jSc
-    title: Junior Mandrake
-
-  - url: https://www.youtube.com/watch?v=CLyePPm5DvQ
-    title: Ee Parakkum Thalika
+  - url: https://www.youtube.com/watch?v=KByu58dvUJA
+    title: Chattambinadu
 
   - url: https://www.youtube.com/watch?v=eSIn0GOQRds
     title: Aramana Veedum Anjoorekkarum
 
-  - url: https://www.youtube.com/watch?v=fLYBjKstbls
-    title: Kinnam Katta Kallan
+  - url: https://www.youtube.com/watch?v=rYrLIcFIOoo
+    title: Thenmavinkombathu
+
+  - url: https://www.youtube.com/watch?v=TvTCsJhsIHU
+    title: Mazhavilkavadi
+
+  - url: https://www.youtube.com/watch?v=ocISEYOb9KY
+    title: Megham
+
+  - url: https://www.youtube.com/watch?v=n-vuT-GfF0g
+    title: Thenkasipattanam
+
+  - url: https://www.youtube.com/watch?v=gjT0WXh2wUI
+    title: The Car
+
+  - url: https://www.youtube.com/watch?v=jqlKkPdm1AU
+    title: Pattanapravesham (1988)
+
+  - url: https://www.youtube.com/watch?v=s6P9QNj2_o0
+    title: Kuberan
+
+  - url: https://www.youtube.com/watch?v=gF3X54sk0hc
+    title: Kalyanaraman
+
+  - url: https://www.youtube.com/watch?v=ibw3-fIrgbY
+    title: Aadu 2
+
+  - url: https://www.youtube.com/watch?v=QlwKwes1qIs
+    title: Mithunam
+
+  - url: https://www.youtube.com/watch?v=3IqGqL-FyQk
+    title: Pandippada
+
+  - url: https://www.youtube.com/watch?v=_d-AdeBZVYc
+    title: Akkare Akkare Akkare
+
+  - url: https://www.youtube.com/watch?v=MJg2fqrF2Tw
+    title: Mayavi
+
+  - url: https://www.youtube.com/watch?v=yjaFvFuQ-QM
+    title: Premam
+
+  - url: https://www.youtube.com/watch?v=BfQ5mgl0Ojw
+    title: Kudumba Kodathi
+
+  - url: https://www.youtube.com/watch?v=zS5MDOwDQ9A
+    title: Veendum Chila Veettukaryangal
+
+  - url: https://www.youtube.com/watch?v=mK6TeFOIsEw
+    title: Rajamanikyam
+
+  - url: https://www.youtube.com/watch?v=3x5rELI_ihA
+    title: Simhavalan Menon
+
+  - url: https://www.youtube.com/watch?v=U3P9m8X--Sg
+    title: Grama Panchaayath
+
+  - url: https://www.youtube.com/watch?v=xzJhnlxxqpc
+    title: Pavam I.A. Ivachan
+
+  - url: https://www.youtube.com/watch?v=17OU--IU3XY
+    title: Mattuppetti Machan
+
+  - url: https://www.youtube.com/watch?v=blf_KJ-LQCQ
+    title: Kunukitta Kozhi
+
+  - url: https://www.youtube.com/watch?v=CVkZSKEl7O4
+    title: Uppukandam Brothers
+
+  - url: https://www.youtube.com/watch?v=71cD11uhE_c
+    title: Sreekrishnapurathe Nakshathrathilakkam
+
+  - url: https://www.youtube.com/watch?v=IoTeFxml2Bo
+    title: Oru Maravathoor Kanavu
 
   - url: https://www.youtube.com/watch?v=yXnh6yb0oz4
     title: Ponmuttayidunna Tharavu
-  
-  # God Father, Mannar Mathai Speaking, Vietnam Colony removed — not embeddable
+
+  - url: https://www.youtube.com/watch?v=IUcwLkSaHuo
+    title: CID Unnikrishnan B.A. B.Ed.
+
+  - url: https://www.youtube.com/watch?v=_bBEvH9bb-4
+    title: Thalayanamanthram
+
+  - url: https://www.youtube.com/watch?v=hOADuqY6iok
+    title: Minnaminuginum Minnukettu
+
+  - url: https://www.youtube.com/watch?v=mo4XpjEx__s
+    title: Kilukkam
+
+  - url: https://www.youtube.com/watch?v=bpFYOUkOybs
+    title: Peruvannapurathe Visheshangal
+
+  - url: https://www.youtube.com/watch?v=THew2hCgCDs
+    title: Chithram
+
+  - url: https://www.youtube.com/watch?v=xuQOJtrkiZU
+    title: Classmates
+
+  - url: https://www.youtube.com/watch?v=tyJ2O3Y6qk0
+    title: Hallo
+
+  - url: https://www.youtube.com/watch?v=EjKP52eBapA
+    title: Minnaram
+
+  - url: https://www.youtube.com/watch?v=KBBta864Ong
+    title: Chandralekha
+
+  - url: https://www.youtube.com/watch?v=HTv8oIi37Nc
+    title: Aye Auto
+
+  - url: https://www.youtube.com/watch?v=Uhu-7eV5cPs
+    title: Vandanam
+
+  - url: https://www.youtube.com/watch?v=1L8zjJMmfsQ
+    title: Nadodikattu
+
+  - url: https://www.youtube.com/watch?v=iAb1SgB1hwg
+    title: Sandesham
+
+  - url: https://www.youtube.com/watch?v=asffbk9CSI8
+    title: Thanneer Mathan Dinangal
+
+  - url: https://www.youtube.com/watch?v=HqTOaQh5RnI
+    title: Mannadiar Penninu Chenkotta Checkan
+
+  - url: https://www.youtube.com/watch?v=7rkNmfIZ3RQ
+    title: Kalyanji Anandji
+
+  - url: https://www.youtube.com/watch?v=eeKmGeHPiT4
+    title: Mukunthetta Sumitra Vilikkunnu
+
+  - url: https://www.youtube.com/watch?v=84o2X2Ebim4
+    title: English Medium
+
+  - url: https://www.youtube.com/watch?v=Mg_C3ZvOyro
+    title: Achan Raajaavu Appan Jethaavu
+
+  - url: https://www.youtube.com/watch?v=tnUApaINfwg
+    title: Kavadiyattam
+
+  - url: https://www.youtube.com/watch?v=OifxZ3Xg258
+    title: Oru Marubhoomikkadha
+
+  - url: https://www.youtube.com/watch?v=CQKfDo9JOF4
+    title: Vadakkunokkiyantram
+
+  - url: https://www.youtube.com/watch?v=uNz4A-b147Y
+    title: Pradeshika Varthakal
+
+  - url: https://www.youtube.com/watch?v=d2x6hxiMxVc
+    title: One Man Show
+
+  - url: https://www.youtube.com/watch?v=GPMnBx9ZkYI
+    title: Meleparambil Aanveedu
+
+  - url: https://www.youtube.com/watch?v=7wCxFzs5JsM
+    title: Pavam Pavam Rajakumaran
+
+  - url: https://www.youtube.com/watch?v=fMc1KYI-orY
+    title: Vellanakalude Nadu
