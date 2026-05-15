@@ -22,14 +22,12 @@ let isPowered         = false;
 let tickInterval      = null;
 let consecutiveErrors = 0;
 let peekOffset        = 0;
-let lastCueMs         = 0;     // timestamp of last cueVideoById — scopes PAUSED auto-resume
 let offAirUntil       = 0;     // epoch sec — don't retry a failed slot until this time passes
 let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
 let staticNode        = null;  // currently playing static source node
 const scheduleCache   = {};   // pre-fetched schedules keyed by band id
 
 const MAX_ERRORS      = 3;
-const CUE_RESUME_MS   = 3000; // window after cue during which PAUSED → auto-resume
 
 // ─── Time utilities ────────────────────────────────────────────────────────────
 function nowSec()    { return Date.now() / 1000; }
@@ -161,27 +159,16 @@ function onPlayerReady() {
 function onPlayerStateChange(e) {
   if (e.data === YT.PlayerState.PLAYING) consecutiveErrors = 0;
   if (e.data === YT.PlayerState.ENDED)   advanceSegment();
-  // iOS can pause after cueVideoById — only auto-resume within the cue window,
-  // so we don't fight playback in another tab or app.
-  if (e.data === YT.PlayerState.PAUSED && isPowered) {
-    if (Date.now() - lastCueMs < CUE_RESUME_MS) ytPlayer.playVideo();
-  }
 }
 
 function onPlayerError(e) {
   console.warn('YouTube error:', e.data);
-  consecutiveErrors++;
-  if (consecutiveErrors >= MAX_ERRORS) {
-    consecutiveErrors = 0;
-    // Block retrying the same slot — wait until it's scheduled to end
-    offAirUntil = activeSlot ? isoSec(activeSlot.end) : nowSec() + 300;
-    activeSlot  = null;
-    showOffAir();
-    return;
-  }
+  // Skip the failed slot — wait until the next one is scheduled to start.
+  // tick() will pick it up automatically.
   const next = slotAfter(schedule.slots, activeSlot);
-  if (next) { activeSlot = next; loadSlot(next); }
-  else { activeSlot = null; showOffAir(); }
+  offAirUntil = next ? isoSec(next.start) : nowSec() + 300;
+  activeSlot  = null;
+  showOffAir();
 }
 
 // ─── Static noise ─────────────────────────────────────────────────────────────
@@ -230,12 +217,8 @@ function loadSlot(slot) {
 
   if (!ytReady || !isPowered) return;
   stopStatic();
-  // cueVideoById preserves the active audio session (vs loadVideoById which drops it).
-  // playVideo() then switches to the cued video while the session is alive — required on iOS.
-  const safeSeek = isFinite(seekTo) && seekTo >= 0 ? seekTo : 0;
-  lastCueMs = Date.now();
-  ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
-  ytPlayer.playVideo();
+  const safeSeek = isFinite(seekTo) && seekTo >= 0 ? Math.floor(seekTo) : 0;
+  ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
 
