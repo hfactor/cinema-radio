@@ -1,20 +1,26 @@
 name: Kairali
 allow_repeats: true
 movies:
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Valyettan
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Valliettan
+    duration: 2:51:17
 
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Vendum Valyettan
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Vendum Valliettan
+    duration: 2:51:17
 
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Onam Special Valyettan
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Onam Special Valliettan
+    duration: 2:51:17
 
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Vishu Special Valyettan
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Vishu Special Valliettan
+    duration: 2:51:17
 
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Valyettan HD
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Valliettan HD
+    duration: 2:51:17
 
-  - url: https://www.youtube.com/watch?v=Xxn-rPggk38
-    title: Valyettan 4D
+  - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
+    title: Valliettan 4D
+    duration: 2:51:17

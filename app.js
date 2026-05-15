@@ -254,6 +254,11 @@ function advanceSegment() {
   activeSegIdx++;
   if (activeSegIdx < activeSlot.segments.length) {
     ytPlayer.seekTo(activeSlot.segments[activeSegIdx].from, true);
+  } else if (nowSec() < isoSec(activeSlot.end)) {
+    // Video ended but slot is still ongoing (fake duration longer than real video)
+    // Loop back to the start of the first segment
+    activeSegIdx = 0;
+    ytPlayer.seekTo(activeSlot.segments[0].from, true);
   } else {
     const next = slotAfter(schedule.slots, activeSlot);
     if (next) { activeSlot = next; loadSlot(next); }
