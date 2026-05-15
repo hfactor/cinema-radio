@@ -2,8 +2,8 @@ name: Generate Schedule
 
 on:
   schedule:
-    # 5:00 AM IST = 23:30 UTC (previous day)
-    - cron: '30 23 * * *'
+    # 2:00 AM IST = 20:30 UTC (previous day)
+    - cron: '30 20 * * *'
   workflow_dispatch: # allow manual trigger
 
 jobs:

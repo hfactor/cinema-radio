@@ -27,6 +27,11 @@ const DEDUP_HOURS      = config.dedup_hours      || 48;
 const BAND_ORDER       = config.band_order       || [];
 const FETCH_DURATIONS  = process.argv.includes('--fetch-durations');
 
+// --start=<ISO>  e.g. --start=2026-05-15T17:00:00+05:30
+// Overrides the initial cursor when a band has no future slots scheduled yet.
+const startArg = process.argv.find(a => a.startsWith('--start='));
+const START_OVERRIDE = startArg ? new Date(startArg.replace('--start=', '')) : null;
+
 // ─── Time helpers ─────────────────────────────────────────────────────────────
 
 function parseTime(t) {
@@ -289,9 +294,9 @@ function generateBand(band, schedule) {
   if (existing.length > 0) {
     const last = existing[existing.length - 1];
     cursor = new Date(last.end);
-    if (cursor < now) cursor = now; // gap: resume from now
+    if (cursor < now) cursor = START_OVERRIDE || now;
   } else {
-    cursor = now;
+    cursor = START_OVERRIDE || now;
   }
 
   // Check lookahead — skip generation if already well-stocked
