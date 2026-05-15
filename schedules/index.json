@@ -1,14 +1,18 @@
 [
   {
     "band": "comedy-malayalam",
-    "name": "Malayalam Comedy"
+    "name": "Comedy Malayalam"
   },
   {
     "band": "mass-malayalam",
     "name": "Mass Malayalam"
   },
   {
-    "band": "kairali",
-    "name": "Kairali Special"
+    "band": "thriller-malayalam",
+    "name": "Thriller Malayalam"
+  },
+  {
+    "band": "senti-party",
+    "name": "Senti Party"
   }
 ]

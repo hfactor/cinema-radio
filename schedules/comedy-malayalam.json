@@ -1,19 +1,7 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-05-15T22:40:28+05:30",
+  "generated": "2026-05-16T00:13:30+05:30",
   "slots": [
-    {
-      "youtube": "isacm3_fbmA",
-      "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-05-15T21:30:28+05:30",
-      "end": "2026-05-15T23:39:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7725
-        }
-      ]
-    },
     {
       "youtube": "jqlKkPdm1AU",
       "title": "Pattanapravesham",
