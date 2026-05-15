@@ -220,12 +220,18 @@ html, body {
 /* Radial band dots — injected by JS */
 .tuner-dot {
   position: absolute;
-  width: 6px;
-  height: 6px;
+  width: 10px;
+  height: 10px;
+  margin: -2px;   /* keep visual centre the same as before */
   border-radius: 50%;
   background: #2a2a2c;
   border: 1px solid #111;
-  pointer-events: none;   /* click goes to the dial button instead */
+  cursor: pointer;
+  pointer-events: all;
+  z-index: 2;
+}
+.tuner-dot:hover {
+  background: #444;
 }
 .tuner-dot.active {
   background: var(--green);
