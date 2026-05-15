@@ -1,55 +1,7 @@
 {
   "band": "thriller-malayalam",
-  "generated": "2026-05-14T19:57:10+05:30",
+  "generated": "2026-05-15T06:51:06+05:30",
   "slots": [
-    {
-      "youtube": "736fPkyRFIo",
-      "title": "Smart City",
-      "start": "2026-05-14T19:42:43+05:30",
-      "end": "2026-05-14T21:41:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7132
-        }
-      ]
-    },
-    {
-      "youtube": "JCIBchOokuk",
-      "title": "Kalikkalam",
-      "start": "2026-05-14T21:41:35+05:30",
-      "end": "2026-05-14T23:40:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7128
-        }
-      ]
-    },
-    {
-      "youtube": "SzwStt19vtw",
-      "title": "Memories",
-      "start": "2026-05-14T23:40:23+05:30",
-      "end": "2026-05-15T02:03:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8589
-        }
-      ]
-    },
-    {
-      "youtube": "trj6rb7lV9Q",
-      "title": "FIR",
-      "start": "2026-05-15T02:03:32+05:30",
-      "end": "2026-05-15T04:48:40+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9908
-        }
-      ]
-    },
     {
       "youtube": "_SJvTBkd0Kw",
       "title": "Janathipathyam",
@@ -179,6 +131,162 @@
         {
           "from": 0,
           "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-05-16T09:09:40+05:30",
+      "end": "2026-05-16T12:04:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "AnUcMymvPAA",
+      "title": "The Truth",
+      "start": "2026-05-16T12:04:19+05:30",
+      "end": "2026-05-16T14:26:23+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8524
+        }
+      ]
+    },
+    {
+      "youtube": "doEjX02hQV8",
+      "title": "Vazhunnor",
+      "start": "2026-05-16T14:26:23+05:30",
+      "end": "2026-05-16T17:02:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9371
+        }
+      ]
+    },
+    {
+      "youtube": "VmH-3H6f8uE",
+      "title": "Oru CBI Diary Kurippu",
+      "start": "2026-05-16T17:02:34+05:30",
+      "end": "2026-05-16T19:14:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7904
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-05-16T19:14:18+05:30",
+      "end": "2026-05-16T21:33:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "doEjX02hQV8",
+      "title": "Vazhunnor",
+      "start": "2026-05-17T24:35:47+05:30",
+      "end": "2026-05-17T03:11:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9371
+        }
+      ]
+    },
+    {
+      "youtube": "VmH-3H6f8uE",
+      "title": "Oru CBI Diary Kurippu",
+      "start": "2026-05-17T03:11:58+05:30",
+      "end": "2026-05-17T05:23:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7904
+        }
+      ]
+    },
+    {
+      "youtube": "T1FlaOoOTE4",
+      "title": "The King",
+      "start": "2026-05-17T05:23:42+05:30",
+      "end": "2026-05-17T08:26:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10964
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-05-17T08:26:26+05:30",
+      "end": "2026-05-17T10:45:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-05-17T10:45:11+05:30",
+      "end": "2026-05-17T13:39:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "AnUcMymvPAA",
+      "title": "The Truth",
+      "start": "2026-05-17T13:39:50+05:30",
+      "end": "2026-05-17T16:01:54+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8524
+        }
+      ]
+    },
+    {
+      "youtube": "AnUcMymvPAA",
+      "title": "The Truth",
+      "start": "2026-05-17T16:01:54+05:30",
+      "end": "2026-05-17T18:23:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8524
+        }
+      ]
+    },
+    {
+      "youtube": "T1FlaOoOTE4",
+      "title": "The King",
+      "start": "2026-05-17T18:23:58+05:30",
+      "end": "2026-05-17T21:26:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10964
         }
       ]
     }
