@@ -1,19 +1,7 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-05-16T00:13:30+05:30",
+  "generated": "2026-05-16T03:03:50+05:30",
   "slots": [
-    {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham",
-      "start": "2026-05-15T23:39:13+05:30",
-      "end": "2026-05-16T01:59:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8393
-        }
-      ]
-    },
     {
       "youtube": "94Ek0DI9jSc",
       "title": "Junior Mandrake",

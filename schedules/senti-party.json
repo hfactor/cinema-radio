@@ -1,19 +1,7 @@
 {
   "band": "senti-party",
-  "generated": "2026-05-16T00:13:30+05:30",
+  "generated": "2026-05-16T03:03:50+05:30",
   "slots": [
-    {
-      "youtube": "05w7mURHbi4",
-      "title": "Akashadoothu",
-      "start": "2026-05-16T00:13:30+05:30",
-      "end": "2026-05-16T02:25:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7915
-        }
-      ]
-    },
     {
       "youtube": "KnHPMjv2ajM",
       "title": "Kireedam",
@@ -179,6 +167,174 @@
         {
           "from": 0,
           "to": 8454
+        }
+      ]
+    },
+    {
+      "youtube": "zDJISszvNe0",
+      "title": "Ninnishtam Ennishtam",
+      "start": "2026-05-17T10:23:09+05:30",
+      "end": "2026-05-17T12:29:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7569
+        }
+      ]
+    },
+    {
+      "youtube": "EbWd2H_d8F4",
+      "title": "Sneham",
+      "start": "2026-05-17T12:29:18+05:30",
+      "end": "2026-05-17T14:45:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8174
+        }
+      ]
+    },
+    {
+      "youtube": "af3iMsFDUAU",
+      "title": "Joker",
+      "start": "2026-05-17T14:45:32+05:30",
+      "end": "2026-05-17T17:13:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8867
+        }
+      ]
+    },
+    {
+      "youtube": "FnHmUvlCj-g",
+      "title": "Pakshe",
+      "start": "2026-05-17T17:13:19+05:30",
+      "end": "2026-05-17T19:28:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8108
+        }
+      ]
+    },
+    {
+      "youtube": "j-hgsDwEYRo",
+      "title": "Chenkol",
+      "start": "2026-05-17T19:28:27+05:30",
+      "end": "2026-05-17T22:10:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9740
+        }
+      ]
+    },
+    {
+      "youtube": "d-ADM3y17ZA",
+      "title": "Gramophone",
+      "start": "2026-05-18T24:10:35+05:30",
+      "end": "2026-05-18T02:38:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8883
+        }
+      ]
+    },
+    {
+      "youtube": "UkqRAXA6uBY",
+      "title": "Maya Mayooram",
+      "start": "2026-05-18T02:38:38+05:30",
+      "end": "2026-05-18T04:57:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8310
+        }
+      ]
+    },
+    {
+      "youtube": "M8-hQGsCHAo",
+      "title": "Sargam",
+      "start": "2026-05-18T04:57:08+05:30",
+      "end": "2026-05-18T07:18:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8473
+        }
+      ]
+    },
+    {
+      "youtube": "zAyqx6MeMis",
+      "title": "Achanurangatha Veedu",
+      "start": "2026-05-18T07:18:21+05:30",
+      "end": "2026-05-18T09:18:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7220
+        }
+      ]
+    },
+    {
+      "youtube": "V0R1jSpr4FA",
+      "title": "Ore Kadal",
+      "start": "2026-05-18T09:18:41+05:30",
+      "end": "2026-05-18T11:11:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6753
+        }
+      ]
+    },
+    {
+      "youtube": "UkqRAXA6uBY",
+      "title": "Maya Mayooram",
+      "start": "2026-05-18T11:11:14+05:30",
+      "end": "2026-05-18T13:29:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8310
+        }
+      ]
+    },
+    {
+      "youtube": "j-hgsDwEYRo",
+      "title": "Chenkol",
+      "start": "2026-05-18T13:29:44+05:30",
+      "end": "2026-05-18T16:12:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9740
+        }
+      ]
+    },
+    {
+      "youtube": "EbWd2H_d8F4",
+      "title": "Sneham",
+      "start": "2026-05-18T16:12:04+05:30",
+      "end": "2026-05-18T18:28:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8174
+        }
+      ]
+    },
+    {
+      "youtube": "af3iMsFDUAU",
+      "title": "Joker",
+      "start": "2026-05-18T18:28:18+05:30",
+      "end": "2026-05-18T20:56:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8867
         }
       ]
     }
