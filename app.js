@@ -178,7 +178,9 @@ function loadSlot(slot) {
   updateNext(slotAfter(schedule.slots, slot));
 
   if (!ytReady || !isPowered) return;
-  ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: seekTo });
+  // cueVideoById preserves the active audio session (vs loadVideoById which drops it).
+  // playVideo() then switches to the cued video while the session is alive — required on iOS.
+  ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: seekTo });
   ytPlayer.playVideo();
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
@@ -194,7 +196,7 @@ function powerOn() {
   if (slot) {
     const { seekTo, segIdx } = computeSeek(slot);
     activeSegIdx = segIdx;
-    ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: seekTo });
+    ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: seekTo });
     ytPlayer.playVideo();
     ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
     updateDisplay(slot);
