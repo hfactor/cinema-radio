@@ -153,6 +153,9 @@ function onPlayerReady() {
     .filter(s => s && s !== 'picture-in-picture')
     .join('; ');
   iframe.setAttribute('allow', allow);
+
+  // If user pressed power before the player was ready, kick off playback now
+  if (isPowered && activeSlot) loadSlot(activeSlot);
 }
 
 function onPlayerStateChange(e) {
@@ -229,8 +232,9 @@ function loadSlot(slot) {
   stopStatic();
   // cueVideoById preserves the active audio session (vs loadVideoById which drops it).
   // playVideo() then switches to the cued video while the session is alive — required on iOS.
+  const safeSeek = isFinite(seekTo) && seekTo >= 0 ? seekTo : 0;
   lastCueMs = Date.now();
-  ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: seekTo });
+  ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
   ytPlayer.playVideo();
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
@@ -244,16 +248,9 @@ function powerOn() {
   if (!schedule) return;
   const slot = findActiveSlot(schedule.slots);
   activeSlot = slot;
-  if (slot) {
-    const { seekTo, segIdx } = computeSeek(slot);
-    activeSegIdx = segIdx;
-    ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: seekTo });
-    ytPlayer.playVideo();
-    ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
-    updateDisplay(slot);
-  } else {
-    showOffAir();
-  }
+  // loadSlot handles the ytReady guard — if the player isn't ready yet,
+  // onPlayerReady will call loadSlot again once it fires.
+  loadSlot(slot);
 }
 
 function powerOff() {
