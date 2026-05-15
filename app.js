@@ -24,11 +24,7 @@ let peekOffset        = 0;
 let offAirUntil       = 0;     // epoch sec — don't retry a failed slot until this time passes
 let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
 let staticNode        = null;  // currently playing static source node
-let playerBootstrapped = false; // first load uses loadVideoById; subsequent use cueVideoById
-let lastCueMs          = 0;    // time of last cueVideoById — scopes PAUSED auto-resume
 const scheduleCache   = {};   // pre-fetched schedules keyed by band id
-
-const CUE_RESUME_MS   = 3000; // ms window after cue to auto-resume if iOS pauses
 
 // ─── Time utilities ────────────────────────────────────────────────────────────
 function nowSec()    { return Date.now() / 1000; }
@@ -159,11 +155,6 @@ function onPlayerReady() {
 
 function onPlayerStateChange(e) {
   if (e.data === YT.PlayerState.ENDED) advanceSegment();
-  // iOS pauses briefly after cueVideoById — resume only within the cue window
-  // so we don't fight playback in another tab
-  if (e.data === YT.PlayerState.PAUSED && isPowered) {
-    if (Date.now() - lastCueMs < CUE_RESUME_MS) ytPlayer.playVideo();
-  }
 }
 
 function onPlayerError(e) {
@@ -223,18 +214,7 @@ function loadSlot(slot) {
   if (!ytReady || !isPowered) return;
   stopStatic();
   const safeSeek = isFinite(seekTo) && seekTo >= 0 ? Math.floor(seekTo) : 0;
-  if (!playerBootstrapped) {
-    // First ever load — use loadVideoById to initialise the player (cueVideoById
-    // causes error 2 on a fresh player that has never loaded a video)
-    playerBootstrapped = true;
-    ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
-  } else {
-    // Subsequent loads — cueVideoById keeps the iOS audio session alive across
-    // band switches (loadVideoById drops it, causing silence on bands 2+)
-    lastCueMs = Date.now();
-    ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
-    ytPlayer.playVideo();
-  }
+  ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
 
