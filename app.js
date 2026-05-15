@@ -313,10 +313,10 @@ function renderBandDots() {
   area.querySelectorAll('.tuner-dot').forEach(d => d.remove());
 
   const n    = bands.length;
-  const cx   = 36;
-  const cy   = 36;
-  const r    = 29;
-  const dotR = 3;   // half of 6px dot
+  const cx   = 40;
+  const cy   = 40;
+  const r    = 32;
+  const dotR = 6;   // half of 12px dot
 
   bands.forEach((band, idx) => {
     const angleDeg = (360 / n) * idx;
@@ -468,8 +468,14 @@ async function init() {
     else powerOff();
   });
 
-  // Volume
-  el('volume-slider').addEventListener('input', e => {
+  // Volume — sync filled track + player
+  function syncVolFill(slider) {
+    slider.style.setProperty('--fill', slider.value + '%');
+  }
+  const volSlider = el('volume-slider');
+  syncVolFill(volSlider);
+  volSlider.addEventListener('input', e => {
+    syncVolFill(e.target);
     if (ytReady && isPowered) ytPlayer.setVolume(parseInt(e.target.value, 10));
   });
 

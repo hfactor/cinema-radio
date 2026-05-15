@@ -3,19 +3,19 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
-  <title>Cinema Radio</title>
+  <title>Cinema in Radio</title>
   <link rel="stylesheet" href="style.css" />
 </head>
 <body>
 
-  <!-- ═══ DEVICE ═══════════════════════════════════════════════════════════ -->
+  <!-- ═══ PAGE ════════════════════════════════════════════════════════════════ -->
   <div class="page">
     <div class="device">
 
-      <!-- Logo — silk-screened on casing -->
+      <!-- 1. HEADER — brand row -->
       <div class="device-brand">
         <div class="brand-logo">
-          <!-- Film gate mark -->
+          <!-- Film gate SVG icon -->
           <svg class="brand-icon" viewBox="0 0 12 12" width="12" height="12" fill="none" aria-hidden="true">
             <rect x="0.5" y="0.5" width="11" height="11" rx="1.5" stroke="currentColor" stroke-width="1"/>
             <rect x="2"   y="2"   width="2.5" height="2.5" fill="currentColor"/>
@@ -23,19 +23,22 @@
             <rect x="2"   y="7.5" width="2.5" height="2.5" fill="currentColor"/>
             <rect x="7.5" y="7.5" width="2.5" height="2.5" fill="currentColor"/>
           </svg>
-          <span class="brand-name">CINEMA RADIO</span>
+          <span class="brand-name">CINEMA IN RADIO</span>
         </div>
-        <span class="brand-live" id="brand-live">● LIVE</span>
+        <div class="brand-right">
+          <span class="brand-live" id="brand-live">&#9679; LIVE</span>
+          <button class="about-btn" id="btn-about" aria-label="About">?</button>
+        </div>
       </div>
 
-      <!-- Speaker grille -->
+      <!-- 2. SPEAKER GRILLE — dot pattern -->
       <div class="speaker"></div>
 
-      <!-- LCD Display -->
+      <!-- 3. LCD DISPLAY -->
       <div class="lcd-shell">
         <div class="lcd-screen">
           <div class="lcd-now">NOW PLAYING</div>
-          <div class="lcd-title" id="display-title">--:--</div>
+          <div class="lcd-title" id="display-title">--</div>
           <div class="lcd-progress-row">
             <div class="lcd-bar-track">
               <div class="lcd-bar-fill" id="progress-fill"></div>
@@ -43,14 +46,53 @@
           </div>
           <div class="lcd-times">
             <span id="time-start">--:--</span>
-            <span class="lcd-sep"> › </span>
+            <span class="lcd-sep"> &#8250; </span>
             <span id="time-end">--:--</span>
           </div>
         </div>
       </div>
 
-      <!-- Band selector — dial + radial dots -->
-      <div class="tuner-row">
+      <!-- 4. NEXT BAR -->
+      <div class="next-bar">
+        <div class="next-left">
+          <span class="next-tag">NEXT</span>
+          <span class="next-title" id="next-title">--</span>
+        </div>
+        <div class="next-right">
+          <span class="next-time" id="next-time"></span>
+          <button class="icon-btn" id="btn-next-peek" aria-label="Peek next">&#8250;</button>
+          <button class="icon-btn" id="btn-schedule" aria-label="Schedule">&#8801;</button>
+        </div>
+      </div>
+
+      <!-- 5. CONTROLS ROW — Power | Band + Volume | Tuner Dial -->
+      <div class="controls-bar">
+
+        <!-- Left: Power zone -->
+        <div class="power-zone">
+          <button class="btn-power" id="btn-power" aria-label="Power">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
+              <path d="M18.36 6.64A9 9 0 1 1 5.64 6.64"/>
+              <line x1="12" y1="2" x2="12" y2="12"/>
+            </svg>
+          </button>
+        </div>
+
+        <!-- Center: Band + Volume zone -->
+        <div class="band-zone">
+          <div class="band-top">
+            <span class="band-zone-label">BAND</span>
+            <span class="band-name-text" id="band-label">--</span>
+          </div>
+          <div class="vol-row">
+            <span class="vol-label">VOL</span>
+            <input type="range" class="vol-slider" id="volume-slider"
+                   min="0" max="100" value="80"
+                   aria-label="Volume" touch-action="none" />
+          </div>
+        </div>
+
+        <!-- Right: Tuner dial zone -->
         <div class="tuner-zone">
           <div class="tuner-dial-area" id="tuner-dial-area">
             <button class="tuner-dial" id="dial" aria-label="Change band">
@@ -61,76 +103,44 @@
             <!-- dots injected by JS -->
           </div>
         </div>
-        <div class="tuner-info">
-          <div class="tuner-label">BAND</div>
-          <div class="tuner-band" id="band-label">--</div>
-        </div>
-      </div>
 
-      <!-- Next -->
-      <div class="next-bar">
-        <div class="next-left">
-          <span class="next-tag">NEXT</span>
-          <span class="next-title" id="next-title">--</span>
-        </div>
-        <div class="next-right">
-          <span class="next-time" id="next-time"></span>
-          <button class="icon-btn" id="btn-next-peek">›</button>
-          <button class="icon-btn" id="btn-schedule">≡</button>
-        </div>
-      </div>
+      </div><!-- /controls-bar -->
 
-      <!-- Controls -->
-      <div class="controls-bar">
-        <button class="ctrl-btn" id="btn-power" aria-label="Power">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
-            <path d="M18.36 6.64A9 9 0 1 1 5.64 6.64"/>
-            <line x1="12" y1="2" x2="12" y2="12"/>
-          </svg>
-        </button>
-        <div class="volume-zone">
-          <input type="range" class="vol-slider" id="volume-slider" min="0" max="100" value="80" />
-        </div>
-        <button class="ctrl-btn" id="btn-about" aria-label="About">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round">
-            <circle cx="12" cy="12" r="10"/>
-            <line x1="12" y1="8" x2="12.01" y2="8" stroke-width="3"/>
-            <polyline points="11 12 12 12 12 16"/>
-          </svg>
-        </button>
+      <!-- 6. FOOTER -->
+      <div class="device-footer">
+        <p class="power-hint">press &#9211; to listen</p>
+        <button class="refresh-btn"
+          onclick="(async()=>{try{const ks=await caches.keys();await Promise.all(ks.map(k=>caches.delete(k)))}catch(e){}location.href=location.pathname+'?v='+Date.now()})()">&#8635;</button>
       </div>
-
-      <p class="power-hint">press ⏻ to start listening</p>
-      <p class="debug-bar"><button class="debug-refresh" onclick="location.href=location.pathname+'?v='+Date.now()">↺ refresh</button></p>
 
     </div><!-- /device -->
-  </div>
+  </div><!-- /page -->
 
-  <!-- ═══ SCHEDULE MODAL ═══════════════════════════════════════════════════ -->
+  <!-- ═══ SCHEDULE MODAL ═══════════════════════════════════════════════════════ -->
   <div class="modal-wrap" id="schedule-wrap">
     <div class="modal-sheet" id="schedule-sheet">
       <div class="sheet-handle"></div>
       <div class="sheet-head">
         <div class="sheet-title">Today's Programme</div>
         <div class="sheet-band" id="modal-band"></div>
-        <button class="sheet-close" id="schedule-close">✕</button>
+        <button class="sheet-close" id="schedule-close">&#10005;</button>
       </div>
       <div class="sheet-list" id="schedule-list"></div>
     </div>
   </div>
 
-  <!-- ═══ ABOUT MODAL ═══════════════════════════════════════════════════════ -->
+  <!-- ═══ ABOUT MODAL ═══════════════════════════════════════════════════════════ -->
   <div class="modal-wrap" id="about-wrap">
     <div class="modal-sheet">
       <div class="sheet-handle"></div>
       <div class="sheet-head">
-        <div class="sheet-title">Cinema Radio</div>
-        <button class="sheet-close" id="about-close">✕</button>
+        <div class="sheet-title">Cinema in Radio</div>
+        <button class="sheet-close" id="about-close">&#10005;</button>
       </div>
       <div class="about-text">
-        <p>There’s something special about working with a movie in the background. It began with the 3 PM movie on All India Radio, old audio cassettes, and later Kiran TV and YouTube. What once was a simple ritual has now become endless scrolling and choosing, losing focus before the work even begins.</p>
+        <p>There's something special about working with a movie in the background. It began with the 3 PM movie on All India Radio, old audio cassettes, and later Kiran TV and YouTube. What once was a simple ritual has now become endless scrolling and choosing, losing focus before the work even begins.</p>
         <p>This brings that feeling back. You tune in, and something is already playing, like a channel that was never switched off. No browsing, no queues, no deciding. Just curated bands built around genres, moods, themes, and cinematic energy.</p>
-        <p>A free, open project for people who work, think, and create with movies in the background. The library grows through the people who use it. Add films, shape Bands, and contribute what you’d want playing in the background.</p>
+        <p>A free, open project for people who work, think, and create with movies in the background. The library grows through the people who use it. Add films, shape Bands, and contribute what you'd want playing in the background.</p>
         <div class="about-rule"></div>
         <a class="about-gh" href="https://github.com/hfactor/cinema-radio" target="_blank" rel="noopener">
           <svg viewBox="0 0 24 24" fill="currentColor" width="16" height="16"><path d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0 1 12 6.844a9.59 9.59 0 0 1 2.504.337c1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.942.359.31.678.921.678 1.856 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.02 10.02 0 0 0 22 12.017C22 6.484 17.522 2 12 2z"/></svg>

@@ -1,157 +1,156 @@
 /* ─── Reset ──────────────────────────────────────────────────────────────── */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+/* ─── Variables ──────────────────────────────────────────────────────────── */
 :root {
-  /* Page */
-  --bg:             #c8c8c0;
+  --bg:        #111111;
+  --device:    #1a1a1a;
+  --surface:   #222222;
+  --border:    #2d2d2d;
+  --accent:    #3ecf54;
+  --text:      #E8DDD0;
+  --text-dim:  #777777;
+  --lcd-text:  #3ecf54;   /* green phosphor */
+  --lcd-dim:   #2a6e38;   /* muted green — readable but not bright */
+  --lcd-bg:    #060d06;   /* green-tinted dark */
 
-  /* Device body */
-  --body:           #1e1e20;
-  --body-mid:       #272729;
-  --body-raised:    #303033;
-  --body-edge:      #0a0a0b;
-  --body-sheen:     rgba(255,255,255,0.035);
+  --mono: 'Courier New', monospace;
+  --ui:   -apple-system, BlinkMacSystemFont, sans-serif;
 
-  /* LCD */
-  --lcd-bg:         #080e08;
-
-  /* Green */
-  --green:          #3ecf54;
-  --green-dim:      #0c2e13;
-  --green-muted:    #1a4d22;
-
-  /* Labels on device body */
-  --label:          #585858;
-  --label-bright:   #888;
-
-  /* Modals */
-  --sheet-bg:       #1a1a1c;
-  --sheet-border:   #282828;
-  --sheet-text:     #c0c0c0;
-  --sheet-dim:      #555;
-
-  --radius-device:  18px;
-  --device-w:       288px;
-
-  /* Fonts */
-  --lcd-font:  'Courier New', 'Lucida Console', monospace;
-  --ui-font:   -apple-system, BlinkMacSystemFont, 'Helvetica Neue', sans-serif;
+  /* Modal */
+  --sheet-bg:     #141414;
+  --sheet-border: #242424;
+  --sheet-text:   #C8C0B4;
+  --sheet-dim:    #555555;
 }
 
+/* ─── Base ───────────────────────────────────────────────────────────────── */
 html, body {
-  min-height: 100%;
+  height: 100%;
   background: var(--bg);
-  font-family: var(--ui-font);
+  font-family: var(--ui);
   -webkit-font-smoothing: antialiased;
   overscroll-behavior: none;
+  color: var(--text);
 }
 
-/* ─── Page ───────────────────────────────────────────────────────────────── */
+/* ─── Page — centers device on desktop, fills viewport on mobile ─────────── */
 .page {
-  min-height: 100vh;
+  min-height: 100dvh;
   display: flex;
   align-items: center;
   justify-content: center;
-  padding: 32px 16px 48px;
+  /* no padding on mobile — device fills full */
 }
 
-/* ─── Device body ────────────────────────────────────────────────────────── */
+/* ─── Device ─────────────────────────────────────────────────────────────── */
 .device {
-  width: var(--device-w);
-  background: linear-gradient(175deg, var(--body-mid) 0%, var(--body) 50%, #161618 100%);
-  border-radius: var(--radius-device);
-  padding: 18px 18px 22px;
+  width: 100%;
+  max-width: 100%;
+  min-height: 100dvh;
+  background: var(--device);
   display: flex;
   flex-direction: column;
-  gap: 14px;
+  gap: 0;
   position: relative;
-  box-shadow:
-    0 0 0 1px var(--body-edge),
-    0 1px 0 var(--body-sheen) inset,
-    0 -1px 0 rgba(0,0,0,0.5) inset,
-    0 20px 50px rgba(0,0,0,0.45),
-    0 6px 16px rgba(0,0,0,0.3);
+  padding: 16px 18px 12px;
+  border-radius: 0;
+  box-shadow: none;
+  overflow: hidden;
 }
 
-/* ─── Logo — silk-screened on casing ────────────────────────────────────── */
+/* ─── Header / Brand ─────────────────────────────────────────────────────── */
 .device-brand {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 0 2px;
+  padding: 4px 0 14px;
+  flex-shrink: 0;
 }
+
 .brand-logo {
   display: flex;
   align-items: center;
-  gap: 6px;
-  color: var(--label);
+  gap: 7px;
+  color: var(--text-dim);
 }
+
 .brand-icon {
   flex-shrink: 0;
-  opacity: 0.75;
+  opacity: 0.7;
 }
+
 .brand-name {
-  font-family: var(--ui-font);
+  font-family: var(--ui);
   font-size: 9px;
   font-weight: 600;
-  letter-spacing: 0.5px;
-  color: var(--label);
+  letter-spacing: 1px;
+  color: var(--text-dim);
   text-transform: uppercase;
 }
+
 .brand-live {
-  font-family: var(--lcd-font);
+  font-family: var(--mono);
   font-size: 9px;
-  color: var(--green-muted);
+  color: transparent;
+  letter-spacing: 0.5px;
   transition: color 0.3s;
+  pointer-events: none;
 }
 .brand-live.on {
-  color: var(--green);
+  color: var(--accent);
 }
 
-/* ─── Speaker ────────────────────────────────────────────────────────────── */
+/* ─── Speaker Grille ─────────────────────────────────────────────────────── */
 .speaker {
-  height: 26px;
-  border-radius: 5px;
+  height: 22px;
+  flex-shrink: 0;
+  border-radius: 4px;
   background:
-    radial-gradient(circle, #1c1c1c 1px, transparent 1px),
-    #0d0d0e;
+    radial-gradient(circle, #252525 1px, transparent 1px),
+    var(--device);
   background-size: 5px 5px;
-  box-shadow: 0 0 0 1px rgba(0,0,0,0.4), 0 1px 3px rgba(0,0,0,0.3) inset;
+  background-position: 0 0;
+  margin-bottom: 14px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.35) inset;
 }
 
-/* ─── LCD Shell ──────────────────────────────────────────────────────────── */
+/* ─── LCD Display ────────────────────────────────────────────────────────── */
 .lcd-shell {
-  background: #080808;
-  border-radius: 7px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: var(--lcd-bg);
+  border-radius: 8px;
   padding: 3px;
+  margin-bottom: 12px;
   box-shadow:
     0 0 0 1px #040404,
-    0 3px 8px rgba(0,0,0,0.6) inset;
+    0 2px 8px rgba(0,0,0,0.7) inset;
 }
 
 .lcd-screen {
-  background: var(--lcd-bg);
-  border-radius: 5px;
-  padding: 11px 13px 13px;
+  border-radius: 6px;
+  padding: 16px 16px 18px;
   display: flex;
   flex-direction: column;
-  gap: 7px;
-  min-height: 96px;
+  gap: 9px;
 }
 
 .lcd-now {
-  font-family: var(--ui-font);
+  font-family: var(--ui);
   font-size: 7px;
   font-weight: 600;
-  letter-spacing: 0.5px;
-  color: var(--green-dim);
+  letter-spacing: 1px;
+  color: var(--lcd-dim);
   text-transform: uppercase;
 }
 
 .lcd-title {
-  font-family: var(--lcd-font);
-  font-size: 16px;
-  color: var(--green);
+  font-family: var(--mono);
+  font-size: 18px;
+  color: var(--lcd-text);
   line-height: 1.25;
   white-space: nowrap;
   overflow: hidden;
@@ -159,11 +158,8 @@ html, body {
   transition: color 0.2s;
 }
 .lcd-title.off-air {
-  color: var(--green-muted);
+  color: var(--lcd-dim);
   animation: lcd-blink 1.8s step-start infinite;
-}
-.lcd-title.off {
-  color: var(--green-dim);
 }
 @keyframes lcd-blink {
   50% { opacity: 0.2; }
@@ -172,46 +168,270 @@ html, body {
 .lcd-progress-row {
   display: flex;
   align-items: center;
-  gap: 10px;
 }
 .lcd-bar-track {
   flex: 1;
-  height: 2px;
-  background: var(--green-dim);
-  border-radius: 1px;
+  height: 3px;
+  background: var(--lcd-dim);
+  border-radius: 2px;
 }
 .lcd-bar-fill {
   height: 100%;
   width: 0%;
-  background: var(--green);
-  border-radius: 1px;
-  /* transition added by JS after first render so it doesn't animate on load */
+  background: var(--accent);
+  border-radius: 2px;
 }
 
 .lcd-times {
-  font-family: var(--lcd-font);
-  font-size: 10px;
-  color: var(--green-muted);
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--lcd-dim);
   display: flex;
   align-items: center;
   gap: 2px;
 }
-.lcd-sep { color: var(--green-dim); }
-
-/* ─── Tuner row ──────────────────────────────────────────────────────────── */
-.tuner-row {
-  display: flex;
-  align-items: center;
-  gap: 16px;
-  padding: 2px 4px;
+.lcd-sep {
+  color: var(--lcd-dim);
+  opacity: 0.6;
 }
 
-.tuner-zone { flex-shrink: 0; }
+/* ─── Next Bar ───────────────────────────────────────────────────────────── */
+.next-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background: #0e0e0e;
+  border-radius: 6px;
+  padding: 9px 12px;
+  gap: 8px;
+  margin-bottom: 16px;
+  flex-shrink: 0;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.5) inset;
+}
+
+.next-left {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  overflow: hidden;
+  flex: 1;
+  min-width: 0;
+}
+
+.next-tag {
+  font-family: var(--ui);
+  font-size: 7px;
+  font-weight: 600;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  flex-shrink: 0;
+}
+
+.next-title {
+  font-family: var(--mono);
+  font-size: 11px;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  opacity: 0.75;
+}
+
+.next-right {
+  display: flex;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.next-time {
+  font-family: var(--mono);
+  font-size: 10px;
+  color: var(--text-dim);
+  margin-right: 4px;
+}
+
+.icon-btn {
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-size: 16px;
+  cursor: pointer;
+  padding: 4px 6px;
+  border-radius: 4px;
+  line-height: 1;
+  transition: color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.icon-btn:hover { color: var(--text); }
+
+/* ─── Controls Bar ───────────────────────────────────────────────────────── */
+.controls-bar {
+  display: flex;
+  align-items: center;
+  gap: 0;
+  padding: 0;
+  flex-shrink: 0;
+  margin-bottom: 14px;
+}
+
+/* Power Zone */
+.power-zone {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-right: 14px;
+}
+
+.btn-power {
+  width: 52px;
+  height: 52px;
+  border-radius: 50%;
+  background: transparent;
+  border: 2px solid var(--accent);
+  color: var(--accent);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition:
+    background 0.2s,
+    color 0.2s,
+    box-shadow 0.2s,
+    transform 0.08s;
+  -webkit-tap-highlight-color: transparent;
+  outline: none;
+}
+.btn-power svg {
+  width: 20px;
+  height: 20px;
+}
+.btn-power:active {
+  transform: scale(0.92);
+}
+.btn-power.on {
+  background: var(--accent);
+  color: #000;
+  box-shadow:
+    0 0 20px rgba(62, 207, 84, 0.6),
+    0 0 40px rgba(62, 207, 84, 0.25);
+}
+
+/* Band Zone */
+.band-zone {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-width: 0;
+  padding-right: 14px;
+}
+
+.band-top {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+}
+
+.band-zone-label {
+  font-family: var(--ui);
+  font-size: 7px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+}
+
+.band-name-text {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: var(--text);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* Volume Slider */
+.vol-row {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.vol-label {
+  font-family: var(--ui);
+  font-size: 7px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  color: var(--text-dim);
+  text-transform: uppercase;
+  flex-shrink: 0;
+  width: 20px;
+}
+.vol-slider {
+  flex: 1;
+  -webkit-appearance: none;
+  appearance: none;
+  height: 20px;           /* tap target height */
+  background: transparent;
+  outline: none;
+  cursor: pointer;
+  touch-action: none;
+}
+.vol-slider::-webkit-slider-runnable-track {
+  height: 3px;
+  border-radius: 2px;
+  background: linear-gradient(
+    to right,
+    var(--accent) var(--fill, 80%),
+    var(--border)  var(--fill, 80%)
+  );
+}
+.vol-slider::-moz-range-track {
+  height: 3px;
+  border-radius: 2px;
+  background: var(--border);
+}
+.vol-slider::-moz-range-progress {
+  height: 3px;
+  border-radius: 2px;
+  background: var(--accent);
+}
+.vol-slider::-webkit-slider-thumb {
+  -webkit-appearance: none;
+  appearance: none;
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.55);
+  cursor: pointer;
+  margin-top: -5.5px;
+}
+.vol-slider::-moz-range-thumb {
+  width: 14px;
+  height: 14px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: none;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.55);
+  cursor: pointer;
+}
+
+/* Tuner Zone */
+.tuner-zone {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 .tuner-dial-area {
   position: relative;
-  width: 72px;
-  height: 72px;
+  width: 80px;
+  height: 80px;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -220,22 +440,25 @@ html, body {
 /* Radial band dots — injected by JS */
 .tuner-dot {
   position: absolute;
-  width: 10px;
-  height: 10px;
-  margin: -2px;   /* keep visual centre the same as before */
+  width: 12px;
+  height: 12px;
+  margin: -6px;
   border-radius: 50%;
-  background: #2a2a2c;
-  border: 1px solid #111;
+  background: #2a2a2a;
+  border: 1.5px solid #444;
   cursor: pointer;
   pointer-events: all;
   z-index: 2;
+  transition: background 0.2s, border-color 0.2s;
 }
 .tuner-dot:hover {
-  background: #444;
+  background: #404040;
+  border-color: #666;
 }
 .tuner-dot.active {
-  background: var(--green);
-  border-color: var(--green-muted);
+  background: var(--accent);
+  border-color: var(--accent);
+  box-shadow: 0 0 6px rgba(62, 207, 84, 0.5);
 }
 
 /* Dial knob */
@@ -249,16 +472,17 @@ html, body {
   outline: none;
   -webkit-tap-highlight-color: transparent;
 }
+
 .tuner-dial-face {
   width: 44px;
   height: 44px;
   border-radius: 50%;
-  background: radial-gradient(circle at 38% 30%, #3c3c3e, #141414 72%);
+  background: radial-gradient(circle at 38% 30%, #303030, #121212 72%);
   box-shadow:
     0 0 0 1px #040404,
-    0 0 0 2px #242426,
-    0 3px 8px rgba(0,0,0,0.6),
-    0 1px 0 rgba(255,255,255,0.05) inset;
+    0 0 0 2px #1e1e1e,
+    0 3px 8px rgba(0,0,0,0.7),
+    0 1px 0 rgba(255,255,255,0.04) inset;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -268,9 +492,10 @@ html, body {
 .tuner-dial:active .tuner-dial-face {
   box-shadow:
     0 0 0 1px #040404,
-    0 0 0 2px #242426,
+    0 0 0 2px #1e1e1e,
     0 1px 4px rgba(0,0,0,0.6);
 }
+
 .tuner-notch {
   position: absolute;
   top: 4px;
@@ -278,193 +503,86 @@ html, body {
   transform: translateX(-50%);
   width: 2px;
   height: 7px;
-  background: var(--green);
+  background: var(--accent);
   border-radius: 1px;
 }
 
-/* Band info */
-.tuner-info {
-  display: flex;
-  flex-direction: column;
-  gap: 4px;
-}
-.tuner-label {
-  font-family: var(--ui-font);
-  font-size: 7px;
-  font-weight: 600;
-  color: var(--label);
-  text-transform: uppercase;
-  letter-spacing: 0.5px;
-}
-.tuner-band {
-  font-family: var(--lcd-font);
-  font-size: 14px;
-  color: var(--label-bright);
-}
-
-/* ─── Next bar ───────────────────────────────────────────────────────────── */
-.next-bar {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  background: var(--body-edge);
-  border-radius: 6px;
-  padding: 8px 11px;
-  gap: 8px;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.4) inset;
-}
-.next-left {
-  display: flex;
-  align-items: baseline;
-  gap: 7px;
-  overflow: hidden;
-  flex: 1;
-  min-width: 0;
-}
-.next-tag {
-  font-family: var(--ui-font);
-  font-size: 7px;
-  font-weight: 600;
-  color: var(--label);
-  text-transform: uppercase;
-  letter-spacing: 0.3px;
-  flex-shrink: 0;
-}
-.next-title {
-  font-family: var(--lcd-font);
-  font-size: 11px;
-  color: var(--label-bright);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.next-right {
-  display: flex;
-  align-items: center;
-  gap: 2px;
-  flex-shrink: 0;
-}
-.next-time {
-  font-family: var(--lcd-font);
-  font-size: 10px;
-  color: var(--label);
-  margin-right: 4px;
-}
-.icon-btn {
-  background: none;
-  border: none;
-  color: var(--label);
-  font-size: 16px;
-  cursor: pointer;
-  padding: 3px 5px;
-  border-radius: 4px;
-  line-height: 1;
-  transition: color 0.15s;
-  -webkit-tap-highlight-color: transparent;
-}
-.icon-btn:hover { color: var(--label-bright); }
-
-/* ─── Controls bar ───────────────────────────────────────────────────────── */
-.controls-bar {
-  display: flex;
-  align-items: center;
-  gap: 10px;
-  padding: 0 2px;
-}
-.ctrl-btn {
-  width: 36px;
-  height: 36px;
-  flex-shrink: 0;
-  border-radius: 50%;
-  background: linear-gradient(150deg, var(--body-raised), var(--body-mid));
-  border: 1px solid rgba(0,0,0,0.45);
-  box-shadow:
-    0 2px 6px rgba(0,0,0,0.5),
-    0 1px 0 rgba(255,255,255,0.04) inset;
-  cursor: pointer;
+/* ─── Footer ─────────────────────────────────────────────────────────────── */
+.device-footer {
   display: flex;
   align-items: center;
   justify-content: center;
-  color: var(--label);
-  transition: color 0.2s, transform 0.08s;
-  -webkit-tap-highlight-color: transparent;
-}
-.ctrl-btn svg { width: 14px; height: 14px; }
-.ctrl-btn:active { transform: scale(0.91); }
-.ctrl-btn:hover  { color: var(--label-bright); }
-.ctrl-btn.on     { color: var(--green); }
-
-/* Volume */
-.volume-zone {
-  flex: 1;
-  display: flex;
-  align-items: center;
-}
-.vol-slider {
-  width: 100%;
-  -webkit-appearance: none;
-  height: 2px;
-  border-radius: 1px;
-  background: #111;
-  outline: none;
-  cursor: pointer;
-}
-.vol-slider::-webkit-slider-thumb {
-  -webkit-appearance: none;
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
-  background: linear-gradient(145deg, #484848, #222);
-  border: 1px solid #111;
-  box-shadow: 0 1px 3px rgba(0,0,0,0.5);
-  cursor: pointer;
-}
-.vol-slider::-moz-range-thumb {
-  width: 14px;
-  height: 14px;
-  border-radius: 50%;
-  background: linear-gradient(145deg, #484848, #222);
-  border: 1px solid #111;
-  cursor: pointer;
+  position: relative;
+  padding-bottom: 4px;
+  flex-shrink: 0;
+  min-height: 28px;
 }
 
-/* ─── Power hint ─────────────────────────────────────────────────────────── */
 .power-hint {
-  text-align: center;
-  font-family: var(--ui-font);
+  font-family: var(--ui);
   font-size: 10px;
-  color: var(--label);
+  color: var(--text-dim);
   opacity: 1;
   transition: opacity 0.4s;
   pointer-events: none;
-  padding-bottom: 2px;
+  text-align: center;
 }
 body.powered .power-hint {
   opacity: 0;
 }
 
-.debug-bar {
-  text-align: center;
-  padding-bottom: 4px;
-}
-.debug-refresh {
-  font-family: var(--ui-font);
-  font-size: 10px;
-  color: var(--label);
+.refresh-btn {
+  position: absolute;
+  right: 0;
+  bottom: 4px;
   background: none;
-  border: 1px solid #333;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-size: 14px;
   border-radius: 4px;
-  padding: 2px 8px;
+  padding: 2px 7px;
   cursor: pointer;
-  opacity: 0.5;
+  opacity: 0.4;
+  line-height: 1.4;
+  transition: opacity 0.15s;
+  -webkit-tap-highlight-color: transparent;
 }
-.debug-refresh:hover { opacity: 1; }
+.refresh-btn:hover { opacity: 0.9; }
 
-/* ─── Bottom sheets ──────────────────────────────────────────────────────── */
+/* Brand right — live + about grouped */
+.brand-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+/* About button — inline in header, top right */
+.about-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-family: var(--ui);
+  font-size: 10px;
+  font-weight: 600;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+  -webkit-tap-highlight-color: transparent;
+  flex-shrink: 0;
+}
+.about-btn:hover { opacity: 1; }
+
+/* ─── Bottom Sheets (modals) ─────────────────────────────────────────────── */
 .modal-wrap {
   position: fixed;
   inset: 0;
-  background: rgba(0,0,0,0.55);
+  background: rgba(0,0,0,0.6);
   z-index: 80;
   display: flex;
   align-items: flex-end;
@@ -473,7 +591,10 @@ body.powered .power-hint {
   pointer-events: none;
   transition: opacity 0.2s;
 }
-.modal-wrap.open { opacity: 1; pointer-events: all; }
+.modal-wrap.open {
+  opacity: 1;
+  pointer-events: all;
+}
 
 .modal-sheet {
   background: var(--sheet-bg);
@@ -486,7 +607,7 @@ body.powered .power-hint {
   overflow-y: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  padding: 0 20px 40px;
+  padding: 0 20px 44px;
   transform: translateY(100%);
   transition: transform 0.28s cubic-bezier(0.32, 0.72, 0, 1);
 }
@@ -496,35 +617,39 @@ body.powered .power-hint {
 .sheet-handle {
   width: 32px;
   height: 3px;
-  background: #2e2e30;
+  background: #2a2a2a;
   border-radius: 2px;
-  margin: 12px auto 18px;
+  margin: 14px auto 20px;
 }
+
 .sheet-head {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  margin-bottom: 16px;
+  margin-bottom: 18px;
   gap: 12px;
 }
+
 .sheet-title {
   font-size: 15px;
   font-weight: 600;
   color: var(--sheet-text);
   flex: 1;
 }
+
 .sheet-band {
-  font-family: var(--lcd-font);
+  font-family: var(--mono);
   font-size: 10px;
   color: var(--sheet-dim);
   margin-top: 3px;
 }
+
 .sheet-close {
-  background: #242426;
-  border: none;
+  background: #1e1e1e;
+  border: 1px solid var(--sheet-border);
   color: var(--sheet-dim);
-  width: 24px;
-  height: 24px;
+  width: 26px;
+  height: 26px;
   border-radius: 50%;
   font-size: 10px;
   cursor: pointer;
@@ -532,65 +657,102 @@ body.powered .power-hint {
   align-items: center;
   justify-content: center;
   flex-shrink: 0;
-  transition: color 0.15s;
+  transition: color 0.15s, border-color 0.15s;
+  -webkit-tap-highlight-color: transparent;
 }
-.sheet-close:hover { color: var(--sheet-text); }
+.sheet-close:hover {
+  color: var(--sheet-text);
+  border-color: #383838;
+}
 
-/* Schedule list */
-.sheet-list { display: flex; flex-direction: column; }
+/* ─── Schedule list ──────────────────────────────────────────────────────── */
+.sheet-list {
+  display: flex;
+  flex-direction: column;
+}
+
 .sched-row {
   display: flex;
   gap: 14px;
   align-items: baseline;
-  padding: 9px 0;
+  padding: 10px 0;
   border-bottom: 1px solid var(--sheet-border);
   font-size: 13px;
 }
 .sched-row:last-child { border-bottom: none; }
 .sched-row.past { opacity: 0.28; }
+
 .sched-time {
-  font-family: var(--lcd-font);
+  font-family: var(--mono);
   font-size: 11px;
   color: var(--sheet-dim);
   flex-shrink: 0;
   min-width: 68px;
 }
 .sched-movie { color: var(--sheet-text); }
-.sched-row.now .sched-time  { color: var(--green-muted); }
-.sched-row.now .sched-movie { color: var(--green); }
+
+.sched-row.now .sched-time  { color: rgba(255, 102, 0, 0.6); }
+.sched-row.now .sched-movie { color: var(--accent); }
 .sched-row.now .sched-movie::before { content: '▶ '; font-size: 7px; }
 .sched-row.past .sched-movie { color: var(--sheet-dim); }
 
-/* About */
+/* ─── About modal ────────────────────────────────────────────────────────── */
 .about-text {
   display: flex;
   flex-direction: column;
-  gap: 13px;
+  gap: 14px;
 }
 .about-text p {
   font-size: 14px;
-  color: #777;
-  line-height: 1.65;
+  color: #686868;
+  line-height: 1.7;
 }
-.about-rule { border-top: 1px solid var(--sheet-border); }
-.about-small { font-size: 12px; color: #555 !important; }
+.about-rule {
+  border-top: 1px solid var(--sheet-border);
+}
 .about-gh {
   display: inline-flex;
   align-items: center;
   gap: 7px;
-  color: var(--green);
+  color: var(--accent);
   text-decoration: none;
   font-size: 13px;
-  opacity: 0.8;
+  opacity: 0.75;
   transition: opacity 0.15s;
 }
 .about-gh:hover { opacity: 1; }
 
-/* ─── Responsive ─────────────────────────────────────────────────────────── */
-@media (min-width: 400px) {
-  :root { --device-w: 306px; }
+/* ─── Desktop — card layout ─────────────────────────────────────────────── */
+@media (min-width: 480px) {
+  .page {
+    padding: 40px 20px 60px;
+    background: var(--bg);
+  }
+
+  .device {
+    max-width: 360px;
+    min-height: 0;
+    height: auto;
+    border-radius: 18px;
+    box-shadow:
+      0 0 0 1px #0a0a0a,
+      0 1px 0 rgba(255,255,255,0.03) inset,
+      0 24px 60px rgba(0,0,0,0.6),
+      0 8px 20px rgba(0,0,0,0.4);
+    padding: 20px 20px 16px;
+  }
+
+  .lcd-shell {
+    flex: none;
+    min-height: 110px;
+  }
+
+  /* about-btn visible on desktop too — it's in the header now */
 }
-@media (max-width: 320px) {
-  :root { --device-w: 265px; }
-  .device { padding: 14px 14px 18px; }
+
+/* ─── Very small screens ─────────────────────────────────────────────────── */
+@media (max-width: 360px) {
+  .device { padding: 14px 14px 10px; }
+  .lcd-title { font-size: 16px; }
+  .btn-power { width: 46px; height: 46px; }
 }
