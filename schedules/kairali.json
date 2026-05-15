@@ -1,10 +1,10 @@
 {
   "band": "kairali",
-  "generated": "2026-05-15T22:32:58+05:30",
+  "generated": "2026-05-15T22:40:28+05:30",
   "slots": [
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Onam Special Valliettan",
+      "title": "Valliettan",
       "start": "2026-05-15T19:51:17+05:30",
       "end": "2026-05-15T22:42:34+05:30",
       "segments": [
@@ -12,11 +12,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan HD",
+      "title": "Vendum Valliettan",
       "start": "2026-05-15T22:42:34+05:30",
       "end": "2026-05-16T01:33:51+05:30",
       "segments": [
@@ -24,11 +25,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan 4D",
+      "title": "Vishu Special Valliettan",
       "start": "2026-05-16T01:33:51+05:30",
       "end": "2026-05-16T04:25:08+05:30",
       "segments": [
@@ -36,11 +38,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
+      "title": "Valliettan 4D",
       "start": "2026-05-16T04:25:08+05:30",
       "end": "2026-05-16T07:16:25+05:30",
       "segments": [
@@ -48,11 +51,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Vishu Special Valliettan",
+      "title": "Valliettan HD",
       "start": "2026-05-16T07:16:25+05:30",
       "end": "2026-05-16T10:07:42+05:30",
       "segments": [
@@ -60,11 +64,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
+      "title": "Valliettan 4D",
       "start": "2026-05-16T10:07:42+05:30",
       "end": "2026-05-16T12:58:59+05:30",
       "segments": [
@@ -72,7 +77,8 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
@@ -84,11 +90,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Vendum Valliettan",
+      "title": "Valliettan HD",
       "start": "2026-05-16T15:50:16+05:30",
       "end": "2026-05-16T18:41:33+05:30",
       "segments": [
@@ -96,11 +103,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan 4D",
+      "title": "Vendum Valliettan",
       "start": "2026-05-16T18:41:33+05:30",
       "end": "2026-05-16T21:32:50+05:30",
       "segments": [
@@ -108,7 +116,8 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
@@ -120,11 +129,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan HD",
+      "title": "Valliettan",
       "start": "2026-05-17T00:24:07+05:30",
       "end": "2026-05-17T03:15:24+05:30",
       "segments": [
@@ -132,11 +142,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
+      "title": "Valliettan HD",
       "start": "2026-05-17T03:15:24+05:30",
       "end": "2026-05-17T06:06:41+05:30",
       "segments": [
@@ -144,11 +155,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan HD",
+      "title": "Valliettan",
       "start": "2026-05-17T06:06:41+05:30",
       "end": "2026-05-17T08:57:58+05:30",
       "segments": [
@@ -156,11 +168,12 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     },
     {
       "youtube": "rAHNqgV3DRE",
-      "title": "Vendum Valliettan",
+      "title": "Valliettan 4D",
       "start": "2026-05-17T08:57:58+05:30",
       "end": "2026-05-17T11:49:15+05:30",
       "segments": [
@@ -168,7 +181,8 @@
           "from": 0,
           "to": 10277
         }
-      ]
+      ],
+      "loop": 2844
     }
   ]
 }

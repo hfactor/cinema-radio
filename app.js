@@ -62,7 +62,11 @@ function upcomingSlots(slots) {
 
 function computeSeek(slot) {
   const now     = nowSec();
-  const elapsed = now - isoSec(slot.start);
+  // For looping slots (real video shorter than display duration),
+  // wrap elapsed time into the real video duration
+  const elapsed = slot.loop
+    ? (now - isoSec(slot.start)) % slot.loop
+    : now - isoSec(slot.start);
   let   acc     = 0;
   for (let i = 0; i < slot.segments.length; i++) {
     const len = slot.segments[i].to - slot.segments[i].from;

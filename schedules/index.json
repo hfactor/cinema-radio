@@ -4,19 +4,11 @@
     "name": "Malayalam Comedy"
   },
   {
-    "band": "thriller-malayalam",
-    "name": "Malayalam Thriller"
+    "band": "mass-malayalam",
+    "name": "Mass Malayalam"
   },
   {
     "band": "kairali",
-    "name": "Kairali"
-  },
-  {
-    "band": "test-band",
-    "name": "Test Band"
-  },
-  {
-    "band": "loop-test",
-    "name": "Loop Test"
+    "name": "Kairali Special"
   }
 ]

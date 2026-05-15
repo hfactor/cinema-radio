@@ -1,26 +1,32 @@
-name: Kairali
+name: Kairali Special
 allow_repeats: true
 movies:
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Valliettan
     duration: 2:51:17
+    real_duration: 0:47:24
 
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Vendum Valliettan
     duration: 2:51:17
+    real_duration: 0:47:24
 
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Onam Special Valliettan
     duration: 2:51:17
+    real_duration: 0:47:24
 
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Vishu Special Valliettan
     duration: 2:51:17
+    real_duration: 0:47:24
 
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Valliettan HD
     duration: 2:51:17
+    real_duration: 0:47:24
 
   - url: https://www.youtube.com/watch?v=rAHNqgV3DRE
     title: Valliettan 4D
     duration: 2:51:17
+    real_duration: 0:47:24

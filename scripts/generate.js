@@ -168,9 +168,10 @@ function loadLibrary() {
         seen.add(videoId);
         return {
           videoId,
-          title:    m.title  || null,
-          duration: m.duration ? parseTime(m.duration) : null,
-          skip:     m.skip ? (Array.isArray(m.skip) ? m.skip : [m.skip]) : [],
+          title:         m.title  || null,
+          duration:      m.duration      ? parseTime(m.duration)      : null,
+          real_duration: m.real_duration ? parseTime(m.real_duration) : null,
+          skip:          m.skip ? (Array.isArray(m.skip) ? m.skip : [m.skip]) : [],
         };
       })
       .filter(Boolean);
@@ -323,13 +324,15 @@ function generateBand(band, schedule) {
     const start = new Date(cursor);
     const end   = new Date(cursor.getTime() + playableSec * 1000);
 
-    newSlots.push({
+    const slot = {
       youtube:  movie.videoId,
       title:    movie.title,
       start:    toIST(start),
       end:      toIST(end),
       segments,
-    });
+    };
+    if (movie.real_duration) slot.loop = movie.real_duration;
+    newSlots.push(slot);
 
     cursor = end;
   }

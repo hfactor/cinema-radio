@@ -4,11 +4,7 @@ movies_per_batch: 15
 lookahead_hours: 36
 dedup_hours: 48
 
-# Explicit band order — controls dial position and index.json order.
-# Any bands in /library not listed here are appended at the end.
 band_order:
   - comedy-malayalam
-  - thriller-malayalam
+  - mass-malayalam
   - kairali
-  - test-band
-  - loop-test
