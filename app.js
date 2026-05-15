@@ -31,10 +31,16 @@ function nowSec()    { return Date.now() / 1000; }
 function isoSec(iso) { return new Date(iso).getTime() / 1000; }
 
 function fmtTime(date) {
-  return date.toLocaleTimeString('en-IN', {
-    hour: 'numeric', minute: '2-digit', hour12: true,
-    timeZone: CONFIG.timezone,
-  });
+  if (!(date instanceof Date) || isNaN(date)) return '--:--';
+  try {
+    return date.toLocaleTimeString('en-IN', {
+      hour: 'numeric', minute: '2-digit', hour12: true,
+      timeZone: CONFIG.timezone,
+    });
+  } catch (e) {
+    // Fallback for iOS Safari when en-IN locale or timezone option fails
+    return date.toLocaleTimeString([], { hour: 'numeric', minute: '2-digit', hour12: true });
+  }
 }
 
 // ─── Schedule helpers ──────────────────────────────────────────────────────────
