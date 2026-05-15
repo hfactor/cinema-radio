@@ -1,6 +1,6 @@
 {
   "band": "loop-test",
-  "generated": "2026-05-15T22:17:14+05:30",
+  "generated": "2026-05-15T22:21:54+05:30",
   "slots": [
     {
       "youtube": "GtgJJotwcRQ",
@@ -151,6 +151,186 @@
       "title": "Summer in Bethlehem (Repeat)",
       "start": "2026-05-17T05:06:58+05:30",
       "end": "2026-05-17T07:41:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Matinee)",
+      "start": "2026-05-17T07:41:45+05:30",
+      "end": "2026-05-17T10:16:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Evening Show)",
+      "start": "2026-05-17T10:16:32+05:30",
+      "end": "2026-05-17T12:51:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-05-17T12:51:19+05:30",
+      "end": "2026-05-17T15:26:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Repeat)",
+      "start": "2026-05-17T15:26:06+05:30",
+      "end": "2026-05-17T18:00:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Night Show)",
+      "start": "2026-05-17T18:00:53+05:30",
+      "end": "2026-05-17T20:35:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Special Screening)",
+      "start": "2026-05-17T20:35:40+05:30",
+      "end": "2026-05-17T23:10:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Evening Show)",
+      "start": "2026-05-17T23:10:27+05:30",
+      "end": "2026-05-18T01:45:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Repeat)",
+      "start": "2026-05-18T01:45:14+05:30",
+      "end": "2026-05-18T04:20:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-05-18T04:20:01+05:30",
+      "end": "2026-05-18T06:54:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Special Screening)",
+      "start": "2026-05-18T06:54:48+05:30",
+      "end": "2026-05-18T09:29:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Matinee)",
+      "start": "2026-05-18T09:29:35+05:30",
+      "end": "2026-05-18T12:04:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Night Show)",
+      "start": "2026-05-18T12:04:22+05:30",
+      "end": "2026-05-18T14:39:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Evening Show)",
+      "start": "2026-05-18T14:39:09+05:30",
+      "end": "2026-05-18T17:13:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Matinee)",
+      "start": "2026-05-18T17:13:56+05:30",
+      "end": "2026-05-18T19:48:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem (Special Screening)",
+      "start": "2026-05-18T19:48:43+05:30",
+      "end": "2026-05-18T22:23:30+05:30",
       "segments": [
         {
           "from": 0,
