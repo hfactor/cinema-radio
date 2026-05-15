@@ -1,4 +1,20 @@
 name: Kairali
+allow_repeats: true
 movies:
   - url: https://www.youtube.com/watch?v=WMboaAv1QPU
     title: Valyettan
+
+  - url: https://www.youtube.com/watch?v=WMboaAv1QPU
+    title: Vendum Valyettan
+
+  - url: https://www.youtube.com/watch?v=WMboaAv1QPU
+    title: Onam Special Valyettan
+
+  - url: https://www.youtube.com/watch?v=WMboaAv1QPU
+    title: Vishu Special Valyettan
+
+  - url: https://www.youtube.com/watch?v=WMboaAv1QPU
+    title: Valyettan HD
+
+  - url: https://www.youtube.com/watch?v=WMboaAv1QPU
+    title: Valyettan 4D

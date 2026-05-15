@@ -21,6 +21,7 @@ let activeSegIdx      = 0;
 let isPowered         = false;
 let tickInterval      = null;
 let peekOffset        = 0;
+let currentVideoId    = null; // tracks what's loaded in the player
 let offAirUntil       = 0;     // epoch sec — don't retry a failed slot until this time passes
 let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
 let staticNode        = null;  // currently playing static source node
@@ -214,7 +215,13 @@ function loadSlot(slot) {
   if (!ytReady || !isPowered) return;
   stopStatic();
   const safeSeek = isFinite(seekTo) && seekTo >= 0 ? Math.floor(seekTo) : 0;
-  ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
+  if (slot.youtube === currentVideoId) {
+    // Same video already loaded — just seek. Avoids iOS audio session drop.
+    ytPlayer.seekTo(safeSeek, true);
+  } else {
+    ytPlayer.loadVideoById({ videoId: slot.youtube, startSeconds: safeSeek });
+    currentVideoId = slot.youtube;
+  }
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
 }
 

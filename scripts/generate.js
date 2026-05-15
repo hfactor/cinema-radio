@@ -161,7 +161,7 @@ function loadLibrary() {
           console.warn(`  ⚠ [${bandId}] Skipping bad URL: ${m.url}`);
           return null;
         }
-        if (seen.has(videoId)) {
+        if (seen.has(videoId) && !raw.allow_repeats) {
           console.warn(`  ⚠ [${bandId}] Duplicate video skipped: ${videoId}`);
           return null;
         }
