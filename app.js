@@ -22,9 +22,13 @@ let isPowered         = false;
 let tickInterval      = null;
 let consecutiveErrors = 0;
 let peekOffset        = 0;
+let lastCueMs         = 0;     // timestamp of last cueVideoById — scopes PAUSED auto-resume
+let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
+let staticNode        = null;  // currently playing static source node
 const scheduleCache   = {};   // pre-fetched schedules keyed by band id
 
-const MAX_ERRORS = 3;
+const MAX_ERRORS      = 3;
+const CUE_RESUME_MS   = 3000; // window after cue during which PAUSED → auto-resume
 
 // ─── Time utilities ────────────────────────────────────────────────────────────
 function nowSec()    { return Date.now() / 1000; }
@@ -110,13 +114,15 @@ function updateNext(peekSlot) {
 }
 
 function showOffAir() {
+  const next = schedule ? upcomingSlots(schedule.slots)[0] : null;
   el('display-title').textContent = 'OFF AIR';
   el('display-title').className   = 'lcd-title off-air';
   el('progress-fill').style.width = '0%';
   el('time-start').textContent    = '—';
-  el('time-end').textContent      = '—';
-  el('next-title').textContent    = '—';
-  el('next-time').textContent     = '';
+  el('time-end').textContent      = next ? fmtTime(new Date(next.start)) : '—';
+  el('next-title').textContent    = next ? next.title : '—';
+  el('next-time').textContent     = next ? fmtTime(new Date(next.start)) : '';
+  if (isPowered) startStatic();
 }
 
 // ─── YouTube ──────────────────────────────────────────────────────────────────
@@ -151,8 +157,11 @@ function onPlayerReady() {
 function onPlayerStateChange(e) {
   if (e.data === YT.PlayerState.PLAYING) consecutiveErrors = 0;
   if (e.data === YT.PlayerState.ENDED)   advanceSegment();
-  // iOS pauses after loadVideoById — resume immediately if we're powered
-  if (e.data === YT.PlayerState.PAUSED && isPowered) ytPlayer.playVideo();
+  // iOS can pause after cueVideoById — only auto-resume within the cue window,
+  // so we don't fight playback in another tab or app.
+  if (e.data === YT.PlayerState.PAUSED && isPowered) {
+    if (Date.now() - lastCueMs < CUE_RESUME_MS) ytPlayer.playVideo();
+  }
 }
 
 function onPlayerError(e) {
@@ -160,12 +169,48 @@ function onPlayerError(e) {
   consecutiveErrors++;
   if (consecutiveErrors >= MAX_ERRORS) {
     consecutiveErrors = 0;
+    activeSlot = null;
     showOffAir();
     return;
   }
   const next = slotAfter(schedule.slots, activeSlot);
   if (next) { activeSlot = next; loadSlot(next); }
-  else showOffAir();
+  else { activeSlot = null; showOffAir(); }
+}
+
+// ─── Static noise ─────────────────────────────────────────────────────────────
+function ensureAudioCtx() {
+  // Must be called from a user gesture (power-on) to satisfy autoplay policy
+  if (audioCtx) {
+    if (audioCtx.state === 'suspended') audioCtx.resume();
+    return;
+  }
+  try { audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch (e) {}
+}
+
+function startStatic() {
+  if (staticNode || !audioCtx) return;
+  try {
+    const rate    = audioCtx.sampleRate;
+    const buf     = audioCtx.createBuffer(1, rate * 2, rate); // 2s loop
+    const data    = buf.getChannelData(0);
+    for (let i = 0; i < data.length; i++) data[i] = (Math.random() * 2 - 1) * 0.06;
+    const src     = audioCtx.createBufferSource();
+    src.buffer    = buf;
+    src.loop      = true;
+    const gain    = audioCtx.createGain();
+    gain.gain.value = 0.18;
+    src.connect(gain);
+    gain.connect(audioCtx.destination);
+    src.start(0);
+    staticNode = src;
+  } catch (e) {}
+}
+
+function stopStatic() {
+  if (!staticNode) return;
+  try { staticNode.stop(); } catch (e) {}
+  staticNode = null;
 }
 
 // ─── Playback ─────────────────────────────────────────────────────────────────
@@ -178,8 +223,10 @@ function loadSlot(slot) {
   updateNext(slotAfter(schedule.slots, slot));
 
   if (!ytReady || !isPowered) return;
+  stopStatic();
   // cueVideoById preserves the active audio session (vs loadVideoById which drops it).
   // playVideo() then switches to the cued video while the session is alive — required on iOS.
+  lastCueMs = Date.now();
   ytPlayer.cueVideoById({ videoId: slot.youtube, startSeconds: seekTo });
   ytPlayer.playVideo();
   ytPlayer.setVolume(parseInt(el('volume-slider').value, 10));
@@ -190,6 +237,7 @@ function powerOn() {
   el('btn-power').classList.add('on');
   el('brand-live').classList.add('on');
   document.body.classList.add('powered');
+  ensureAudioCtx(); // create AudioContext from user gesture so static noise can play later
   if (!schedule) return;
   const slot = findActiveSlot(schedule.slots);
   activeSlot = slot;
@@ -210,6 +258,7 @@ function powerOff() {
   el('btn-power').classList.remove('on');
   el('brand-live').classList.remove('on');
   document.body.classList.remove('powered');
+  stopStatic();
   if (ytReady) ytPlayer.stopVideo();
   // Display stays live — shows what's on even when not listening
 }
@@ -222,19 +271,27 @@ function advanceSegment() {
   } else {
     const next = slotAfter(schedule.slots, activeSlot);
     if (next) { activeSlot = next; loadSlot(next); }
-    else showOffAir();
+    else { activeSlot = null; showOffAir(); }
   }
 }
 
 // ─── Tick ─────────────────────────────────────────────────────────────────────
 function tick() {
-  if (!activeSlot || !schedule) return;
+  if (!schedule) return;
   const now = nowSec();
+
+  // Off-air: keep scanning until a slot becomes active
+  if (!activeSlot) {
+    const slot = findActiveSlot(schedule.slots);
+    if (slot) { activeSlot = slot; loadSlot(slot); }
+    return;
+  }
 
   // Slot ended?
   if (now >= isoSec(activeSlot.end)) {
-    const next = slotAfter(schedule.slots, activeSlot);
-    if (next) { activeSlot = next; loadSlot(next); }
+    activeSlot = null;
+    const slot = findActiveSlot(schedule.slots);
+    if (slot) { activeSlot = slot; loadSlot(slot); }
     else showOffAir();
     return;
   }
@@ -332,12 +389,13 @@ function openSchedule() {
   el('modal-band').textContent = bands[activeBandIdx]?.name || '';
   list.innerHTML = '';
 
-  schedule.slots.forEach(slot => {
-    const isNow  = isoSec(slot.start) <= now && now < isoSec(slot.end);
-    const isPast = isoSec(slot.end) <= now;
+  const cutoff = now + 24 * 3600; // 24 hours ahead
+  const visibleSlots = schedule.slots.filter(s => isoSec(s.end) > now && isoSec(s.start) < cutoff);
 
+  visibleSlots.forEach(slot => {
+    const isNow  = isoSec(slot.start) <= now && now < isoSec(slot.end);
     const row = document.createElement('div');
-    row.className = 'sched-row' + (isNow ? ' now' : isPast ? ' past' : '');
+    row.className = 'sched-row' + (isNow ? ' now' : '');
     row.innerHTML = `
       <span class="sched-time">${fmtTime(new Date(slot.start))}</span>
       <span class="sched-movie">${slot.title}</span>
