@@ -326,8 +326,10 @@ function updateTunerStrip(animate) {
 function spinWheel(forward) {
   const face = el('dial-face');
   if (!face) return;
+  face.style.animation = 'none';
+  void face.offsetWidth;
+  face.style.animation = '';
   face.classList.remove('spin-fwd', 'spin-back');
-  face.offsetHeight;
   face.classList.add(forward ? 'spin-fwd' : 'spin-back');
 }
 

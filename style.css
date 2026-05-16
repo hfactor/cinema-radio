@@ -7,12 +7,13 @@
   --device:    #1c1c1e;
   --surface:   #222222;
   --border:    #2d2d2d;
-  --accent:    #3ecf54;
-  --text:      #E8DDD0;
-  --text-dim:  #777777;
-  --lcd-text:  #3ecf54;
-  --lcd-dim:   #1a5c28;
-  --lcd-bg:    #060d06;
+  --accent:     #3ecf54;
+  --text:       #EDE5D8;
+  --text-dim:   #a0a0a0;
+  --text-muted: #606060;
+  --lcd-text:   #3ecf54;
+  --lcd-dim:    #4ab862;
+  --lcd-bg:     #060d06;
 
   --mono: 'Courier New', monospace;
   --ui:   -apple-system, BlinkMacSystemFont, sans-serif;
@@ -21,7 +22,7 @@
   --sheet-bg:     #141414;
   --sheet-border: #242424;
   --sheet-text:   #C8C0B4;
-  --sheet-dim:    #555555;
+  --sheet-dim:    #888888;
 }
 
 /* ─── Base ───────────────────────────────────────────────────────────────── */
@@ -112,9 +113,9 @@ html, body {
 }
 
 .about-btn {
-  background: none;
+  background: var(--text-muted);
   border: 1px solid var(--border);
-  color: var(--text-dim);
+  color: var(--accent);
   font-family: var(--ui);
   font-size: 10px;
   font-weight: 600;
@@ -211,14 +212,14 @@ html, body {
   transform: translateX(-50%);
   font-family: var(--mono);
   font-size: 11px;
-  color: rgba(255,255,255,0.3);
+  color: var(--text-muted);
   letter-spacing: 1px;
   pointer-events: none;
   user-select: none;
   line-height: 1;
 }
 .s-label.active {
-  color: #3ecf54;
+  color: var(--accent);
   font-weight: 600;
   text-shadow: 0 0 8px rgba(62,207,84,0.6);
 }
@@ -245,7 +246,7 @@ html, body {
   font-size: 7px;
   font-weight: 600;
   letter-spacing: 1px;
-  color: #444;
+  color: var(--text-muted);
   text-transform: uppercase;
   margin-bottom: 3px;
 }
@@ -253,7 +254,7 @@ html, body {
 .band-name-text {
   font-family: var(--mono);
   font-size: 13px;
-  color: #ccc;
+  color: var(--text);
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
@@ -265,12 +266,32 @@ html, body {
   overflow: hidden;
   border-radius: 5px;
   background: #0a0a0a;
+  position: relative;
   box-shadow:
     0 3px 10px rgba(0,0,0,0.8) inset,
     0 4px 10px rgba(0,0,0,0.65),
     0 1px 0 rgba(255,255,255,0.08),
     0 -2px 0 rgba(0,0,0,0.9);
   flex-shrink: 0;
+}
+
+/* Cylinder shading overlay — sits above the animated face, never moves */
+.thumbwheel-wrap::after {
+  content: '';
+  position: absolute;
+  inset: 0;
+  border-radius: 5px;
+  background: linear-gradient(
+    to right,
+    rgba(0,0,0,0.65) 0%,
+    rgba(0,0,0,0.08) 28%,
+    transparent 45%,
+    transparent 55%,
+    rgba(0,0,0,0.08) 72%,
+    rgba(0,0,0,0.60) 100%
+  );
+  pointer-events: none;
+  z-index: 2;
 }
 
 .thumbwheel {
@@ -292,28 +313,13 @@ html, body {
   /* Vertical ridges — drag left/right to roll */
   background: repeating-linear-gradient(
     to right,
-    #0e0e0e 0px,  #0e0e0e 2px,
-    #2a2a2a 2px,  #2a2a2a 8px,
-    #424242 8px,  #424242 10px,
-    #2a2a2a 10px, #2a2a2a 14px,
-    #0e0e0e 14px, #0e0e0e 16px
+    #0e0e0e 0px,  #0e0e0e 4px,
+    #2a2a2a 4px,  #2a2a2a 8px,
+    #424242 8px,  #424242 12px,
+    #2a2a2a 12px, #2a2a2a 16px
   );
 }
 
-/* Cylinder shading — dark left/right edges, bright centre face */
-.thumbwheel-face::before {
-  content: '';
-  position: absolute;
-  inset: 0;
-  background: linear-gradient(
-    to right,
-    rgba(0,0,0,0.6) 0%,
-    rgba(255,255,255,0.06) 35%,
-    rgba(255,255,255,0.04) 60%,
-    rgba(0,0,0,0.55) 100%
-  );
-  pointer-events: none;
-}
 
 /* Swipe hint — fades out after first use */
 .thumbwheel-hint {
@@ -335,12 +341,12 @@ html, body {
 }
 
 @keyframes wheel-fwd {
-  from { background-position-x: 0; }
-  to   { background-position-x: -16px; }
+  from { background-position-x: -10px; }
+  to   { background-position-x: 12px; }
 }
 @keyframes wheel-back {
   from { background-position-x: 0; }
-  to   { background-position-x: 16px; }
+  to   { background-position-x: 20px; }
 }
 
 .thumbwheel-face.spin-fwd {
@@ -410,13 +416,13 @@ html, body {
 .lcd-bar-track {
   flex: 1;
   height: 3px;
-  background: #0d2e12;
+  background: #1a4a28;
   border-radius: 2px;
 }
 .lcd-bar-fill {
   height: 100%;
   width: 0%;
-  background: #3ecf54;
+  background: var(--accent);
   border-radius: 2px;
 }
 
@@ -430,7 +436,6 @@ html, body {
 }
 .lcd-sep {
   color: var(--lcd-dim);
-  opacity: 0.6;
 }
 
 /* ─── Next Bar ───────────────────────────────────────────────────────────── */
@@ -476,7 +481,7 @@ html, body {
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
-  opacity: 0.75;
+  opacity: 0.88;
 }
 
 .next-right {
@@ -533,7 +538,7 @@ html, body {
   border-radius: 50%;
   background: radial-gradient(circle at 40% 35%, #323232, #161616);
   border: 2px solid #444;
-  color: #666;
+  color: var(--text-muted);
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -560,7 +565,7 @@ html, body {
 }
 .btn-power.on {
   border-color: #2a6640;
-  color: #3ecf54;
+  color: var(--accent);
   background: radial-gradient(circle at 40% 35%, #1f2e22, #111811);
   box-shadow:
     0 5px 12px rgba(0,0,0,0.75),
@@ -820,7 +825,7 @@ body.powered .btn-power svg {
 }
 .sched-movie { color: var(--sheet-text); }
 
-.sched-row.now .sched-time  { color: rgba(255, 102, 0, 0.6); }
+.sched-row.now .sched-time  { color: #c86418; }
 .sched-row.now .sched-movie { color: var(--accent); }
 .sched-row.now .sched-movie::before { content: '▶ '; font-size: 7px; }
 .sched-row.past .sched-movie { color: var(--sheet-dim); }
@@ -844,7 +849,7 @@ body.powered .btn-power svg {
 }
 .about-text p {
   font-size: 14px;
-  color: #686868;
+  color: var(--sheet-dim);
   line-height: 1.7;
 }
 .about-rule {
