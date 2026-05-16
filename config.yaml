@@ -1,8 +1,6 @@
 default_band: comedy-malayalam
 timezone: Asia/Kolkata
-movies_per_batch: 15
-lookahead_hours: 36
-dedup_hours: 48
+reset_hour: 3   # schedules reset at 3 AM IST daily
 
 band_order:
   - comedy-malayalam

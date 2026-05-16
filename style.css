@@ -40,17 +40,15 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
+  padding: 20px 16px;
+  background: var(--bg);
 }
 
 /* ─── Device ─────────────────────────────────────────────────────────────── */
 .device {
   width: 100%;
-  max-width: 100%;
-  min-height: 100dvh;
-  background:
-    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E") repeat,
-    #1e1e20;
-  background-blend-mode: soft-light, normal;
+  min-height: calc(100dvh - 40px);
+  background: #1e1e20;
   box-shadow:
     0 0 0 1px #0a0a0a,
     0 30px 80px rgba(0,0,0,0.8),
@@ -61,7 +59,7 @@ html, body {
   gap: 0;
   position: relative;
   padding: 16px 18px 12px;
-  border-radius: 0;
+  border-radius: 14px;
   overflow: hidden;
 }
 
@@ -533,9 +531,9 @@ html, body {
   width: 48px;
   height: 48px;
   border-radius: 50%;
-  background: radial-gradient(circle at 40% 35%, #2e2e2e, #141414);
-  border: 2px solid #2e2e2e;
-  color: #555;
+  background: radial-gradient(circle at 40% 35%, #323232, #161616);
+  border: 2px solid #444;
+  color: #666;
   cursor: pointer;
   display: flex;
   align-items: center;
@@ -640,6 +638,52 @@ html, body {
   cursor: pointer;
 }
 
+/* ─── Power-off state ────────────────────────────────────────────────────── */
+
+/* LCD screen looks dark/unlit */
+.lcd-screen {
+  transition: opacity 0.5s;
+}
+body:not(.powered) .lcd-screen {
+  opacity: 0.45;
+  pointer-events: none;
+}
+
+/* Progress bar stays empty when off */
+body:not(.powered) .lcd-bar-fill {
+  width: 0 !important;
+  transition: none;
+}
+
+/* Next bar dims out */
+.next-bar {
+  transition: opacity 0.4s;
+}
+body:not(.powered) .next-bar {
+  opacity: 0.4;
+}
+
+/* Volume row dims out and becomes non-interactive */
+.vol-row {
+  transition: opacity 0.4s;
+}
+body:not(.powered) .vol-row {
+  opacity: 0.15;
+  pointer-events: none;
+}
+
+/* Power button breathes subtly when idle to draw the eye */
+@keyframes power-idle {
+  0%, 100% { opacity: 0.45; }
+  50%       { opacity: 0.85; }
+}
+body:not(.powered) .btn-power svg {
+  animation: power-idle 2.4s ease-in-out infinite;
+}
+body.powered .btn-power svg {
+  animation: none;
+}
+
 /* ─── Footer ─────────────────────────────────────────────────────────────── */
 .device-footer {
   display: flex;
@@ -651,18 +695,6 @@ html, body {
   min-height: 28px;
 }
 
-.power-hint {
-  font-family: var(--ui);
-  font-size: 10px;
-  color: var(--text-dim);
-  opacity: 1;
-  transition: opacity 0.4s;
-  pointer-events: none;
-  text-align: center;
-}
-body.powered .power-hint {
-  opacity: 0;
-}
 
 .refresh-btn {
   position: absolute;
@@ -741,13 +773,6 @@ body.powered .power-hint {
   flex: 1;
 }
 
-.sheet-band {
-  font-family: var(--mono);
-  font-size: 10px;
-  color: var(--sheet-dim);
-  margin-top: 3px;
-}
-
 .sheet-close {
   background: #1e1e1e;
   border: 1px solid var(--sheet-border);
@@ -799,6 +824,17 @@ body.powered .power-hint {
 .sched-row.now .sched-movie { color: var(--accent); }
 .sched-row.now .sched-movie::before { content: '▶ '; font-size: 7px; }
 .sched-row.past .sched-movie { color: var(--sheet-dim); }
+
+/* ─── Schedule note ──────────────────────────────────────────────────────── */
+.schedule-note {
+  font-family: var(--ui);
+  font-size: 10px;
+  color: var(--sheet-dim);
+  opacity: 0.45;
+  text-align: center;
+  padding: 18px 0 4px;
+  letter-spacing: 0.3px;
+}
 
 /* ─── About modal ────────────────────────────────────────────────────────── */
 .about-text {
@@ -853,6 +889,7 @@ body.powered .power-hint {
 
 /* ─── Very small screens ─────────────────────────────────────────────────── */
 @media (max-width: 360px) {
+  .page { padding: 16px 12px; }
   .device { padding: 14px 14px 10px; }
   .lcd-title { font-size: 16px; }
   .btn-power { width: 44px; height: 44px; }

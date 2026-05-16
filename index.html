@@ -54,7 +54,7 @@
       <!-- 4. LCD SCREEN -->
       <div class="lcd-shell">
         <div class="lcd-screen">
-          <div class="lcd-now">NOW PLAYING</div>
+          <div class="lcd-now">NOW</div>
           <div class="lcd-title" id="display-title">--</div>
           <div class="lcd-progress-row">
             <div class="lcd-bar-track">
@@ -102,7 +102,6 @@
 
       <!-- 7. FOOTER -->
       <div class="device-footer">
-        <p class="power-hint">press &#9211; to listen</p>
         <button class="refresh-btn"
           onclick="(async()=>{try{const ks=await caches.keys();await Promise.all(ks.map(k=>caches.delete(k)))}catch(e){}location.href=location.pathname+'?v='+Date.now()})()">&#8635;</button>
       </div>
@@ -115,11 +114,11 @@
     <div class="modal-sheet" id="schedule-sheet">
       <div class="sheet-handle"></div>
       <div class="sheet-head">
-        <div class="sheet-title">Today's Programme</div>
-        <div class="sheet-band" id="modal-band"></div>
+        <div class="sheet-title" id="schedule-title">Today's Programme</div>
         <button class="sheet-close" id="schedule-close">&#10005;</button>
       </div>
       <div class="sheet-list" id="schedule-list"></div>
+      <p class="schedule-note">Schedule announced at 3 AM IST daily</p>
     </div>
   </div>
 
