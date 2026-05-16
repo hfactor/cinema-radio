@@ -26,6 +26,7 @@ let offAirUntil       = 0;     // epoch sec — don't retry a failed slot until 
 let audioCtx          = null;  // Web Audio context for static noise (created on power-on gesture)
 let staticNode        = null;  // currently playing static source node
 const scheduleCache   = {};   // pre-fetched schedules keyed by band id
+const BAND_STEP = 80; // px between band labels on tuner strip
 
 // ─── Time utilities ────────────────────────────────────────────────────────────
 function nowSec()    { return Date.now() / 1000; }
@@ -307,34 +308,67 @@ function tick() {
   if (peekOffset === 0) updateDisplay(activeSlot);
 }
 
-// ─── Band dial ────────────────────────────────────────────────────────────────
+// ─── Band dial (thumbwheel) ───────────────────────────────────────────────────
 function renderBandDots() {
-  const area = el('tuner-dial-area');
-  area.querySelectorAll('.tuner-dot').forEach(d => d.remove());
+  updateTunerStrip();
+}
 
-  const n    = bands.length;
-  const cx   = 40;
-  const cy   = 40;
-  const r    = 32;
-  const dotR = 6;   // half of 12px dot
+function buildTunerStrip() {
+  const strip = el('tuner-strip');
+  if (!strip || !bands.length) return;
 
+  const n = bands.length;
+  let html = '';
+
+  // Minor ticks evenly across full width
+  const TICK_COUNT = 40;
+  for (let i = 0; i <= TICK_COUNT; i++) {
+    const pct = (i / TICK_COUNT) * 100;
+    const isMajor = i % 5 === 0;
+    html += `<div class="s-tick${isMajor ? ' major' : ''}" style="left:${pct}%"></div>`;
+  }
+
+  // Band labels + tall tick at evenly distributed positions
   bands.forEach((band, idx) => {
-    const angleDeg = (360 / n) * idx;
-    const angleRad = (angleDeg - 90) * (Math.PI / 180);
-    const x = cx + r * Math.cos(angleRad) - dotR;
-    const y = cy + r * Math.sin(angleRad) - dotR;
-
-    const dot = document.createElement('div');
-    dot.className  = 'tuner-dot' + (idx === activeBandIdx ? ' active' : '');
-    dot.title      = band.name;
-    dot.style.left = x.toFixed(1) + 'px';
-    dot.style.top  = y.toFixed(1) + 'px';
-    dot.addEventListener('click', e => { e.stopPropagation(); loadBand(idx); });
-    area.appendChild(dot);
+    const pct = ((idx + 0.5) / n) * 100;
+    const letter = band.name.charAt(0).toUpperCase();
+    html += `<div class="s-tick band-tick" style="left:${pct}%"></div>`;
+    html += `<div class="s-label" data-idx="${idx}" style="left:${pct}%">${letter}</div>`;
   });
 
-  const dialAngle = (360 / n) * activeBandIdx;
-  el('dial-face').style.transform = `rotate(${dialAngle}deg)`;
+  strip.innerHTML = html;
+  updateTunerStrip(false);
+}
+
+function updateTunerStrip(animate) {
+  const strip = el('tuner-strip');
+  const needle = document.querySelector('.tuner-needle');
+  if (!strip || !needle || !bands.length) return;
+
+  const n = bands.length;
+  const pct = ((activeBandIdx + 0.5) / n) * 100;
+
+  if (animate === false) {
+    needle.style.transition = 'none';
+    needle.offsetHeight;
+  }
+  needle.style.left = pct + '%';
+  if (animate === false) {
+    needle.offsetHeight;
+    needle.style.transition = '';
+  }
+
+  strip.querySelectorAll('.s-label').forEach((node, i) => {
+    node.classList.toggle('active', i === activeBandIdx);
+  });
+}
+
+function spinWheel(forward) {
+  const face = el('dial-face');
+  if (!face) return;
+  face.classList.remove('spin-fwd', 'spin-back');
+  face.offsetHeight;
+  face.classList.add(forward ? 'spin-fwd' : 'spin-back');
 }
 
 function applySchedule(data) {
@@ -440,6 +474,7 @@ async function init() {
 
   activeBandIdx = Math.max(0, bands.findIndex(b => b.band === CONFIG.defaultBand));
   renderBandDots();
+  buildTunerStrip();
   el('band-label').textContent = bands[activeBandIdx].name;
 
   // Default band schedule — already in hand, no second round trip
@@ -456,11 +491,58 @@ async function init() {
 
   tickInterval = setInterval(tick, 1000);
 
-  // Dial — click rotates one step clockwise
-  el('dial').addEventListener('click', () => {
-    if (bands.length < 2) return;
-    loadBand((activeBandIdx + 1) % bands.length);
-  });
+  // Thumbwheel — drag up/left = prev band, drag down/right = next band
+  // Tap (no drag) = next band
+  {
+    const dial = el('dial');
+    let startX = 0, startY = 0, startT = 0, dragging = false;
+    const THRESHOLD = 18; // px before it counts as a drag
+
+    function switchStatic() {
+      if (isPowered && audioCtx) { stopStatic(); startStatic(); }
+    }
+    function dialNext() {
+      if (bands.length > 1) {
+        spinWheel(true);
+        switchStatic();
+        loadBand((activeBandIdx + 1) % bands.length);
+        el('dial').classList.add('used'); // fade swipe hint
+      }
+    }
+    function dialPrev() {
+      if (bands.length > 1) {
+        spinWheel(false);
+        switchStatic();
+        loadBand((activeBandIdx - 1 + bands.length) % bands.length);
+        el('dial').classList.add('used');
+      }
+    }
+
+    dial.addEventListener('pointerdown', e => {
+      startX = e.clientX; startY = e.clientY; startT = Date.now(); dragging = false;
+      dial.setPointerCapture(e.pointerId);
+    });
+    dial.addEventListener('pointermove', e => {
+      if (Math.abs(e.clientX - startX) > 4 || Math.abs(e.clientY - startY) > 4) dragging = true;
+    });
+    dial.addEventListener('pointerup', e => {
+      const dx = e.clientX - startX;
+      const dy = e.clientY - startY;
+      const dist = Math.sqrt(dx * dx + dy * dy);
+      if (dist < THRESHOLD) {
+        dialNext(); // tap
+      } else {
+        // drag direction: right or down = next, left or up = prev
+        (dx + dy > 0) ? dialNext() : dialPrev();
+      }
+    });
+
+    // Mouse scroll on desktop
+    dial.addEventListener('wheel', e => {
+      e.preventDefault();
+      e.deltaY > 0 ? dialNext() : dialPrev();
+    }, { passive: false });
+  }
 
   // Power button — first click starts audio (satisfies browser autoplay policy)
   el('btn-power').addEventListener('click', () => {

@@ -4,15 +4,15 @@
 /* ─── Variables ──────────────────────────────────────────────────────────── */
 :root {
   --bg:        #111111;
-  --device:    #1a1a1a;
+  --device:    #1c1c1e;
   --surface:   #222222;
   --border:    #2d2d2d;
   --accent:    #3ecf54;
   --text:      #E8DDD0;
   --text-dim:  #777777;
-  --lcd-text:  #3ecf54;   /* green phosphor */
-  --lcd-dim:   #2a6e38;   /* muted green — readable but not bright */
-  --lcd-bg:    #060d06;   /* green-tinted dark */
+  --lcd-text:  #3ecf54;
+  --lcd-dim:   #1a5c28;
+  --lcd-bg:    #060d06;
 
   --mono: 'Courier New', monospace;
   --ui:   -apple-system, BlinkMacSystemFont, sans-serif;
@@ -34,13 +34,12 @@ html, body {
   color: var(--text);
 }
 
-/* ─── Page — centers device on desktop, fills viewport on mobile ─────────── */
+/* ─── Page ───────────────────────────────────────────────────────────────── */
 .page {
   min-height: 100dvh;
   display: flex;
   align-items: center;
   justify-content: center;
-  /* no padding on mobile — device fills full */
 }
 
 /* ─── Device ─────────────────────────────────────────────────────────────── */
@@ -48,14 +47,21 @@ html, body {
   width: 100%;
   max-width: 100%;
   min-height: 100dvh;
-  background: var(--device);
+  background:
+    url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='200' height='200'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.75' numOctaves='4' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='200' height='200' filter='url(%23n)'/%3E%3C/svg%3E") repeat,
+    #1e1e20;
+  background-blend-mode: soft-light, normal;
+  box-shadow:
+    0 0 0 1px #0a0a0a,
+    0 30px 80px rgba(0,0,0,0.8),
+    0 1px 0 rgba(255,255,255,0.08) inset,
+    0 -1px 0 rgba(0,0,0,0.6) inset;
   display: flex;
   flex-direction: column;
   gap: 0;
   position: relative;
   padding: 16px 18px 12px;
   border-radius: 0;
-  box-shadow: none;
   overflow: hidden;
 }
 
@@ -64,7 +70,7 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  padding: 4px 0 14px;
+  padding: 4px 0 12px;
   flex-shrink: 0;
 }
 
@@ -89,6 +95,12 @@ html, body {
   text-transform: uppercase;
 }
 
+.brand-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
 .brand-live {
   font-family: var(--mono);
   font-size: 9px;
@@ -101,18 +113,243 @@ html, body {
   color: var(--accent);
 }
 
-/* ─── Speaker Grille ─────────────────────────────────────────────────────── */
-.speaker {
-  height: 22px;
+.about-btn {
+  background: none;
+  border: 1px solid var(--border);
+  color: var(--text-dim);
+  font-family: var(--ui);
+  font-size: 10px;
+  font-weight: 600;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  opacity: 0.5;
+  transition: opacity 0.15s;
+  -webkit-tap-highlight-color: transparent;
   flex-shrink: 0;
-  border-radius: 4px;
-  background:
-    radial-gradient(circle, #252525 1px, transparent 1px),
-    var(--device);
-  background-size: 5px 5px;
-  background-position: 0 0;
-  margin-bottom: 14px;
-  box-shadow: 0 0 0 1px rgba(0,0,0,0.35) inset;
+}
+.about-btn:hover { opacity: 1; }
+
+/* ─── Tuner Strip ────────────────────────────────────────────────────────── */
+.tuner-wrap {
+  position: relative;
+  height: 52px;
+  background: #070709;
+  overflow: hidden;
+  margin: 0 -18px 12px;
+  flex-shrink: 0;
+  border-top: 1px solid #040404;
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+  box-shadow:
+    0 6px 14px rgba(0,0,0,0.85) inset,
+    0 -3px 8px rgba(0,0,0,0.5) inset;
+}
+
+.tuner-wrap::before,
+.tuner-wrap::after {
+  content: '';
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  width: 32px;
+  z-index: 2;
+  pointer-events: none;
+}
+.tuner-wrap::before {
+  left: 0;
+  background: linear-gradient(to right, #070709 0%, transparent 100%);
+}
+.tuner-wrap::after {
+  right: 0;
+  background: linear-gradient(to left, #070709 0%, transparent 100%);
+}
+
+.tuner-strip-inner {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 100%;
+  /* no transform — strip is fixed, needle moves */
+}
+
+.tuner-needle {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 1px;
+  transform: translateX(-50%);
+  background: #ff3b30;
+  z-index: 3;
+  box-shadow: 0 0 6px rgba(255, 59, 48, 0.7), 0 0 12px rgba(255, 59, 48, 0.3);
+  pointer-events: none;
+  transition: left 0.4s cubic-bezier(0.25, 0.46, 0.45, 0.94);
+}
+
+.s-tick {
+  position: absolute;
+  bottom: 6px;
+  width: 1px;
+  height: 8px;
+  background: rgba(255,255,255,0.2);
+}
+.s-tick.major {
+  height: 14px;
+  background: rgba(255,255,255,0.35);
+}
+.s-tick.band-tick {
+  height: 20px;
+  background: rgba(255,255,255,0.5);
+}
+
+.s-label {
+  position: absolute;
+  bottom: 4px;
+  transform: translateX(-50%);
+  font-family: var(--mono);
+  font-size: 11px;
+  color: rgba(255,255,255,0.3);
+  letter-spacing: 1px;
+  pointer-events: none;
+  user-select: none;
+  line-height: 1;
+}
+.s-label.active {
+  color: #3ecf54;
+  font-weight: 600;
+  text-shadow: 0 0 8px rgba(62,207,84,0.6);
+}
+
+/* ─── Band Row ───────────────────────────────────────────────────────────── */
+.band-row {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 0;
+  border-bottom: 1px solid #0d0d0d;
+  box-shadow: 0 1px 0 rgba(255,255,255,0.05);
+  margin-bottom: 12px;
+  flex-shrink: 0;
+}
+
+.band-info {
+  flex: 1;
+  min-width: 0;
+}
+
+.band-row-label {
+  font-family: var(--ui);
+  font-size: 7px;
+  font-weight: 600;
+  letter-spacing: 1px;
+  color: #444;
+  text-transform: uppercase;
+  margin-bottom: 3px;
+}
+
+.band-name-text {
+  font-family: var(--mono);
+  font-size: 13px;
+  color: #ccc;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* ─── Thumbwheel ─────────────────────────────────────────────────────────── */
+.thumbwheel-wrap {
+  width: 42%;
+  overflow: hidden;
+  border-radius: 5px;
+  background: #0a0a0a;
+  box-shadow:
+    0 3px 10px rgba(0,0,0,0.8) inset,
+    0 4px 10px rgba(0,0,0,0.65),
+    0 1px 0 rgba(255,255,255,0.08),
+    0 -2px 0 rgba(0,0,0,0.9);
+  flex-shrink: 0;
+}
+
+.thumbwheel {
+  width: 100%;
+  height: 44px;
+  cursor: grab;
+  touch-action: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  position: relative;
+}
+.thumbwheel:active { cursor: grabbing; }
+
+.thumbwheel-face {
+  width: 100%;
+  height: 100%;
+  position: relative;
+  /* Vertical ridges — drag left/right to roll */
+  background: repeating-linear-gradient(
+    to right,
+    #0e0e0e 0px,  #0e0e0e 2px,
+    #2a2a2a 2px,  #2a2a2a 8px,
+    #424242 8px,  #424242 10px,
+    #2a2a2a 10px, #2a2a2a 14px,
+    #0e0e0e 14px, #0e0e0e 16px
+  );
+}
+
+/* Cylinder shading — dark left/right edges, bright centre face */
+.thumbwheel-face::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    to right,
+    rgba(0,0,0,0.6) 0%,
+    rgba(255,255,255,0.06) 35%,
+    rgba(255,255,255,0.04) 60%,
+    rgba(0,0,0,0.55) 100%
+  );
+  pointer-events: none;
+}
+
+/* Swipe hint — fades out after first use */
+.thumbwheel-hint {
+  position: absolute;
+  inset: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: var(--ui);
+  font-size: 8px;
+  letter-spacing: 1.5px;
+  color: rgba(255,255,255,0.28);
+  pointer-events: none;
+  transition: opacity 0.4s;
+  text-transform: uppercase;
+}
+.thumbwheel.used .thumbwheel-hint {
+  opacity: 0;
+}
+
+@keyframes wheel-fwd {
+  from { background-position-x: 0; }
+  to   { background-position-x: -16px; }
+}
+@keyframes wheel-back {
+  from { background-position-x: 0; }
+  to   { background-position-x: 16px; }
+}
+
+.thumbwheel-face.spin-fwd {
+  animation: wheel-fwd 0.22s ease-out;
+}
+.thumbwheel-face.spin-back {
+  animation: wheel-back 0.22s ease-out;
 }
 
 /* ─── LCD Display ────────────────────────────────────────────────────────── */
@@ -125,9 +362,12 @@ html, body {
   border-radius: 8px;
   padding: 3px;
   margin-bottom: 12px;
+  border: 1px solid #010201;
   box-shadow:
-    0 0 0 1px #040404,
-    0 2px 8px rgba(0,0,0,0.7) inset;
+    0 0 0 1px #030503,
+    0 8px 24px rgba(0,0,0,0.98) inset,
+    0 2px 8px rgba(0,0,0,0.75) inset,
+    0 0 28px rgba(0,0,0,0.55);
 }
 
 .lcd-screen {
@@ -172,13 +412,13 @@ html, body {
 .lcd-bar-track {
   flex: 1;
   height: 3px;
-  background: var(--lcd-dim);
+  background: #0d2e12;
   border-radius: 2px;
 }
 .lcd-bar-fill {
   height: 100%;
   width: 0%;
-  background: var(--accent);
+  background: #3ecf54;
   border-radius: 2px;
 }
 
@@ -200,13 +440,16 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  background: #0e0e0e;
+  background: #0d0d0d;
   border-radius: 6px;
   padding: 9px 12px;
   gap: 8px;
   margin-bottom: 16px;
   flex-shrink: 0;
-  box-shadow: 0 1px 4px rgba(0,0,0,0.5) inset;
+  border: 1px solid #090909;
+  box-shadow:
+    0 3px 12px rgba(0,0,0,0.85) inset,
+    0 1px 0 rgba(255,255,255,0.03) inset;
 }
 
 .next-left {
@@ -266,14 +509,16 @@ html, body {
 }
 .icon-btn:hover { color: var(--text); }
 
-/* ─── Controls Bar ───────────────────────────────────────────────────────── */
-.controls-bar {
+/* ─── Bottom Bar ─────────────────────────────────────────────────────────── */
+.bottom-bar {
   display: flex;
   align-items: center;
-  gap: 0;
-  padding: 0;
+  gap: 16px;
+  padding: 14px 0 8px;
   flex-shrink: 0;
-  margin-bottom: 14px;
+  border-top: 1px solid #141416;
+  box-shadow: 0 -1px 0 rgba(255,255,255,0.04);
+  margin-top: 2px;
 }
 
 /* Power Zone */
@@ -282,22 +527,26 @@ html, body {
   display: flex;
   align-items: center;
   justify-content: center;
-  padding-right: 14px;
 }
 
 .btn-power {
-  width: 52px;
-  height: 52px;
+  width: 48px;
+  height: 48px;
   border-radius: 50%;
-  background: transparent;
-  border: 2px solid var(--accent);
-  color: var(--accent);
+  background: radial-gradient(circle at 40% 35%, #2e2e2e, #141414);
+  border: 2px solid #2e2e2e;
+  color: #555;
   cursor: pointer;
   display: flex;
   align-items: center;
   justify-content: center;
+  box-shadow:
+    0 5px 12px rgba(0,0,0,0.75),
+    0 1px 0 rgba(255,255,255,0.08) inset,
+    0 -2px 0 rgba(0,0,0,0.55) inset;
   transition:
     background 0.2s,
+    border-color 0.2s,
     color 0.2s,
     box-shadow 0.2s,
     transform 0.08s;
@@ -312,53 +561,23 @@ html, body {
   transform: scale(0.92);
 }
 .btn-power.on {
-  background: var(--accent);
-  color: #000;
+  border-color: #2a6640;
+  color: #3ecf54;
+  background: radial-gradient(circle at 40% 35%, #1f2e22, #111811);
   box-shadow:
-    0 0 20px rgba(62, 207, 84, 0.6),
-    0 0 40px rgba(62, 207, 84, 0.25);
+    0 5px 12px rgba(0,0,0,0.75),
+    0 1px 0 rgba(255,255,255,0.06) inset,
+    0 -2px 0 rgba(0,0,0,0.55) inset;
 }
 
-/* Band Zone */
-.band-zone {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  min-width: 0;
-  padding-right: 14px;
-}
-
-.band-top {
-  display: flex;
-  flex-direction: column;
-  gap: 3px;
-}
-
-.band-zone-label {
-  font-family: var(--ui);
-  font-size: 7px;
-  font-weight: 600;
-  letter-spacing: 0.8px;
-  color: var(--text-dim);
-  text-transform: uppercase;
-}
-
-.band-name-text {
-  font-family: var(--mono);
-  font-size: 13px;
-  color: var(--text);
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-
-/* Volume Slider */
+/* Volume */
 .vol-row {
+  flex: 1;
   display: flex;
   align-items: center;
   gap: 8px;
 }
+
 .vol-label {
   font-family: var(--ui);
   font-size: 7px;
@@ -369,11 +588,12 @@ html, body {
   flex-shrink: 0;
   width: 20px;
 }
+
 .vol-slider {
   flex: 1;
   -webkit-appearance: none;
   appearance: none;
-  height: 20px;           /* tap target height */
+  height: 20px;
   background: transparent;
   outline: none;
   cursor: pointer;
@@ -420,93 +640,6 @@ html, body {
   cursor: pointer;
 }
 
-/* Tuner Zone */
-.tuner-zone {
-  flex-shrink: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-.tuner-dial-area {
-  position: relative;
-  width: 80px;
-  height: 80px;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-}
-
-/* Radial band dots — injected by JS */
-.tuner-dot {
-  position: absolute;
-  width: 12px;
-  height: 12px;
-  margin: -6px;
-  border-radius: 50%;
-  background: #2a2a2a;
-  border: 1.5px solid #444;
-  cursor: pointer;
-  pointer-events: all;
-  z-index: 2;
-  transition: background 0.2s, border-color 0.2s;
-}
-.tuner-dot:hover {
-  background: #404040;
-  border-color: #666;
-}
-.tuner-dot.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  box-shadow: 0 0 6px rgba(62, 207, 84, 0.5);
-}
-
-/* Dial knob */
-.tuner-dial {
-  position: relative;
-  z-index: 1;
-  background: none;
-  border: none;
-  padding: 0;
-  cursor: pointer;
-  outline: none;
-  -webkit-tap-highlight-color: transparent;
-}
-
-.tuner-dial-face {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: radial-gradient(circle at 38% 30%, #303030, #121212 72%);
-  box-shadow:
-    0 0 0 1px #040404,
-    0 0 0 2px #1e1e1e,
-    0 3px 8px rgba(0,0,0,0.7),
-    0 1px 0 rgba(255,255,255,0.04) inset;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  position: relative;
-  transition: transform 0.35s cubic-bezier(0.4, 0, 0.2, 1);
-}
-.tuner-dial:active .tuner-dial-face {
-  box-shadow:
-    0 0 0 1px #040404,
-    0 0 0 2px #1e1e1e,
-    0 1px 4px rgba(0,0,0,0.6);
-}
-
-.tuner-notch {
-  position: absolute;
-  top: 4px;
-  left: 50%;
-  transform: translateX(-50%);
-  width: 2px;
-  height: 7px;
-  background: var(--accent);
-  border-radius: 1px;
-}
-
 /* ─── Footer ─────────────────────────────────────────────────────────────── */
 .device-footer {
   display: flex;
@@ -548,35 +681,6 @@ body.powered .power-hint {
   -webkit-tap-highlight-color: transparent;
 }
 .refresh-btn:hover { opacity: 0.9; }
-
-/* Brand right — live + about grouped */
-.brand-right {
-  display: flex;
-  align-items: center;
-  gap: 8px;
-}
-
-/* About button — inline in header, top right */
-.about-btn {
-  background: none;
-  border: 1px solid var(--border);
-  color: var(--text-dim);
-  font-family: var(--ui);
-  font-size: 10px;
-  font-weight: 600;
-  width: 20px;
-  height: 20px;
-  border-radius: 50%;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  opacity: 0.5;
-  transition: opacity 0.15s;
-  -webkit-tap-highlight-color: transparent;
-  flex-shrink: 0;
-}
-.about-btn:hover { opacity: 1; }
 
 /* ─── Bottom Sheets (modals) ─────────────────────────────────────────────── */
 .modal-wrap {
@@ -734,25 +838,23 @@ body.powered .power-hint {
     min-height: 0;
     height: auto;
     border-radius: 18px;
-    box-shadow:
-      0 0 0 1px #0a0a0a,
-      0 1px 0 rgba(255,255,255,0.03) inset,
-      0 24px 60px rgba(0,0,0,0.6),
-      0 8px 20px rgba(0,0,0,0.4);
     padding: 20px 20px 16px;
+  }
+
+  .tuner-wrap {
+    margin: 0 -20px 12px;
   }
 
   .lcd-shell {
     flex: none;
     min-height: 110px;
   }
-
-  /* about-btn visible on desktop too — it's in the header now */
 }
 
 /* ─── Very small screens ─────────────────────────────────────────────────── */
 @media (max-width: 360px) {
   .device { padding: 14px 14px 10px; }
   .lcd-title { font-size: 16px; }
-  .btn-power { width: 46px; height: 46px; }
+  .btn-power { width: 44px; height: 44px; }
+  .tuner-wrap { margin: 0 -14px 12px; }
 }
