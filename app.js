@@ -83,11 +83,14 @@ function updateDisplay(slot) {
   const total = isoSec(slot.end) - isoSec(slot.start);
   const pct   = Math.min(100, (Math.max(0, now - isoSec(slot.start)) / total) * 100);
 
-  el('display-title').textContent = slot.title;
-  el('display-title').className   = 'lcd-title';
+  const titleEl = el('display-title');
+  if (titleEl.textContent !== slot.title) titleEl.textContent = slot.title;
+  if (titleEl.className   !== 'lcd-title') titleEl.className  = 'lcd-title';
   el('progress-fill').style.width = pct + '%';
-  el('time-start').textContent    = fmtTime(new Date(slot.start));
-  el('time-end').textContent      = fmtTime(new Date(slot.end));
+  const t0 = fmtTime(new Date(slot.start));
+  const t1 = fmtTime(new Date(slot.end));
+  if (el('time-start').textContent !== t0) el('time-start').textContent = t0;
+  if (el('time-end').textContent   !== t1) el('time-end').textContent   = t1;
 
   if (!progressTransitionEnabled) {
     progressTransitionEnabled = true;
