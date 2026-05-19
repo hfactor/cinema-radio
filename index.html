@@ -124,7 +124,7 @@
 
       <!-- 7. FOOTER -->
       <div class="device-footer">
-        <button class="refresh-btn"
+        <button class="refresh-btn" id="refresh-btn"
           onclick="(async()=>{try{const ks=await caches.keys();await Promise.all(ks.map(k=>caches.delete(k)))}catch(e){}location.href=location.pathname+'?v='+Date.now()})()">&#8635;</button>
       </div>
 

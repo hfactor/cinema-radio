@@ -134,6 +134,7 @@ function loadLibrary() {
   return ordered.map(bandId => {
     const raw     = yaml.load(fs.readFileSync(path.join(LIBRARY_DIR, `${bandId}.yaml`), 'utf8'));
     const autoName = bandId.split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+    if (raw.static) return { id: bandId, name: raw.name || autoName, static: true, movies: [] };
     const seen    = new Set();
 
     const movies = (raw.movies || [])
@@ -297,6 +298,11 @@ async function main() {
   const index = [];
 
   for (const band of bands) {
+    if (band.static) {
+      console.log(`Band: ${band.id} — static (skipping generation)`);
+      index.push({ band: band.id, name: band.name });
+      continue;
+    }
     if (band.movies.length === 0) {
       console.warn(`  ✗ Band "${band.id}" has no valid movies — skipping`);
       continue;

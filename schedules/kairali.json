@@ -1,123 +1,24 @@
 {
   "band": "kairali",
-  "generated": "2026-05-16T11:28:10+05:30",
+  "static": true,
   "slots": [
     {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T03:00:00+05:30",
-      "end": "2026-05-16T05:51:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
+      "youtube": "WMboaAv1QPU",
+      "titles": [
+        "Valliettan",
+        "Valliettan HD",
+        "Valliettan 4D",
+        "Valliettan Special",
+        "Onam Special Valliettan",
+        "Vishu Special Valliettan",
+        "Valliettan (Remastered)",
+        "Valliettan Classics"
       ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
       "title": "Valliettan",
-      "start": "2026-05-16T05:51:17+05:30",
-      "end": "2026-05-16T08:42:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T08:42:34+05:30",
-      "end": "2026-05-16T11:33:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T11:33:51+05:30",
-      "end": "2026-05-16T14:25:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T14:25:08+05:30",
-      "end": "2026-05-16T17:16:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T17:16:25+05:30",
-      "end": "2026-05-16T20:07:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T20:07:42+05:30",
-      "end": "2026-05-16T22:58:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-16T22:58:59+05:30",
-      "end": "2026-05-17T01:50:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
-    },
-    {
-      "youtube": "rAHNqgV3DRE",
-      "title": "Valliettan",
-      "start": "2026-05-17T01:50:16+05:30",
-      "end": "2026-05-17T04:41:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10277
-        }
-      ],
-      "loop": 2844
+      "start": "2020-01-01T00:00:00+05:30",
+      "end":   "2099-12-31T23:59:59+05:30",
+      "segments": [{ "from": 0, "to": 10277 }],
+      "loop": 10277
     }
   ]
 }

@@ -719,6 +719,20 @@ body.powered .btn-power svg {
 }
 .refresh-btn:hover { opacity: 0.9; }
 
+@keyframes reload-pulse {
+  0%, 100% { opacity: 1; }
+  50%       { opacity: 0.5; }
+}
+.refresh-btn.error {
+  opacity: 1;
+  color: #c86418;
+  border-color: #c86418;
+  animation: reload-pulse 1.2s ease-in-out infinite;
+  padding: 3px 10px;
+  font-size: 11px;
+  letter-spacing: 0.5px;
+}
+
 /* ─── Bottom Sheets (modals) ─────────────────────────────────────────────── */
 .modal-wrap {
   position: fixed;

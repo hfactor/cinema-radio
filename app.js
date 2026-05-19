@@ -59,6 +59,18 @@ function upcomingSlots(slots) {
   return slots.filter(s => isoSec(s.start) > now);
 }
 
+// For looping bands with a titles[] array, compute which title is current
+function slotTitle(slot, offset) {
+  if (!slot.titles || !slot.loop) return slot.title || '—';
+  const n = Math.floor((nowSec() - isoSec(slot.start)) / slot.loop) + (offset || 0);
+  return slot.titles[((n % slot.titles.length) + slot.titles.length) % slot.titles.length];
+}
+
+function loopIterationStart(slot, offset) {
+  const n = Math.floor((nowSec() - isoSec(slot.start)) / slot.loop) + (offset || 0);
+  return new Date((isoSec(slot.start) + n * slot.loop) * 1000);
+}
+
 function computeSeek(slot) {
   const now     = nowSec();
   const elapsed = slot.loop
@@ -84,7 +96,8 @@ function updateDisplay(slot) {
   const pct   = Math.min(100, (Math.max(0, now - isoSec(slot.start)) / total) * 100);
 
   const titleEl = el('display-title');
-  if (titleEl.textContent !== slot.title) titleEl.textContent = slot.title;
+  const title = slotTitle(slot);
+  if (titleEl.textContent !== title) titleEl.textContent = title;
   if (titleEl.className   !== 'lcd-title') titleEl.className  = 'lcd-title';
   el('progress-fill').style.width = pct + '%';
   const t0 = fmtTime(new Date(slot.start));
@@ -171,6 +184,8 @@ function ensureAudioCtx() {
   try { audioCtx = new (window.AudioContext || window.webkitAudioContext)(); } catch {}
 }
 
+let staticErrorTimer = null;
+
 function startStatic() {
   if (staticNode || !audioCtx) return;
   try {
@@ -188,12 +203,21 @@ function startStatic() {
     src.start(0);
     staticNode = src;
   } catch {}
+  staticErrorTimer = setTimeout(() => {
+    const btn = el('refresh-btn');
+    if (!btn) return;
+    btn.classList.add('error');
+    btn.textContent = 'RELOAD';
+  }, 8000);
 }
 
 function stopStatic() {
   if (!staticNode) return;
   try { staticNode.stop(); } catch {}
   staticNode = null;
+  clearTimeout(staticErrorTimer);
+  const btn = el('refresh-btn');
+  if (btn) { btn.classList.remove('error'); btn.textContent = '⟳'; }
 }
 
 // ─── Playback ─────────────────────────────────────────────────────────────────
@@ -203,7 +227,10 @@ function loadSlot(slot) {
   activeSegIdx = segIdx;
   updateDisplay(slot);
   peekOffset = 0;
-  updateNext(slotAfter(schedule.slots, slot));
+  const nextSlot = slot.titles && slot.loop
+    ? { title: slotTitle(slot, 1), start: loopIterationStart(slot, 1).toISOString() }
+    : slotAfter(schedule.slots, slot);
+  updateNext(nextSlot);
   if (!ytReady || !isPowered) return;
   stopStatic();
   const safeSeek = isFinite(seekTo) && seekTo >= 0 ? Math.floor(seekTo) : 0;
@@ -274,7 +301,8 @@ function tick() {
 
   if (isPowered && activeSlot.segments[activeSegIdx]) {
     const seg     = activeSlot.segments[activeSegIdx];
-    const elapsed = now - isoSec(activeSlot.start);
+    const rawElapsed = now - isoSec(activeSlot.start);
+    const elapsed = activeSlot.loop ? rawElapsed % activeSlot.loop : rawElapsed;
     let   acc     = 0;
     for (let i = 0; i < activeSegIdx; i++)
       acc += activeSlot.segments[i].to - activeSlot.segments[i].from;
@@ -380,19 +408,41 @@ function openSchedule() {
   el('schedule-title').textContent = bandName ? `${bandName}: Today's Programme` : "Today's Programme";
   list.innerHTML = '';
 
-  schedule.slots.forEach(slot => {
+  const isLooping = schedule.slots.length === 1 && schedule.slots[0].loop && schedule.slots[0].titles;
+
+  if (isLooping) {
+    const slot     = schedule.slots[0];
     const startSec = isoSec(slot.start);
-    const endSec   = isoSec(slot.end);
-    const isNow    = startSec <= now && now < endSec;
-    const isPast   = endSec <= now;
-    const row = document.createElement('div');
-    row.className = 'sched-row' + (isNow ? ' now' : isPast ? ' past' : '');
-    row.innerHTML = `
-      <span class="sched-time">${fmtTime(new Date(slot.start))}</span>
-      <span class="sched-movie">${slot.title}</span>
-    `;
-    list.appendChild(row);
-  });
+    const currentN = Math.floor((now - startSec) / slot.loop);
+    for (let i = Math.max(0, currentN - 2); i <= currentN + 8; i++) {
+      const rowStartSec = startSec + i * slot.loop;
+      const rowEndSec   = rowStartSec + slot.loop;
+      const isNow  = rowStartSec <= now && now < rowEndSec;
+      const isPast = rowEndSec <= now;
+      const title  = slot.titles[((i % slot.titles.length) + slot.titles.length) % slot.titles.length];
+      const row = document.createElement('div');
+      row.className = 'sched-row' + (isNow ? ' now' : isPast ? ' past' : '');
+      row.innerHTML = `
+        <span class="sched-time">${fmtTime(new Date(rowStartSec * 1000))}</span>
+        <span class="sched-movie">${title}</span>
+      `;
+      list.appendChild(row);
+    }
+  } else {
+    schedule.slots.forEach(slot => {
+      const startSec = isoSec(slot.start);
+      const endSec   = isoSec(slot.end);
+      const isNow    = startSec <= now && now < endSec;
+      const isPast   = endSec <= now;
+      const row = document.createElement('div');
+      row.className = 'sched-row' + (isNow ? ' now' : isPast ? ' past' : '');
+      row.innerHTML = `
+        <span class="sched-time">${fmtTime(new Date(slot.start))}</span>
+        <span class="sched-movie">${slot.title}</span>
+      `;
+      list.appendChild(row);
+    });
+  }
 
   openModal('schedule-wrap');
 }
