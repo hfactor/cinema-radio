@@ -573,6 +573,54 @@ html, body {
     0 -2px 0 rgba(0,0,0,0.55) inset;
 }
 
+/* Sleep timer */
+.sleep-zone {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+}
+.sleep-btn {
+  background: none;
+  border: 1px solid #2d2d2d;
+  border-radius: 4px;
+  color: var(--text-dim);
+  cursor: pointer;
+  padding: 6px 8px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2px;
+  line-height: 1;
+  font-family: var(--ui);
+  min-width: 44px;
+  transition: color 0.15s, border-color 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.sleep-btn .sleep-label {
+  font-size: 7px;
+  font-weight: 600;
+  letter-spacing: 0.8px;
+  text-transform: uppercase;
+  opacity: 0.7;
+}
+.sleep-btn .sleep-remaining {
+  font-family: var(--mono);
+  font-size: 11px;
+  font-weight: 600;
+  min-height: 12px;
+}
+.sleep-btn:hover:not(:disabled) { color: var(--text); }
+.sleep-btn:disabled {
+  opacity: 0.35;
+  cursor: not-allowed;
+}
+.sleep-btn.active {
+  color: var(--accent);
+  border-color: #2a6640;
+}
+.sleep-btn.active .sleep-label { opacity: 1; }
+
 /* Volume */
 .vol-row {
   flex: 1;
