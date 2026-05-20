@@ -503,6 +503,7 @@ async function init() {
     }
     function dialNext() {
       if (bands.length > 1) {
+        if (!isPowered) powerOn();
         spinWheel(true); switchStatic();
         loadBand((activeBandIdx + 1) % bands.length);
         el('dial').classList.add('used');
@@ -510,6 +511,7 @@ async function init() {
     }
     function dialPrev() {
       if (bands.length > 1) {
+        if (!isPowered) powerOn();
         spinWheel(false); switchStatic();
         loadBand((activeBandIdx - 1 + bands.length) % bands.length);
         el('dial').classList.add('used');
