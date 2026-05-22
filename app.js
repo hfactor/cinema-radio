@@ -25,6 +25,9 @@ let currentVideoId  = null;
 let offAirUntil     = 0;
 let audioCtx        = null;
 let staticNode      = null;
+const SLEEP_CYCLE   = [null, 15, 30, 45, 60, 'end'];
+let sleepMode       = null;
+let sleepDeadline   = 0;
 const scheduleCache = {};
 
 // ─── Time utilities ───────────────────────────────────────────────────────────
@@ -249,6 +252,8 @@ function powerOn() {
   el('brand-live').classList.add('on');
   document.body.classList.add('powered');
   ensureAudioCtx();
+  const sleepBtn = el('btn-sleep');
+  if (sleepBtn) sleepBtn.disabled = false;
   if (!schedule) return;
   activeSlot = findActiveSlot(schedule.slots);
   loadSlot(activeSlot);
@@ -261,6 +266,51 @@ function powerOff() {
   document.body.classList.remove('powered');
   stopStatic();
   if (ytReady) ytPlayer.stopVideo();
+  setSleepMode(null);
+  const sleepBtn = el('btn-sleep');
+  if (sleepBtn) sleepBtn.disabled = true;
+}
+
+function setSleepMode(mode) {
+  sleepMode = mode;
+  const btn = el('btn-sleep');
+  const lbl = el('sleep-remaining');
+  if (!btn || !lbl) return;
+  if (!mode) {
+    sleepDeadline = 0;
+    btn.classList.remove('active');
+    lbl.textContent = 'OFF';
+    return;
+  }
+  btn.classList.add('active');
+  if (mode === 'end') {
+    sleepDeadline = activeSlot ? isoSec(activeSlot.end) * 1000 : 0;
+    lbl.textContent = 'END';
+  } else {
+    sleepDeadline = Date.now() + mode * 60 * 1000;
+    lbl.textContent = mode + 'm';
+  }
+}
+
+function cycleSleep() {
+  const i = SLEEP_CYCLE.indexOf(sleepMode);
+  setSleepMode(SLEEP_CYCLE[(i + 1) % SLEEP_CYCLE.length]);
+}
+
+function checkSleepTimer() {
+  if (!sleepMode || !isPowered) return;
+  if (sleepMode === 'end' && activeSlot) {
+    sleepDeadline = isoSec(activeSlot.end) * 1000;
+  }
+  const remainingMs = sleepDeadline - Date.now();
+  if (remainingMs <= 0) {
+    setSleepMode(null);
+    powerOff();
+    return;
+  }
+  const lbl = el('sleep-remaining');
+  if (!lbl) return;
+  lbl.textContent = sleepMode === 'end' ? 'END' : Math.ceil(remainingMs / 60000) + 'm';
 }
 
 function advanceSegment() {
@@ -280,6 +330,7 @@ function advanceSegment() {
 
 // ─── Tick ─────────────────────────────────────────────────────────────────────
 function tick() {
+  checkSleepTimer();
   if (!schedule) return;
   const now = nowSec();
 
@@ -588,6 +639,9 @@ async function init() {
 
   // Power
   el('btn-power').addEventListener('click', () => isPowered ? powerOff() : powerOn());
+
+  // Sleep timer
+  el('btn-sleep').addEventListener('click', cycleSleep);
 
   // Volume
   function syncVolFill(slider) { slider.style.setProperty('--fill', slider.value + '%'); }
