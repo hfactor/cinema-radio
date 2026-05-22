@@ -499,7 +499,59 @@ async function init() {
     const THRESHOLD = 18;
 
     function switchStatic() {
-      if (isPowered && audioCtx) { stopStatic(); startStatic(); }
+      if (!isPowered || !audioCtx) return;
+
+      const DURATION = 1 + Math.random() * 0.5;
+      const PEAK     = 0.32;
+      const now      = audioCtx.currentTime;
+
+      const rate   = audioCtx.sampleRate;
+      const length = Math.floor(rate * DURATION);
+      const buf    = audioCtx.createBuffer(1, length, rate);
+      const data   = buf.getChannelData(0);
+      for (let i = 0; i < length; i++) data[i] = (Math.random() * 2 - 1) * 0.5;
+
+      const crackleCount = Math.floor(Math.random() * 3) + 1;
+      for (let c = 0; c < crackleCount; c++) {
+        const center = Math.floor(Math.random() * length);
+        const span   = Math.floor(rate * (0.03 + Math.random() * 0.05));
+        for (let j = 0; j < span; j++) {
+          const idx = center + j;
+          if (idx >= length) break;
+          const t   = j / span;
+          const amp = (1 - t) * (1 - t);
+          data[idx] += (Math.random() * 2 - 1) * amp * 1.2;
+        }
+      }
+
+      const src = audioCtx.createBufferSource();
+      src.buffer = buf;
+
+      const hp = audioCtx.createBiquadFilter();
+      hp.type = 'highpass';
+      hp.frequency.value = 250;
+      const lp = audioCtx.createBiquadFilter();
+      lp.type = 'lowpass';
+      lp.frequency.value = 4500;
+
+      const env = audioCtx.createGain();
+      env.gain.setValueAtTime(0.0001, now);
+      env.gain.exponentialRampToValueAtTime(PEAK, now + 0.03);
+      env.gain.setValueAtTime(PEAK, now + DURATION - 0.35);
+      env.gain.exponentialRampToValueAtTime(0.0001, now + DURATION);
+
+      src.connect(hp).connect(lp).connect(env).connect(audioCtx.destination);
+      src.start(now);
+      src.stop(now + DURATION + 0.05);
+
+      if (ytReady && ytPlayer && typeof ytPlayer.getVolume === 'function') {
+        const sliderVol = parseInt(el('volume-slider').value, 10) || 0;
+        const duckedVol = Math.round(sliderVol * 0.15);
+        try { ytPlayer.setVolume(duckedVol); } catch {}
+        setTimeout(() => {
+          try { ytPlayer.setVolume(parseInt(el('volume-slider').value, 10)); } catch {}
+        }, Math.round(DURATION * 1000));
+      }
     }
     function dialNext() {
       if (bands.length > 1) {
