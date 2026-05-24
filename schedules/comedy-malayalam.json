@@ -1,12 +1,72 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-05-24T03:55:01+05:30",
+  "generated": "2026-05-25T03:59:06+05:30",
   "slots": [
+    {
+      "youtube": "THew2hCgCDs",
+      "title": "Chithram",
+      "start": "2026-05-25T03:00:00+05:30",
+      "end": "2026-05-25T05:36:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9401
+        }
+      ]
+    },
+    {
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-05-25T05:36:41+05:30",
+      "end": "2026-05-25T07:44:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7668
+        }
+      ]
+    },
+    {
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-05-25T07:44:29+05:30",
+      "end": "2026-05-25T10:04:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8386
+        }
+      ]
+    },
+    {
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-05-25T10:04:15+05:30",
+      "end": "2026-05-25T12:11:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7611
+        }
+      ]
+    },
+    {
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-05-25T12:11:06+05:30",
+      "end": "2026-05-25T14:30:59+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8393
+        }
+      ]
+    },
     {
       "youtube": "yjaFvFuQ-QM",
       "title": "Premam",
-      "start": "2026-05-24T03:00:00+05:30",
-      "end": "2026-05-24T05:35:54+05:30",
+      "start": "2026-05-25T14:30:59+05:30",
+      "end": "2026-05-25T17:06:53+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,34 +75,46 @@
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-05-24T05:35:54+05:30",
-      "end": "2026-05-24T07:43:33+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-05-25T17:06:53+05:30",
+      "end": "2026-05-25T19:15:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-05-24T07:43:33+05:30",
-      "end": "2026-05-24T09:59:18+05:30",
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-05-25T19:15:36+05:30",
+      "end": "2026-05-25T21:09:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 6825
+        }
+      ]
+    },
+    {
+      "youtube": "HqTOaQh5RnI",
+      "title": "Mannadiar Penninu Chenkotta Checkan",
+      "start": "2026-05-25T21:09:21+05:30",
+      "end": "2026-05-25T23:03:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6866
         }
       ]
     },
     {
       "youtube": "bpFYOUkOybs",
       "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-05-24T09:59:18+05:30",
-      "end": "2026-05-24T11:58:58+05:30",
+      "start": "2026-05-25T23:03:47+05:30",
+      "end": "2026-05-26T01:03:27+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,86 +123,14 @@
       ]
     },
     {
-      "youtube": "HTv8oIi37Nc",
-      "title": "Aye Auto",
-      "start": "2026-05-24T11:58:58+05:30",
-      "end": "2026-05-24T14:11:08+05:30",
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-05-26T01:03:27+05:30",
+      "end": "2026-05-26T03:24:24+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7930
-        }
-      ]
-    },
-    {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-05-24T14:11:08+05:30",
-      "end": "2026-05-24T16:33:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8521
-        }
-      ]
-    },
-    {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-05-24T16:33:09+05:30",
-      "end": "2026-05-24T18:23:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6613
-        }
-      ]
-    },
-    {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-05-24T18:23:22+05:30",
-      "end": "2026-05-24T20:35:11+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7909
-        }
-      ]
-    },
-    {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-05-24T20:35:11+05:30",
-      "end": "2026-05-24T22:42:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7651
-        }
-      ]
-    },
-    {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-05-24T22:42:42+05:30",
-      "end": "2026-05-25T01:12:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8987
-        }
-      ]
-    },
-    {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-05-25T01:12:29+05:30",
-      "end": "2026-05-25T03:37:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8702
+          "to": 8457
         }
       ]
     }
