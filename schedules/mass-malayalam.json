@@ -1,108 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-05-26T04:04:11+05:30",
+  "generated": "2026-05-27T04:17:17+05:30",
   "slots": [
-    {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-05-26T03:00:00+05:30",
-      "end": "2026-05-26T05:57:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10624
-        }
-      ]
-    },
-    {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-05-26T05:57:04+05:30",
-      "end": "2026-05-26T08:41:57+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-05-26T08:41:57+05:30",
-      "end": "2026-05-26T11:18:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-05-26T11:18:35+05:30",
-      "end": "2026-05-26T13:47:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-05-26T13:47:24+05:30",
-      "end": "2026-05-26T16:16:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-05-26T16:16:24+05:30",
-      "end": "2026-05-26T18:54:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-05-26T18:54:55+05:30",
-      "end": "2026-05-26T21:47:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-05-26T21:47:49+05:30",
-      "end": "2026-05-27T24:08:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
-        }
-      ]
-    },
     {
       "youtube": "MZMV8ZoduEM",
       "title": "Phantom",
-      "start": "2026-05-27T24:08:31+05:30",
-      "end": "2026-05-27T02:34:20+05:30",
+      "start": "2026-05-27T03:00:00+05:30",
+      "end": "2026-05-27T05:25:49+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +15,110 @@
       ]
     },
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-05-27T02:34:20+05:30",
-      "end": "2026-05-27T05:31:12+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-05-27T05:25:49+05:30",
+      "end": "2026-05-27T07:44:34+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-05-27T07:44:34+05:30",
+      "end": "2026-05-27T10:13:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8940
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-05-27T10:13:34+05:30",
+      "end": "2026-05-27T12:58:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-05-27T12:58:27+05:30",
+      "end": "2026-05-27T15:53:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-05-27T15:53:19+05:30",
+      "end": "2026-05-27T18:42:16+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-05-27T18:42:16+05:30",
+      "end": "2026-05-27T21:17:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-05-27T21:17:25+05:30",
+      "end": "2026-05-28T24:15:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-05-28T24:15:07+05:30",
+      "end": "2026-05-28T02:25:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7820
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-05-28T02:25:27+05:30",
+      "end": "2026-05-28T05:09:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
         }
       ]
     }
