@@ -3,11 +3,12 @@
  */
 
 // ─── Config ───────────────────────────────────────────────────────────────────
+const SCHEDULE_BASE = (typeof window !== 'undefined' && window.SCHEDULE_BASE) || '';
 const CONFIG = {
   defaultBand:  'comedy-malayalam',
   timezone:     'Asia/Kolkata',
-  indexPath:    'schedules/index.json',
-  schedulePath: band => `schedules/${band}.json`,
+  indexPath:    `${SCHEDULE_BASE}schedules/index.json`,
+  schedulePath: band => `${SCHEDULE_BASE}schedules/${band}.json`,
 };
 
 // ─── State ────────────────────────────────────────────────────────────────────
