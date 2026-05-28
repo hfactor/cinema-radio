@@ -1,108 +1,36 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-05-28T04:25:59+05:30",
+  "generated": "2026-05-29T04:22:15+05:30",
   "slots": [
     {
-      "youtube": "eSIn0GOQRds",
-      "title": "Aramana Veedum Anjoorekkarum",
-      "start": "2026-05-28T03:00:00+05:30",
-      "end": "2026-05-28T04:53:45+05:30",
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-05-29T03:00:00+05:30",
+      "end": "2026-05-29T05:03:34+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6825
+          "to": 7414
         }
       ]
     },
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-05-28T04:53:45+05:30",
-      "end": "2026-05-28T07:28:32+05:30",
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-05-29T05:03:34+05:30",
+      "end": "2026-05-29T07:33:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
-        }
-      ]
-    },
-    {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-05-28T07:28:32+05:30",
-      "end": "2026-05-28T09:40:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7912
-        }
-      ]
-    },
-    {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-05-28T09:40:24+05:30",
-      "end": "2026-05-28T11:47:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7648
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-05-28T11:47:52+05:30",
-      "end": "2026-05-28T13:42:18+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-05-28T13:42:18+05:30",
-      "end": "2026-05-28T15:49:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
-      "youtube": "KBBta864Ong",
-      "title": "Chandralekha",
-      "start": "2026-05-28T15:49:09+05:30",
-      "end": "2026-05-28T18:40:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10251
-        }
-      ]
-    },
-    {
-      "youtube": "THew2hCgCDs",
-      "title": "Chithram",
-      "start": "2026-05-28T18:40:00+05:30",
-      "end": "2026-05-28T21:16:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9401
+          "to": 8987
         }
       ]
     },
     {
       "youtube": "yYOXLlxBHdc",
       "title": "Kalyana Sougandhikam",
-      "start": "2026-05-28T21:16:41+05:30",
-      "end": "2026-05-28T23:35:35+05:30",
+      "start": "2026-05-29T07:33:21+05:30",
+      "end": "2026-05-29T09:52:15+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +39,98 @@
       ]
     },
     {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-05-28T23:35:35+05:30",
-      "end": "2026-05-29T01:47:24+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-05-29T09:52:15+05:30",
+      "end": "2026-05-29T12:22:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7909
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-05-29T01:47:24+05:30",
-      "end": "2026-05-29T04:33:13+05:30",
+      "youtube": "MFHwp26QNr0",
+      "title": "Mookkilla Raajyathu",
+      "start": "2026-05-29T12:22:39+05:30",
+      "end": "2026-05-29T14:34:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 7937
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-05-29T14:34:56+05:30",
+      "end": "2026-05-29T16:48:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
+    {
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-05-29T16:48:15+05:30",
+      "end": "2026-05-29T18:58:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7841
+        }
+      ]
+    },
+    {
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-05-29T18:58:56+05:30",
+      "end": "2026-05-29T21:06:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7651
+        }
+      ]
+    },
+    {
+      "youtube": "s6P9QNj2_o0",
+      "title": "Kuberan",
+      "start": "2026-05-29T21:06:27+05:30",
+      "end": "2026-05-29T23:38:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9104
+        }
+      ]
+    },
+    {
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-05-29T23:38:11+05:30",
+      "end": "2026-05-30T02:18:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9633
+        }
+      ]
+    },
+    {
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-05-30T02:18:44+05:30",
+      "end": "2026-05-30T04:54:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9354
         }
       ]
     }
