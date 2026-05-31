@@ -1,96 +1,72 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-05-31T04:00:22+05:30",
+  "generated": "2026-06-01T04:01:54+05:30",
   "slots": [
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-05-31T03:00:00+05:30",
-      "end": "2026-05-31T05:38:31+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-06-01T03:00:00+05:30",
+      "end": "2026-06-01T05:57:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 10662
         }
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-05-31T05:38:31+05:30",
-      "end": "2026-05-31T08:13:40+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-06-01T05:57:42+05:30",
+      "end": "2026-06-01T08:16:27+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 8325
         }
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-05-31T08:13:40+05:30",
-      "end": "2026-05-31T10:58:33+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-06-01T08:16:27+05:30",
+      "end": "2026-06-01T10:44:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 8900
         }
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-05-31T10:58:33+05:30",
-      "end": "2026-05-31T13:49:27+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-06-01T10:44:47+05:30",
+      "end": "2026-06-01T13:37:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-05-31T13:49:27+05:30",
-      "end": "2026-05-31T16:18:16+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-06-01T13:37:41+05:30",
+      "end": "2026-06-01T16:32:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-05-31T16:18:16+05:30",
-      "end": "2026-05-31T19:07:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-05-31T19:07:13+05:30",
-      "end": "2026-05-31T21:36:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
+          "to": 10492
         }
       ]
     },
     {
       "youtube": "-FPFH5WwMhU",
       "title": "Aaraam Thampuran",
-      "start": "2026-05-31T21:36:13+05:30",
-      "end": "2026-06-01T24:30:52+05:30",
+      "start": "2026-06-01T16:32:33+05:30",
+      "end": "2026-06-01T19:27:12+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +75,38 @@
       ]
     },
     {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-06-01T24:30:52+05:30",
-      "end": "2026-06-01T02:56:41+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-06-01T19:27:12+05:30",
+      "end": "2026-06-01T22:18:06+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8749
+          "to": 10254
         }
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-06-01T02:56:41+05:30",
-      "end": "2026-06-01T05:25:01+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-06-01T22:18:06+05:30",
+      "end": "2026-06-02T24:38:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-06-02T24:38:48+05:30",
+      "end": "2026-06-02T03:11:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
         }
       ]
     }

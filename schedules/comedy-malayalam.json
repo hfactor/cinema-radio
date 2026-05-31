@@ -1,72 +1,108 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-05-31T04:00:22+05:30",
+  "generated": "2026-06-01T04:01:54+05:30",
   "slots": [
     {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-05-31T03:00:00+05:30",
-      "end": "2026-05-31T05:07:31+05:30",
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-06-01T03:00:00+05:30",
+      "end": "2026-06-01T05:24:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7651
+          "to": 8647
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-05-31T05:07:31+05:30",
-      "end": "2026-05-31T07:23:16+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-06-01T05:24:07+05:30",
+      "end": "2026-06-01T07:32:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 7725
         }
       ]
     },
     {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-05-31T07:23:16+05:30",
-      "end": "2026-05-31T09:39:18+05:30",
+      "youtube": "3IqGqL-FyQk",
+      "title": "Pandippada",
+      "start": "2026-06-01T07:32:52+05:30",
+      "end": "2026-06-01T10:01:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8162
+          "to": 8945
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-05-31T09:39:18+05:30",
-      "end": "2026-05-31T11:48:01+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-06-01T10:01:57+05:30",
+      "end": "2026-06-01T12:32:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "HTv8oIi37Nc",
-      "title": "Aye Auto",
-      "start": "2026-05-31T11:48:01+05:30",
-      "end": "2026-05-31T14:00:11+05:30",
+      "youtube": "tnUApaINfwg",
+      "title": "Kavadiyattam",
+      "start": "2026-06-01T12:32:21+05:30",
+      "end": "2026-06-01T14:40:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7930
+          "to": 7698
+        }
+      ]
+    },
+    {
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-06-01T14:40:39+05:30",
+      "end": "2026-06-01T16:55:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8111
+        }
+      ]
+    },
+    {
+      "youtube": "IoTeFxml2Bo",
+      "title": "Oru Maravathoor Kanavu",
+      "start": "2026-06-01T16:55:50+05:30",
+      "end": "2026-06-01T19:07:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7892
+        }
+      ]
+    },
+    {
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-06-01T19:07:22+05:30",
+      "end": "2026-06-01T21:12:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7481
         }
       ]
     },
     {
       "youtube": "KBBta864Ong",
       "title": "Chandralekha",
-      "start": "2026-05-31T14:00:11+05:30",
-      "end": "2026-05-31T16:51:02+05:30",
+      "start": "2026-06-01T21:12:03+05:30",
+      "end": "2026-06-02T24:02:54+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +111,26 @@
       ]
     },
     {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-05-31T16:51:02+05:30",
-      "end": "2026-05-31T19:04:21+05:30",
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-06-02T24:02:54+05:30",
+      "end": "2026-06-02T02:06:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7999
+          "to": 7414
         }
       ]
     },
     {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-05-31T19:04:21+05:30",
-      "end": "2026-05-31T21:12:09+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-06-02T02:06:28+05:30",
+      "end": "2026-06-02T04:18:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-05-31T21:12:09+05:30",
-      "end": "2026-05-31T23:09:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7047
-        }
-      ]
-    },
-    {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-05-31T23:09:36+05:30",
-      "end": "2026-06-01T01:20:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-06-01T01:20:14+05:30",
-      "end": "2026-06-01T04:02:21+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9727
+          "to": 7912
         }
       ]
     }

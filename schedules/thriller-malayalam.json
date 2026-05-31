@@ -1,72 +1,24 @@
 {
   "band": "thriller-malayalam",
-  "generated": "2026-05-31T04:00:22+05:30",
+  "generated": "2026-06-01T04:01:54+05:30",
   "slots": [
     {
-      "youtube": "hkHesHZGFxM",
-      "title": "Detective",
-      "start": "2026-05-31T03:00:00+05:30",
-      "end": "2026-05-31T05:14:07+05:30",
+      "youtube": "GKzQXfJb2iM",
+      "title": "Customs Diary",
+      "start": "2026-06-01T03:00:00+05:30",
+      "end": "2026-06-01T05:03:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8047
-        }
-      ]
-    },
-    {
-      "youtube": "VM1rLiBDR6g",
-      "title": "Indraprastham",
-      "start": "2026-05-31T05:14:07+05:30",
-      "end": "2026-05-31T07:39:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8723
-        }
-      ]
-    },
-    {
-      "youtube": "VdN4RgPTyAE",
-      "title": "The Tiger",
-      "start": "2026-05-31T07:39:30+05:30",
-      "end": "2026-05-31T09:53:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8061
-        }
-      ]
-    },
-    {
-      "youtube": "O_j4Lacy64c",
-      "title": "Witness",
-      "start": "2026-05-31T09:53:51+05:30",
-      "end": "2026-05-31T12:07:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8002
-        }
-      ]
-    },
-    {
-      "youtube": "9BGliAPpLwI",
-      "title": "Moonnam Mura",
-      "start": "2026-05-31T12:07:13+05:30",
-      "end": "2026-05-31T14:21:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8033
+          "to": 7387
         }
       ]
     },
     {
       "youtube": "jb5FMCr1rSc",
       "title": "Devadoothan",
-      "start": "2026-05-31T14:21:06+05:30",
-      "end": "2026-05-31T16:37:22+05:30",
+      "start": "2026-06-01T05:03:07+05:30",
+      "end": "2026-06-01T07:19:23+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,34 +27,46 @@
       ]
     },
     {
-      "youtube": "736fPkyRFIo",
-      "title": "Smart City",
-      "start": "2026-05-31T16:37:22+05:30",
-      "end": "2026-05-31T18:36:14+05:30",
+      "youtube": "VdN4RgPTyAE",
+      "title": "The Tiger",
+      "start": "2026-06-01T07:19:23+05:30",
+      "end": "2026-06-01T09:33:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7132
+          "to": 8061
         }
       ]
     },
     {
-      "youtube": "ZThJXu2eKw4",
-      "title": "Ee Thanutha Veluppan Kalathu",
-      "start": "2026-05-31T18:36:14+05:30",
-      "end": "2026-05-31T20:55:10+05:30",
+      "youtube": "Bt_dmXcnNsY",
+      "title": "Sainyam",
+      "start": "2026-06-01T09:33:44+05:30",
+      "end": "2026-06-01T12:03:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8336
+          "to": 9014
+        }
+      ]
+    },
+    {
+      "youtube": "9BGliAPpLwI",
+      "title": "Moonnam Mura",
+      "start": "2026-06-01T12:03:58+05:30",
+      "end": "2026-06-01T14:17:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8033
         }
       ]
     },
     {
       "youtube": "40DnL80mUU0",
       "title": "Manichitrathazhu",
-      "start": "2026-05-31T20:55:10+05:30",
-      "end": "2026-05-31T23:25:05+05:30",
+      "start": "2026-06-01T14:17:51+05:30",
+      "end": "2026-06-01T16:47:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -113,8 +77,8 @@
     {
       "youtube": "jzswDqpoeQY",
       "title": "Robin Hood",
-      "start": "2026-05-31T23:25:05+05:30",
-      "end": "2026-06-01T01:46:32+05:30",
+      "start": "2026-06-01T16:47:46+05:30",
+      "end": "2026-06-01T19:09:13+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +87,50 @@
       ]
     },
     {
+      "youtube": "SzwStt19vtw",
+      "title": "Memories",
+      "start": "2026-06-01T19:09:13+05:30",
+      "end": "2026-06-01T21:32:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8589
+        }
+      ]
+    },
+    {
+      "youtube": "VM1rLiBDR6g",
+      "title": "Indraprastham",
+      "start": "2026-06-01T21:32:22+05:30",
+      "end": "2026-06-01T23:57:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8723
+        }
+      ]
+    },
+    {
       "youtube": "1t2OVFYzP1A",
       "title": "Utharam",
-      "start": "2026-06-01T01:46:32+05:30",
-      "end": "2026-06-01T03:54:28+05:30",
+      "start": "2026-06-01T23:57:45+05:30",
+      "end": "2026-06-02T02:05:41+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7676
+        }
+      ]
+    },
+    {
+      "youtube": "O_j4Lacy64c",
+      "title": "Witness",
+      "start": "2026-06-02T02:05:41+05:30",
+      "end": "2026-06-02T04:19:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8002
         }
       ]
     }
