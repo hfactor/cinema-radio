@@ -1,96 +1,48 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-01T04:01:54+05:30",
+  "generated": "2026-06-02T04:43:24+05:30",
   "slots": [
     {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-06-01T03:00:00+05:30",
-      "end": "2026-06-01T05:57:42+05:30",
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-06-02T03:00:00+05:30",
+      "end": "2026-06-02T05:56:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10662
+          "to": 10612
         }
       ]
     },
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-06-01T05:57:42+05:30",
-      "end": "2026-06-01T08:16:27+05:30",
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-06-02T05:56:52+05:30",
+      "end": "2026-06-02T08:10:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
+          "to": 7997
         }
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-06-01T08:16:27+05:30",
-      "end": "2026-06-01T10:44:47+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-06-02T08:10:09+05:30",
+      "end": "2026-06-02T10:59:06+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-06-01T10:44:47+05:30",
-      "end": "2026-06-01T13:37:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-06-01T13:37:41+05:30",
-      "end": "2026-06-01T16:32:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-06-01T16:32:33+05:30",
-      "end": "2026-06-01T19:27:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-06-01T19:27:12+05:30",
-      "end": "2026-06-01T22:18:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
+          "to": 10137
         }
       ]
     },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-06-01T22:18:06+05:30",
-      "end": "2026-06-02T24:38:48+05:30",
+      "start": "2026-06-02T10:59:06+05:30",
+      "end": "2026-06-02T13:19:48+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,14 +51,74 @@
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-06-02T24:38:48+05:30",
-      "end": "2026-06-02T03:11:50+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-06-02T13:19:48+05:30",
+      "end": "2026-06-02T15:02:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-06-02T15:02:04+05:30",
+      "end": "2026-06-02T17:56:54+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-06-02T17:56:54+05:30",
+      "end": "2026-06-02T20:22:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-02T20:22:43+05:30",
+      "end": "2026-06-02T23:17:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-06-02T23:17:22+05:30",
+      "end": "2026-06-03T01:36:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-06-03T01:36:07+05:30",
+      "end": "2026-06-03T04:33:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
         }
       ]
     }
