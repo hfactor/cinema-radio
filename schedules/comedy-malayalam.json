@@ -1,36 +1,60 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-03T04:44:59+05:30",
+  "generated": "2026-06-04T04:47:29+05:30",
   "slots": [
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-06-03T03:00:00+05:30",
-      "end": "2026-06-03T05:08:43+05:30",
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-06-04T03:00:00+05:30",
+      "end": "2026-06-04T05:40:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 9633
         }
       ]
     },
     {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-06-03T05:08:43+05:30",
-      "end": "2026-06-03T07:23:54+05:30",
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-06-04T05:40:33+05:30",
+      "end": "2026-06-04T07:40:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8111
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-06-04T07:40:13+05:30",
+      "end": "2026-06-04T09:30:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-06-04T09:30:26+05:30",
+      "end": "2026-06-04T12:00:13+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8987
         }
       ]
     },
     {
       "youtube": "jqlKkPdm1AU",
       "title": "Pattanapravesham (1988)",
-      "start": "2026-06-03T07:23:54+05:30",
-      "end": "2026-06-03T09:43:47+05:30",
+      "start": "2026-06-04T12:00:13+05:30",
+      "end": "2026-06-04T14:20:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,98 +63,74 @@
       ]
     },
     {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-06-03T09:43:47+05:30",
-      "end": "2026-06-03T11:41:41+05:30",
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-06-04T14:20:06+05:30",
+      "end": "2026-06-04T17:02:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7074
+          "to": 9727
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-06-03T11:41:41+05:30",
-      "end": "2026-06-03T14:27:30+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-06-04T17:02:13+05:30",
+      "end": "2026-06-04T19:32:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-06-03T14:27:30+05:30",
-      "end": "2026-06-03T16:24:57+05:30",
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-06-04T19:32:04+05:30",
+      "end": "2026-06-04T21:56:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7047
+          "to": 8683
         }
       ]
     },
     {
-      "youtube": "1L8zjJMmfsQ",
-      "title": "Nadodikattu",
-      "start": "2026-06-03T16:24:57+05:30",
-      "end": "2026-06-03T18:58:57+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-06-04T21:56:47+05:30",
+      "end": "2026-06-05T24:05:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9240
+          "to": 7725
+        }
+      ]
+    },
+    {
+      "youtube": "THew2hCgCDs",
+      "title": "Chithram",
+      "start": "2026-06-05T24:05:32+05:30",
+      "end": "2026-06-05T02:42:13+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9401
         }
       ]
     },
     {
       "youtube": "yYOXLlxBHdc",
       "title": "Kalyana Sougandhikam",
-      "start": "2026-06-03T18:58:57+05:30",
-      "end": "2026-06-03T21:17:51+05:30",
+      "start": "2026-06-05T02:42:13+05:30",
+      "end": "2026-06-05T05:01:07+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8334
-        }
-      ]
-    },
-    {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-06-03T21:17:51+05:30",
-      "end": "2026-06-03T23:56:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9522
-        }
-      ]
-    },
-    {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-06-03T23:56:33+05:30",
-      "end": "2026-06-04T02:11:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8090
-        }
-      ]
-    },
-    {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-06-04T02:11:23+05:30",
-      "end": "2026-06-04T04:26:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8089
         }
       ]
     }
