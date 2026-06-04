@@ -1,24 +1,12 @@
 {
   "band": "thriller-malayalam",
-  "generated": "2026-06-04T04:47:29+05:30",
+  "generated": "2026-06-05T04:22:48+05:30",
   "slots": [
-    {
-      "youtube": "VM1rLiBDR6g",
-      "title": "Indraprastham",
-      "start": "2026-06-04T03:00:00+05:30",
-      "end": "2026-06-04T05:25:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8723
-        }
-      ]
-    },
     {
       "youtube": "40DnL80mUU0",
       "title": "Manichitrathazhu",
-      "start": "2026-06-04T05:25:23+05:30",
-      "end": "2026-06-04T07:55:18+05:30",
+      "start": "2026-06-05T03:00:00+05:30",
+      "end": "2026-06-05T05:29:55+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,22 +15,22 @@
       ]
     },
     {
-      "youtube": "9BGliAPpLwI",
-      "title": "Moonnam Mura",
-      "start": "2026-06-04T07:55:18+05:30",
-      "end": "2026-06-04T10:09:11+05:30",
+      "youtube": "SzwStt19vtw",
+      "title": "Memories",
+      "start": "2026-06-05T05:29:55+05:30",
+      "end": "2026-06-05T07:53:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8033
+          "to": 8589
         }
       ]
     },
     {
       "youtube": "736fPkyRFIo",
       "title": "Smart City",
-      "start": "2026-06-04T10:09:11+05:30",
-      "end": "2026-06-04T12:08:03+05:30",
+      "start": "2026-06-05T07:53:04+05:30",
+      "end": "2026-06-05T09:51:56+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,46 +39,46 @@
       ]
     },
     {
-      "youtube": "ToZs_GSij8U",
-      "title": "Oru Abhibhashakante Case Diary",
-      "start": "2026-06-04T12:08:03+05:30",
-      "end": "2026-06-04T14:14:32+05:30",
+      "youtube": "jb5FMCr1rSc",
+      "title": "Devadoothan",
+      "start": "2026-06-05T09:51:56+05:30",
+      "end": "2026-06-05T12:08:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7589
+          "to": 8176
         }
       ]
     },
     {
-      "youtube": "O_j4Lacy64c",
-      "title": "Witness",
-      "start": "2026-06-04T14:14:32+05:30",
-      "end": "2026-06-04T16:27:54+05:30",
+      "youtube": "gfR5HPg-jJA",
+      "title": "Vargam",
+      "start": "2026-06-05T12:08:12+05:30",
+      "end": "2026-06-05T14:31:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8002
+          "to": 8570
         }
       ]
     },
     {
-      "youtube": "1t2OVFYzP1A",
-      "title": "Utharam",
-      "start": "2026-06-04T16:27:54+05:30",
-      "end": "2026-06-04T18:35:50+05:30",
+      "youtube": "9BGliAPpLwI",
+      "title": "Moonnam Mura",
+      "start": "2026-06-05T14:31:02+05:30",
+      "end": "2026-06-05T16:44:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7676
+          "to": 8033
         }
       ]
     },
     {
       "youtube": "Bt_dmXcnNsY",
       "title": "Sainyam",
-      "start": "2026-06-04T18:35:50+05:30",
-      "end": "2026-06-04T21:06:04+05:30",
+      "start": "2026-06-05T16:44:55+05:30",
+      "end": "2026-06-05T19:15:09+05:30",
       "segments": [
         {
           "from": 0,
@@ -101,8 +89,8 @@
     {
       "youtube": "ZThJXu2eKw4",
       "title": "Ee Thanutha Veluppan Kalathu",
-      "start": "2026-06-04T21:06:04+05:30",
-      "end": "2026-06-04T23:25:00+05:30",
+      "start": "2026-06-05T19:15:09+05:30",
+      "end": "2026-06-05T21:34:05+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +99,38 @@
       ]
     },
     {
-      "youtube": "VdN4RgPTyAE",
-      "title": "The Tiger",
-      "start": "2026-06-04T23:25:00+05:30",
-      "end": "2026-06-05T01:39:21+05:30",
+      "youtube": "VM1rLiBDR6g",
+      "title": "Indraprastham",
+      "start": "2026-06-05T21:34:05+05:30",
+      "end": "2026-06-05T23:59:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8061
+          "to": 8723
         }
       ]
     },
     {
-      "youtube": "SzwStt19vtw",
-      "title": "Memories",
-      "start": "2026-06-05T01:39:21+05:30",
-      "end": "2026-06-05T04:02:30+05:30",
+      "youtube": "GKzQXfJb2iM",
+      "title": "Customs Diary",
+      "start": "2026-06-05T23:59:28+05:30",
+      "end": "2026-06-06T02:02:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8589
+          "to": 7387
+        }
+      ]
+    },
+    {
+      "youtube": "1t2OVFYzP1A",
+      "title": "Utharam",
+      "start": "2026-06-06T02:02:35+05:30",
+      "end": "2026-06-06T04:10:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7676
         }
       ]
     }
