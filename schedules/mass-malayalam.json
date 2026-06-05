@@ -1,12 +1,60 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-05T04:22:48+05:30",
+  "generated": "2026-06-05T22:56:14+05:30",
   "slots": [
+    {
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-06-05T03:00:00+05:30",
+      "end": "2026-06-05T05:38:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9511
+        }
+      ]
+    },
+    {
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-06-05T05:38:31+05:30",
+      "end": "2026-06-05T08:15:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-06-05T08:15:09+05:30",
+      "end": "2026-06-05T11:12:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-06-05T11:12:51+05:30",
+      "end": "2026-06-05T13:47:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
     {
       "youtube": "Wf9JIaHlU7w",
       "title": "Jana Gana Mana",
-      "start": "2026-06-05T03:00:00+05:30",
-      "end": "2026-06-05T05:28:38+05:30",
+      "start": "2026-06-05T13:47:11+05:30",
+      "end": "2026-06-05T16:15:49+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,46 +63,22 @@
       ]
     },
     {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-06-05T05:28:38+05:30",
-      "end": "2026-06-05T08:16:39+05:30",
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-06-05T16:15:49+05:30",
+      "end": "2026-06-05T19:12:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-06-05T08:16:39+05:30",
-      "end": "2026-06-05T11:05:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-06-05T11:05:36+05:30",
-      "end": "2026-06-05T13:56:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
+          "to": 10624
         }
       ]
     },
     {
       "youtube": "dJmHzy4sqn0",
       "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-06-05T13:56:30+05:30",
-      "end": "2026-06-05T16:25:19+05:30",
+      "start": "2026-06-05T19:12:53+05:30",
+      "end": "2026-06-05T21:41:42+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,50 +87,38 @@
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-06-05T16:25:19+05:30",
-      "end": "2026-06-05T19:18:13+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-06-05T21:41:42+05:30",
+      "end": "2026-06-06T24:14:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 9182
         }
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-06-05T19:18:13+05:30",
-      "end": "2026-06-05T22:03:06+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-06-06T24:14:44+05:30",
+      "end": "2026-06-06T02:55:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 9638
         }
       ]
     },
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-06-05T22:03:06+05:30",
-      "end": "2026-06-06T24:38:32+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-06-06T02:55:22+05:30",
+      "end": "2026-06-06T05:23:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-06-06T24:38:32+05:30",
-      "end": "2026-06-06T03:17:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
+          "to": 8900
         }
       ]
     }
