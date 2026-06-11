@@ -1,60 +1,60 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-11T04:36:48+05:30",
+  "generated": "2026-06-12T04:36:12+05:30",
   "slots": [
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-06-11T03:00:00+05:30",
-      "end": "2026-06-11T04:59:56+05:30",
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-06-12T03:00:00+05:30",
+      "end": "2026-06-12T05:10:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
+          "to": 7841
         }
       ]
     },
     {
-      "youtube": "THew2hCgCDs",
-      "title": "Chithram",
-      "start": "2026-06-11T04:59:56+05:30",
-      "end": "2026-06-11T07:36:37+05:30",
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-06-12T05:10:41+05:30",
+      "end": "2026-06-12T08:01:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9401
+          "to": 10251
         }
       ]
     },
     {
-      "youtube": "CQKfDo9JOF4",
-      "title": "Vadakkunokkiyantram",
-      "start": "2026-06-11T07:36:37+05:30",
-      "end": "2026-06-11T09:39:34+05:30",
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-06-12T08:01:32+05:30",
+      "end": "2026-06-12T10:25:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7377
+          "to": 8663
         }
       ]
     },
     {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-06-11T09:39:34+05:30",
-      "end": "2026-06-11T12:05:08+05:30",
+      "youtube": "MFHwp26QNr0",
+      "title": "Mookkilla Raajyathu",
+      "start": "2026-06-12T10:25:55+05:30",
+      "end": "2026-06-12T12:38:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8734
+          "to": 7937
         }
       ]
     },
     {
       "youtube": "yjaFvFuQ-QM",
       "title": "Premam",
-      "start": "2026-06-11T12:05:08+05:30",
-      "end": "2026-06-11T14:41:02+05:30",
+      "start": "2026-06-12T12:38:12+05:30",
+      "end": "2026-06-12T15:14:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,34 +63,10 @@
       ]
     },
     {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-06-11T14:41:02+05:30",
-      "end": "2026-06-11T16:57:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8162
-        }
-      ]
-    },
-    {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-06-11T16:57:04+05:30",
-      "end": "2026-06-11T19:26:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8991
-        }
-      ]
-    },
-    {
       "youtube": "asffbk9CSI8",
       "title": "Thanneer Mathan Dinangal",
-      "start": "2026-06-11T19:26:55+05:30",
-      "end": "2026-06-11T21:42:40+05:30",
+      "start": "2026-06-12T15:14:06+05:30",
+      "end": "2026-06-12T17:29:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,34 +75,58 @@
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-06-11T21:42:40+05:30",
-      "end": "2026-06-11T23:57:30+05:30",
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-06-12T17:29:51+05:30",
+      "end": "2026-06-12T20:11:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 9727
         }
       ]
     },
     {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-06-11T23:57:30+05:30",
-      "end": "2026-06-12T02:04:09+05:30",
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-06-12T20:11:58+05:30",
+      "end": "2026-06-12T22:36:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7599
+          "to": 8683
+        }
+      ]
+    },
+    {
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-06-12T22:36:41+05:30",
+      "end": "2026-06-13T24:57:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8457
+        }
+      ]
+    },
+    {
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-06-13T24:57:38+05:30",
+      "end": "2026-06-13T02:55:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7047
         }
       ]
     },
     {
       "youtube": "s6P9QNj2_o0",
       "title": "Kuberan",
-      "start": "2026-06-12T02:04:09+05:30",
-      "end": "2026-06-12T04:35:53+05:30",
+      "start": "2026-06-13T02:55:05+05:30",
+      "end": "2026-06-13T05:26:49+05:30",
       "segments": [
         {
           "from": 0,

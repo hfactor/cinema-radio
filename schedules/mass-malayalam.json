@@ -1,48 +1,72 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-11T04:36:48+05:30",
+  "generated": "2026-06-12T04:36:12+05:30",
   "slots": [
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-06-11T03:00:00+05:30",
-      "end": "2026-06-11T05:56:52+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-06-12T03:00:00+05:30",
+      "end": "2026-06-12T05:36:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 9398
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-06-11T05:56:52+05:30",
-      "end": "2026-06-11T08:49:46+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-06-12T05:36:38+05:30",
+      "end": "2026-06-12T08:05:27+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 8929
         }
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-06-11T08:49:46+05:30",
-      "end": "2026-06-11T11:46:50+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-06-12T08:05:27+05:30",
+      "end": "2026-06-12T11:03:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-12T11:03:09+05:30",
+      "end": "2026-06-12T13:57:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-06-12T13:57:48+05:30",
+      "end": "2026-06-12T16:38:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
         }
       ]
     },
     {
       "youtube": "zI8sWVDlZMI",
       "title": "Simhasanam",
-      "start": "2026-06-11T11:46:50+05:30",
-      "end": "2026-06-11T14:15:10+05:30",
+      "start": "2026-06-12T16:38:26+05:30",
+      "end": "2026-06-12T19:06:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,10 +75,22 @@
       ]
     },
     {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-06-12T19:06:46+05:30",
+      "end": "2026-06-12T21:50:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-06-11T14:15:10+05:30",
-      "end": "2026-06-11T16:35:52+05:30",
+      "start": "2026-06-12T21:50:45+05:30",
+      "end": "2026-06-13T24:11:27+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,62 +99,14 @@
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-06-11T16:35:52+05:30",
-      "end": "2026-06-11T18:18:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-06-11T18:18:08+05:30",
-      "end": "2026-06-11T20:56:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
       "youtube": "cxW9_c15JHg",
       "title": "Sathyameva Jayathe",
-      "start": "2026-06-11T20:56:39+05:30",
-      "end": "2026-06-11T23:45:36+05:30",
+      "start": "2026-06-13T24:11:27+05:30",
+      "end": "2026-06-13T03:00:24+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-06-11T23:45:36+05:30",
-      "end": "2026-06-12T01:55:56+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-06-12T01:55:56+05:30",
-      "end": "2026-06-12T04:50:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
         }
       ]
     }
