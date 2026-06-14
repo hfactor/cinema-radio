@@ -1,12 +1,60 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-14T04:05:54+05:30",
+  "generated": "2026-06-15T04:09:08+05:30",
   "slots": [
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-06-15T03:00:00+05:30",
+      "end": "2026-06-15T05:43:59+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-06-15T05:43:59+05:30",
+      "end": "2026-06-15T08:41:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-06-15T08:41:03+05:30",
+      "end": "2026-06-15T11:09:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-06-15T11:09:41+05:30",
+      "end": "2026-06-15T13:44:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
     {
       "youtube": "sX-mOuh6FY0",
       "title": "Pingami",
-      "start": "2026-06-14T03:00:00+05:30",
-      "end": "2026-06-14T05:18:45+05:30",
+      "start": "2026-06-15T13:44:01+05:30",
+      "end": "2026-06-15T16:02:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -17,8 +65,8 @@
     {
       "youtube": "cxW9_c15JHg",
       "title": "Sathyameva Jayathe",
-      "start": "2026-06-14T05:18:45+05:30",
-      "end": "2026-06-14T08:07:42+05:30",
+      "start": "2026-06-15T16:02:46+05:30",
+      "end": "2026-06-15T18:51:43+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,98 +75,38 @@
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-06-14T08:07:42+05:30",
-      "end": "2026-06-14T11:02:34+05:30",
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-06-15T18:51:43+05:30",
+      "end": "2026-06-15T21:46:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 10490
         }
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-06-14T11:02:34+05:30",
-      "end": "2026-06-14T12:44:50+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-06-15T21:46:33+05:30",
+      "end": "2026-06-16T24:15:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6136
+          "to": 8940
         }
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-06-14T12:44:50+05:30",
-      "end": "2026-06-14T15:28:49+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-16T24:15:33+05:30",
+      "end": "2026-06-16T03:10:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-06-14T15:28:49+05:30",
-      "end": "2026-06-14T18:04:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-06-14T18:04:15+05:30",
-      "end": "2026-06-14T20:38:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-06-14T20:38:35+05:30",
-      "end": "2026-06-14T23:15:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-06-14T23:15:13+05:30",
-      "end": "2026-06-15T01:53:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-06-15T01:53:44+05:30",
-      "end": "2026-06-15T04:26:46+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
+          "to": 10479
         }
       ]
     }
