@@ -1,72 +1,120 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-15T04:09:08+05:30",
+  "generated": "2026-06-16T04:46:35+05:30",
   "slots": [
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-06-15T03:00:00+05:30",
-      "end": "2026-06-15T05:07:39+05:30",
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-06-16T03:00:00+05:30",
+      "end": "2026-06-16T05:34:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 9287
         }
       ]
     },
     {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-06-15T05:07:39+05:30",
-      "end": "2026-06-15T07:19:11+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-06-16T05:34:47+05:30",
+      "end": "2026-06-16T07:46:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
+          "to": 7909
         }
       ]
     },
     {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-06-15T07:19:11+05:30",
-      "end": "2026-06-15T09:48:58+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-06-16T07:46:36+05:30",
+      "end": "2026-06-16T10:19:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8987
+          "to": 9203
         }
       ]
     },
     {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-06-15T09:48:58+05:30",
-      "end": "2026-06-15T12:01:15+05:30",
+      "youtube": "Uhu-7eV5cPs",
+      "title": "Vandanam",
+      "start": "2026-06-16T10:19:59+05:30",
+      "end": "2026-06-16T13:19:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7937
+          "to": 10798
         }
       ]
     },
     {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-06-15T12:01:15+05:30",
-      "end": "2026-06-15T14:41:48+05:30",
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-06-16T13:19:57+05:30",
+      "end": "2026-06-16T15:45:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9633
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-06-16T15:45:43+05:30",
+      "end": "2026-06-16T17:48:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-06-16T17:48:40+05:30",
+      "end": "2026-06-16T19:38:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-06-16T19:38:53+05:30",
+      "end": "2026-06-16T22:03:36+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8683
+        }
+      ]
+    },
+    {
+      "youtube": "7wCxFzs5JsM",
+      "title": "Pavam Pavam Rajakumaran",
+      "start": "2026-06-16T22:03:36+05:30",
+      "end": "2026-06-17T24:03:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7196
         }
       ]
     },
     {
       "youtube": "n-vuT-GfF0g",
       "title": "Thenkasipattanam",
-      "start": "2026-06-15T14:41:48+05:30",
-      "end": "2026-06-15T16:49:36+05:30",
+      "start": "2026-06-17T24:03:32+05:30",
+      "end": "2026-06-17T02:11:20+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +123,14 @@
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-06-15T16:49:36+05:30",
-      "end": "2026-06-15T19:00:14+05:30",
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-06-17T02:11:20+05:30",
+      "end": "2026-06-17T04:18:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-06-15T19:00:14+05:30",
-      "end": "2026-06-15T20:54:40+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-06-15T20:54:40+05:30",
-      "end": "2026-06-15T23:10:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8161
-        }
-      ]
-    },
-    {
-      "youtube": "THew2hCgCDs",
-      "title": "Chithram",
-      "start": "2026-06-15T23:10:41+05:30",
-      "end": "2026-06-16T01:47:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9401
-        }
-      ]
-    },
-    {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-06-16T01:47:22+05:30",
-      "end": "2026-06-16T04:02:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8111
+          "to": 7611
         }
       ]
     }
