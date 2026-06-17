@@ -1,12 +1,60 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-17T04:32:18+05:30",
+  "generated": "2026-06-18T04:26:41+05:30",
   "slots": [
+    {
+      "youtube": "tyJ2O3Y6qk0",
+      "title": "Hallo",
+      "start": "2026-06-18T03:00:00+05:30",
+      "end": "2026-06-18T05:25:02+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8702
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-06-18T05:25:02+05:30",
+      "end": "2026-06-18T07:38:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
+    {
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-06-18T07:38:21+05:30",
+      "end": "2026-06-18T09:41:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-06-18T09:41:18+05:30",
+      "end": "2026-06-18T11:38:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7047
+        }
+      ]
+    },
     {
       "youtube": "zS5MDOwDQ9A",
       "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-06-17T03:00:00+05:30",
-      "end": "2026-06-17T05:38:42+05:30",
+      "start": "2026-06-18T11:38:45+05:30",
+      "end": "2026-06-18T14:17:27+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,46 +63,10 @@
       ]
     },
     {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-06-17T05:38:42+05:30",
-      "end": "2026-06-17T07:42:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
-        }
-      ]
-    },
-    {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-06-17T07:42:16+05:30",
-      "end": "2026-06-17T09:53:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7856
-        }
-      ]
-    },
-    {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-06-17T09:53:12+05:30",
-      "end": "2026-06-17T12:18:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8722
-        }
-      ]
-    },
-    {
       "youtube": "3IqGqL-FyQk",
       "title": "Pandippada",
-      "start": "2026-06-17T12:18:34+05:30",
-      "end": "2026-06-17T14:47:39+05:30",
+      "start": "2026-06-18T14:17:27+05:30",
+      "end": "2026-06-18T16:46:32+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +75,62 @@
       ]
     },
     {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-06-17T14:47:39+05:30",
-      "end": "2026-06-17T16:59:11+05:30",
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-06-18T16:46:32+05:30",
+      "end": "2026-06-18T19:02:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
+          "to": 8161
         }
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-06-17T16:59:11+05:30",
-      "end": "2026-06-17T19:14:01+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-06-18T19:02:33+05:30",
+      "end": "2026-06-18T21:11:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 7725
         }
       ]
     },
     {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-06-17T19:14:01+05:30",
-      "end": "2026-06-17T21:38:08+05:30",
+      "youtube": "xzJhnlxxqpc",
+      "title": "Pavam I.A. Ivachan",
+      "start": "2026-06-18T21:11:18+05:30",
+      "end": "2026-06-18T23:27:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8647
+          "to": 8162
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-06-17T21:38:08+05:30",
-      "end": "2026-06-18T24:23:57+05:30",
+      "youtube": "HqTOaQh5RnI",
+      "title": "Mannadiar Penninu Chenkotta Checkan",
+      "start": "2026-06-18T23:27:20+05:30",
+      "end": "2026-06-19T01:21:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 6866
         }
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-06-18T24:23:57+05:30",
-      "end": "2026-06-18T02:34:35+05:30",
+      "youtube": "THew2hCgCDs",
+      "title": "Chithram",
+      "start": "2026-06-19T01:21:46+05:30",
+      "end": "2026-06-19T03:58:27+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "eSIn0GOQRds",
-      "title": "Aramana Veedum Anjoorekkarum",
-      "start": "2026-06-18T02:34:35+05:30",
-      "end": "2026-06-18T04:28:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6825
+          "to": 9401
         }
       ]
     }
