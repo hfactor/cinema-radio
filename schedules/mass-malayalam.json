@@ -1,84 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-18T04:26:41+05:30",
+  "generated": "2026-06-19T04:47:15+05:30",
   "slots": [
-    {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-06-18T03:00:00+05:30",
-      "end": "2026-06-18T04:42:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-06-18T04:42:16+05:30",
-      "end": "2026-06-18T07:36:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-06-18T07:36:55+05:30",
-      "end": "2026-06-18T10:02:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-06-18T10:02:44+05:30",
-      "end": "2026-06-18T12:53:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-06-18T12:53:38+05:30",
-      "end": "2026-06-18T15:03:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-06-18T15:03:58+05:30",
-      "end": "2026-06-18T17:37:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
     {
       "youtube": "qTAiwIPvYSA",
       "title": "Iyobinte Pusthakam",
-      "start": "2026-06-18T17:37:00+05:30",
-      "end": "2026-06-18T20:13:38+05:30",
+      "start": "2026-06-19T03:00:00+05:30",
+      "end": "2026-06-19T05:36:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +15,98 @@
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-06-18T20:13:38+05:30",
-      "end": "2026-06-18T22:42:27+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-06-19T05:36:38+05:30",
+      "end": "2026-06-19T08:29:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-06-18T22:42:27+05:30",
-      "end": "2026-06-19T01:37:17+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-06-19T08:29:32+05:30",
+      "end": "2026-06-19T11:14:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 9893
         }
       ]
     },
     {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-06-19T01:37:17+05:30",
-      "end": "2026-06-19T04:06:17+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-06-19T11:14:25+05:30",
+      "end": "2026-06-19T13:43:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8940
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-06-19T13:43:03+05:30",
+      "end": "2026-06-19T16:03:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-06-19T16:03:45+05:30",
+      "end": "2026-06-19T19:01:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-06-19T19:01:27+05:30",
+      "end": "2026-06-19T21:36:36+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-06-19T21:36:36+05:30",
+      "end": "2026-06-20T24:17:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-06-20T24:17:14+05:30",
+      "end": "2026-06-20T03:14:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
         }
       ]
     }
