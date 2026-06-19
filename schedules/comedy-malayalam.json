@@ -1,36 +1,48 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-19T04:47:15+05:30",
+  "generated": "2026-06-20T04:00:49+05:30",
   "slots": [
     {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-06-19T03:00:00+05:30",
-      "end": "2026-06-19T05:10:56+05:30",
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-06-20T03:00:00+05:30",
+      "end": "2026-06-20T05:34:00+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7856
+          "to": 9240
         }
       ]
     },
     {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-06-19T05:10:56+05:30",
-      "end": "2026-06-19T07:08:50+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-06-20T05:34:00+05:30",
+      "end": "2026-06-20T07:48:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7074
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-06-20T07:48:49+05:30",
+      "end": "2026-06-20T10:10:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8521
         }
       ]
     },
     {
       "youtube": "sBLATypOxoE",
       "title": "Body Guard",
-      "start": "2026-06-19T07:08:50+05:30",
-      "end": "2026-06-19T09:16:18+05:30",
+      "start": "2026-06-20T10:10:50+05:30",
+      "end": "2026-06-20T12:18:18+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,98 +51,86 @@
       ]
     },
     {
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-06-20T12:18:18+05:30",
+      "end": "2026-06-20T14:34:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8163
+        }
+      ]
+    },
+    {
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-06-20T14:34:21+05:30",
+      "end": "2026-06-20T17:13:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9522
+        }
+      ]
+    },
+    {
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-06-20T17:13:03+05:30",
+      "end": "2026-06-20T19:42:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8987
+        }
+      ]
+    },
+    {
+      "youtube": "tyJ2O3Y6qk0",
+      "title": "Hallo",
+      "start": "2026-06-20T19:42:50+05:30",
+      "end": "2026-06-20T22:07:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8702
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-06-20T22:07:52+05:30",
+      "end": "2026-06-21T24:32:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-06-21T24:32:15+05:30",
+      "end": "2026-06-21T02:33:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7295
+        }
+      ]
+    },
+    {
       "youtube": "MFHwp26QNr0",
       "title": "Mookkilla Raajyathu",
-      "start": "2026-06-19T09:16:18+05:30",
-      "end": "2026-06-19T11:28:35+05:30",
+      "start": "2026-06-21T02:33:50+05:30",
+      "end": "2026-06-21T04:46:07+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7937
-        }
-      ]
-    },
-    {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-06-19T11:28:35+05:30",
-      "end": "2026-06-19T13:49:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8457
-        }
-      ]
-    },
-    {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-06-19T13:49:32+05:30",
-      "end": "2026-06-19T16:08:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8334
-        }
-      ]
-    },
-    {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-06-19T16:08:26+05:30",
-      "end": "2026-06-19T18:34:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8734
-        }
-      ]
-    },
-    {
-      "youtube": "HTv8oIi37Nc",
-      "title": "Aye Auto",
-      "start": "2026-06-19T18:34:00+05:30",
-      "end": "2026-06-19T20:46:10+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7930
-        }
-      ]
-    },
-    {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-06-19T20:46:10+05:30",
-      "end": "2026-06-19T22:53:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7659
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-06-19T22:53:49+05:30",
-      "end": "2026-06-20T01:34:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-06-20T01:34:22+05:30",
-      "end": "2026-06-20T04:09:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9287
         }
       ]
     }

@@ -1,72 +1,36 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-19T04:47:15+05:30",
+  "generated": "2026-06-20T04:00:49+05:30",
   "slots": [
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-06-19T03:00:00+05:30",
-      "end": "2026-06-19T05:36:38+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-06-20T03:00:00+05:30",
+      "end": "2026-06-20T05:33:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
+          "to": 9182
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-06-19T05:36:38+05:30",
-      "end": "2026-06-19T08:29:32+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-06-20T05:33:02+05:30",
+      "end": "2026-06-20T08:17:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-06-19T08:29:32+05:30",
-      "end": "2026-06-19T11:14:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-06-19T11:14:25+05:30",
-      "end": "2026-06-19T13:43:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8918
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-06-19T13:43:03+05:30",
-      "end": "2026-06-19T16:03:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
+          "to": 9839
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-06-19T16:03:45+05:30",
-      "end": "2026-06-19T19:01:27+05:30",
+      "start": "2026-06-20T08:17:01+05:30",
+      "end": "2026-06-20T11:14:43+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,38 +39,74 @@
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-06-19T19:01:27+05:30",
-      "end": "2026-06-19T21:36:36+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-06-20T11:14:43+05:30",
+      "end": "2026-06-20T13:43:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 8940
         }
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-06-19T21:36:36+05:30",
-      "end": "2026-06-20T24:17:14+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-20T13:43:43+05:30",
+      "end": "2026-06-20T16:38:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 10479
         }
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-06-20T24:17:14+05:30",
-      "end": "2026-06-20T03:14:18+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-06-20T16:38:22+05:30",
+      "end": "2026-06-20T19:12:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-06-20T19:12:42+05:30",
+      "end": "2026-06-20T22:03:36+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-06-20T22:03:36+05:30",
+      "end": "2026-06-21T24:32:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-06-21T24:32:14+05:30",
+      "end": "2026-06-21T03:17:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
         }
       ]
     }
