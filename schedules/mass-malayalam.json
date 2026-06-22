@@ -1,84 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-22T04:12:33+05:30",
+  "generated": "2026-06-23T04:30:54+05:30",
   "slots": [
     {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-06-22T03:00:00+05:30",
-      "end": "2026-06-22T05:57:42+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-06-23T03:00:00+05:30",
+      "end": "2026-06-23T04:42:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10662
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-06-22T05:57:42+05:30",
-      "end": "2026-06-22T08:23:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-06-22T08:23:31+05:30",
-      "end": "2026-06-22T10:42:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-06-22T10:42:16+05:30",
-      "end": "2026-06-22T13:30:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-06-22T13:30:17+05:30",
-      "end": "2026-06-22T15:58:37+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8900
-        }
-      ]
-    },
-    {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-06-22T15:58:37+05:30",
-      "end": "2026-06-22T18:11:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
+          "to": 6136
         }
       ]
     },
     {
       "youtube": "dJmHzy4sqn0",
       "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-06-22T18:11:54+05:30",
-      "end": "2026-06-22T20:40:43+05:30",
+      "start": "2026-06-23T04:42:16+05:30",
+      "end": "2026-06-23T07:11:05+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +27,98 @@
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-06-22T20:40:43+05:30",
-      "end": "2026-06-22T23:29:40+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-06-23T07:11:05+05:30",
+      "end": "2026-06-23T10:01:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
+          "to": 10254
         }
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-06-22T23:29:40+05:30",
-      "end": "2026-06-23T02:13:39+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-06-23T10:01:59+05:30",
+      "end": "2026-06-23T12:37:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 9326
         }
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-06-23T02:13:39+05:30",
-      "end": "2026-06-23T04:42:17+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-06-23T12:37:25+05:30",
+      "end": "2026-06-23T15:11:45+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-23T15:11:45+05:30",
+      "end": "2026-06-23T18:06:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-06-23T18:06:24+05:30",
+      "end": "2026-06-23T20:51:17+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-06-23T20:51:17+05:30",
+      "end": "2026-06-23T23:39:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10081
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-06-23T23:39:18+05:30",
+      "end": "2026-06-24T02:14:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-06-24T02:14:27+05:30",
+      "end": "2026-06-24T04:51:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9398
         }
       ]
     }
