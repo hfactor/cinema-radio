@@ -1,24 +1,12 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-23T04:30:54+05:30",
+  "generated": "2026-06-24T04:15:16+05:30",
   "slots": [
-    {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-06-23T03:00:00+05:30",
-      "end": "2026-06-23T05:25:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8722
-        }
-      ]
-    },
     {
       "youtube": "MJg2fqrF2Tw",
       "title": "Mayavi",
-      "start": "2026-06-23T05:25:22+05:30",
-      "end": "2026-06-23T07:30:03+05:30",
+      "start": "2026-06-24T03:00:00+05:30",
+      "end": "2026-06-24T05:04:41+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,46 +15,10 @@
       ]
     },
     {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-06-23T07:30:03+05:30",
-      "end": "2026-06-23T10:00:27+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9024
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-06-23T10:00:27+05:30",
-      "end": "2026-06-23T12:08:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-06-23T12:08:15+05:30",
-      "end": "2026-06-23T14:02:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
       "youtube": "_d-AdeBZVYc",
       "title": "Akkare Akkare Akkare",
-      "start": "2026-06-23T14:02:41+05:30",
-      "end": "2026-06-23T16:32:32+05:30",
+      "start": "2026-06-24T05:04:41+05:30",
+      "end": "2026-06-24T07:34:32+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +27,110 @@
       ]
     },
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-06-23T16:32:32+05:30",
-      "end": "2026-06-23T19:04:16+05:30",
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-06-24T07:34:32+05:30",
+      "end": "2026-06-24T09:45:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 7856
         }
       ]
     },
     {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-06-23T19:04:16+05:30",
-      "end": "2026-06-23T20:54:29+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-06-24T09:45:28+05:30",
+      "end": "2026-06-24T11:52:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6613
+          "to": 7651
         }
       ]
     },
     {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-06-23T20:54:29+05:30",
-      "end": "2026-06-23T23:19:31+05:30",
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-06-24T11:52:59+05:30",
+      "end": "2026-06-24T14:12:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8702
+          "to": 8393
         }
       ]
     },
     {
-      "youtube": "tnUApaINfwg",
-      "title": "Kavadiyattam",
-      "start": "2026-06-23T23:19:31+05:30",
-      "end": "2026-06-24T01:27:49+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-06-24T14:12:52+05:30",
+      "end": "2026-06-24T16:46:15+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7698
+          "to": 9203
         }
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-06-24T01:27:49+05:30",
-      "end": "2026-06-24T03:38:27+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-06-24T16:46:15+05:30",
+      "end": "2026-06-24T18:49:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-06-24T18:49:12+05:30",
+      "end": "2026-06-24T20:59:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7841
+        }
+      ]
+    },
+    {
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-06-24T20:59:53+05:30",
+      "end": "2026-06-24T23:01:28+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7295
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-06-24T23:01:28+05:30",
+      "end": "2026-06-25T01:14:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
+    {
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-06-25T01:14:47+05:30",
+      "end": "2026-06-25T03:23:30+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7723
         }
       ]
     }
