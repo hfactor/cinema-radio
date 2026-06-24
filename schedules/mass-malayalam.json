@@ -1,72 +1,48 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-06-24T04:15:16+05:30",
+  "generated": "2026-06-25T04:15:52+05:30",
   "slots": [
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-06-24T03:00:00+05:30",
-      "end": "2026-06-24T05:18:45+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-06-25T03:00:00+05:30",
+      "end": "2026-06-25T05:35:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
+          "to": 9326
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-06-24T05:18:45+05:30",
-      "end": "2026-06-24T08:11:39+05:30",
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-06-25T05:35:26+05:30",
+      "end": "2026-06-25T08:32:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 10612
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-06-24T08:11:39+05:30",
-      "end": "2026-06-24T11:06:29+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-06-25T08:32:18+05:30",
+      "end": "2026-06-25T11:08:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-06-24T11:06:29+05:30",
-      "end": "2026-06-24T13:55:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-06-24T13:55:26+05:30",
-      "end": "2026-06-24T16:33:57+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
+          "to": 9398
         }
       ]
     },
     {
       "youtube": "H88LQE0vJRw",
       "title": "Harikrishnans",
-      "start": "2026-06-24T16:33:57+05:30",
-      "end": "2026-06-24T19:08:17+05:30",
+      "start": "2026-06-25T11:08:56+05:30",
+      "end": "2026-06-25T13:43:16+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,38 +51,62 @@
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-06-24T19:08:17+05:30",
-      "end": "2026-06-24T21:41:19+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-06-25T13:43:16+05:30",
+      "end": "2026-06-25T16:11:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
+          "to": 8918
         }
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-06-24T21:41:19+05:30",
-      "end": "2026-06-25T24:25:18+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-06-25T16:11:54+05:30",
+      "end": "2026-06-25T18:37:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-06-25T24:25:18+05:30",
-      "end": "2026-06-25T03:05:56+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-06-25T18:37:43+05:30",
+      "end": "2026-06-25T21:32:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-06-25T21:32:22+05:30",
+      "end": "2026-06-26T24:25:16+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-06-26T24:25:16+05:30",
+      "end": "2026-06-26T03:22:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
         }
       ]
     }
