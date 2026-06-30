@@ -1,84 +1,36 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-06-30T04:05:45+05:30",
+  "generated": "2026-07-01T04:19:02+05:30",
   "slots": [
     {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-06-30T03:00:00+05:30",
-      "end": "2026-06-30T05:33:23+05:30",
+      "youtube": "THew2hCgCDs",
+      "title": "Chithram",
+      "start": "2026-07-01T03:00:00+05:30",
+      "end": "2026-07-01T05:36:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9203
+          "to": 9401
         }
       ]
     },
     {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-06-30T05:33:23+05:30",
-      "end": "2026-06-30T08:03:10+05:30",
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-07-01T05:36:41+05:30",
+      "end": "2026-07-01T07:41:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8987
-        }
-      ]
-    },
-    {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-06-30T08:03:10+05:30",
-      "end": "2026-06-30T10:10:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7651
-        }
-      ]
-    },
-    {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-06-30T10:10:41+05:30",
-      "end": "2026-06-30T12:42:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9104
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-06-30T12:42:25+05:30",
-      "end": "2026-06-30T14:58:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-06-30T14:58:28+05:30",
-      "end": "2026-06-30T17:02:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
+          "to": 7481
         }
       ]
     },
     {
       "youtube": "KByu58dvUJA",
       "title": "Chattambinadu",
-      "start": "2026-06-30T17:02:02+05:30",
-      "end": "2026-06-30T19:03:37+05:30",
+      "start": "2026-07-01T07:41:22+05:30",
+      "end": "2026-07-01T09:42:57+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +39,98 @@
       ]
     },
     {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-06-30T19:03:37+05:30",
-      "end": "2026-06-30T21:36:25+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-07-01T09:42:57+05:30",
+      "end": "2026-07-01T11:58:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9168
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "Uhu-7eV5cPs",
-      "title": "Vandanam",
-      "start": "2026-06-30T21:36:25+05:30",
-      "end": "2026-07-01T24:36:23+05:30",
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-07-01T11:58:08+05:30",
+      "end": "2026-07-01T14:14:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10798
+          "to": 8161
         }
       ]
     },
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-07-01T24:36:23+05:30",
-      "end": "2026-07-01T02:56:09+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-07-01T14:14:09+05:30",
+      "end": "2026-07-01T16:22:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "THew2hCgCDs",
-      "title": "Chithram",
-      "start": "2026-07-01T02:56:09+05:30",
-      "end": "2026-07-01T05:32:50+05:30",
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-07-01T16:22:52+05:30",
+      "end": "2026-07-01T18:58:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9401
+          "to": 9354
+        }
+      ]
+    },
+    {
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-07-01T18:58:46+05:30",
+      "end": "2026-07-01T21:32:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9240
+        }
+      ]
+    },
+    {
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-07-01T21:32:46+05:30",
+      "end": "2026-07-02T24:02:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8987
+        }
+      ]
+    },
+    {
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-07-02T24:02:33+05:30",
+      "end": "2026-07-02T02:17:23+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8090
+        }
+      ]
+    },
+    {
+      "youtube": "s6P9QNj2_o0",
+      "title": "Kuberan",
+      "start": "2026-07-02T02:17:23+05:30",
+      "end": "2026-07-02T04:49:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9104
         }
       ]
     }
