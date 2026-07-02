@@ -1,108 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-02T04:16:13+05:30",
+  "generated": "2026-07-03T04:05:57+05:30",
   "slots": [
     {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-07-02T03:00:00+05:30",
-      "end": "2026-07-02T05:35:54+05:30",
+      "youtube": "IoTeFxml2Bo",
+      "title": "Oru Maravathoor Kanavu",
+      "start": "2026-07-03T03:00:00+05:30",
+      "end": "2026-07-03T05:11:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9354
-        }
-      ]
-    },
-    {
-      "youtube": "Uhu-7eV5cPs",
-      "title": "Vandanam",
-      "start": "2026-07-02T05:35:54+05:30",
-      "end": "2026-07-02T08:35:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10798
-        }
-      ]
-    },
-    {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-07-02T08:35:52+05:30",
-      "end": "2026-07-02T10:51:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8162
-        }
-      ]
-    },
-    {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-07-02T10:51:54+05:30",
-      "end": "2026-07-02T12:56:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7481
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-07-02T12:56:35+05:30",
-      "end": "2026-07-02T15:00:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
-        }
-      ]
-    },
-    {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-07-02T15:00:09+05:30",
-      "end": "2026-07-02T17:14:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8089
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-07-02T17:14:58+05:30",
-      "end": "2026-07-02T19:31:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
-        }
-      ]
-    },
-    {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-07-02T19:31:01+05:30",
-      "end": "2026-07-02T21:50:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8398
+          "to": 7892
         }
       ]
     },
     {
       "youtube": "tnUApaINfwg",
       "title": "Kavadiyattam",
-      "start": "2026-07-02T21:50:59+05:30",
-      "end": "2026-07-02T23:59:17+05:30",
+      "start": "2026-07-03T05:11:32+05:30",
+      "end": "2026-07-03T07:19:50+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +27,110 @@
       ]
     },
     {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-07-02T23:59:17+05:30",
-      "end": "2026-07-03T02:29:08+05:30",
+      "youtube": "3IqGqL-FyQk",
+      "title": "Pandippada",
+      "start": "2026-07-03T07:19:50+05:30",
+      "end": "2026-07-03T09:48:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8991
+          "to": 8945
         }
       ]
     },
     {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-07-03T02:29:08+05:30",
-      "end": "2026-07-03T04:48:02+05:30",
+      "youtube": "Uhu-7eV5cPs",
+      "title": "Vandanam",
+      "start": "2026-07-03T09:48:55+05:30",
+      "end": "2026-07-03T12:48:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8334
+          "to": 10798
+        }
+      ]
+    },
+    {
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-07-03T12:48:53+05:30",
+      "end": "2026-07-03T15:29:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9633
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-07-03T15:29:26+05:30",
+      "end": "2026-07-03T17:29:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-07-03T17:29:06+05:30",
+      "end": "2026-07-03T19:19:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-07-03T19:19:19+05:30",
+      "end": "2026-07-03T21:52:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9168
+        }
+      ]
+    },
+    {
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-07-03T21:52:07+05:30",
+      "end": "2026-07-03T23:55:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7414
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-07-03T23:55:41+05:30",
+      "end": "2026-07-04T02:21:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-07-04T02:21:27+05:30",
+      "end": "2026-07-04T04:30:10+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7723
         }
       ]
     }
