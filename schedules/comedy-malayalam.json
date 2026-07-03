@@ -1,108 +1,48 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-03T04:05:57+05:30",
+  "generated": "2026-07-04T04:02:16+05:30",
   "slots": [
     {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-07-03T03:00:00+05:30",
-      "end": "2026-07-03T05:11:32+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-07-04T03:00:00+05:30",
+      "end": "2026-07-04T05:25:34+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
+          "to": 8734
         }
       ]
     },
     {
-      "youtube": "tnUApaINfwg",
-      "title": "Kavadiyattam",
-      "start": "2026-07-03T05:11:32+05:30",
-      "end": "2026-07-03T07:19:50+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-07-04T05:25:34+05:30",
+      "end": "2026-07-04T07:58:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7698
+          "to": 9203
         }
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-07-03T07:19:50+05:30",
-      "end": "2026-07-03T09:48:55+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-07-04T07:58:57+05:30",
+      "end": "2026-07-04T10:20:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
-        }
-      ]
-    },
-    {
-      "youtube": "Uhu-7eV5cPs",
-      "title": "Vandanam",
-      "start": "2026-07-03T09:48:55+05:30",
-      "end": "2026-07-03T12:48:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10798
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-07-03T12:48:53+05:30",
-      "end": "2026-07-03T15:29:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-07-03T15:29:26+05:30",
-      "end": "2026-07-03T17:29:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7180
-        }
-      ]
-    },
-    {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-07-03T17:29:06+05:30",
-      "end": "2026-07-03T19:19:19+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6613
-        }
-      ]
-    },
-    {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-07-03T19:19:19+05:30",
-      "end": "2026-07-03T21:52:07+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9168
+          "to": 8521
         }
       ]
     },
     {
       "youtube": "yXnh6yb0oz4",
       "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-07-03T21:52:07+05:30",
-      "end": "2026-07-03T23:55:41+05:30",
+      "start": "2026-07-04T10:20:58+05:30",
+      "end": "2026-07-04T12:24:32+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +51,86 @@
       ]
     },
     {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-07-03T23:55:41+05:30",
-      "end": "2026-07-04T02:21:27+05:30",
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-07-04T12:24:32+05:30",
+      "end": "2026-07-04T14:32:00+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8746
+          "to": 7648
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-07-04T02:21:27+05:30",
-      "end": "2026-07-04T04:30:10+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-07-04T14:32:00+05:30",
+      "end": "2026-07-04T16:34:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-07-04T16:34:57+05:30",
+      "end": "2026-07-04T19:09:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
+        }
+      ]
+    },
+    {
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-07-04T19:09:44+05:30",
+      "end": "2026-07-04T21:07:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7047
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-07-04T21:07:11+05:30",
+      "end": "2026-07-04T23:06:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-07-04T23:06:51+05:30",
+      "end": "2026-07-05T01:18:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7912
+        }
+      ]
+    },
+    {
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-07-05T01:18:43+05:30",
+      "end": "2026-07-05T03:49:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9024
         }
       ]
     }
