@@ -1,48 +1,12 @@
 {
   "band": "senti-party",
-  "generated": "2026-07-04T04:02:16+05:30",
+  "generated": "2026-07-05T03:56:20+05:30",
   "slots": [
-    {
-      "youtube": "GP6V5pjY0v8",
-      "title": "Pookkalam Varavayi",
-      "start": "2026-07-04T03:00:00+05:30",
-      "end": "2026-07-04T04:59:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7188
-        }
-      ]
-    },
-    {
-      "youtube": "XJFOgrRt-fs",
-      "title": "Sthreedhanam",
-      "start": "2026-07-04T04:59:48+05:30",
-      "end": "2026-07-04T07:08:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7718
-        }
-      ]
-    },
-    {
-      "youtube": "BJaigrZCXUM",
-      "title": "Desadanam",
-      "start": "2026-07-04T07:08:26+05:30",
-      "end": "2026-07-04T09:14:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7537
-        }
-      ]
-    },
     {
       "youtube": "tkRRhAqWlQ4",
       "title": "Kalippattam",
-      "start": "2026-07-04T09:14:03+05:30",
-      "end": "2026-07-04T11:34:54+05:30",
+      "start": "2026-07-05T03:00:00+05:30",
+      "end": "2026-07-05T05:20:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,22 +15,70 @@
       ]
     },
     {
-      "youtube": "j-hgsDwEYRo",
-      "title": "Chenkol",
-      "start": "2026-07-04T11:34:54+05:30",
-      "end": "2026-07-04T14:17:14+05:30",
+      "youtube": "BJaigrZCXUM",
+      "title": "Desadanam",
+      "start": "2026-07-05T05:20:51+05:30",
+      "end": "2026-07-05T07:26:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9740
+          "to": 7537
+        }
+      ]
+    },
+    {
+      "youtube": "XJFOgrRt-fs",
+      "title": "Sthreedhanam",
+      "start": "2026-07-05T07:26:28+05:30",
+      "end": "2026-07-05T09:35:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7718
+        }
+      ]
+    },
+    {
+      "youtube": "cH9f3fKc5Kc",
+      "title": "Koode",
+      "start": "2026-07-05T09:35:06+05:30",
+      "end": "2026-07-05T11:44:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7766
+        }
+      ]
+    },
+    {
+      "youtube": "GP6V5pjY0v8",
+      "title": "Pookkalam Varavayi",
+      "start": "2026-07-05T11:44:32+05:30",
+      "end": "2026-07-05T13:44:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7188
+        }
+      ]
+    },
+    {
+      "youtube": "M8-hQGsCHAo",
+      "title": "Sargam",
+      "start": "2026-07-05T13:44:20+05:30",
+      "end": "2026-07-05T16:05:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8473
         }
       ]
     },
     {
       "youtube": "EbWd2H_d8F4",
       "title": "Sneham",
-      "start": "2026-07-04T14:17:14+05:30",
-      "end": "2026-07-04T16:33:28+05:30",
+      "start": "2026-07-05T16:05:33+05:30",
+      "end": "2026-07-05T18:21:47+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,22 +87,46 @@
       ]
     },
     {
-      "youtube": "P5zd5HO1OM4",
-      "title": "Vesham",
-      "start": "2026-07-04T16:33:28+05:30",
-      "end": "2026-07-04T19:06:36+05:30",
+      "youtube": "05w7mURHbi4",
+      "title": "Akashadoothu",
+      "start": "2026-07-05T18:21:47+05:30",
+      "end": "2026-07-05T20:33:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9188
+          "to": 7915
+        }
+      ]
+    },
+    {
+      "youtube": "V0R1jSpr4FA",
+      "title": "Ore Kadal",
+      "start": "2026-07-05T20:33:42+05:30",
+      "end": "2026-07-05T22:26:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6753
+        }
+      ]
+    },
+    {
+      "youtube": "adUvUBUBr4A",
+      "title": "Sadanandante Samayam",
+      "start": "2026-07-05T22:26:15+05:30",
+      "end": "2026-07-06T24:50:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8628
         }
       ]
     },
     {
       "youtube": "2PowNDcA2b8",
       "title": "Soorya Gayathri",
-      "start": "2026-07-04T19:06:36+05:30",
-      "end": "2026-07-04T21:13:30+05:30",
+      "start": "2026-07-06T24:50:03+05:30",
+      "end": "2026-07-06T02:56:57+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,38 +135,14 @@
       ]
     },
     {
-      "youtube": "RbAr8PUBcVY",
-      "title": "Pappayude Swantham Appoos",
-      "start": "2026-07-04T21:13:30+05:30",
-      "end": "2026-07-04T23:32:44+05:30",
+      "youtube": "zAyqx6MeMis",
+      "title": "Achanurangatha Veedu",
+      "start": "2026-07-06T02:56:57+05:30",
+      "end": "2026-07-06T04:57:17+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8354
-        }
-      ]
-    },
-    {
-      "youtube": "zDJISszvNe0",
-      "title": "Ninnishtam Ennishtam",
-      "start": "2026-07-04T23:32:44+05:30",
-      "end": "2026-07-05T01:38:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7569
-        }
-      ]
-    },
-    {
-      "youtube": "NdZtLxU1uzk",
-      "title": "Amma Ammayiyamma",
-      "start": "2026-07-05T01:38:53+05:30",
-      "end": "2026-07-05T03:59:47+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8454
+          "to": 7220
         }
       ]
     }
