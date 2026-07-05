@@ -1,108 +1,96 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-05T03:56:20+05:30",
+  "generated": "2026-07-06T03:59:34+05:30",
   "slots": [
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-07-05T03:00:00+05:30",
-      "end": "2026-07-05T05:36:38+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-06T03:00:00+05:30",
+      "end": "2026-07-06T05:28:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
+          "to": 8918
         }
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-07-05T05:36:38+05:30",
-      "end": "2026-07-05T08:31:30+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-07-06T05:28:38+05:30",
+      "end": "2026-07-06T08:21:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-07-05T08:31:30+05:30",
-      "end": "2026-07-05T11:12:08+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-07-06T08:21:32+05:30",
+      "end": "2026-07-06T10:54:34+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 9182
         }
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-07-05T11:12:08+05:30",
-      "end": "2026-07-05T13:22:28+05:30",
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-07-06T10:54:34+05:30",
+      "end": "2026-07-06T13:07:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 7997
         }
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-07-05T13:22:28+05:30",
-      "end": "2026-07-05T15:51:17+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-07-06T13:07:51+05:30",
+      "end": "2026-07-06T15:56:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 10137
         }
       ]
     },
     {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-07-05T15:51:17+05:30",
-      "end": "2026-07-05T18:25:37+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-07-06T15:56:48+05:30",
+      "end": "2026-07-06T18:32:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9260
+          "to": 9326
         }
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-07-05T18:25:37+05:30",
-      "end": "2026-07-05T21:09:36+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-07-06T18:32:14+05:30",
+      "end": "2026-07-06T20:50:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-07-05T21:09:36+05:30",
-      "end": "2026-07-05T23:37:56+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8900
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "BN3adoH7XSY",
       "title": "Lokanathan IAS",
-      "start": "2026-07-05T23:37:56+05:30",
-      "end": "2026-07-06T01:20:12+05:30",
+      "start": "2026-07-06T20:50:59+05:30",
+      "end": "2026-07-06T22:33:15+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +99,26 @@
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-07-06T01:20:12+05:30",
-      "end": "2026-07-06T03:58:43+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-07-06T22:33:15+05:30",
+      "end": "2026-07-07T01:01:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-07-07T01:01:35+05:30",
+      "end": "2026-07-07T03:35:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
         }
       ]
     }
