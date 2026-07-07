@@ -1,72 +1,60 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-07T04:14:23+05:30",
+  "generated": "2026-07-08T04:06:34+05:30",
   "slots": [
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-07-07T03:00:00+05:30",
-      "end": "2026-07-07T04:59:40+05:30",
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-07-08T03:00:00+05:30",
+      "end": "2026-07-08T05:06:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 7599
         }
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-07-07T04:59:40+05:30",
-      "end": "2026-07-07T07:21:41+05:30",
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-07-08T05:06:39+05:30",
+      "end": "2026-07-08T07:31:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 8663
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-07-07T07:21:41+05:30",
-      "end": "2026-07-07T09:37:26+05:30",
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-07-08T07:31:02+05:30",
+      "end": "2026-07-08T09:41:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 7841
         }
       ]
     },
     {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-07-07T09:37:26+05:30",
-      "end": "2026-07-07T11:57:24+05:30",
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-07-08T09:41:43+05:30",
+      "end": "2026-07-08T12:05:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8398
-        }
-      ]
-    },
-    {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-07-07T11:57:24+05:30",
-      "end": "2026-07-07T14:04:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7651
+          "to": 8647
         }
       ]
     },
     {
       "youtube": "N-_uc9HoouY",
       "title": "Pattanapravesham",
-      "start": "2026-07-07T14:04:55+05:30",
-      "end": "2026-07-07T16:24:41+05:30",
+      "start": "2026-07-08T12:05:50+05:30",
+      "end": "2026-07-08T14:25:36+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +63,74 @@
       ]
     },
     {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-07-07T16:24:41+05:30",
-      "end": "2026-07-07T18:43:35+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-07-08T14:25:36+05:30",
+      "end": "2026-07-08T16:33:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8334
+          "to": 7651
         }
       ]
     },
     {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-07-07T18:43:35+05:30",
-      "end": "2026-07-07T21:13:22+05:30",
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-07-08T16:33:07+05:30",
+      "end": "2026-07-08T18:36:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8987
+          "to": 7414
         }
       ]
     },
     {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-07-07T21:13:22+05:30",
-      "end": "2026-07-07T23:10:49+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-07-08T18:36:41+05:30",
+      "end": "2026-07-08T20:45:24+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7047
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-07-07T23:10:49+05:30",
-      "end": "2026-07-08T01:39:54+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-07-08T20:45:24+05:30",
+      "end": "2026-07-08T23:00:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
+          "to": 8089
         }
       ]
     },
     {
-      "youtube": "HTv8oIi37Nc",
-      "title": "Aye Auto",
-      "start": "2026-07-08T01:39:54+05:30",
-      "end": "2026-07-08T03:52:04+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-07-08T23:00:13+05:30",
+      "end": "2026-07-09T01:15:24+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7930
+          "to": 8111
+        }
+      ]
+    },
+    {
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-07-09T01:15:24+05:30",
+      "end": "2026-07-09T03:20:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7481
         }
       ]
     }
