@@ -1,48 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-10T04:19:01+05:30",
+  "generated": "2026-07-11T04:01:23+05:30",
   "slots": [
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-07-10T03:00:00+05:30",
-      "end": "2026-07-10T05:52:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-07-10T05:52:54+05:30",
-      "end": "2026-07-10T08:21:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-07-10T08:21:43+05:30",
-      "end": "2026-07-10T11:00:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
     {
       "youtube": "Nzuk7ASdjj8",
       "title": "Irupatham Nootand",
-      "start": "2026-07-10T11:00:14+05:30",
-      "end": "2026-07-10T13:13:31+05:30",
+      "start": "2026-07-11T03:00:00+05:30",
+      "end": "2026-07-11T05:13:17+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,46 +15,22 @@
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-07-10T13:13:31+05:30",
-      "end": "2026-07-10T15:41:51+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-07-11T05:13:17+05:30",
+      "end": "2026-07-11T07:32:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-07-10T15:41:51+05:30",
-      "end": "2026-07-10T18:17:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-07-10T18:17:17+05:30",
-      "end": "2026-07-10T19:59:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "qTAiwIPvYSA",
       "title": "Iyobinte Pusthakam",
-      "start": "2026-07-10T19:59:33+05:30",
-      "end": "2026-07-10T22:36:11+05:30",
+      "start": "2026-07-11T07:32:02+05:30",
+      "end": "2026-07-11T10:08:40+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +39,74 @@
       ]
     },
     {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-07-10T22:36:11+05:30",
-      "end": "2026-07-11T01:24:12+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-07-11T10:08:40+05:30",
+      "end": "2026-07-11T13:06:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10081
+          "to": 10662
         }
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-07-11T01:24:12+05:30",
-      "end": "2026-07-11T04:21:16+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-07-11T13:06:22+05:30",
+      "end": "2026-07-11T15:55:19+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-07-11T15:55:19+05:30",
+      "end": "2026-07-11T18:40:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-11T18:40:12+05:30",
+      "end": "2026-07-11T21:08:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-07-11T21:08:50+05:30",
+      "end": "2026-07-12T24:03:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-07-12T24:03:42+05:30",
+      "end": "2026-07-12T03:00:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
         }
       ]
     }
