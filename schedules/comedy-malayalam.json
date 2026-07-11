@@ -1,48 +1,96 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-11T04:01:23+05:30",
+  "generated": "2026-07-12T03:43:10+05:30",
   "slots": [
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-07-11T03:00:00+05:30",
-      "end": "2026-07-11T05:19:46+05:30",
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-07-12T03:00:00+05:30",
+      "end": "2026-07-12T05:24:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
+          "to": 8683
         }
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-07-11T05:19:46+05:30",
-      "end": "2026-07-11T07:14:12+05:30",
+      "youtube": "HTv8oIi37Nc",
+      "title": "Aye Auto",
+      "start": "2026-07-12T05:24:43+05:30",
+      "end": "2026-07-12T07:36:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
+          "to": 7930
         }
       ]
     },
     {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-07-11T07:14:12+05:30",
-      "end": "2026-07-11T09:26:01+05:30",
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-07-12T07:36:53+05:30",
+      "end": "2026-07-12T09:53:15+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7909
+          "to": 8182
+        }
+      ]
+    },
+    {
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-07-12T09:53:15+05:30",
+      "end": "2026-07-12T12:33:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9633
+        }
+      ]
+    },
+    {
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-07-12T12:33:48+05:30",
+      "end": "2026-07-12T14:48:59+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8111
+        }
+      ]
+    },
+    {
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-07-12T14:48:59+05:30",
+      "end": "2026-07-12T16:52:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7414
+        }
+      ]
+    },
+    {
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-07-12T16:52:33+05:30",
+      "end": "2026-07-12T19:08:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8161
         }
       ]
     },
     {
       "youtube": "IoTeFxml2Bo",
       "title": "Oru Maravathoor Kanavu",
-      "start": "2026-07-11T09:26:01+05:30",
-      "end": "2026-07-11T11:37:33+05:30",
+      "start": "2026-07-12T19:08:34+05:30",
+      "end": "2026-07-12T21:20:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -53,8 +101,8 @@
     {
       "youtube": "m1zbbDOkkFU",
       "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-07-11T11:37:33+05:30",
-      "end": "2026-07-11T13:58:30+05:30",
+      "start": "2026-07-12T21:20:06+05:30",
+      "end": "2026-07-12T23:41:03+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +111,26 @@
       ]
     },
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-07-11T13:58:30+05:30",
-      "end": "2026-07-11T15:58:26+05:30",
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-07-12T23:41:03+05:30",
+      "end": "2026-07-13T02:00:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
-        }
-      ]
-    },
-    {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-07-11T15:58:26+05:30",
-      "end": "2026-07-11T18:22:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8647
-        }
-      ]
-    },
-    {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-07-11T18:22:33+05:30",
-      "end": "2026-07-11T21:01:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9522
-        }
-      ]
-    },
-    {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-07-11T21:01:15+05:30",
-      "end": "2026-07-11T23:21:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8398
+          "to": 8393
         }
       ]
     },
     {
       "youtube": "CQKfDo9JOF4",
       "title": "Vadakkunokkiyantram",
-      "start": "2026-07-11T23:21:13+05:30",
-      "end": "2026-07-12T01:24:10+05:30",
+      "start": "2026-07-13T02:00:56+05:30",
+      "end": "2026-07-13T04:03:53+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7377
-        }
-      ]
-    },
-    {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-07-12T01:24:10+05:30",
-      "end": "2026-07-12T03:57:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9203
         }
       ]
     }
