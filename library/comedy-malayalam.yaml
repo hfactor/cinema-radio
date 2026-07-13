@@ -117,8 +117,8 @@ movies:
   - url: https://www.youtube.com/watch?v=bpFYOUkOybs
     title: Peruvannapurathe Visheshangal
 
-  - url: https://www.youtube.com/watch?v=THew2hCgCDs
-    title: Chithram
+# [not-embeddable] - url: https://www.youtube.com/watch?v=THew2hCgCDs
+#     title: Chithram
 
   - url: https://www.youtube.com/watch?v=xuQOJtrkiZU
     title: Classmates
@@ -132,11 +132,11 @@ movies:
   - url: https://www.youtube.com/watch?v=KBBta864Ong
     title: Chandralekha
 
-  - url: https://www.youtube.com/watch?v=HTv8oIi37Nc
-    title: Aye Auto
+# [not-embeddable] - url: https://www.youtube.com/watch?v=HTv8oIi37Nc
+#     title: Aye Auto
 
-  - url: https://www.youtube.com/watch?v=Uhu-7eV5cPs
-    title: Vandanam
+# [not-embeddable] - url: https://www.youtube.com/watch?v=Uhu-7eV5cPs
+#     title: Vandanam
 
   - url: https://www.youtube.com/watch?v=1L8zjJMmfsQ
     title: Nadodikattu
