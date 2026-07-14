@@ -1,12 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-14T03:56:14+05:30",
+  "generated": "2026-07-15T03:58:55+05:30",
   "slots": [
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-07-15T03:00:00+05:30",
+      "end": "2026-07-15T05:13:17+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
+        }
+      ]
+    },
     {
       "youtube": "2qKelKBAdlo",
       "title": "Dubai",
-      "start": "2026-07-14T03:00:00+05:30",
-      "end": "2026-07-14T05:50:54+05:30",
+      "start": "2026-07-15T05:13:17+05:30",
+      "end": "2026-07-15T08:04:11+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,46 +27,22 @@
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-07-14T05:50:54+05:30",
-      "end": "2026-07-14T08:35:47+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-07-15T08:04:11+05:30",
+      "end": "2026-07-15T10:40:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-07-14T08:35:47+05:30",
-      "end": "2026-07-14T11:08:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-07-14T11:08:49+05:30",
-      "end": "2026-07-14T12:51:05+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
+          "to": 9398
         }
       ]
     },
     {
       "youtube": "Q4BPekFLj1c",
       "title": "Rakshasa Rajavu",
-      "start": "2026-07-14T12:51:05+05:30",
-      "end": "2026-07-14T15:35:04+05:30",
+      "start": "2026-07-15T10:40:49+05:30",
+      "end": "2026-07-15T13:24:48+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,34 +51,22 @@
       ]
     },
     {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-07-14T15:35:04+05:30",
-      "end": "2026-07-14T18:04:04+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-15T13:24:48+05:30",
+      "end": "2026-07-15T15:53:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-07-14T18:04:04+05:30",
-      "end": "2026-07-14T20:52:05+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
+          "to": 8918
         }
       ]
     },
     {
       "youtube": "sX-mOuh6FY0",
       "title": "Pingami",
-      "start": "2026-07-14T20:52:05+05:30",
-      "end": "2026-07-14T23:10:50+05:30",
+      "start": "2026-07-15T15:53:26+05:30",
+      "end": "2026-07-15T18:12:11+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +75,50 @@
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-07-14T23:10:50+05:30",
-      "end": "2026-07-15T01:21:10+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-07-15T18:12:11+05:30",
+      "end": "2026-07-15T21:01:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 10137
         }
       ]
     },
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-07-15T01:21:10+05:30",
-      "end": "2026-07-15T04:15:49+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-07-15T21:01:08+05:30",
+      "end": "2026-07-15T23:58:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-07-15T23:58:50+05:30",
+      "end": "2026-07-16T02:33:10+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-07-16T02:33:10+05:30",
+      "end": "2026-07-16T05:28:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
         }
       ]
     }

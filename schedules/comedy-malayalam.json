@@ -1,108 +1,36 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-14T03:56:14+05:30",
+  "generated": "2026-07-15T03:58:55+05:30",
   "slots": [
     {
-      "youtube": "QlwKwes1qIs",
-      "title": "Mithunam",
-      "start": "2026-07-14T03:00:00+05:30",
-      "end": "2026-07-14T05:24:43+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-07-15T03:00:00+05:30",
+      "end": "2026-07-15T05:10:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8683
+          "to": 7838
         }
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-07-14T05:24:43+05:30",
-      "end": "2026-07-14T07:24:23+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-07-15T05:10:38+05:30",
+      "end": "2026-07-15T07:36:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
-        }
-      ]
-    },
-    {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-07-14T07:24:23+05:30",
-      "end": "2026-07-14T09:49:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8702
-        }
-      ]
-    },
-    {
-      "youtube": "KBBta864Ong",
-      "title": "Chandralekha",
-      "start": "2026-07-14T09:49:25+05:30",
-      "end": "2026-07-14T12:40:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10251
-        }
-      ]
-    },
-    {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-07-14T12:40:16+05:30",
-      "end": "2026-07-14T15:22:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9727
-        }
-      ]
-    },
-    {
-      "youtube": "fMc1KYI-orY",
-      "title": "Vellanakalude Nadu",
-      "start": "2026-07-14T15:22:23+05:30",
-      "end": "2026-07-14T17:38:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8182
-        }
-      ]
-    },
-    {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-07-14T17:38:45+05:30",
-      "end": "2026-07-14T20:04:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8746
-        }
-      ]
-    },
-    {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-07-14T20:04:31+05:30",
-      "end": "2026-07-14T22:24:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8386
+          "to": 8734
         }
       ]
     },
     {
       "youtube": "s6P9QNj2_o0",
       "title": "Kuberan",
-      "start": "2026-07-14T22:24:17+05:30",
-      "end": "2026-07-15T24:56:01+05:30",
+      "start": "2026-07-15T07:36:12+05:30",
+      "end": "2026-07-15T10:07:56+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +39,98 @@
       ]
     },
     {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-07-15T24:56:01+05:30",
-      "end": "2026-07-15T03:06:42+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-07-15T10:07:56+05:30",
+      "end": "2026-07-15T12:10:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7841
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-07-15T12:10:53+05:30",
+      "end": "2026-07-15T14:21:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7856
+        }
+      ]
+    },
+    {
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-07-15T14:21:49+05:30",
+      "end": "2026-07-15T17:07:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9949
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-07-15T17:07:38+05:30",
+      "end": "2026-07-15T19:33:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-07-15T19:33:24+05:30",
+      "end": "2026-07-15T22:03:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8987
+        }
+      ]
+    },
+    {
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-07-15T22:03:11+05:30",
+      "end": "2026-07-16T24:09:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7599
+        }
+      ]
+    },
+    {
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-07-16T24:09:50+05:30",
+      "end": "2026-07-16T02:24:39+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-07-16T02:24:39+05:30",
+      "end": "2026-07-16T04:40:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8161
         }
       ]
     }
