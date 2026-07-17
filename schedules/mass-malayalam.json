@@ -1,96 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-17T03:58:11+05:30",
+  "generated": "2026-07-18T03:43:30+05:30",
   "slots": [
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-07-17T03:00:00+05:30",
-      "end": "2026-07-17T05:33:02+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-07-18T03:00:00+05:30",
+      "end": "2026-07-18T05:18:45+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-07-17T05:33:02+05:30",
-      "end": "2026-07-17T08:27:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-07-17T08:27:54+05:30",
-      "end": "2026-07-17T10:38:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-07-17T10:38:14+05:30",
-      "end": "2026-07-17T13:29:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-07-17T13:29:08+05:30",
-      "end": "2026-07-17T16:22:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-07-17T16:22:02+05:30",
-      "end": "2026-07-17T19:16:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-07-17T19:16:41+05:30",
-      "end": "2026-07-17T21:42:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "1CElrdKfAns",
       "title": "Pattalam",
-      "start": "2026-07-17T21:42:30+05:30",
-      "end": "2026-07-18T24:17:56+05:30",
+      "start": "2026-07-18T05:18:45+05:30",
+      "end": "2026-07-18T07:54:11+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +27,98 @@
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-07-18T24:17:56+05:30",
-      "end": "2026-07-18T02:56:27+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-07-18T07:54:11+05:30",
+      "end": "2026-07-18T10:39:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 9893
         }
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-07-18T02:56:27+05:30",
-      "end": "2026-07-18T05:31:36+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-07-18T10:39:04+05:30",
+      "end": "2026-07-18T12:59:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-07-18T12:59:46+05:30",
+      "end": "2026-07-18T15:47:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10081
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-07-18T15:47:47+05:30",
+      "end": "2026-07-18T17:30:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-07-18T17:30:03+05:30",
+      "end": "2026-07-18T20:24:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-07-18T20:24:53+05:30",
+      "end": "2026-07-18T22:57:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-07-18T22:57:55+05:30",
+      "end": "2026-07-19T01:38:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-07-19T01:38:33+05:30",
+      "end": "2026-07-19T04:27:30+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
         }
       ]
     }
