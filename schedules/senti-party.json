@@ -1,120 +1,24 @@
 {
   "band": "senti-party",
-  "generated": "2026-07-18T03:43:30+05:30",
+  "generated": "2026-07-19T03:43:29+05:30",
   "slots": [
     {
-      "youtube": "5ZC8ST3lArc",
-      "title": "Udhyanapalakan",
-      "start": "2026-07-18T03:00:00+05:30",
-      "end": "2026-07-18T05:22:02+05:30",
+      "youtube": "05w7mURHbi4",
+      "title": "Akashadoothu",
+      "start": "2026-07-19T03:00:00+05:30",
+      "end": "2026-07-19T05:11:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8522
-        }
-      ]
-    },
-    {
-      "youtube": "WRgtuIMYpXo",
-      "title": "Achuvinte Amma",
-      "start": "2026-07-18T05:22:02+05:30",
-      "end": "2026-07-18T08:03:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9694
-        }
-      ]
-    },
-    {
-      "youtube": "UkqRAXA6uBY",
-      "title": "Maya Mayooram",
-      "start": "2026-07-18T08:03:36+05:30",
-      "end": "2026-07-18T10:22:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8310
-        }
-      ]
-    },
-    {
-      "youtube": "GP6V5pjY0v8",
-      "title": "Pookkalam Varavayi",
-      "start": "2026-07-18T10:22:06+05:30",
-      "end": "2026-07-18T12:21:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7188
-        }
-      ]
-    },
-    {
-      "youtube": "adUvUBUBr4A",
-      "title": "Sadanandante Samayam",
-      "start": "2026-07-18T12:21:54+05:30",
-      "end": "2026-07-18T14:45:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8628
-        }
-      ]
-    },
-    {
-      "youtube": "KnHPMjv2ajM",
-      "title": "Kireedam",
-      "start": "2026-07-18T14:45:42+05:30",
-      "end": "2026-07-18T16:48:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7373
-        }
-      ]
-    },
-    {
-      "youtube": "V0R1jSpr4FA",
-      "title": "Ore Kadal",
-      "start": "2026-07-18T16:48:35+05:30",
-      "end": "2026-07-18T18:41:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6753
-        }
-      ]
-    },
-    {
-      "youtube": "zAyqx6MeMis",
-      "title": "Achanurangatha Veedu",
-      "start": "2026-07-18T18:41:08+05:30",
-      "end": "2026-07-18T20:41:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7220
-        }
-      ]
-    },
-    {
-      "youtube": "XJFOgrRt-fs",
-      "title": "Sthreedhanam",
-      "start": "2026-07-18T20:41:28+05:30",
-      "end": "2026-07-18T22:50:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7718
+          "to": 7915
         }
       ]
     },
     {
       "youtube": "d-ADM3y17ZA",
       "title": "Gramophone",
-      "start": "2026-07-18T22:50:06+05:30",
-      "end": "2026-07-19T01:18:09+05:30",
+      "start": "2026-07-19T05:11:55+05:30",
+      "end": "2026-07-19T07:39:58+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +27,110 @@
       ]
     },
     {
-      "youtube": "05w7mURHbi4",
-      "title": "Akashadoothu",
-      "start": "2026-07-19T01:18:09+05:30",
-      "end": "2026-07-19T03:30:04+05:30",
+      "youtube": "GP6V5pjY0v8",
+      "title": "Pookkalam Varavayi",
+      "start": "2026-07-19T07:39:58+05:30",
+      "end": "2026-07-19T09:39:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7915
+          "to": 7188
+        }
+      ]
+    },
+    {
+      "youtube": "WRgtuIMYpXo",
+      "title": "Achuvinte Amma",
+      "start": "2026-07-19T09:39:46+05:30",
+      "end": "2026-07-19T12:21:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9694
+        }
+      ]
+    },
+    {
+      "youtube": "af3iMsFDUAU",
+      "title": "Joker",
+      "start": "2026-07-19T12:21:20+05:30",
+      "end": "2026-07-19T14:49:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8867
+        }
+      ]
+    },
+    {
+      "youtube": "5ZC8ST3lArc",
+      "title": "Udhyanapalakan",
+      "start": "2026-07-19T14:49:07+05:30",
+      "end": "2026-07-19T17:11:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8522
+        }
+      ]
+    },
+    {
+      "youtube": "V0R1jSpr4FA",
+      "title": "Ore Kadal",
+      "start": "2026-07-19T17:11:09+05:30",
+      "end": "2026-07-19T19:03:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6753
+        }
+      ]
+    },
+    {
+      "youtube": "tkRRhAqWlQ4",
+      "title": "Kalippattam",
+      "start": "2026-07-19T19:03:42+05:30",
+      "end": "2026-07-19T21:24:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8451
+        }
+      ]
+    },
+    {
+      "youtube": "KnHPMjv2ajM",
+      "title": "Kireedam",
+      "start": "2026-07-19T21:24:33+05:30",
+      "end": "2026-07-19T23:27:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7373
+        }
+      ]
+    },
+    {
+      "youtube": "TlKiMJtBVRI",
+      "title": "Valsalyam",
+      "start": "2026-07-19T23:27:26+05:30",
+      "end": "2026-07-20T01:56:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8961
+        }
+      ]
+    },
+    {
+      "youtube": "BJaigrZCXUM",
+      "title": "Desadanam",
+      "start": "2026-07-20T01:56:47+05:30",
+      "end": "2026-07-20T04:02:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7537
         }
       ]
     }
