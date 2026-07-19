@@ -1,48 +1,120 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-19T03:43:29+05:30",
+  "generated": "2026-07-20T03:54:51+05:30",
   "slots": [
     {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-07-19T03:00:00+05:30",
-      "end": "2026-07-19T05:04:41+05:30",
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-07-20T03:00:00+05:30",
+      "end": "2026-07-20T05:24:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7481
+          "to": 8683
         }
       ]
     },
     {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-07-19T05:04:41+05:30",
-      "end": "2026-07-19T07:28:48+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-07-20T05:24:43+05:30",
+      "end": "2026-07-20T08:10:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8647
+          "to": 9949
         }
       ]
     },
     {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham (1988)",
-      "start": "2026-07-19T07:28:48+05:30",
-      "end": "2026-07-19T09:48:41+05:30",
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-07-20T08:10:32+05:30",
+      "end": "2026-07-20T10:34:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8393
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-07-20T10:34:55+05:30",
+      "end": "2026-07-20T13:00:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-07-20T13:00:41+05:30",
+      "end": "2026-07-20T15:15:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8090
+        }
+      ]
+    },
+    {
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-07-20T15:15:31+05:30",
+      "end": "2026-07-20T17:19:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7414
+        }
+      ]
+    },
+    {
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-07-20T17:19:05+05:30",
+      "end": "2026-07-20T19:20:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7295
+        }
+      ]
+    },
+    {
+      "youtube": "asffbk9CSI8",
+      "title": "Thanneer Mathan Dinangal",
+      "start": "2026-07-20T19:20:40+05:30",
+      "end": "2026-07-20T21:36:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8145
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-07-20T21:36:25+05:30",
+      "end": "2026-07-21T24:11:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
         }
       ]
     },
     {
       "youtube": "isacm3_fbmA",
       "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-07-19T09:48:41+05:30",
-      "end": "2026-07-19T11:57:26+05:30",
+      "start": "2026-07-21T24:11:12+05:30",
+      "end": "2026-07-21T02:19:57+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,86 +123,14 @@
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-07-19T11:57:26+05:30",
-      "end": "2026-07-19T13:51:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-07-19T13:51:52+05:30",
-      "end": "2026-07-19T16:17:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8722
-        }
-      ]
-    },
-    {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-07-19T16:17:14+05:30",
-      "end": "2026-07-19T18:47:05+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8991
-        }
-      ]
-    },
-    {
       "youtube": "3IqGqL-FyQk",
       "title": "Pandippada",
-      "start": "2026-07-19T18:47:05+05:30",
-      "end": "2026-07-19T21:16:10+05:30",
+      "start": "2026-07-21T02:19:57+05:30",
+      "end": "2026-07-21T04:49:02+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8945
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-07-19T21:16:10+05:30",
-      "end": "2026-07-19T23:56:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-07-19T23:56:43+05:30",
-      "end": "2026-07-20T02:28:27+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9104
-        }
-      ]
-    },
-    {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-07-20T02:28:27+05:30",
-      "end": "2026-07-20T05:03:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9287
         }
       ]
     }

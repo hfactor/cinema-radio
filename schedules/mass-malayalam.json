@@ -1,48 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-19T03:43:29+05:30",
+  "generated": "2026-07-20T03:54:51+05:30",
   "slots": [
-    {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-07-19T03:00:00+05:30",
-      "end": "2026-07-19T05:57:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10624
-        }
-      ]
-    },
-    {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-07-19T05:57:04+05:30",
-      "end": "2026-07-19T08:53:56+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10612
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-07-19T08:53:56+05:30",
-      "end": "2026-07-19T11:12:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-07-19T11:12:41+05:30",
-      "end": "2026-07-19T13:33:23+05:30",
+      "start": "2026-07-20T03:00:00+05:30",
+      "end": "2026-07-20T05:20:42+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,46 +15,46 @@
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-07-19T13:33:23+05:30",
-      "end": "2026-07-19T16:26:17+05:30",
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-07-20T05:20:42+05:30",
+      "end": "2026-07-20T08:08:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 10081
         }
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-07-19T16:26:17+05:30",
-      "end": "2026-07-19T19:17:11+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-07-20T08:08:43+05:30",
+      "end": "2026-07-20T10:37:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
+          "to": 8940
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-07-19T19:17:11+05:30",
-      "end": "2026-07-19T22:12:01+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-07-20T10:37:43+05:30",
+      "end": "2026-07-20T13:21:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 9839
         }
       ]
     },
     {
       "youtube": "1sEWgYDJjPw",
       "title": "Olympian Anthony Adam",
-      "start": "2026-07-19T22:12:01+05:30",
-      "end": "2026-07-20T24:45:03+05:30",
+      "start": "2026-07-20T13:21:42+05:30",
+      "end": "2026-07-20T15:54:44+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,14 +63,62 @@
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-07-20T24:45:03+05:30",
-      "end": "2026-07-20T03:25:41+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-07-20T15:54:44+05:30",
+      "end": "2026-07-20T18:39:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-07-20T18:39:37+05:30",
+      "end": "2026-07-20T21:34:16+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-07-20T21:34:16+05:30",
+      "end": "2026-07-21T24:12:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9511
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-21T24:12:47+05:30",
+      "end": "2026-07-21T02:41:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-07-21T02:41:25+05:30",
+      "end": "2026-07-21T05:38:17+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
         }
       ]
     }
