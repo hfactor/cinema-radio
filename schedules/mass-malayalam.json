@@ -1,48 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-21T03:59:57+05:30",
+  "generated": "2026-07-22T03:56:05+05:30",
   "slots": [
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-07-21T03:00:00+05:30",
-      "end": "2026-07-21T05:34:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-07-21T05:34:20+05:30",
-      "end": "2026-07-21T08:10:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-07-21T08:10:58+05:30",
-      "end": "2026-07-21T11:05:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
-        }
-      ]
-    },
     {
       "youtube": "Q4BPekFLj1c",
       "title": "Rakshasa Rajavu",
-      "start": "2026-07-21T11:05:48+05:30",
-      "end": "2026-07-21T13:49:47+05:30",
+      "start": "2026-07-22T03:00:00+05:30",
+      "end": "2026-07-22T05:43:59+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,46 +15,46 @@
       ]
     },
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-07-21T13:49:47+05:30",
-      "end": "2026-07-21T16:08:32+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-07-22T05:43:59+05:30",
+      "end": "2026-07-22T08:12:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
+          "to": 8929
         }
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-07-21T16:08:32+05:30",
-      "end": "2026-07-21T18:43:41+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-07-22T08:12:48+05:30",
+      "end": "2026-07-22T10:47:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 9260
         }
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-07-21T18:43:41+05:30",
-      "end": "2026-07-21T21:32:38+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-07-22T10:47:08+05:30",
+      "end": "2026-07-22T13:38:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
+          "to": 10254
         }
       ]
     },
     {
       "youtube": "nUQre7zjGKE",
       "title": "Ekalavyan",
-      "start": "2026-07-21T21:32:38+05:30",
-      "end": "2026-07-22T24:11:09+05:30",
+      "start": "2026-07-22T13:38:02+05:30",
+      "end": "2026-07-22T16:16:33+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,14 +63,62 @@
       ]
     },
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-07-22T24:11:09+05:30",
-      "end": "2026-07-22T03:05:48+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-07-22T16:16:33+05:30",
+      "end": "2026-07-22T18:37:15+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-07-22T18:37:15+05:30",
+      "end": "2026-07-22T21:32:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-07-22T21:32:05+05:30",
+      "end": "2026-07-23T24:21:02+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-23T24:21:02+05:30",
+      "end": "2026-07-23T02:49:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-07-23T02:49:40+05:30",
+      "end": "2026-07-23T05:02:57+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
         }
       ]
     }
