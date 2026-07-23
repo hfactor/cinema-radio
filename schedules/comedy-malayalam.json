@@ -1,136 +1,136 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-23T04:02:25+05:30",
+  "generated": "2026-07-24T04:00:06+05:30",
   "slots": [
     {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-07-23T03:00:00+05:30",
-      "end": "2026-07-23T05:11:49+05:30",
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-07-24T03:00:00+05:30",
+      "end": "2026-07-24T05:16:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7909
+          "to": 8161
         }
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-07-23T05:11:49+05:30",
-      "end": "2026-07-23T07:06:15+05:30",
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-07-24T05:16:01+05:30",
+      "end": "2026-07-24T07:23:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
+          "to": 7648
         }
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-07-23T07:06:15+05:30",
-      "end": "2026-07-23T09:13:54+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-07-24T07:23:29+05:30",
+      "end": "2026-07-24T09:35:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 7912
         }
       ]
     },
     {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-07-23T09:13:54+05:30",
-      "end": "2026-07-23T11:20:33+05:30",
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-07-24T09:35:21+05:30",
+      "end": "2026-07-24T12:11:15+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7599
+          "to": 9354
         }
       ]
     },
     {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-07-23T11:20:33+05:30",
-      "end": "2026-07-23T13:59:15+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-07-24T12:11:15+05:30",
+      "end": "2026-07-24T14:18:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9522
+          "to": 7651
         }
       ]
     },
     {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-07-23T13:59:15+05:30",
-      "end": "2026-07-23T16:23:38+05:30",
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-07-24T14:18:46+05:30",
+      "end": "2026-07-24T16:22:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
+          "to": 7414
         }
       ]
     },
     {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-07-23T16:23:38+05:30",
-      "end": "2026-07-23T18:28:19+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-07-24T16:22:20+05:30",
+      "end": "2026-07-24T18:37:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7481
+          "to": 8089
         }
       ]
     },
     {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-07-23T18:28:19+05:30",
-      "end": "2026-07-23T20:35:10+05:30",
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-07-24T18:37:09+05:30",
+      "end": "2026-07-24T20:50:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7611
+          "to": 7999
         }
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-07-23T20:35:10+05:30",
-      "end": "2026-07-23T23:04:15+05:30",
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-07-24T20:50:28+05:30",
+      "end": "2026-07-24T23:31:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
+          "to": 9633
         }
       ]
     },
     {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-07-23T23:04:15+05:30",
-      "end": "2026-07-24T01:05:50+05:30",
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-07-24T23:31:01+05:30",
+      "end": "2026-07-25T01:38:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7295
+          "to": 7668
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-07-24T01:05:50+05:30",
-      "end": "2026-07-24T03:21:35+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-07-25T01:38:49+05:30",
+      "end": "2026-07-25T03:41:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 7377
         }
       ]
     }
