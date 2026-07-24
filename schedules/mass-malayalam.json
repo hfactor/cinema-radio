@@ -1,24 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-07-24T04:00:06+05:30",
+  "generated": "2026-07-25T04:03:44+05:30",
   "slots": [
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-07-24T03:00:00+05:30",
-      "end": "2026-07-24T05:52:54+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-07-25T03:00:00+05:30",
+      "end": "2026-07-25T05:54:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 10492
         }
       ]
     },
     {
       "youtube": "I5eQkEBVoYo",
       "title": "Praja",
-      "start": "2026-07-24T05:52:54+05:30",
-      "end": "2026-07-24T08:49:58+05:30",
+      "start": "2026-07-25T05:54:52+05:30",
+      "end": "2026-07-25T08:51:56+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,22 +27,34 @@
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-07-24T08:49:58+05:30",
-      "end": "2026-07-24T11:34:51+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-07-25T08:51:56+05:30",
+      "end": "2026-07-25T11:26:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-07-25T11:26:16+05:30",
+      "end": "2026-07-25T13:54:54+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-07-24T11:34:51+05:30",
-      "end": "2026-07-24T14:03:51+05:30",
+      "start": "2026-07-25T13:54:54+05:30",
+      "end": "2026-07-25T16:23:54+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,62 +63,62 @@
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-07-24T14:03:51+05:30",
-      "end": "2026-07-24T16:47:50+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-07-25T16:23:54+05:30",
+      "end": "2026-07-25T18:56:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 9182
         }
       ]
     },
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-07-24T16:47:50+05:30",
-      "end": "2026-07-24T19:23:16+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-07-25T18:56:56+05:30",
+      "end": "2026-07-25T21:54:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
+          "to": 10662
         }
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-07-24T19:23:16+05:30",
-      "end": "2026-07-24T21:58:25+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-07-25T21:54:38+05:30",
+      "end": "2026-07-26T24:13:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 8325
         }
       ]
     },
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-07-24T21:58:25+05:30",
-      "end": "2026-07-25T24:53:04+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-07-26T24:13:23+05:30",
+      "end": "2026-07-26T02:39:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-07-25T24:53:04+05:30",
-      "end": "2026-07-25T03:03:24+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-07-26T02:39:12+05:30",
+      "end": "2026-07-26T05:24:05+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 9893
         }
       ]
     }

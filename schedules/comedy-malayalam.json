@@ -1,36 +1,48 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-24T04:00:06+05:30",
+  "generated": "2026-07-25T04:03:44+05:30",
   "slots": [
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-07-24T03:00:00+05:30",
-      "end": "2026-07-24T05:16:01+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-07-25T03:00:00+05:30",
+      "end": "2026-07-25T05:45:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 9949
         }
       ]
     },
     {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-07-24T05:16:01+05:30",
-      "end": "2026-07-24T07:23:29+05:30",
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-07-25T05:45:49+05:30",
+      "end": "2026-07-25T08:10:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7648
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-07-25T08:10:12+05:30",
+      "end": "2026-07-25T10:14:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7481
         }
       ]
     },
     {
       "youtube": "84o2X2Ebim4",
       "title": "English Medium",
-      "start": "2026-07-24T07:23:29+05:30",
-      "end": "2026-07-24T09:35:21+05:30",
+      "start": "2026-07-25T10:14:53+05:30",
+      "end": "2026-07-25T12:26:45+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,10 +51,34 @@
       ]
     },
     {
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-07-25T12:26:45+05:30",
+      "end": "2026-07-25T14:42:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8163
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-07-25T14:42:48+05:30",
+      "end": "2026-07-25T17:08:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
       "youtube": "yjaFvFuQ-QM",
       "title": "Premam",
-      "start": "2026-07-24T09:35:21+05:30",
-      "end": "2026-07-24T12:11:15+05:30",
+      "start": "2026-07-25T17:08:34+05:30",
+      "end": "2026-07-25T19:44:28+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,86 +87,50 @@
       ]
     },
     {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-07-24T12:11:15+05:30",
-      "end": "2026-07-24T14:18:46+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-07-25T19:44:28+05:30",
+      "end": "2026-07-25T22:06:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7651
+          "to": 8521
         }
       ]
     },
     {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-07-24T14:18:46+05:30",
-      "end": "2026-07-24T16:22:20+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-07-25T22:06:29+05:30",
+      "end": "2026-07-26T24:21:40+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7414
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-07-24T16:22:20+05:30",
-      "end": "2026-07-24T18:37:09+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-07-26T24:21:40+05:30",
+      "end": "2026-07-26T02:47:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 8734
         }
       ]
     },
     {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-07-24T18:37:09+05:30",
-      "end": "2026-07-24T20:50:28+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-07-26T02:47:14+05:30",
+      "end": "2026-07-26T04:59:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7999
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-07-24T20:50:28+05:30",
-      "end": "2026-07-24T23:31:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-07-24T23:31:01+05:30",
-      "end": "2026-07-25T01:38:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "CQKfDo9JOF4",
-      "title": "Vadakkunokkiyantram",
-      "start": "2026-07-25T01:38:49+05:30",
-      "end": "2026-07-25T03:41:46+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7377
+          "to": 7909
         }
       ]
     }
