@@ -1,84 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-26T03:55:15+05:30",
+  "generated": "2026-07-27T03:58:57+05:30",
   "slots": [
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-07-26T03:00:00+05:30",
-      "end": "2026-07-26T05:34:47+05:30",
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-07-27T03:00:00+05:30",
+      "end": "2026-07-27T05:10:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
-        }
-      ]
-    },
-    {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-07-26T05:34:47+05:30",
-      "end": "2026-07-26T08:13:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9522
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-07-26T08:13:29+05:30",
-      "end": "2026-07-26T10:54:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-07-26T10:54:02+05:30",
-      "end": "2026-07-26T13:00:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-07-26T13:00:53+05:30",
-      "end": "2026-07-26T15:16:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8161
-        }
-      ]
-    },
-    {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-07-26T15:16:54+05:30",
-      "end": "2026-07-26T17:49:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9168
+          "to": 7841
         }
       ]
     },
     {
       "youtube": "blf_KJ-LQCQ",
       "title": "Kunukitta Kozhi",
-      "start": "2026-07-26T17:49:42+05:30",
-      "end": "2026-07-26T20:00:20+05:30",
+      "start": "2026-07-27T05:10:41+05:30",
+      "end": "2026-07-27T07:21:19+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,22 +27,34 @@
       ]
     },
     {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-07-26T20:00:20+05:30",
-      "end": "2026-07-26T22:03:54+05:30",
+      "youtube": "rYrLIcFIOoo",
+      "title": "Thenmavinkombathu",
+      "start": "2026-07-27T07:21:19+05:30",
+      "end": "2026-07-27T10:01:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7414
+          "to": 9633
+        }
+      ]
+    },
+    {
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-07-27T10:01:52+05:30",
+      "end": "2026-07-27T12:26:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8683
         }
       ]
     },
     {
       "youtube": "uNz4A-b147Y",
       "title": "Pradeshika Varthakal",
-      "start": "2026-07-26T22:03:54+05:30",
-      "end": "2026-07-26T23:54:07+05:30",
+      "start": "2026-07-27T12:26:35+05:30",
+      "end": "2026-07-27T14:16:48+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +63,74 @@
       ]
     },
     {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-07-26T23:54:07+05:30",
-      "end": "2026-07-27T02:27:30+05:30",
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-07-27T14:16:48+05:30",
+      "end": "2026-07-27T16:33:10+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9203
+          "to": 8182
         }
       ]
     },
     {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-07-27T02:27:30+05:30",
-      "end": "2026-07-27T04:29:05+05:30",
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-07-27T16:33:10+05:30",
+      "end": "2026-07-27T18:37:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7295
+          "to": 7481
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-07-27T18:37:51+05:30",
+      "end": "2026-07-27T21:19:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-07-27T21:19:58+05:30",
+      "end": "2026-07-27T23:34:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-07-27T23:34:47+05:30",
+      "end": "2026-07-28T02:20:36+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9949
+        }
+      ]
+    },
+    {
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-07-28T02:20:36+05:30",
+      "end": "2026-07-28T04:41:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8457
         }
       ]
     }
