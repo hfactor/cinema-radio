@@ -12,8 +12,8 @@ movies:
   - url: https://www.youtube.com/watch?v=40DnL80mUU0
     title: Manichitrathazhu
 
-  - url: https://www.youtube.com/watch?v=736fPkyRFIo
-    title: Smart City
+# [not-embeddable] - url: https://www.youtube.com/watch?v=736fPkyRFIo
+#     title: Smart City
 
   - url: https://www.youtube.com/watch?v=ToZs_GSij8U
     title: Oru Abhibhashakante Case Diary
