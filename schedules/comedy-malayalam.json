@@ -1,120 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-29T04:03:23+05:30",
+  "generated": "2026-07-30T03:57:50+05:30",
   "slots": [
     {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-07-29T03:00:00+05:30",
-      "end": "2026-07-29T05:12:17+05:30",
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-07-30T03:00:00+05:30",
+      "end": "2026-07-30T05:24:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7937
-        }
-      ]
-    },
-    {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-07-29T05:12:17+05:30",
-      "end": "2026-07-29T07:13:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7295
-        }
-      ]
-    },
-    {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-07-29T07:13:52+05:30",
-      "end": "2026-07-29T09:35:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8521
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-07-29T09:35:53+05:30",
-      "end": "2026-07-29T11:30:19+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "isacm3_fbmA",
-      "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-07-29T11:30:19+05:30",
-      "end": "2026-07-29T13:39:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7725
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-07-29T13:39:04+05:30",
-      "end": "2026-07-29T15:42:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
-        }
-      ]
-    },
-    {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-07-29T15:42:38+05:30",
-      "end": "2026-07-29T17:54:27+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7909
-        }
-      ]
-    },
-    {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-07-29T17:54:27+05:30",
-      "end": "2026-07-29T20:20:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8746
-        }
-      ]
-    },
-    {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-07-29T20:20:13+05:30",
-      "end": "2026-07-29T22:35:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8145
+          "to": 8647
         }
       ]
     },
     {
       "youtube": "c7wDkHdM5Gk",
       "title": "Panchavadi Palam",
-      "start": "2026-07-29T22:35:58+05:30",
-      "end": "2026-07-30T24:46:54+05:30",
+      "start": "2026-07-30T05:24:07+05:30",
+      "end": "2026-07-30T07:35:03+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,26 +27,110 @@
       ]
     },
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-07-30T24:46:54+05:30",
-      "end": "2026-07-30T02:58:46+05:30",
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-07-30T07:35:03+05:30",
+      "end": "2026-07-30T10:07:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 9168
         }
       ]
     },
     {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-07-30T02:58:46+05:30",
-      "end": "2026-07-30T05:40:53+05:30",
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-07-30T10:07:51+05:30",
+      "end": "2026-07-30T12:01:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9727
+          "to": 6825
+        }
+      ]
+    },
+    {
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-07-30T12:01:36+05:30",
+      "end": "2026-07-30T14:23:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-07-30T14:23:37+05:30",
+      "end": "2026-07-30T16:32:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7725
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-07-30T16:32:22+05:30",
+      "end": "2026-07-30T18:45:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
+    {
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-07-30T18:45:41+05:30",
+      "end": "2026-07-30T21:15:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8991
+        }
+      ]
+    },
+    {
+      "youtube": "HqTOaQh5RnI",
+      "title": "Mannadiar Penninu Chenkotta Checkan",
+      "start": "2026-07-30T21:15:32+05:30",
+      "end": "2026-07-30T23:09:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6866
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-07-30T23:09:58+05:30",
+      "end": "2026-07-31T01:35:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-07-31T01:35:44+05:30",
+      "end": "2026-07-31T04:10:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9287
         }
       ]
     }
