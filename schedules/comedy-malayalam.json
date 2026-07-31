@@ -1,24 +1,72 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-07-31T04:04:54+05:30",
+  "generated": "2026-08-01T04:02:03+05:30",
   "slots": [
     {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-07-31T03:00:00+05:30",
-      "end": "2026-07-31T05:24:23+05:30",
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-08-01T03:00:00+05:30",
+      "end": "2026-08-01T05:07:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
+          "to": 7648
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-08-01T05:07:28+05:30",
+      "end": "2026-08-01T07:49:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-08-01T07:49:35+05:30",
+      "end": "2026-08-01T10:15:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8734
+        }
+      ]
+    },
+    {
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-08-01T10:15:09+05:30",
+      "end": "2026-08-01T13:00:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9949
+        }
+      ]
+    },
+    {
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-08-01T13:00:58+05:30",
+      "end": "2026-08-01T15:39:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9522
         }
       ]
     },
     {
       "youtube": "asffbk9CSI8",
       "title": "Thanneer Mathan Dinangal",
-      "start": "2026-07-31T05:24:23+05:30",
-      "end": "2026-07-31T07:40:08+05:30",
+      "start": "2026-08-01T15:39:40+05:30",
+      "end": "2026-08-01T17:55:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,94 +75,34 @@
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-07-31T07:40:08+05:30",
-      "end": "2026-07-31T09:34:34+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-08-01T17:55:25+05:30",
+      "end": "2026-08-01T20:17:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
+          "to": 8521
         }
       ]
     },
     {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-07-31T09:34:34+05:30",
-      "end": "2026-07-31T11:32:28+05:30",
+      "youtube": "tyJ2O3Y6qk0",
+      "title": "Hallo",
+      "start": "2026-08-01T20:17:26+05:30",
+      "end": "2026-08-01T22:42:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7074
-        }
-      ]
-    },
-    {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-07-31T11:32:28+05:30",
-      "end": "2026-07-31T13:39:19+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-07-31T13:39:19+05:30",
-      "end": "2026-07-31T15:58:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8334
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-07-31T15:58:13+05:30",
-      "end": "2026-07-31T18:14:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
-        }
-      ]
-    },
-    {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-07-31T18:14:16+05:30",
-      "end": "2026-07-31T20:47:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9203
-        }
-      ]
-    },
-    {
-      "youtube": "ocISEYOb9KY",
-      "title": "Megham",
-      "start": "2026-07-31T20:47:39+05:30",
-      "end": "2026-07-31T23:12:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8663
+          "to": 8702
         }
       ]
     },
     {
       "youtube": "CVkZSKEl7O4",
       "title": "Uppukandam Brothers",
-      "start": "2026-07-31T23:12:02+05:30",
-      "end": "2026-08-01T01:22:43+05:30",
+      "start": "2026-08-01T22:42:28+05:30",
+      "end": "2026-08-02T24:53:09+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +111,14 @@
       ]
     },
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-08-01T01:22:43+05:30",
-      "end": "2026-08-01T03:57:30+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-08-02T24:53:09+05:30",
+      "end": "2026-08-02T03:05:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
+          "to": 7912
         }
       ]
     }
