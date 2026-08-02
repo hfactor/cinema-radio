@@ -1,120 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-08-02T03:56:06+05:30",
+  "generated": "2026-08-03T03:57:09+05:30",
   "slots": [
     {
-      "youtube": "isacm3_fbmA",
-      "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-08-02T03:00:00+05:30",
-      "end": "2026-08-02T05:08:45+05:30",
+      "youtube": "tyJ2O3Y6qk0",
+      "title": "Hallo",
+      "start": "2026-08-03T03:00:00+05:30",
+      "end": "2026-08-03T05:25:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7725
-        }
-      ]
-    },
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-08-02T05:08:45+05:30",
-      "end": "2026-08-02T07:06:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
-        }
-      ]
-    },
-    {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-08-02T07:06:39+05:30",
-      "end": "2026-08-02T09:17:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7841
-        }
-      ]
-    },
-    {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-08-02T09:17:20+05:30",
-      "end": "2026-08-02T11:47:07+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8987
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-08-02T11:47:07+05:30",
-      "end": "2026-08-02T13:54:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-08-02T13:54:55+05:30",
-      "end": "2026-08-02T16:25:19+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9024
-        }
-      ]
-    },
-    {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-08-02T16:25:19+05:30",
-      "end": "2026-08-02T18:47:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8521
-        }
-      ]
-    },
-    {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-08-02T18:47:20+05:30",
-      "end": "2026-08-02T20:54:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7648
-        }
-      ]
-    },
-    {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-08-02T20:54:48+05:30",
-      "end": "2026-08-02T23:15:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8457
+          "to": 8702
         }
       ]
     },
     {
       "youtube": "GPMnBx9ZkYI",
       "title": "Meleparambil Aanveedu",
-      "start": "2026-08-02T23:15:45+05:30",
-      "end": "2026-08-03T01:41:07+05:30",
+      "start": "2026-08-03T05:25:02+05:30",
+      "end": "2026-08-03T07:50:24+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +27,98 @@
       ]
     },
     {
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-08-03T07:50:24+05:30",
+      "end": "2026-08-03T10:15:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8734
+        }
+      ]
+    },
+    {
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-08-03T10:15:58+05:30",
+      "end": "2026-08-03T13:06:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10251
+        }
+      ]
+    },
+    {
       "youtube": "rYrLIcFIOoo",
       "title": "Thenmavinkombathu",
-      "start": "2026-08-03T01:41:07+05:30",
-      "end": "2026-08-03T04:21:40+05:30",
+      "start": "2026-08-03T13:06:49+05:30",
+      "end": "2026-08-03T15:47:22+05:30",
       "segments": [
         {
           "from": 0,
           "to": 9633
+        }
+      ]
+    },
+    {
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-08-03T15:47:22+05:30",
+      "end": "2026-08-03T18:08:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8457
+        }
+      ]
+    },
+    {
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-08-03T18:08:19+05:30",
+      "end": "2026-08-03T20:23:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-08-03T20:23:08+05:30",
+      "end": "2026-08-03T22:33:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7838
+        }
+      ]
+    },
+    {
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-08-03T22:33:46+05:30",
+      "end": "2026-08-04T24:52:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8334
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-08-04T24:52:40+05:30",
+      "end": "2026-08-04T03:34:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
         }
       ]
     }
