@@ -1,84 +1,48 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-08-04T04:02:57+05:30",
+  "generated": "2026-08-05T04:04:59+05:30",
   "slots": [
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-08-04T03:00:00+05:30",
-      "end": "2026-08-04T05:34:47+05:30",
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-08-05T03:00:00+05:30",
+      "end": "2026-08-05T05:19:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
+          "to": 8386
         }
       ]
     },
     {
-      "youtube": "isacm3_fbmA",
-      "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-08-04T05:34:47+05:30",
-      "end": "2026-08-04T07:43:32+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-08-05T05:19:46+05:30",
+      "end": "2026-08-05T07:34:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7725
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "CQKfDo9JOF4",
-      "title": "Vadakkunokkiyantram",
-      "start": "2026-08-04T07:43:32+05:30",
-      "end": "2026-08-04T09:46:29+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-08-05T07:34:57+05:30",
+      "end": "2026-08-05T09:53:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7377
-        }
-      ]
-    },
-    {
-      "youtube": "QlwKwes1qIs",
-      "title": "Mithunam",
-      "start": "2026-08-04T09:46:29+05:30",
-      "end": "2026-08-04T12:11:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8683
-        }
-      ]
-    },
-    {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-08-04T12:11:12+05:30",
-      "end": "2026-08-04T14:21:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7841
-        }
-      ]
-    },
-    {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-08-04T14:21:53+05:30",
-      "end": "2026-08-04T16:32:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7838
+          "to": 8334
         }
       ]
     },
     {
       "youtube": "IUcwLkSaHuo",
       "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-08-04T16:32:31+05:30",
-      "end": "2026-08-04T18:58:05+05:30",
+      "start": "2026-08-05T09:53:51+05:30",
+      "end": "2026-08-05T12:19:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +51,86 @@
       ]
     },
     {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-08-04T18:58:05+05:30",
-      "end": "2026-08-04T21:09:54+05:30",
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-08-05T12:19:25+05:30",
+      "end": "2026-08-05T14:13:10+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7909
+          "to": 6825
         }
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-08-04T21:09:54+05:30",
-      "end": "2026-08-04T23:17:33+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-08-05T14:13:10+05:30",
+      "end": "2026-08-05T16:14:45+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 7295
         }
       ]
     },
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-08-04T23:17:33+05:30",
-      "end": "2026-08-05T01:29:25+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-08-05T16:14:45+05:30",
+      "end": "2026-08-05T18:17:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham (1988)",
-      "start": "2026-08-05T01:29:25+05:30",
-      "end": "2026-08-05T03:49:18+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-08-05T18:17:42+05:30",
+      "end": "2026-08-05T20:28:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8393
+          "to": 7838
+        }
+      ]
+    },
+    {
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-08-05T20:28:20+05:30",
+      "end": "2026-08-05T22:18:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "3IqGqL-FyQk",
+      "title": "Pandippada",
+      "start": "2026-08-05T22:18:33+05:30",
+      "end": "2026-08-06T24:47:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8945
+        }
+      ]
+    },
+    {
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-08-06T24:47:38+05:30",
+      "end": "2026-08-06T03:02:28+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8090
         }
       ]
     }
