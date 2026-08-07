@@ -1,96 +1,12 @@
 {
   "band": "senti-party",
-  "generated": "2026-08-06T04:03:50+05:30",
+  "generated": "2026-08-07T06:33:12+05:30",
   "slots": [
-    {
-      "youtube": "BJaigrZCXUM",
-      "title": "Desadanam",
-      "start": "2026-08-06T03:00:00+05:30",
-      "end": "2026-08-06T05:05:37+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7537
-        }
-      ]
-    },
-    {
-      "youtube": "EbWd2H_d8F4",
-      "title": "Sneham",
-      "start": "2026-08-06T05:05:37+05:30",
-      "end": "2026-08-06T07:21:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8174
-        }
-      ]
-    },
-    {
-      "youtube": "FnHmUvlCj-g",
-      "title": "Pakshe",
-      "start": "2026-08-06T07:21:51+05:30",
-      "end": "2026-08-06T09:36:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8108
-        }
-      ]
-    },
-    {
-      "youtube": "tkRRhAqWlQ4",
-      "title": "Kalippattam",
-      "start": "2026-08-06T09:36:59+05:30",
-      "end": "2026-08-06T11:57:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8451
-        }
-      ]
-    },
-    {
-      "youtube": "UkqRAXA6uBY",
-      "title": "Maya Mayooram",
-      "start": "2026-08-06T11:57:50+05:30",
-      "end": "2026-08-06T14:16:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8310
-        }
-      ]
-    },
-    {
-      "youtube": "NdZtLxU1uzk",
-      "title": "Amma Ammayiyamma",
-      "start": "2026-08-06T14:16:20+05:30",
-      "end": "2026-08-06T16:37:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8454
-        }
-      ]
-    },
-    {
-      "youtube": "af3iMsFDUAU",
-      "title": "Joker",
-      "start": "2026-08-06T16:37:14+05:30",
-      "end": "2026-08-06T19:05:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8867
-        }
-      ]
-    },
     {
       "youtube": "5ZC8ST3lArc",
       "title": "Udhyanapalakan",
-      "start": "2026-08-06T19:05:01+05:30",
-      "end": "2026-08-06T21:27:03+05:30",
+      "start": "2026-08-07T03:00:00+05:30",
+      "end": "2026-08-07T05:22:02+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,22 +15,58 @@
       ]
     },
     {
-      "youtube": "KnHPMjv2ajM",
-      "title": "Kireedam",
-      "start": "2026-08-06T21:27:03+05:30",
-      "end": "2026-08-06T23:29:56+05:30",
+      "youtube": "tkRRhAqWlQ4",
+      "title": "Kalippattam",
+      "start": "2026-08-07T05:22:02+05:30",
+      "end": "2026-08-07T07:42:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7373
+          "to": 8451
+        }
+      ]
+    },
+    {
+      "youtube": "XJFOgrRt-fs",
+      "title": "Sthreedhanam",
+      "start": "2026-08-07T07:42:53+05:30",
+      "end": "2026-08-07T09:51:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7718
+        }
+      ]
+    },
+    {
+      "youtube": "NdZtLxU1uzk",
+      "title": "Amma Ammayiyamma",
+      "start": "2026-08-07T09:51:31+05:30",
+      "end": "2026-08-07T12:12:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8454
+        }
+      ]
+    },
+    {
+      "youtube": "cH9f3fKc5Kc",
+      "title": "Koode",
+      "start": "2026-08-07T12:12:25+05:30",
+      "end": "2026-08-07T14:21:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7766
         }
       ]
     },
     {
       "youtube": "05w7mURHbi4",
       "title": "Akashadoothu",
-      "start": "2026-08-06T23:29:56+05:30",
-      "end": "2026-08-07T01:41:51+05:30",
+      "start": "2026-08-07T14:21:51+05:30",
+      "end": "2026-08-07T16:33:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -125,12 +77,60 @@
     {
       "youtube": "j-hgsDwEYRo",
       "title": "Chenkol",
-      "start": "2026-08-07T01:41:51+05:30",
-      "end": "2026-08-07T04:24:11+05:30",
+      "start": "2026-08-07T16:33:46+05:30",
+      "end": "2026-08-07T19:16:06+05:30",
       "segments": [
         {
           "from": 0,
           "to": 9740
+        }
+      ]
+    },
+    {
+      "youtube": "2PowNDcA2b8",
+      "title": "Soorya Gayathri",
+      "start": "2026-08-07T19:16:06+05:30",
+      "end": "2026-08-07T21:23:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7614
+        }
+      ]
+    },
+    {
+      "youtube": "zAyqx6MeMis",
+      "title": "Achanurangatha Veedu",
+      "start": "2026-08-07T21:23:00+05:30",
+      "end": "2026-08-07T23:23:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7220
+        }
+      ]
+    },
+    {
+      "youtube": "af3iMsFDUAU",
+      "title": "Joker",
+      "start": "2026-08-07T23:23:20+05:30",
+      "end": "2026-08-08T01:51:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8867
+        }
+      ]
+    },
+    {
+      "youtube": "adUvUBUBr4A",
+      "title": "Sadanandante Samayam",
+      "start": "2026-08-08T01:51:07+05:30",
+      "end": "2026-08-08T04:14:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8628
         }
       ]
     }
