@@ -1,48 +1,60 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-08-07T06:33:12+05:30",
+  "generated": "2026-08-08T03:35:05+05:30",
   "slots": [
     {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-08-07T03:00:00+05:30",
-      "end": "2026-08-07T04:57:54+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-08-08T03:00:00+05:30",
+      "end": "2026-08-08T05:11:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7074
+          "to": 7909
         }
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-08-07T04:57:54+05:30",
-      "end": "2026-08-07T06:52:20+05:30",
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-08-08T05:11:49+05:30",
+      "end": "2026-08-08T07:36:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
+          "to": 8663
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-08-07T06:52:20+05:30",
-      "end": "2026-08-07T09:08:05+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-08-08T07:36:12+05:30",
+      "end": "2026-08-08T09:37:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 7295
+        }
+      ]
+    },
+    {
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-08-08T09:37:47+05:30",
+      "end": "2026-08-08T11:45:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7668
         }
       ]
     },
     {
       "youtube": "7wCxFzs5JsM",
       "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-08-07T09:08:05+05:30",
-      "end": "2026-08-07T11:08:01+05:30",
+      "start": "2026-08-08T11:45:35+05:30",
+      "end": "2026-08-08T13:45:31+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,70 +63,22 @@
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-08-07T11:08:01+05:30",
-      "end": "2026-08-07T13:22:51+05:30",
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-08-08T13:45:31+05:30",
+      "end": "2026-08-08T16:20:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
-        }
-      ]
-    },
-    {
-      "youtube": "rYrLIcFIOoo",
-      "title": "Thenmavinkombathu",
-      "start": "2026-08-07T13:22:51+05:30",
-      "end": "2026-08-07T16:03:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9633
-        }
-      ]
-    },
-    {
-      "youtube": "tnUApaINfwg",
-      "title": "Kavadiyattam",
-      "start": "2026-08-07T16:03:24+05:30",
-      "end": "2026-08-07T18:11:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7698
-        }
-      ]
-    },
-    {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-08-07T18:11:42+05:30",
-      "end": "2026-08-07T20:20:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7723
-        }
-      ]
-    },
-    {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-08-07T20:20:25+05:30",
-      "end": "2026-08-07T22:27:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7599
+          "to": 9287
         }
       ]
     },
     {
       "youtube": "eeKmGeHPiT4",
       "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-08-07T22:27:04+05:30",
-      "end": "2026-08-08T24:56:51+05:30",
+      "start": "2026-08-08T16:20:18+05:30",
+      "end": "2026-08-08T18:50:05+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +87,50 @@
       ]
     },
     {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-08-08T24:56:51+05:30",
-      "end": "2026-08-08T03:17:48+05:30",
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-08-08T18:50:05+05:30",
+      "end": "2026-08-08T20:40:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8457
+          "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-08-08T20:40:18+05:30",
+      "end": "2026-08-08T22:55:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8111
+        }
+      ]
+    },
+    {
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-08-08T22:55:29+05:30",
+      "end": "2026-08-09T01:02:57+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7648
+        }
+      ]
+    },
+    {
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-08-09T01:02:57+05:30",
+      "end": "2026-08-09T03:18:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8161
         }
       ]
     }
