@@ -1,72 +1,24 @@
 {
   "band": "senti-party",
-  "generated": "2026-08-09T03:25:07+05:30",
+  "generated": "2026-08-10T03:27:28+05:30",
   "slots": [
     {
-      "youtube": "zAyqx6MeMis",
-      "title": "Achanurangatha Veedu",
-      "start": "2026-08-09T03:00:00+05:30",
-      "end": "2026-08-09T05:00:20+05:30",
+      "youtube": "zDJISszvNe0",
+      "title": "Ninnishtam Ennishtam",
+      "start": "2026-08-10T03:00:00+05:30",
+      "end": "2026-08-10T05:06:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7220
-        }
-      ]
-    },
-    {
-      "youtube": "KnHPMjv2ajM",
-      "title": "Kireedam",
-      "start": "2026-08-09T05:00:20+05:30",
-      "end": "2026-08-09T07:03:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7373
-        }
-      ]
-    },
-    {
-      "youtube": "j-hgsDwEYRo",
-      "title": "Chenkol",
-      "start": "2026-08-09T07:03:13+05:30",
-      "end": "2026-08-09T09:45:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9740
-        }
-      ]
-    },
-    {
-      "youtube": "adUvUBUBr4A",
-      "title": "Sadanandante Samayam",
-      "start": "2026-08-09T09:45:33+05:30",
-      "end": "2026-08-09T12:09:21+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8628
-        }
-      ]
-    },
-    {
-      "youtube": "RbAr8PUBcVY",
-      "title": "Pappayude Swantham Appoos",
-      "start": "2026-08-09T12:09:21+05:30",
-      "end": "2026-08-09T14:28:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8354
+          "to": 7569
         }
       ]
     },
     {
       "youtube": "XJFOgrRt-fs",
       "title": "Sthreedhanam",
-      "start": "2026-08-09T14:28:35+05:30",
-      "end": "2026-08-09T16:37:13+05:30",
+      "start": "2026-08-10T05:06:09+05:30",
+      "end": "2026-08-10T07:14:47+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,34 +27,70 @@
       ]
     },
     {
-      "youtube": "2PowNDcA2b8",
-      "title": "Soorya Gayathri",
-      "start": "2026-08-09T16:37:13+05:30",
-      "end": "2026-08-09T18:44:07+05:30",
+      "youtube": "zAyqx6MeMis",
+      "title": "Achanurangatha Veedu",
+      "start": "2026-08-10T07:14:47+05:30",
+      "end": "2026-08-10T09:15:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7614
+          "to": 7220
         }
       ]
     },
     {
-      "youtube": "V0R1jSpr4FA",
-      "title": "Ore Kadal",
-      "start": "2026-08-09T18:44:07+05:30",
-      "end": "2026-08-09T20:36:40+05:30",
+      "youtube": "5ZC8ST3lArc",
+      "title": "Udhyanapalakan",
+      "start": "2026-08-10T09:15:07+05:30",
+      "end": "2026-08-10T11:37:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6753
+          "to": 8522
+        }
+      ]
+    },
+    {
+      "youtube": "d-ADM3y17ZA",
+      "title": "Gramophone",
+      "start": "2026-08-10T11:37:09+05:30",
+      "end": "2026-08-10T14:05:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8883
+        }
+      ]
+    },
+    {
+      "youtube": "KnHPMjv2ajM",
+      "title": "Kireedam",
+      "start": "2026-08-10T14:05:12+05:30",
+      "end": "2026-08-10T16:08:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7373
+        }
+      ]
+    },
+    {
+      "youtube": "adUvUBUBr4A",
+      "title": "Sadanandante Samayam",
+      "start": "2026-08-10T16:08:05+05:30",
+      "end": "2026-08-10T18:31:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8628
         }
       ]
     },
     {
       "youtube": "BJaigrZCXUM",
       "title": "Desadanam",
-      "start": "2026-08-09T20:36:40+05:30",
-      "end": "2026-08-09T22:42:17+05:30",
+      "start": "2026-08-10T18:31:53+05:30",
+      "end": "2026-08-10T20:37:30+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +99,38 @@
       ]
     },
     {
-      "youtube": "NdZtLxU1uzk",
-      "title": "Amma Ammayiyamma",
-      "start": "2026-08-09T22:42:17+05:30",
-      "end": "2026-08-10T01:03:11+05:30",
+      "youtube": "P5zd5HO1OM4",
+      "title": "Vesham",
+      "start": "2026-08-10T20:37:30+05:30",
+      "end": "2026-08-10T23:10:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8454
+          "to": 9188
         }
       ]
     },
     {
-      "youtube": "d-ADM3y17ZA",
-      "title": "Gramophone",
-      "start": "2026-08-10T01:03:11+05:30",
-      "end": "2026-08-10T03:31:14+05:30",
+      "youtube": "GP6V5pjY0v8",
+      "title": "Pookkalam Varavayi",
+      "start": "2026-08-10T23:10:38+05:30",
+      "end": "2026-08-11T01:10:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8883
+          "to": 7188
+        }
+      ]
+    },
+    {
+      "youtube": "af3iMsFDUAU",
+      "title": "Joker",
+      "start": "2026-08-11T01:10:26+05:30",
+      "end": "2026-08-11T03:38:13+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8867
         }
       ]
     }
