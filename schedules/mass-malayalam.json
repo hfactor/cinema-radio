@@ -1,72 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-13T03:39:23+05:30",
+  "generated": "2026-08-14T03:39:35+05:30",
   "slots": [
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-08-13T03:00:00+05:30",
-      "end": "2026-08-13T05:20:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-08-13T05:20:42+05:30",
-      "end": "2026-08-13T08:15:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-08-13T08:15:32+05:30",
-      "end": "2026-08-13T10:50:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-08-13T10:50:58+05:30",
-      "end": "2026-08-13T13:16:47+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-08-13T13:16:47+05:30",
-      "end": "2026-08-13T15:45:07+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8900
-        }
-      ]
-    },
     {
       "youtube": "AzwfbCCouLE",
       "title": "Onnaman",
-      "start": "2026-08-13T15:45:07+05:30",
-      "end": "2026-08-13T18:33:08+05:30",
+      "start": "2026-08-14T03:00:00+05:30",
+      "end": "2026-08-14T05:48:01+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,50 +15,98 @@
       ]
     },
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-08-13T18:33:08+05:30",
-      "end": "2026-08-13T21:09:46+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-08-14T05:48:01+05:30",
+      "end": "2026-08-14T08:06:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-08-13T21:09:46+05:30",
-      "end": "2026-08-13T23:53:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-08-13T23:53:45+05:30",
-      "end": "2026-08-14T02:07:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "Z3g5qGQK7eI",
       "title": "Narasimham",
-      "start": "2026-08-14T02:07:02+05:30",
-      "end": "2026-08-14T05:01:54+05:30",
+      "start": "2026-08-14T08:06:46+05:30",
+      "end": "2026-08-14T11:01:38+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-08-14T11:01:38+05:30",
+      "end": "2026-08-14T13:34:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-08-14T13:34:40+05:30",
+      "end": "2026-08-14T16:29:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-08-14T16:29:19+05:30",
+      "end": "2026-08-14T18:50:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-08-14T18:50:01+05:30",
+      "end": "2026-08-14T21:19:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8940
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-08-14T21:19:01+05:30",
+      "end": "2026-08-15T24:09:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-08-15T24:09:55+05:30",
+      "end": "2026-08-15T03:04:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
         }
       ]
     }
