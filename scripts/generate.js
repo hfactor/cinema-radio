@@ -12,7 +12,7 @@
 const fs   = require('fs');
 const path = require('path');
 const yaml = require('js-yaml');
-const { execSync } = require('child_process');
+const { execFileSync } = require('child_process');
 
 // ─── Paths & config ───────────────────────────────────────────────────────────
 
@@ -92,8 +92,9 @@ function getTodayResetTime() {
 
 function fetchDurationYtdlp(videoId) {
   try {
-    const out = execSync(
-      `yt-dlp --dump-json --skip-download "https://www.youtube.com/watch?v=${videoId}"`,
+    const out = execFileSync(
+      'yt-dlp',
+      ['--dump-json', '--skip-download', `https://www.youtube.com/watch?v=${videoId}`],
       { timeout: 30000, stdio: ['pipe', 'pipe', 'pipe'] }
     ).toString();
     const data = JSON.parse(out);
@@ -124,7 +125,8 @@ function extractVideoId(url) {
 function loadLibrary() {
   const discovered = fs.readdirSync(LIBRARY_DIR)
     .filter(f => f.endsWith('.yaml'))
-    .map(f => path.basename(f, '.yaml'));
+    .map(f => path.basename(f, '.yaml'))
+    .filter(id => /^[A-Za-z0-9_-]+$/.test(id));
 
   const ordered = [
     ...BAND_ORDER.filter(id => discovered.includes(id)),
