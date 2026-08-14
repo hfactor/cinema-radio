@@ -1,60 +1,36 @@
 {
   "band": "thriller-malayalam",
-  "generated": "2026-08-14T03:39:35+05:30",
+  "generated": "2026-08-15T03:18:55+05:30",
   "slots": [
     {
-      "youtube": "jb5FMCr1rSc",
-      "title": "Devadoothan",
-      "start": "2026-08-14T03:00:00+05:30",
-      "end": "2026-08-14T05:16:16+05:30",
+      "youtube": "VdN4RgPTyAE",
+      "title": "The Tiger",
+      "start": "2026-08-15T03:00:00+05:30",
+      "end": "2026-08-15T05:14:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8176
+          "to": 8061
         }
       ]
     },
     {
-      "youtube": "hYcKURLPSBg",
-      "title": "Cover Story",
-      "start": "2026-08-14T05:16:16+05:30",
-      "end": "2026-08-14T07:27:48+05:30",
+      "youtube": "Bt_dmXcnNsY",
+      "title": "Sainyam",
+      "start": "2026-08-15T05:14:21+05:30",
+      "end": "2026-08-15T07:44:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
-        }
-      ]
-    },
-    {
-      "youtube": "O_j4Lacy64c",
-      "title": "Witness",
-      "start": "2026-08-14T07:27:48+05:30",
-      "end": "2026-08-14T09:41:10+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8002
-        }
-      ]
-    },
-    {
-      "youtube": "gfR5HPg-jJA",
-      "title": "Vargam",
-      "start": "2026-08-14T09:41:10+05:30",
-      "end": "2026-08-14T12:04:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8570
+          "to": 9014
         }
       ]
     },
     {
       "youtube": "jzswDqpoeQY",
       "title": "Robin Hood",
-      "start": "2026-08-14T12:04:00+05:30",
-      "end": "2026-08-14T14:25:27+05:30",
+      "start": "2026-08-15T07:44:35+05:30",
+      "end": "2026-08-15T10:06:02+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,46 +39,34 @@
       ]
     },
     {
-      "youtube": "VM1rLiBDR6g",
-      "title": "Indraprastham",
-      "start": "2026-08-14T14:25:27+05:30",
-      "end": "2026-08-14T16:50:50+05:30",
+      "youtube": "SzwStt19vtw",
+      "title": "Memories",
+      "start": "2026-08-15T10:06:02+05:30",
+      "end": "2026-08-15T12:29:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8723
+          "to": 8589
         }
       ]
     },
     {
-      "youtube": "1t2OVFYzP1A",
-      "title": "Utharam",
-      "start": "2026-08-14T16:50:50+05:30",
-      "end": "2026-08-14T18:58:46+05:30",
+      "youtube": "hYcKURLPSBg",
+      "title": "Cover Story",
+      "start": "2026-08-15T12:29:11+05:30",
+      "end": "2026-08-15T14:40:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7676
-        }
-      ]
-    },
-    {
-      "youtube": "ToZs_GSij8U",
-      "title": "Oru Abhibhashakante Case Diary",
-      "start": "2026-08-14T18:58:46+05:30",
-      "end": "2026-08-14T21:05:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7589
+          "to": 7892
         }
       ]
     },
     {
       "youtube": "hkHesHZGFxM",
       "title": "Detective",
-      "start": "2026-08-14T21:05:15+05:30",
-      "end": "2026-08-14T23:19:22+05:30",
+      "start": "2026-08-15T14:40:43+05:30",
+      "end": "2026-08-15T16:54:50+05:30",
       "segments": [
         {
           "from": 0,
@@ -113,8 +77,8 @@
     {
       "youtube": "ZThJXu2eKw4",
       "title": "Ee Thanutha Veluppan Kalathu",
-      "start": "2026-08-14T23:19:22+05:30",
-      "end": "2026-08-15T01:38:18+05:30",
+      "start": "2026-08-15T16:54:50+05:30",
+      "end": "2026-08-15T19:13:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,10 +87,46 @@
       ]
     },
     {
+      "youtube": "VM1rLiBDR6g",
+      "title": "Indraprastham",
+      "start": "2026-08-15T19:13:46+05:30",
+      "end": "2026-08-15T21:39:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8723
+        }
+      ]
+    },
+    {
+      "youtube": "1t2OVFYzP1A",
+      "title": "Utharam",
+      "start": "2026-08-15T21:39:09+05:30",
+      "end": "2026-08-15T23:47:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7676
+        }
+      ]
+    },
+    {
+      "youtube": "jb5FMCr1rSc",
+      "title": "Devadoothan",
+      "start": "2026-08-15T23:47:05+05:30",
+      "end": "2026-08-16T02:03:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8176
+        }
+      ]
+    },
+    {
       "youtube": "40DnL80mUU0",
       "title": "Manichitrathazhu",
-      "start": "2026-08-15T01:38:18+05:30",
-      "end": "2026-08-15T04:08:13+05:30",
+      "start": "2026-08-16T02:03:21+05:30",
+      "end": "2026-08-16T04:33:16+05:30",
       "segments": [
         {
           "from": 0,
