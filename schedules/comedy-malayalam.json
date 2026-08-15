@@ -1,60 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-08-15T03:18:54+05:30",
+  "generated": "2026-08-16T03:14:17+05:30",
   "slots": [
     {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-08-15T03:00:00+05:30",
-      "end": "2026-08-15T05:32:48+05:30",
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-08-16T03:00:00+05:30",
+      "end": "2026-08-16T04:57:27+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9168
-        }
-      ]
-    },
-    {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-08-15T05:32:48+05:30",
-      "end": "2026-08-15T07:32:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7196
-        }
-      ]
-    },
-    {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-08-15T07:32:44+05:30",
-      "end": "2026-08-15T09:40:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7659
-        }
-      ]
-    },
-    {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-08-15T09:40:23+05:30",
-      "end": "2026-08-15T11:55:13+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8090
+          "to": 7047
         }
       ]
     },
     {
       "youtube": "17OU--IU3XY",
       "title": "Mattuppetti Machan",
-      "start": "2026-08-15T11:55:13+05:30",
-      "end": "2026-08-15T14:10:02+05:30",
+      "start": "2026-08-16T04:57:27+05:30",
+      "end": "2026-08-16T07:12:16+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +27,110 @@
       ]
     },
     {
-      "youtube": "ocISEYOb9KY",
-      "title": "Megham",
-      "start": "2026-08-15T14:10:02+05:30",
-      "end": "2026-08-15T16:34:25+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8663
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-08-15T16:34:25+05:30",
-      "end": "2026-08-15T18:37:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
-        }
-      ]
-    },
-    {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-08-15T18:37:59+05:30",
-      "end": "2026-08-15T20:44:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7599
-        }
-      ]
-    },
-    {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-08-15T20:44:38+05:30",
-      "end": "2026-08-15T23:10:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8722
-        }
-      ]
-    },
-    {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-08-15T23:10:00+05:30",
-      "end": "2026-08-16T01:16:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
       "youtube": "tyJ2O3Y6qk0",
       "title": "Hallo",
-      "start": "2026-08-16T01:16:51+05:30",
-      "end": "2026-08-16T03:41:53+05:30",
+      "start": "2026-08-16T07:12:16+05:30",
+      "end": "2026-08-16T09:37:18+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8702
+        }
+      ]
+    },
+    {
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-08-16T09:37:18+05:30",
+      "end": "2026-08-16T11:46:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7725
+        }
+      ]
+    },
+    {
+      "youtube": "7wCxFzs5JsM",
+      "title": "Pavam Pavam Rajakumaran",
+      "start": "2026-08-16T11:46:03+05:30",
+      "end": "2026-08-16T13:45:59+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7196
+        }
+      ]
+    },
+    {
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-08-16T13:45:59+05:30",
+      "end": "2026-08-16T16:04:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8334
+        }
+      ]
+    },
+    {
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-08-16T16:04:53+05:30",
+      "end": "2026-08-16T18:12:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7659
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-08-16T18:12:32+05:30",
+      "end": "2026-08-16T20:25:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
+    {
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-08-16T20:25:51+05:30",
+      "end": "2026-08-16T23:16:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10251
+        }
+      ]
+    },
+    {
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-08-16T23:16:42+05:30",
+      "end": "2026-08-17T01:31:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8090
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-08-17T01:31:32+05:30",
+      "end": "2026-08-17T03:55:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
         }
       ]
     }
