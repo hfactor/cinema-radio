@@ -1,36 +1,24 @@
 {
   "band": "comedy-malayalam",
-  "generated": "2026-08-16T03:14:17+05:30",
+  "generated": "2026-08-17T03:12:56+05:30",
   "slots": [
     {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-08-16T03:00:00+05:30",
-      "end": "2026-08-16T04:57:27+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-08-17T03:00:00+05:30",
+      "end": "2026-08-17T05:45:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7047
-        }
-      ]
-    },
-    {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-08-16T04:57:27+05:30",
-      "end": "2026-08-16T07:12:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8089
+          "to": 9949
         }
       ]
     },
     {
       "youtube": "tyJ2O3Y6qk0",
       "title": "Hallo",
-      "start": "2026-08-16T07:12:16+05:30",
-      "end": "2026-08-16T09:37:18+05:30",
+      "start": "2026-08-17T05:45:49+05:30",
+      "end": "2026-08-17T08:10:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,98 +27,110 @@
       ]
     },
     {
-      "youtube": "isacm3_fbmA",
-      "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-08-16T09:37:18+05:30",
-      "end": "2026-08-16T11:46:03+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-08-17T08:10:51+05:30",
+      "end": "2026-08-17T10:12:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7725
+          "to": 7295
         }
       ]
     },
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-08-16T11:46:03+05:30",
-      "end": "2026-08-16T13:45:59+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-08-17T10:12:26+05:30",
+      "end": "2026-08-17T12:23:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
+          "to": 7838
         }
       ]
     },
     {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-08-16T13:45:59+05:30",
-      "end": "2026-08-16T16:04:53+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-08-17T12:23:04+05:30",
+      "end": "2026-08-17T14:52:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8334
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-08-16T16:04:53+05:30",
-      "end": "2026-08-16T18:12:32+05:30",
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-08-17T14:52:55+05:30",
+      "end": "2026-08-17T17:12:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 8386
         }
       ]
     },
     {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-08-16T18:12:32+05:30",
-      "end": "2026-08-16T20:25:51+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-08-17T17:12:41+05:30",
+      "end": "2026-08-17T19:46:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7999
+          "to": 9203
         }
       ]
     },
     {
-      "youtube": "KBBta864Ong",
-      "title": "Chandralekha",
-      "start": "2026-08-16T20:25:51+05:30",
-      "end": "2026-08-16T23:16:42+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-08-17T19:46:04+05:30",
+      "end": "2026-08-17T22:16:28+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10251
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-08-16T23:16:42+05:30",
-      "end": "2026-08-17T01:31:32+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-08-17T22:16:28+05:30",
+      "end": "2026-08-18T24:31:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "ocISEYOb9KY",
-      "title": "Megham",
-      "start": "2026-08-17T01:31:32+05:30",
-      "end": "2026-08-17T03:55:55+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-08-18T24:31:39+05:30",
+      "end": "2026-08-18T02:53:40+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-08-18T02:53:40+05:30",
+      "end": "2026-08-18T04:56:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7377
         }
       ]
     }

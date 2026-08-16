@@ -1,24 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-16T03:14:17+05:30",
+  "generated": "2026-08-17T03:12:56+05:30",
   "slots": [
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-08-16T03:00:00+05:30",
-      "end": "2026-08-16T05:48:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
     {
       "youtube": "MZMV8ZoduEM",
       "title": "Phantom",
-      "start": "2026-08-16T05:48:01+05:30",
-      "end": "2026-08-16T08:13:50+05:30",
+      "start": "2026-08-17T03:00:00+05:30",
+      "end": "2026-08-17T05:25:49+05:30",
       "segments": [
         {
           "from": 0,
@@ -29,8 +17,8 @@
     {
       "youtube": "F_og2xNdeoo",
       "title": "Runway",
-      "start": "2026-08-16T08:13:50+05:30",
-      "end": "2026-08-16T10:54:28+05:30",
+      "start": "2026-08-17T05:25:49+05:30",
+      "end": "2026-08-17T08:06:27+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,10 +27,82 @@
       ]
     },
     {
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-08-17T08:06:27+05:30",
+      "end": "2026-08-17T10:41:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9326
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-08-17T10:41:53+05:30",
+      "end": "2026-08-17T13:26:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-08-17T13:26:46+05:30",
+      "end": "2026-08-17T15:47:28+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-08-17T15:47:28+05:30",
+      "end": "2026-08-17T18:42:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-08-17T18:42:20+05:30",
+      "end": "2026-08-17T20:55:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-08-17T20:55:37+05:30",
+      "end": "2026-08-17T23:23:57+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
       "youtube": "dJmHzy4sqn0",
       "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-08-16T10:54:28+05:30",
-      "end": "2026-08-16T13:23:17+05:30",
+      "start": "2026-08-17T23:23:57+05:30",
+      "end": "2026-08-18T01:52:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,74 +111,14 @@
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-08-16T13:23:17+05:30",
-      "end": "2026-08-16T15:51:55+05:30",
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-08-18T01:52:46+05:30",
+      "end": "2026-08-18T04:40:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-08-16T15:51:55+05:30",
-      "end": "2026-08-16T18:44:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-08-16T18:44:49+05:30",
-      "end": "2026-08-16T21:17:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-08-16T21:17:51+05:30",
-      "end": "2026-08-17T24:15:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-08-17T24:15:33+05:30",
-      "end": "2026-08-17T02:54:04+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-08-17T02:54:04+05:30",
-      "end": "2026-08-17T05:04:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
+          "to": 10081
         }
       ]
     }
