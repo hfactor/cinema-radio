@@ -1,48 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-18T03:19:29+05:30",
+  "generated": "2026-08-19T03:16:38+05:30",
   "slots": [
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-08-18T03:00:00+05:30",
-      "end": "2026-08-18T05:34:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-08-18T05:34:20+05:30",
-      "end": "2026-08-18T08:23:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-08-18T08:23:17+05:30",
-      "end": "2026-08-18T11:07:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-08-18T11:07:16+05:30",
-      "end": "2026-08-18T13:27:58+05:30",
+      "start": "2026-08-19T03:00:00+05:30",
+      "end": "2026-08-19T05:20:42+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,22 +15,82 @@
       ]
     },
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-08-18T13:27:58+05:30",
-      "end": "2026-08-18T15:46:43+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-08-19T05:20:42+05:30",
+      "end": "2026-08-19T07:57:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-08-19T07:57:20+05:30",
+      "end": "2026-08-19T10:41:19+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-08-19T10:41:19+05:30",
+      "end": "2026-08-19T12:23:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-08-19T12:23:35+05:30",
+      "end": "2026-08-19T15:14:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-08-19T15:14:29+05:30",
+      "end": "2026-08-19T18:03:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-08-19T18:03:26+05:30",
+      "end": "2026-08-19T21:00:30+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
         }
       ]
     },
     {
       "youtube": "KmRVJ8ZFew0",
       "title": "Vazhunnor",
-      "start": "2026-08-18T15:46:43+05:30",
-      "end": "2026-08-18T18:21:52+05:30",
+      "start": "2026-08-19T21:00:30+05:30",
+      "end": "2026-08-19T23:35:39+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,50 +99,26 @@
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-08-18T18:21:52+05:30",
-      "end": "2026-08-18T21:00:23+05:30",
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-08-19T23:35:39+05:30",
+      "end": "2026-08-20T01:45:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 7820
         }
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-08-18T21:00:23+05:30",
-      "end": "2026-08-18T23:29:01+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-08-20T01:45:59+05:30",
+      "end": "2026-08-20T04:21:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-08-18T23:29:01+05:30",
-      "end": "2026-08-19T01:58:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-08-19T01:58:01+05:30",
-      "end": "2026-08-19T04:52:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
+          "to": 9326
         }
       ]
     }
