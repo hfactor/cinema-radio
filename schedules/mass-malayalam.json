@@ -1,48 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-20T03:19:34+05:30",
+  "generated": "2026-08-21T03:22:45+05:30",
   "slots": [
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-08-20T03:00:00+05:30",
-      "end": "2026-08-20T05:57:04+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-08-21T03:00:00+05:30",
+      "end": "2026-08-21T05:33:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-08-20T05:57:04+05:30",
-      "end": "2026-08-20T08:51:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-08-20T08:51:54+05:30",
-      "end": "2026-08-20T11:20:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
+          "to": 9182
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-08-20T11:20:43+05:30",
-      "end": "2026-08-20T13:49:43+05:30",
+      "start": "2026-08-21T05:33:02+05:30",
+      "end": "2026-08-21T08:02:02+05:30",
       "segments": [
         {
           "from": 0,
@@ -53,8 +29,8 @@
     {
       "youtube": "Q4BPekFLj1c",
       "title": "Rakshasa Rajavu",
-      "start": "2026-08-20T13:49:43+05:30",
-      "end": "2026-08-20T16:33:42+05:30",
+      "start": "2026-08-21T08:02:02+05:30",
+      "end": "2026-08-21T10:46:01+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,50 +39,86 @@
       ]
     },
     {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-08-20T16:33:42+05:30",
-      "end": "2026-08-20T19:31:24+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-08-21T10:46:01+05:30",
+      "end": "2026-08-21T13:11:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10662
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-08-20T19:31:24+05:30",
-      "end": "2026-08-20T21:41:44+05:30",
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-08-21T13:11:50+05:30",
+      "end": "2026-08-21T15:46:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 9309
         }
       ]
     },
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-08-20T21:41:44+05:30",
-      "end": "2026-08-21T24:17:10+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-08-21T15:46:59+05:30",
+      "end": "2026-08-21T18:41:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
+          "to": 10492
         }
       ]
     },
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-08-21T24:17:10+05:30",
-      "end": "2026-08-21T03:14:02+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-08-21T18:41:51+05:30",
+      "end": "2026-08-21T21:10:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-08-21T21:10:29+05:30",
+      "end": "2026-08-21T23:51:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-08-21T23:51:07+05:30",
+      "end": "2026-08-22T02:45:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-08-22T02:45:46+05:30",
+      "end": "2026-08-22T05:33:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10081
         }
       ]
     }
