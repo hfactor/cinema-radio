@@ -1,48 +1,12 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-21T03:22:45+05:30",
+  "generated": "2026-08-22T03:17:53+05:30",
   "slots": [
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-08-21T03:00:00+05:30",
-      "end": "2026-08-21T05:33:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-08-21T05:33:02+05:30",
-      "end": "2026-08-21T08:02:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-08-21T08:02:02+05:30",
-      "end": "2026-08-21T10:46:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
     {
       "youtube": "MZMV8ZoduEM",
       "title": "Phantom",
-      "start": "2026-08-21T10:46:01+05:30",
-      "end": "2026-08-21T13:11:50+05:30",
+      "start": "2026-08-22T03:00:00+05:30",
+      "end": "2026-08-22T05:25:49+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,58 +15,58 @@
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-08-21T13:11:50+05:30",
-      "end": "2026-08-21T15:46:59+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-08-22T05:25:49+05:30",
+      "end": "2026-08-22T07:54:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
+          "to": 8900
         }
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-08-21T15:46:59+05:30",
-      "end": "2026-08-21T18:41:51+05:30",
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-08-22T07:54:09+05:30",
+      "end": "2026-08-22T10:04:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 7820
         }
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-08-21T18:41:51+05:30",
-      "end": "2026-08-21T21:10:29+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-08-22T10:04:29+05:30",
+      "end": "2026-08-22T12:57:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-08-21T21:10:29+05:30",
-      "end": "2026-08-21T23:51:07+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-08-22T12:57:23+05:30",
+      "end": "2026-08-22T15:30:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 9182
         }
       ]
     },
     {
       "youtube": "-FPFH5WwMhU",
       "title": "Aaraam Thampuran",
-      "start": "2026-08-21T23:51:07+05:30",
-      "end": "2026-08-22T02:45:46+05:30",
+      "start": "2026-08-22T15:30:25+05:30",
+      "end": "2026-08-22T18:25:04+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +75,50 @@
       ]
     },
     {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-08-22T02:45:46+05:30",
-      "end": "2026-08-22T05:33:47+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-08-22T18:25:04+05:30",
+      "end": "2026-08-22T20:59:24+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10081
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-08-22T20:59:24+05:30",
+      "end": "2026-08-22T22:41:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-08-22T22:41:40+05:30",
+      "end": "2026-08-23T01:26:33+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-08-23T01:26:33+05:30",
+      "end": "2026-08-23T04:10:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
         }
       ]
     }
