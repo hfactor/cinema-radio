@@ -1,12 +1,24 @@
 {
   "band": "mass-malayalam",
-  "generated": "2026-08-23T03:14:50+05:30",
+  "generated": "2026-08-24T03:15:04+05:30",
   "slots": [
+    {
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-08-24T03:00:00+05:30",
+      "end": "2026-08-24T05:35:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9326
+        }
+      ]
+    },
     {
       "youtube": "zI8sWVDlZMI",
       "title": "Simhasanam",
-      "start": "2026-08-23T03:00:00+05:30",
-      "end": "2026-08-23T05:28:20+05:30",
+      "start": "2026-08-24T05:35:26+05:30",
+      "end": "2026-08-24T08:03:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,94 +27,22 @@
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-08-23T05:28:20+05:30",
-      "end": "2026-08-23T08:03:29+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-08-24T08:03:46+05:30",
+      "end": "2026-08-24T10:58:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
-        }
-      ]
-    },
-    {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-08-23T08:03:29+05:30",
-      "end": "2026-08-23T10:16:46+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
-        }
-      ]
-    },
-    {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-08-23T10:16:46+05:30",
-      "end": "2026-08-23T13:13:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10612
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-08-23T13:13:38+05:30",
-      "end": "2026-08-23T15:50:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-08-23T15:50:16+05:30",
-      "end": "2026-08-23T18:34:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-08-23T18:34:15+05:30",
-      "end": "2026-08-23T21:22:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-08-23T21:22:16+05:30",
-      "end": "2026-08-23T23:42:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
+          "to": 10492
         }
       ]
     },
     {
       "youtube": "I5eQkEBVoYo",
       "title": "Praja",
-      "start": "2026-08-23T23:42:58+05:30",
-      "end": "2026-08-24T02:40:02+05:30",
+      "start": "2026-08-24T10:58:38+05:30",
+      "end": "2026-08-24T13:55:42+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +51,62 @@
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-08-24T02:40:02+05:30",
-      "end": "2026-08-24T05:08:51+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-08-24T13:55:42+05:30",
+      "end": "2026-08-24T16:36:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-08-24T16:36:20+05:30",
+      "end": "2026-08-24T19:14:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9511
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-08-24T19:14:51+05:30",
+      "end": "2026-08-24T21:58:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-08-24T21:58:50+05:30",
+      "end": "2026-08-25T24:51:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-08-25T24:51:44+05:30",
+      "end": "2026-08-25T03:42:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
         }
       ]
     }
