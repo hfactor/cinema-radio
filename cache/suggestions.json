@@ -1,0 +1,11 @@
+{
+  "processed": {
+    "8/29/2026 17:33:14|TEST_CURL_P": {
+      "url": "https://www.youtube.com/watch?v=TEST_CURL_PROBE2",
+      "videoId": "TEST_CURL_P",
+      "timestamp": "8/29/2026 17:33:14",
+      "status": "dropped",
+      "reason": "unavailable"
+    }
+  }
+}

@@ -54,7 +54,7 @@ movies:
     title: Movie Title
 ```
 
-The filename becomes the band ID (`my-band`). It appears on the radio automatically after the next schedule generation. No other config needed.
+The filename becomes the band ID (`my-band`). Follow the naming convention `{language}-{genre}` (e.g. `malayalam-comedy`) so it appears correctly in the tuner and Programme listing. It shows up on the radio automatically after the next schedule generation. No other config needed.
 
 ---
 
@@ -95,9 +95,9 @@ Push to GitHub and point GitHub Pages (or Cloudflare Pages) at the root. The inc
 ```
 /
 ├── library/              ← edit these to add movies
-│   ├── comedy-malayalam.yaml
-│   ├── thriller-malayalam.yaml
-│   └── kairali.yaml
+│   ├── malayalam-comedy.yaml
+│   ├── malayalam-mass.yaml
+│   └── malayalam-thriller.yaml
 ├── schedules/            ← auto-generated, do not edit
 │   ├── index.json
 │   └── *.json
@@ -119,7 +119,7 @@ Push to GitHub and point GitHub Pages (or Cloudflare Pages) at the root. The inc
 ## config.yaml
 
 ```yaml
-default_band: comedy-malayalam   # band shown on first load
+default_band: malayalam-comedy   # band shown on first load
 timezone: Asia/Kolkata
 movies_per_batch: 15             # slots generated per run
 lookahead_hours: 36              # skip generation if already stocked

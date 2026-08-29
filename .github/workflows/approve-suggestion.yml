@@ -1,0 +1,75 @@
+name: Approve Suggestion
+
+on:
+  issues:
+    types: [labeled]
+
+jobs:
+  approve:
+    if: github.event.label.name == 'approved'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      issues: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Apply approval
+        id: apply
+        run: node scripts/approve-suggestion.js
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+          ISSUE_LABELS: ${{ join(github.event.issue.labels.*.name, ',') }}
+
+      - name: Commit and close issue
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const resultFile = 'cache/approval-result.json';
+            if (!fs.existsSync(resultFile)) {
+              core.setFailed('No approval-result.json written — approve-suggestion.js did not run as expected.');
+              return;
+            }
+            const result = JSON.parse(fs.readFileSync(resultFile, 'utf8'));
+            const issue_number = context.issue.number;
+
+            if (!result.ok) {
+              await github.rest.issues.createComment({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number,
+                body: `Could not approve this suggestion: ${result.message}`,
+              });
+              await github.rest.issues.removeLabel({
+                owner: context.repo.owner, repo: context.repo.repo, issue_number,
+                name: 'approved',
+              }).catch(() => {});
+              return;
+            }
+
+            const { execSync } = require('child_process');
+            execSync('git config user.name "github-actions[bot]"');
+            execSync('git config user.email "github-actions[bot]@users.noreply.github.com"');
+            execSync(`git add library/${result.band}.yaml`);
+            execSync(`git commit -m "feat: add ${result.title} to ${result.band} (suggested by ${result.contributor})"`);
+            execSync('git push');
+
+            await github.rest.issues.createComment({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number,
+              body: `Added **${result.title}** to \`${result.band}\`, credited to **${result.contributor}**. It'll appear in the schedule after the next daily generation. Thanks for the suggestion!`,
+            });
+            await github.rest.issues.update({
+              owner: context.repo.owner, repo: context.repo.repo, issue_number,
+              state: 'closed',
+            });

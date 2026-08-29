@@ -1,0 +1,138 @@
+{
+  "band": "malayalam-comedy",
+  "generated": "2026-08-29T16:58:57+05:30",
+  "slots": [
+    {
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-08-29T03:00:00+05:30",
+      "end": "2026-08-29T05:15:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8111
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-08-29T05:15:11+05:30",
+      "end": "2026-08-29T07:14:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-08-29T07:14:51+05:30",
+      "end": "2026-08-29T09:25:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7856
+        }
+      ]
+    },
+    {
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-08-29T09:25:47+05:30",
+      "end": "2026-08-29T11:33:18+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7651
+        }
+      ]
+    },
+    {
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-08-29T11:33:18+05:30",
+      "end": "2026-08-29T13:58:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8683
+        }
+      ]
+    },
+    {
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-08-29T13:58:01+05:30",
+      "end": "2026-08-29T16:32:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9240
+        }
+      ]
+    },
+    {
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-08-29T16:32:01+05:30",
+      "end": "2026-08-29T18:51:54+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8393
+        }
+      ]
+    },
+    {
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-08-29T18:51:54+05:30",
+      "end": "2026-08-29T21:00:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7723
+        }
+      ]
+    },
+    {
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-08-29T21:00:37+05:30",
+      "end": "2026-08-29T23:08:16+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7659
+        }
+      ]
+    },
+    {
+      "youtube": "7rkNmfIZ3RQ",
+      "title": "Kalyanji Anandji",
+      "start": "2026-08-29T23:08:16+05:30",
+      "end": "2026-08-30T01:06:10+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7074
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-08-30T01:06:10+05:30",
+      "end": "2026-08-30T03:48:17+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    }
+  ]
+}

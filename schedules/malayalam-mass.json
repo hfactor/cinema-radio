@@ -1,0 +1,126 @@
+{
+  "band": "malayalam-mass",
+  "generated": "2026-08-29T16:58:57+05:30",
+  "slots": [
+    {
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-08-29T03:00:00+05:30",
+      "end": "2026-08-29T05:48:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10081
+        }
+      ]
+    },
+    {
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-08-29T05:48:01+05:30",
+      "end": "2026-08-29T08:24:39+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-08-29T08:24:39+05:30",
+      "end": "2026-08-29T10:45:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-08-29T10:45:21+05:30",
+      "end": "2026-08-29T13:29:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-08-29T13:29:20+05:30",
+      "end": "2026-08-29T16:20:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-08-29T16:20:14+05:30",
+      "end": "2026-08-29T18:48:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-08-29T18:48:34+05:30",
+      "end": "2026-08-29T21:23:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-08-29T21:23:43+05:30",
+      "end": "2026-08-29T23:52:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8940
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-08-29T23:52:43+05:30",
+      "end": "2026-08-30T02:47:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-08-30T02:47:35+05:30",
+      "end": "2026-08-30T05:21:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    }
+  ]
+}

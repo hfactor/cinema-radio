@@ -36,6 +36,11 @@ jobs:
         env:
           CI: true
 
+      - name: Intake movie suggestions
+        run: node scripts/intake-suggestions.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Open GitHub Issues for unavailable videos
         if: always()
         uses: actions/github-script@v7
@@ -86,6 +91,6 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add schedules/ cache/durations.json
+          git add schedules/ cache/durations.json cache/suggestions.json
           git diff --staged --quiet || git commit -m "chore: update schedules [$(date '+%Y-%m-%d')]"
           git push

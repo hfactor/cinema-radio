@@ -1,10 +1,13 @@
-default_band: comedy-malayalam
+default_band: malayalam-comedy
 timezone: Asia/Kolkata
 reset_hour: 3   # schedules reset at 3 AM IST daily
 
 band_order:
-  - comedy-malayalam
-  - mass-malayalam
-  - thriller-malayalam
-  - senti-party
-  - kairali
+  - malayalam-comedy
+  - malayalam-mass
+  - malayalam-thriller
+
+# Movie suggestion intake (see scripts/intake-suggestions.js)
+suggestions_csv_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRCCZsQAwmDAJ4HsoqjE0t2EhupWbVG7Z07fkhP84EpOGlB0LkPhQxB_dxfwiB8ieFL9s9tiepUHKOY/pub?output=csv"
+suggestions_max_per_run: 8   # cap new suggestion issues opened per daily run
+min_movie_seconds: 3600      # reject anything shorter than this (60 min) as "not a movie"

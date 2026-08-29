@@ -39,6 +39,7 @@ html, body {
 .page {
   min-height: 100dvh;
   display: flex;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   padding: 20px 16px;
@@ -917,6 +918,11 @@ body.powered .btn-power svg {
 .about-rule {
   border-top: 1px solid var(--sheet-border);
 }
+.about-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 18px;
+}
 .about-gh {
   display: inline-flex;
   align-items: center;
@@ -928,6 +934,101 @@ body.powered .btn-power svg {
   transition: opacity 0.15s;
 }
 .about-gh:hover { opacity: 1; }
+
+/* ─── Suggest modal ──────────────────────────────────────────────────────── */
+.suggest-body {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.suggest-body[hidden] {
+  display: none;
+}
+.suggest-hint {
+  font-size: 13px;
+  color: var(--sheet-dim);
+  line-height: 1.6;
+}
+#suggest-form {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.suggest-field {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+.suggest-field span {
+  font-family: var(--ui);
+  font-size: 11px;
+  letter-spacing: 0.4px;
+  text-transform: uppercase;
+  color: var(--sheet-dim);
+}
+.suggest-field span em {
+  font-style: normal;
+  text-transform: none;
+  opacity: 0.7;
+}
+.suggest-field input {
+  background: #0d0d0d;
+  border: 1px solid var(--sheet-border);
+  border-radius: 8px;
+  color: var(--sheet-text);
+  font-family: var(--mono);
+  font-size: 14px;
+  padding: 11px 12px;
+  outline: none;
+  transition: border-color 0.15s;
+}
+.suggest-field input::placeholder { color: #555; }
+.suggest-field input:focus { border-color: var(--accent); }
+
+.suggest-submit {
+  background: rgba(62, 207, 84, 0.1);
+  color: var(--accent);
+  border: 1px solid rgba(62, 207, 84, 0.3);
+  border-radius: 8px;
+  font-family: var(--ui);
+  font-size: 13px;
+  font-weight: 600;
+  padding: 12px;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+.suggest-submit:hover { background: rgba(62, 207, 84, 0.16); border-color: rgba(62, 207, 84, 0.45); }
+.suggest-submit:disabled { opacity: 0.5; cursor: default; }
+
+.suggest-link {
+  display: block;
+  margin: 14px auto 0;
+  background: none;
+  border: none;
+  color: var(--text-dim);
+  font-family: var(--ui);
+  font-size: 12px;
+  letter-spacing: 0.2px;
+  opacity: 0.55;
+  cursor: pointer;
+  padding: 6px 10px;
+  transition: opacity 0.15s;
+  -webkit-tap-highlight-color: transparent;
+}
+.suggest-link:hover { opacity: 0.9; }
+
+.suggest-error {
+  font-size: 12px;
+  color: #d9765a;
+  min-height: 1em;
+  margin: 0;
+}
+
+.suggest-thanks p {
+  font-size: 14px;
+  color: var(--sheet-text);
+  line-height: 1.6;
+}
 
 /* ─── Desktop — card layout ─────────────────────────────────────────────── */
 @media (min-width: 480px) {

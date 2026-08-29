@@ -5,10 +5,19 @@
 // ─── Config ───────────────────────────────────────────────────────────────────
 const SCHEDULE_BASE = (typeof window !== 'undefined' && window.SCHEDULE_BASE) || '';
 const CONFIG = {
-  defaultBand:  'comedy-malayalam',
+  defaultBand:  'malayalam-comedy',
   timezone:     'Asia/Kolkata',
   indexPath:    `${SCHEDULE_BASE}schedules/index.json`,
   schedulePath: band => `${SCHEDULE_BASE}schedules/${band}.json`,
+};
+
+// Suggestion form — submits straight to the Google Form backing the review
+// queue (see scripts/intake-suggestions.js), without sending the visitor
+// to Google's own UI. Entry IDs come from that form's field definitions.
+const SUGGEST_FORM_ACTION = 'https://docs.google.com/forms/d/e/1FAIpQLSenM9IAee5sRfoYqDkUJG9qA3WcsAutMjsBrJ8iJydsLmI8fA/formResponse';
+const SUGGEST_ENTRY = {
+  url:  'entry.2036482938',
+  name: 'entry.1748171386',
 };
 
 // ─── State ────────────────────────────────────────────────────────────────────
@@ -683,6 +692,56 @@ async function init() {
   el('about-wrap').addEventListener('click', e => {
     if (e.target === el('about-wrap')) closeModal('about-wrap');
   });
+
+  // Suggest a movie modal
+  const YT_URL_RE = /^https:\/\/(www\.)?(youtube\.com\/watch\?v=|youtu\.be\/)[A-Za-z0-9_-]{11}/;
+
+  function resetSuggestForm() {
+    el('suggest-form').reset();
+    el('suggest-error').textContent = '';
+    el('suggest-submit').disabled = false;
+    el('suggest-submit').textContent = 'Submit';
+    el('suggest-form-view').hidden = false;
+    el('suggest-thanks-view').hidden = true;
+  }
+
+  el('btn-suggest-open').addEventListener('click', () => {
+    resetSuggestForm();
+    openModal('suggest-wrap');
+  });
+  el('suggest-close').addEventListener('click', () => closeModal('suggest-wrap'));
+  el('suggest-wrap').addEventListener('click', e => {
+    if (e.target === el('suggest-wrap')) closeModal('suggest-wrap');
+  });
+
+  el('suggest-form').addEventListener('submit', e => {
+    e.preventDefault();
+    const url  = el('suggest-url').value.trim();
+    const name = el('suggest-name').value.trim();
+    const errEl = el('suggest-error');
+    errEl.textContent = '';
+
+    if (!YT_URL_RE.test(url)) {
+      errEl.textContent = "That doesn't look like a youtube.com or youtu.be movie link.";
+      return;
+    }
+
+    el('suggest-submit').disabled = true;
+    el('suggest-submit').textContent = 'Submitting…';
+
+    const body = new URLSearchParams();
+    body.set(SUGGEST_ENTRY.url, url);
+    body.set(SUGGEST_ENTRY.name, name);
+
+    fetch(SUGGEST_FORM_ACTION, { method: 'POST', mode: 'no-cors', body })
+      .catch(() => {}) // opaque response either way; treat as sent
+      .finally(() => {
+        el('suggest-form-view').hidden = true;
+        el('suggest-thanks-view').hidden = false;
+      });
+  });
+
+  el('suggest-another').addEventListener('click', resetSuggestForm);
 }
 
 init();
