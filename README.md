@@ -97,7 +97,8 @@ Push to GitHub and point GitHub Pages (or Cloudflare Pages) at the root. The inc
 ├── library/              ← edit these to add movies
 │   ├── malayalam-comedy.yaml
 │   ├── malayalam-mass.yaml
-│   └── malayalam-thriller.yaml
+│   ├── malayalam-thriller.yaml
+│   └── tamil-comedy.yaml
 ├── schedules/            ← auto-generated, do not edit
 │   ├── index.json
 │   └── *.json

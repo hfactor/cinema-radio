@@ -6,6 +6,7 @@ band_order:
   - malayalam-comedy
   - malayalam-mass
   - malayalam-thriller
+  - tamil-comedy
 
 # Movie suggestion intake (see scripts/intake-suggestions.js)
 suggestions_csv_url: "https://docs.google.com/spreadsheets/d/e/2PACX-1vRCCZsQAwmDAJ4HsoqjE0t2EhupWbVG7Z07fkhP84EpOGlB0LkPhQxB_dxfwiB8ieFL9s9tiepUHKOY/pub?output=csv"

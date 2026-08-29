@@ -84,10 +84,13 @@ function extractVideoId(url) {
   return m ? m[1] : null;
 }
 
+function listLibraryFiles() {
+  return fs.readdirSync(LIBRARY_DIR).filter(f => f.endsWith('.yaml'));
+}
+
 function loadExistingVideoIds() {
   const ids = new Set();
-  const files = fs.readdirSync(LIBRARY_DIR).filter(f => f.endsWith('.yaml'));
-  for (const f of files) {
+  for (const f of listLibraryFiles()) {
     const raw = yaml.load(fs.readFileSync(path.join(LIBRARY_DIR, f), 'utf8')) || {};
     for (const m of raw.movies || []) {
       const id = extractVideoId(m.url);
@@ -141,7 +144,9 @@ async function gh(pathname, opts = {}) {
   return res.status === 204 ? null : res.json();
 }
 
-const BAND_LABELS = ['band:malayalam-comedy', 'band:malayalam-mass', 'band:malayalam-thriller'];
+function bandLabels() {
+  return listLibraryFiles().map(f => `band:${path.basename(f, '.yaml')}`);
+}
 
 async function createIssue({ videoId, title, contributor, url, duration }) {
   const body = [
@@ -153,7 +158,7 @@ async function createIssue({ videoId, title, contributor, url, duration }) {
     `**YouTube:** ${url}`,
     `**Duration:** ${fmtDuration(duration)}`,
     ``,
-    `To approve: add **one** of \`${BAND_LABELS.join('`, `')}\` to pick the channel, plus the \`approved\` label. That appends the entry to the matching \`library/*.yaml\`, credits the contributor, and closes this issue.`,
+    `To approve: add **one** of \`${bandLabels().join('`, `')}\` to pick the channel, plus the \`approved\` label. That appends the entry to the matching \`library/*.yaml\`, credits the contributor, and closes this issue.`,
     ``,
     `<!-- video-id: ${videoId} -->`,
     `<!-- title: ${title.replace(/-->/g, '')} -->`,
