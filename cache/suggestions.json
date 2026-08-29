@@ -6,6 +6,34 @@
       "timestamp": "8/29/2026 17:33:14",
       "status": "dropped",
       "reason": "unavailable"
+    },
+    "8/29/2026 23:05:23|CHgSJp_raMM": {
+      "url": "https://www.youtube.com/watch?v=CHgSJp_raMM",
+      "videoId": "CHgSJp_raMM",
+      "timestamp": "8/29/2026 23:05:23",
+      "status": "dropped",
+      "reason": "too-short (0s)"
+    },
+    "8/29/2026 23:06:51|y0HLwiAVi4E": {
+      "url": "https://www.youtube.com/watch?v=y0HLwiAVi4E",
+      "videoId": "y0HLwiAVi4E",
+      "timestamp": "8/29/2026 23:06:51",
+      "status": "dropped",
+      "reason": "too-short (0s)"
+    },
+    "8/29/2026 23:07:16|yTooqV38fJU": {
+      "url": "https://www.youtube.com/watch?v=yTooqV38fJU",
+      "videoId": "yTooqV38fJU",
+      "timestamp": "8/29/2026 23:07:16",
+      "status": "dropped",
+      "reason": "too-short (0s)"
+    },
+    "8/29/2026 23:08:03|OD561aot6Js": {
+      "url": "https://www.youtube.com/watch?v=OD561aot6Js",
+      "videoId": "OD561aot6Js",
+      "timestamp": "8/29/2026 23:08:03",
+      "status": "dropped",
+      "reason": "too-short (0s)"
     }
   }
 }
