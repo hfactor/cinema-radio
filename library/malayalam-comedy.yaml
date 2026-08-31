@@ -24,8 +24,8 @@ movies:
   - url: https://www.youtube.com/watch?v=eSIn0GOQRds
     title: Aramana Veedum Anjoorekkarum
 
-  - url: https://www.youtube.com/watch?v=rYrLIcFIOoo
-    title: Thenmavinkombathu
+# [not-embeddable] - url: https://www.youtube.com/watch?v=rYrLIcFIOoo
+#     title: Thenmavinkombathu
 
   - url: https://www.youtube.com/watch?v=TvTCsJhsIHU
     title: Mazhavilkavadi
