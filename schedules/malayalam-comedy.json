@@ -1,136 +1,136 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-08-31T05:10:56+05:30",
+  "generated": "2026-09-01T06:12:34+05:30",
   "slots": [
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-08-31T03:00:00+05:30",
-      "end": "2026-08-31T05:31:44+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-09-01T03:00:00+05:30",
+      "end": "2026-09-01T05:11:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 7912
         }
       ]
     },
     {
-      "youtube": "1L8zjJMmfsQ",
-      "title": "Nadodikattu",
-      "start": "2026-08-31T05:31:44+05:30",
-      "end": "2026-08-31T08:05:44+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-09-01T05:11:52+05:30",
+      "end": "2026-09-01T07:30:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9240
+          "to": 8334
         }
       ]
     },
     {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-08-31T08:05:44+05:30",
-      "end": "2026-08-31T10:30:07+05:30",
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-09-01T07:30:46+05:30",
+      "end": "2026-09-01T10:00:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
+          "to": 8987
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-08-31T10:30:07+05:30",
-      "end": "2026-08-31T12:44:56+05:30",
+      "youtube": "MFHwp26QNr0",
+      "title": "Mookkilla Raajyathu",
+      "start": "2026-09-01T10:00:33+05:30",
+      "end": "2026-09-01T12:12:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 7937
         }
       ]
     },
     {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-08-31T12:44:56+05:30",
-      "end": "2026-08-31T14:56:28+05:30",
+      "youtube": "GPMnBx9ZkYI",
+      "title": "Meleparambil Aanveedu",
+      "start": "2026-09-01T12:12:50+05:30",
+      "end": "2026-09-01T14:38:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
+          "to": 8722
         }
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-08-31T14:56:28+05:30",
-      "end": "2026-08-31T17:25:33+05:30",
+      "youtube": "asffbk9CSI8",
+      "title": "Thanneer Mathan Dinangal",
+      "start": "2026-09-01T14:38:12+05:30",
+      "end": "2026-09-01T16:53:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
+          "to": 8145
         }
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-08-31T17:25:33+05:30",
-      "end": "2026-08-31T19:36:11+05:30",
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-09-01T16:53:57+05:30",
+      "end": "2026-09-01T19:10:19+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
+          "to": 8182
         }
       ]
     },
     {
-      "youtube": "QlwKwes1qIs",
-      "title": "Mithunam",
-      "start": "2026-08-31T19:36:11+05:30",
-      "end": "2026-08-31T22:00:54+05:30",
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-09-01T19:10:19+05:30",
+      "end": "2026-09-01T21:17:10+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8683
+          "to": 7611
         }
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-08-31T22:00:54+05:30",
-      "end": "2026-09-01T24:15:44+05:30",
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-09-01T21:17:10+05:30",
+      "end": "2026-09-01T23:53:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 9354
         }
       ]
     },
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-09-01T24:15:44+05:30",
-      "end": "2026-09-01T02:31:45+05:30",
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-09-01T23:53:04+05:30",
+      "end": "2026-09-02T02:12:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 8393
         }
       ]
     },
     {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-09-01T02:31:45+05:30",
-      "end": "2026-09-01T04:35:19+05:30",
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-09-02T02:12:57+05:30",
+      "end": "2026-09-02T04:19:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7414
+          "to": 7599
         }
       ]
     }
