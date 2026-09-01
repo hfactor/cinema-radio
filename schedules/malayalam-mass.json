@@ -1,124 +1,112 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-01T06:12:34+05:30",
+  "generated": "2026-09-02T04:57:32+05:30",
   "slots": [
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-09-01T03:00:00+05:30",
-      "end": "2026-09-01T05:35:26+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-09-02T03:00:00+05:30",
+      "end": "2026-09-02T05:48:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
+          "to": 10137
         }
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-09-01T05:35:26+05:30",
-      "end": "2026-09-01T07:45:46+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-09-02T05:48:57+05:30",
+      "end": "2026-09-02T08:32:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 9839
         }
       ]
     },
     {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-09-01T07:45:46+05:30",
-      "end": "2026-09-01T10:20:06+05:30",
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-09-02T08:32:56+05:30",
+      "end": "2026-09-02T11:29:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9260
+          "to": 10612
         }
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-09-01T10:20:06+05:30",
-      "end": "2026-09-01T12:48:26+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-09-02T11:29:48+05:30",
+      "end": "2026-09-02T13:55:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-09-01T12:48:26+05:30",
-      "end": "2026-09-01T15:17:04+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-09-02T13:55:37+05:30",
+      "end": "2026-09-02T16:24:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
+          "to": 8929
         }
       ]
     },
     {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-09-01T15:17:04+05:30",
-      "end": "2026-09-01T17:30:21+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-09-02T16:24:26+05:30",
+      "end": "2026-09-02T19:15:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7997
+          "to": 10254
         }
       ]
     },
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-09-01T17:30:21+05:30",
-      "end": "2026-09-01T20:06:59+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-09-02T19:15:20+05:30",
+      "end": "2026-09-02T22:09:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-09-02T22:09:59+05:30",
+      "end": "2026-09-03T24:48:30+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9511
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-09-01T20:06:59+05:30",
-      "end": "2026-09-01T22:35:59+05:30",
+      "start": "2026-09-03T24:48:30+05:30",
+      "end": "2026-09-03T03:17:30+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-09-01T22:35:59+05:30",
-      "end": "2026-09-02T24:56:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-09-02T24:56:41+05:30",
-      "end": "2026-09-02T03:54:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
         }
       ]
     }
