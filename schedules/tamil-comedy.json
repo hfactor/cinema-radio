@@ -1,72 +1,48 @@
 {
   "band": "tamil-comedy",
-  "generated": "2026-09-02T04:57:32+05:30",
+  "generated": "2026-09-03T04:58:38+05:30",
   "slots": [
     {
-      "youtube": "N9gNKnjSTQM",
-      "title": "Boys",
-      "start": "2026-09-02T03:00:00+05:30",
-      "end": "2026-09-02T05:43:42+05:30",
+      "youtube": "9Enzl3SnnMM",
+      "title": "Michael Madana Kama Rajan",
+      "start": "2026-09-03T03:00:00+05:30",
+      "end": "2026-09-03T05:47:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9822
+          "to": 10063
         }
       ]
     },
     {
-      "youtube": "2E48ApwYb-c",
-      "title": "Varavu Ettana Selavu Pathana",
-      "start": "2026-09-02T05:43:42+05:30",
-      "end": "2026-09-02T08:17:51+05:30",
+      "youtube": "DK9acwDioKs",
+      "title": "Soodhu Kavvum",
+      "start": "2026-09-03T05:47:43+05:30",
+      "end": "2026-09-03T08:00:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9249
+          "to": 7983
         }
       ]
     },
     {
-      "youtube": "Q9IJBHbrC3M",
-      "title": "Kalakalappu",
-      "start": "2026-09-02T08:17:51+05:30",
-      "end": "2026-09-02T10:44:11+05:30",
+      "youtube": "L2Q-3cTKauE",
+      "title": "Manal Kayiru",
+      "start": "2026-09-03T08:00:46+05:30",
+      "end": "2026-09-03T10:19:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8780
-        }
-      ]
-    },
-    {
-      "youtube": "5GnDnEBbM2s",
-      "title": "Muthu",
-      "start": "2026-09-02T10:44:11+05:30",
-      "end": "2026-09-02T13:22:37+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9506
-        }
-      ]
-    },
-    {
-      "youtube": "lEaqAp2VmWM",
-      "title": "Tamizh Padam",
-      "start": "2026-09-02T13:22:37+05:30",
-      "end": "2026-09-02T15:34:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7928
+          "to": 8316
         }
       ]
     },
     {
       "youtube": "xS-bAiZvMjY",
       "title": "Kaathala Kaathala",
-      "start": "2026-09-02T15:34:45+05:30",
-      "end": "2026-09-02T17:29:50+05:30",
+      "start": "2026-09-03T10:19:22+05:30",
+      "end": "2026-09-03T12:14:27+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,10 +51,58 @@
       ]
     },
     {
+      "youtube": "j9qiYvwpIaM",
+      "title": "Boss Engira Baskaran",
+      "start": "2026-09-03T12:14:27+05:30",
+      "end": "2026-09-03T14:55:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9674
+        }
+      ]
+    },
+    {
+      "youtube": "5GnDnEBbM2s",
+      "title": "Muthu",
+      "start": "2026-09-03T14:55:41+05:30",
+      "end": "2026-09-03T17:34:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9506
+        }
+      ]
+    },
+    {
+      "youtube": "M8baCZjo29Q",
+      "title": "Vasool Raja MBBS",
+      "start": "2026-09-03T17:34:07+05:30",
+      "end": "2026-09-03T20:09:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9301
+        }
+      ]
+    },
+    {
+      "youtube": "snBS8R1R9CE",
+      "title": "Uttama Villain",
+      "start": "2026-09-03T20:09:08+05:30",
+      "end": "2026-09-03T23:00:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10277
+        }
+      ]
+    },
+    {
       "youtube": "9aSytxwEzR0",
       "title": "Sathuranga Vettai",
-      "start": "2026-09-02T17:29:50+05:30",
-      "end": "2026-09-02T19:58:51+05:30",
+      "start": "2026-09-03T23:00:25+05:30",
+      "end": "2026-09-04T01:29:26+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +111,14 @@
       ]
     },
     {
-      "youtube": "RhYiXyck8Hg",
-      "title": "Irumbu Kottai Murattu Singam",
-      "start": "2026-09-02T19:58:51+05:30",
-      "end": "2026-09-02T22:21:49+05:30",
+      "youtube": "N9gNKnjSTQM",
+      "title": "Boys",
+      "start": "2026-09-04T01:29:26+05:30",
+      "end": "2026-09-04T04:13:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8578
-        }
-      ]
-    },
-    {
-      "youtube": "6-9fHskxkMg",
-      "title": "Manmadhan Ambu",
-      "start": "2026-09-02T22:21:49+05:30",
-      "end": "2026-09-03T24:54:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9131
-        }
-      ]
-    },
-    {
-      "youtube": "ybzjHqcV6LE",
-      "title": "Thillu Mullu",
-      "start": "2026-09-03T24:54:00+05:30",
-      "end": "2026-09-03T03:02:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7724
+          "to": 9822
         }
       ]
     }
