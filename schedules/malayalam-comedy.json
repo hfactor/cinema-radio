@@ -1,136 +1,136 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-03T04:58:38+05:30",
+  "generated": "2026-09-04T04:59:24+05:30",
   "slots": [
     {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-09-03T03:00:00+05:30",
-      "end": "2026-09-03T05:25:46+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-09-04T03:00:00+05:30",
+      "end": "2026-09-04T05:30:24+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8746
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-09-03T05:25:46+05:30",
-      "end": "2026-09-03T07:15:59+05:30",
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-09-04T05:30:24+05:30",
+      "end": "2026-09-04T07:55:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6613
+          "to": 8683
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-09-03T07:15:59+05:30",
-      "end": "2026-09-03T09:30:48+05:30",
+      "youtube": "7wCxFzs5JsM",
+      "title": "Pavam Pavam Rajakumaran",
+      "start": "2026-09-04T07:55:07+05:30",
+      "end": "2026-09-04T09:55:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 7196
         }
       ]
     },
     {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-09-03T09:30:48+05:30",
-      "end": "2026-09-03T11:35:29+05:30",
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-09-04T09:55:03+05:30",
+      "end": "2026-09-04T12:01:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7481
+          "to": 7611
         }
       ]
     },
     {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-09-03T11:35:29+05:30",
-      "end": "2026-09-03T13:47:01+05:30",
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-09-04T12:01:54+05:30",
+      "end": "2026-09-04T14:09:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7892
+          "to": 7659
         }
       ]
     },
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-09-03T13:47:01+05:30",
-      "end": "2026-09-03T16:03:02+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-09-04T14:09:33+05:30",
+      "end": "2026-09-04T16:18:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 7725
         }
       ]
     },
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-09-03T16:03:02+05:30",
-      "end": "2026-09-03T18:37:49+05:30",
+      "youtube": "xzJhnlxxqpc",
+      "title": "Pavam I.A. Ivachan",
+      "start": "2026-09-04T16:18:18+05:30",
+      "end": "2026-09-04T18:34:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
+          "to": 8162
         }
       ]
     },
     {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham (1988)",
-      "start": "2026-09-03T18:37:49+05:30",
-      "end": "2026-09-03T20:57:42+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-09-04T18:34:20+05:30",
+      "end": "2026-09-04T20:35:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8393
+          "to": 7295
         }
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-09-03T20:57:42+05:30",
-      "end": "2026-09-03T22:57:22+05:30",
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-09-04T20:35:55+05:30",
+      "end": "2026-09-04T23:14:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 9522
         }
       ]
     },
     {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-09-03T22:57:22+05:30",
-      "end": "2026-09-04T01:08:18+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-09-04T23:14:37+05:30",
+      "end": "2026-09-05T01:23:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7856
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-09-04T01:08:18+05:30",
-      "end": "2026-09-04T03:28:04+05:30",
+      "youtube": "GPMnBx9ZkYI",
+      "title": "Meleparambil Aanveedu",
+      "start": "2026-09-05T01:23:20+05:30",
+      "end": "2026-09-05T03:48:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
+          "to": 8722
         }
       ]
     }
