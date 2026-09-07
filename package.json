@@ -8,6 +8,6 @@
     "generate:fetch": "node scripts/generate.js --fetch-durations"
   },
   "dependencies": {
-    "js-yaml": "^4.1.0"
+    "js-yaml": "^4.3.1"
   }
 }
