@@ -1,96 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-07T04:27:39+05:30",
+  "generated": "2026-09-08T05:08:23+05:30",
   "slots": [
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-09-07T03:00:00+05:30",
-      "end": "2026-09-07T05:56:52+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-09-08T03:00:00+05:30",
+      "end": "2026-09-08T05:40:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
-        }
-      ]
-    },
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-09-07T05:56:52+05:30",
-      "end": "2026-09-07T08:31:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-09-07T08:31:12+05:30",
-      "end": "2026-09-07T11:04:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-09-07T11:04:14+05:30",
-      "end": "2026-09-07T13:39:40+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-09-07T13:39:40+05:30",
-      "end": "2026-09-07T16:27:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-09-07T16:27:41+05:30",
-      "end": "2026-09-07T18:48:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-09-07T18:48:23+05:30",
-      "end": "2026-09-07T21:39:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
+          "to": 9638
         }
       ]
     },
     {
       "youtube": "vD0GHOyZers",
       "title": "Big B",
-      "start": "2026-09-07T21:39:17+05:30",
-      "end": "2026-09-07T23:49:37+05:30",
+      "start": "2026-09-08T05:40:38+05:30",
+      "end": "2026-09-08T07:50:58+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +27,98 @@
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-09-07T23:49:37+05:30",
-      "end": "2026-09-08T02:28:08+05:30",
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-09-08T07:50:58+05:30",
+      "end": "2026-09-08T10:47:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 10612
         }
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-09-08T02:28:08+05:30",
-      "end": "2026-09-08T05:17:05+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-09-08T10:47:50+05:30",
+      "end": "2026-09-08T13:16:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
+          "to": 8929
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-09-08T13:16:39+05:30",
+      "end": "2026-09-08T14:58:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-09-08T14:58:55+05:30",
+      "end": "2026-09-08T17:31:57+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-09-08T17:31:57+05:30",
+      "end": "2026-09-08T19:50:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-09-08T19:50:42+05:30",
+      "end": "2026-09-08T22:27:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-09-08T22:27:20+05:30",
+      "end": "2026-09-09T01:02:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-09-09T01:02:29+05:30",
+      "end": "2026-09-09T03:30:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
         }
       ]
     }
