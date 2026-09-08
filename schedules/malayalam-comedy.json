@@ -1,84 +1,24 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-08T05:08:23+05:30",
+  "generated": "2026-09-09T05:01:02+05:30",
   "slots": [
     {
-      "youtube": "1L8zjJMmfsQ",
-      "title": "Nadodikattu",
-      "start": "2026-09-08T03:00:00+05:30",
-      "end": "2026-09-08T05:34:00+05:30",
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-09-09T03:00:00+05:30",
+      "end": "2026-09-09T05:07:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9240
-        }
-      ]
-    },
-    {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-09-08T05:34:00+05:30",
-      "end": "2026-09-08T07:44:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-09-08T07:44:38+05:30",
-      "end": "2026-09-08T09:42:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
-        }
-      ]
-    },
-    {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-09-08T09:42:32+05:30",
-      "end": "2026-09-08T11:49:11+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7599
-        }
-      ]
-    },
-    {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-09-08T11:49:11+05:30",
-      "end": "2026-09-08T14:01:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7937
-        }
-      ]
-    },
-    {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-09-08T14:01:28+05:30",
-      "end": "2026-09-08T16:25:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8647
+          "to": 7668
         }
       ]
     },
     {
       "youtube": "3x5rELI_ihA",
       "title": "Simhavalan Menon",
-      "start": "2026-09-08T16:25:35+05:30",
-      "end": "2026-09-08T18:45:33+05:30",
+      "start": "2026-09-09T05:07:48+05:30",
+      "end": "2026-09-09T07:27:46+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +27,110 @@
       ]
     },
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-09-08T18:45:33+05:30",
-      "end": "2026-09-08T21:05:19+05:30",
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-09-09T07:27:46+05:30",
+      "end": "2026-09-09T09:57:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
+          "to": 8987
         }
       ]
     },
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-09-08T21:05:19+05:30",
-      "end": "2026-09-08T23:05:15+05:30",
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-09-09T09:57:33+05:30",
+      "end": "2026-09-09T11:47:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
+          "to": 6613
         }
       ]
     },
     {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-09-08T23:05:15+05:30",
-      "end": "2026-09-09T01:30:37+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-09-09T11:47:46+05:30",
+      "end": "2026-09-09T13:59:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8722
+          "to": 7909
+        }
+      ]
+    },
+    {
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-09-09T13:59:35+05:30",
+      "end": "2026-09-09T16:21:36+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-09-09T16:21:36+05:30",
+      "end": "2026-09-09T18:29:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7648
+        }
+      ]
+    },
+    {
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-09-09T18:29:04+05:30",
+      "end": "2026-09-09T21:07:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9522
         }
       ]
     },
     {
       "youtube": "m1zbbDOkkFU",
       "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-09-09T01:30:37+05:30",
-      "end": "2026-09-09T03:51:34+05:30",
+      "start": "2026-09-09T21:07:46+05:30",
+      "end": "2026-09-09T23:28:43+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8457
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-09-09T23:28:43+05:30",
+      "end": "2026-09-10T01:28:23+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-09-10T01:28:23+05:30",
+      "end": "2026-09-10T03:22:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6825
         }
       ]
     }
