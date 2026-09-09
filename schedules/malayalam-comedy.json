@@ -1,60 +1,48 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-09T05:01:02+05:30",
+  "generated": "2026-09-10T04:54:57+05:30",
   "slots": [
     {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-09-09T03:00:00+05:30",
-      "end": "2026-09-09T05:07:48+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-09-10T03:00:00+05:30",
+      "end": "2026-09-10T05:11:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7668
+          "to": 7912
         }
       ]
     },
     {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-09-09T05:07:48+05:30",
-      "end": "2026-09-09T07:27:46+05:30",
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-09-10T05:11:52+05:30",
+      "end": "2026-09-10T07:18:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8398
+          "to": 7611
         }
       ]
     },
     {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-09-09T07:27:46+05:30",
-      "end": "2026-09-09T09:57:33+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-09-10T07:18:43+05:30",
+      "end": "2026-09-10T09:26:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8987
-        }
-      ]
-    },
-    {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-09-09T09:57:33+05:30",
-      "end": "2026-09-09T11:47:46+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6613
+          "to": 7651
         }
       ]
     },
     {
       "youtube": "gF3X54sk0hc",
       "title": "Kalyanaraman",
-      "start": "2026-09-09T11:47:46+05:30",
-      "end": "2026-09-09T13:59:35+05:30",
+      "start": "2026-09-10T09:26:14+05:30",
+      "end": "2026-09-10T11:38:03+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +51,86 @@
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-09-09T13:59:35+05:30",
-      "end": "2026-09-09T16:21:36+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-09-10T11:38:03+05:30",
+      "end": "2026-09-10T13:41:00+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-09-09T16:21:36+05:30",
-      "end": "2026-09-09T18:29:04+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-09-10T13:41:00+05:30",
+      "end": "2026-09-10T15:59:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7648
+          "to": 8334
         }
       ]
     },
     {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-09-09T18:29:04+05:30",
-      "end": "2026-09-09T21:07:46+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-09-10T15:59:54+05:30",
+      "end": "2026-09-10T18:45:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9522
+          "to": 9949
         }
       ]
     },
     {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-09-09T21:07:46+05:30",
-      "end": "2026-09-09T23:28:43+05:30",
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-09-10T18:45:43+05:30",
+      "end": "2026-09-10T21:21:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8457
+          "to": 9354
         }
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-09-09T23:28:43+05:30",
-      "end": "2026-09-10T01:28:23+05:30",
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-09-10T21:21:37+05:30",
+      "end": "2026-09-10T23:32:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 7841
         }
       ]
     },
     {
-      "youtube": "eSIn0GOQRds",
-      "title": "Aramana Veedum Anjoorekkarum",
-      "start": "2026-09-10T01:28:23+05:30",
-      "end": "2026-09-10T03:22:08+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-09-10T23:32:18+05:30",
+      "end": "2026-09-11T01:47:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6825
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-09-11T01:47:07+05:30",
+      "end": "2026-09-11T04:11:30+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
         }
       ]
     }
