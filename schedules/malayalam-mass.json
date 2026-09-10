@@ -1,36 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-10T04:54:57+05:30",
+  "generated": "2026-09-11T04:48:53+05:30",
   "slots": [
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-09-10T03:00:00+05:30",
-      "end": "2026-09-10T05:35:09+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-09-11T03:00:00+05:30",
+      "end": "2026-09-11T05:43:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-09-10T05:35:09+05:30",
-      "end": "2026-09-10T08:26:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
+          "to": 9839
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-09-10T08:26:03+05:30",
-      "end": "2026-09-10T10:55:03+05:30",
+      "start": "2026-09-11T05:43:59+05:30",
+      "end": "2026-09-11T08:12:59+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,10 +27,82 @@
       ]
     },
     {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-09-11T08:12:59+05:30",
+      "end": "2026-09-11T10:41:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-09-11T10:41:37+05:30",
+      "end": "2026-09-11T13:14:39+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-09-11T13:14:39+05:30",
+      "end": "2026-09-11T14:56:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-09-11T14:56:55+05:30",
+      "end": "2026-09-11T17:45:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-09-11T17:45:52+05:30",
+      "end": "2026-09-11T20:40:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-09-11T20:40:31+05:30",
+      "end": "2026-09-11T23:15:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
       "youtube": "E45xT6pWM2M",
       "title": "Adhwaytham",
-      "start": "2026-09-10T10:55:03+05:30",
-      "end": "2026-09-10T13:47:57+05:30",
+      "start": "2026-09-11T23:15:40+05:30",
+      "end": "2026-09-12T02:08:34+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,74 +111,14 @@
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-09-10T13:47:57+05:30",
-      "end": "2026-09-10T15:58:17+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-09-12T02:08:34+05:30",
+      "end": "2026-09-12T04:49:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-09-10T15:58:17+05:30",
-      "end": "2026-09-10T18:17:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-09-10T18:17:02+05:30",
-      "end": "2026-09-10T20:42:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-09-10T20:42:51+05:30",
-      "end": "2026-09-10T23:37:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-09-10T23:37:43+05:30",
-      "end": "2026-09-11T02:12:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-09-11T02:12:03+05:30",
-      "end": "2026-09-11T04:50:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
+          "to": 9638
         }
       ]
     }
