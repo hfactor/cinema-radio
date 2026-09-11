@@ -1,36 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-11T04:48:53+05:30",
+  "generated": "2026-09-12T04:56:47+05:30",
   "slots": [
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-09-11T03:00:00+05:30",
-      "end": "2026-09-11T05:43:59+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-09-12T03:00:00+05:30",
+      "end": "2026-09-12T05:52:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-09-11T05:43:59+05:30",
-      "end": "2026-09-11T08:12:59+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-09-12T05:52:54+05:30",
+      "end": "2026-09-12T08:47:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8940
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-09-12T08:47:46+05:30",
+      "end": "2026-09-12T11:01:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
         }
       ]
     },
     {
       "youtube": "Wf9JIaHlU7w",
       "title": "Jana Gana Mana",
-      "start": "2026-09-11T08:12:59+05:30",
-      "end": "2026-09-11T10:41:37+05:30",
+      "start": "2026-09-12T11:01:03+05:30",
+      "end": "2026-09-12T13:29:41+05:30",
       "segments": [
         {
           "from": 0,
@@ -41,8 +53,8 @@
     {
       "youtube": "1sEWgYDJjPw",
       "title": "Olympian Anthony Adam",
-      "start": "2026-09-11T10:41:37+05:30",
-      "end": "2026-09-11T13:14:39+05:30",
+      "start": "2026-09-12T13:29:41+05:30",
+      "end": "2026-09-12T16:02:43+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,34 +63,34 @@
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-09-11T13:14:39+05:30",
-      "end": "2026-09-11T14:56:55+05:30",
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-09-12T16:02:43+05:30",
+      "end": "2026-09-12T18:59:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6136
+          "to": 10624
         }
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-09-11T14:56:55+05:30",
-      "end": "2026-09-11T17:45:52+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-09-12T18:59:47+05:30",
+      "end": "2026-09-12T21:36:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
+          "to": 9398
         }
       ]
     },
     {
       "youtube": "-FPFH5WwMhU",
       "title": "Aaraam Thampuran",
-      "start": "2026-09-11T17:45:52+05:30",
-      "end": "2026-09-11T20:40:31+05:30",
+      "start": "2026-09-12T21:36:25+05:30",
+      "end": "2026-09-13T24:31:04+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +99,14 @@
       ]
     },
     {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-09-11T20:40:31+05:30",
-      "end": "2026-09-11T23:15:40+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-09-13T24:31:04+05:30",
+      "end": "2026-09-13T03:15:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9309
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-09-11T23:15:40+05:30",
-      "end": "2026-09-12T02:08:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-09-12T02:08:34+05:30",
-      "end": "2026-09-12T04:49:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9638
+          "to": 9893
         }
       ]
     }

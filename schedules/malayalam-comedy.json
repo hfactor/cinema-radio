@@ -1,72 +1,24 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-11T04:48:53+05:30",
+  "generated": "2026-09-12T04:56:47+05:30",
   "slots": [
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-09-11T03:00:00+05:30",
-      "end": "2026-09-11T05:10:38+05:30",
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-09-12T03:00:00+05:30",
+      "end": "2026-09-12T05:24:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-09-11T05:10:38+05:30",
-      "end": "2026-09-11T07:22:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7937
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-09-11T07:22:55+05:30",
-      "end": "2026-09-11T09:38:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
-        }
-      ]
-    },
-    {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-09-11T09:38:58+05:30",
-      "end": "2026-09-11T12:04:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8722
-        }
-      ]
-    },
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-09-11T12:04:20+05:30",
-      "end": "2026-09-11T14:02:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
+          "to": 8663
         }
       ]
     },
     {
       "youtube": "U3P9m8X--Sg",
       "title": "Grama Panchaayath",
-      "start": "2026-09-11T14:02:14+05:30",
-      "end": "2026-09-11T16:18:15+05:30",
+      "start": "2026-09-12T05:24:23+05:30",
+      "end": "2026-09-12T07:40:24+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +27,98 @@
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-09-11T16:18:15+05:30",
-      "end": "2026-09-11T18:33:05+05:30",
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-09-12T07:40:24+05:30",
+      "end": "2026-09-12T10:00:10+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
-        }
-      ]
-    },
-    {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-09-11T18:33:05+05:30",
-      "end": "2026-09-11T20:44:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7909
-        }
-      ]
-    },
-    {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-09-11T20:44:54+05:30",
-      "end": "2026-09-11T23:30:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9949
-        }
-      ]
-    },
-    {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-09-11T23:30:43+05:30",
-      "end": "2026-09-12T02:03:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9168
+          "to": 8386
         }
       ]
     },
     {
       "youtube": "3Wt-6kRCgP0",
       "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-09-12T02:03:31+05:30",
-      "end": "2026-09-12T04:00:58+05:30",
+      "start": "2026-09-12T10:00:10+05:30",
+      "end": "2026-09-12T11:57:37+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7047
+        }
+      ]
+    },
+    {
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-09-12T11:57:37+05:30",
+      "end": "2026-09-12T14:13:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8163
+        }
+      ]
+    },
+    {
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-09-12T14:13:40+05:30",
+      "end": "2026-09-12T16:49:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9354
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-09-12T16:49:34+05:30",
+      "end": "2026-09-12T19:31:41+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-09-12T19:31:41+05:30",
+      "end": "2026-09-12T22:22:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10251
+        }
+      ]
+    },
+    {
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-09-12T22:22:32+05:30",
+      "end": "2026-09-13T24:31:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7723
+        }
+      ]
+    },
+    {
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-09-13T24:31:15+05:30",
+      "end": "2026-09-13T03:01:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8991
         }
       ]
     }
