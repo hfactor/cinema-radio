@@ -1,72 +1,48 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-12T04:56:47+05:30",
+  "generated": "2026-09-13T04:38:27+05:30",
   "slots": [
     {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-09-12T03:00:00+05:30",
-      "end": "2026-09-12T05:24:23+05:30",
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-09-13T03:00:00+05:30",
+      "end": "2026-09-13T05:10:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
+          "to": 7856
         }
       ]
     },
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-09-12T05:24:23+05:30",
-      "end": "2026-09-12T07:40:24+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-09-13T05:10:56+05:30",
+      "end": "2026-09-13T07:32:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 8521
         }
       ]
     },
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-09-12T07:40:24+05:30",
-      "end": "2026-09-12T10:00:10+05:30",
+      "youtube": "7rkNmfIZ3RQ",
+      "title": "Kalyanji Anandji",
+      "start": "2026-09-13T07:32:57+05:30",
+      "end": "2026-09-13T09:30:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
-        }
-      ]
-    },
-    {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-09-12T10:00:10+05:30",
-      "end": "2026-09-12T11:57:37+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7047
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-09-12T11:57:37+05:30",
-      "end": "2026-09-12T14:13:40+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
+          "to": 7074
         }
       ]
     },
     {
       "youtube": "yjaFvFuQ-QM",
       "title": "Premam",
-      "start": "2026-09-12T14:13:40+05:30",
-      "end": "2026-09-12T16:49:34+05:30",
+      "start": "2026-09-13T09:30:51+05:30",
+      "end": "2026-09-13T12:06:45+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,50 +51,86 @@
       ]
     },
     {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-09-12T16:49:34+05:30",
-      "end": "2026-09-12T19:31:41+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-09-13T12:06:45+05:30",
+      "end": "2026-09-13T14:14:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9727
+          "to": 7651
         }
       ]
     },
     {
-      "youtube": "KBBta864Ong",
-      "title": "Chandralekha",
-      "start": "2026-09-12T19:31:41+05:30",
-      "end": "2026-09-12T22:22:32+05:30",
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-09-13T14:14:16+05:30",
+      "end": "2026-09-13T16:34:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10251
+          "to": 8386
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-09-12T22:22:32+05:30",
-      "end": "2026-09-13T24:31:15+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-09-13T16:34:02+05:30",
+      "end": "2026-09-13T18:45:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 7909
         }
       ]
     },
     {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-09-13T24:31:15+05:30",
-      "end": "2026-09-13T03:01:06+05:30",
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-09-13T18:45:51+05:30",
+      "end": "2026-09-13T21:00:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8991
+          "to": 8090
+        }
+      ]
+    },
+    {
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-09-13T21:00:41+05:30",
+      "end": "2026-09-13T23:25:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-09-13T23:25:04+05:30",
+      "end": "2026-09-14T01:41:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8182
+        }
+      ]
+    },
+    {
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-09-14T01:41:26+05:30",
+      "end": "2026-09-14T04:11:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9024
         }
       ]
     }
