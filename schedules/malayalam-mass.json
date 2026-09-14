@@ -1,12 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-14T04:48:01+05:30",
+  "generated": "2026-09-15T05:26:28+05:30",
   "slots": [
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-09-15T03:00:00+05:30",
+      "end": "2026-09-15T05:50:54+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-09-15T05:50:54+05:30",
+      "end": "2026-09-15T08:19:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-09-15T08:19:32+05:30",
+      "end": "2026-09-15T10:38:17+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-09-14T03:00:00+05:30",
-      "end": "2026-09-14T05:20:42+05:30",
+      "start": "2026-09-15T10:38:17+05:30",
+      "end": "2026-09-15T12:58:59+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,46 +51,10 @@
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-09-14T05:20:42+05:30",
-      "end": "2026-09-14T07:53:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-09-14T07:53:44+05:30",
-      "end": "2026-09-14T10:29:10+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-09-14T10:29:10+05:30",
-      "end": "2026-09-14T12:57:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8900
-        }
-      ]
-    },
-    {
       "youtube": "MZMV8ZoduEM",
       "title": "Phantom",
-      "start": "2026-09-14T12:57:30+05:30",
-      "end": "2026-09-14T15:23:19+05:30",
+      "start": "2026-09-15T12:58:59+05:30",
+      "end": "2026-09-15T15:24:48+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,10 +63,22 @@
       ]
     },
     {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-09-15T15:24:48+05:30",
+      "end": "2026-09-15T18:13:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
       "youtube": "Q4BPekFLj1c",
       "title": "Rakshasa Rajavu",
-      "start": "2026-09-14T15:23:19+05:30",
-      "end": "2026-09-14T18:07:18+05:30",
+      "start": "2026-09-15T18:13:45+05:30",
+      "end": "2026-09-15T20:57:44+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,50 +87,38 @@
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-09-14T18:07:18+05:30",
-      "end": "2026-09-14T21:02:10+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-09-15T20:57:44+05:30",
+      "end": "2026-09-15T23:38:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-09-15T23:38:22+05:30",
+      "end": "2026-09-16T02:35:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
         }
       ]
     },
     {
       "youtube": "AzwfbCCouLE",
       "title": "Onnaman",
-      "start": "2026-09-14T21:02:10+05:30",
-      "end": "2026-09-14T23:50:11+05:30",
+      "start": "2026-09-16T02:35:14+05:30",
+      "end": "2026-09-16T05:23:15+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-09-14T23:50:11+05:30",
-      "end": "2026-09-15T02:47:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-09-15T02:47:53+05:30",
-      "end": "2026-09-15T05:16:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
         }
       ]
     }
