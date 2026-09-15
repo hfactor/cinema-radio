@@ -1,136 +1,136 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-15T05:26:28+05:30",
+  "generated": "2026-09-16T05:04:47+05:30",
   "slots": [
     {
-      "youtube": "1L8zjJMmfsQ",
-      "title": "Nadodikattu",
-      "start": "2026-09-15T03:00:00+05:30",
-      "end": "2026-09-15T05:34:00+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-09-16T03:00:00+05:30",
+      "end": "2026-09-16T05:07:31+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9240
+          "to": 7651
         }
       ]
     },
     {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-09-15T05:34:00+05:30",
-      "end": "2026-09-15T08:03:51+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-09-16T05:07:31+05:30",
+      "end": "2026-09-16T07:16:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8991
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-09-15T08:03:51+05:30",
-      "end": "2026-09-15T10:14:32+05:30",
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-09-16T07:16:14+05:30",
+      "end": "2026-09-16T09:51:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7841
+          "to": 9287
         }
       ]
     },
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-09-15T10:14:32+05:30",
-      "end": "2026-09-15T12:26:24+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-09-16T09:51:01+05:30",
+      "end": "2026-09-16T12:09:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 8334
         }
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-09-15T12:26:24+05:30",
-      "end": "2026-09-15T14:55:29+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-09-16T12:09:55+05:30",
+      "end": "2026-09-16T14:43:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
-        }
-      ]
-    },
-    {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-09-15T14:55:29+05:30",
-      "end": "2026-09-15T17:37:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9727
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-09-15T17:37:36+05:30",
-      "end": "2026-09-15T19:45:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-09-15T19:45:24+05:30",
-      "end": "2026-09-15T21:39:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-09-15T21:39:50+05:30",
-      "end": "2026-09-16T24:00:47+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8457
-        }
-      ]
-    },
-    {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-09-16T24:00:47+05:30",
-      "end": "2026-09-16T02:16:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8162
+          "to": 9203
         }
       ]
     },
     {
       "youtube": "uNz4A-b147Y",
       "title": "Pradeshika Varthakal",
-      "start": "2026-09-16T02:16:49+05:30",
-      "end": "2026-09-16T04:07:02+05:30",
+      "start": "2026-09-16T14:43:18+05:30",
+      "end": "2026-09-16T16:33:31+05:30",
       "segments": [
         {
           "from": 0,
           "to": 6613
+        }
+      ]
+    },
+    {
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-09-16T16:33:31+05:30",
+      "end": "2026-09-16T18:30:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7047
+        }
+      ]
+    },
+    {
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-09-16T18:30:58+05:30",
+      "end": "2026-09-16T20:47:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8163
+        }
+      ]
+    },
+    {
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-09-16T20:47:01+05:30",
+      "end": "2026-09-16T23:11:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8647
+        }
+      ]
+    },
+    {
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-09-16T23:11:08+05:30",
+      "end": "2026-09-17T01:33:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-09-17T01:33:09+05:30",
+      "end": "2026-09-17T03:44:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7856
         }
       ]
     }
