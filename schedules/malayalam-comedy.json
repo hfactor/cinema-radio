@@ -1,120 +1,96 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-19T04:57:29+05:30",
+  "generated": "2026-09-20T04:48:35+05:30",
   "slots": [
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-09-19T03:00:00+05:30",
-      "end": "2026-09-19T05:11:52+05:30",
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-09-20T03:00:00+05:30",
+      "end": "2026-09-20T05:06:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 7599
         }
       ]
     },
     {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-09-19T05:11:52+05:30",
-      "end": "2026-09-19T07:23:41+05:30",
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-09-20T05:06:39+05:30",
+      "end": "2026-09-20T07:40:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7909
+          "to": 9240
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-09-19T07:23:41+05:30",
-      "end": "2026-09-19T09:32:24+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-09-20T07:40:39+05:30",
+      "end": "2026-09-20T10:10:30+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-09-19T09:32:24+05:30",
-      "end": "2026-09-19T11:48:25+05:30",
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-09-20T10:10:30+05:30",
+      "end": "2026-09-20T12:00:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 6613
         }
       ]
     },
     {
-      "youtube": "_bBEvH9bb-4",
-      "title": "Thalayanamanthram",
-      "start": "2026-09-19T11:48:25+05:30",
-      "end": "2026-09-19T13:55:56+05:30",
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-09-20T12:00:43+05:30",
+      "end": "2026-09-20T13:58:10+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7651
+          "to": 7047
         }
       ]
     },
     {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-09-19T13:55:56+05:30",
-      "end": "2026-09-19T16:21:30+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-09-20T13:58:10+05:30",
+      "end": "2026-09-20T16:12:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8734
+          "to": 8089
         }
       ]
     },
     {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-09-19T16:21:30+05:30",
-      "end": "2026-09-19T18:36:41+05:30",
+      "youtube": "xzJhnlxxqpc",
+      "title": "Pavam I.A. Ivachan",
+      "start": "2026-09-20T16:12:59+05:30",
+      "end": "2026-09-20T18:29:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8111
-        }
-      ]
-    },
-    {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-09-19T18:36:41+05:30",
-      "end": "2026-09-19T20:58:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8521
-        }
-      ]
-    },
-    {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-09-19T20:58:42+05:30",
-      "end": "2026-09-19T23:10:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7892
+          "to": 8162
         }
       ]
     },
     {
       "youtube": "bpFYOUkOybs",
       "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-09-19T23:10:14+05:30",
-      "end": "2026-09-20T01:09:54+05:30",
+      "start": "2026-09-20T18:29:01+05:30",
+      "end": "2026-09-20T20:28:41+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +99,38 @@
       ]
     },
     {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-09-20T01:09:54+05:30",
-      "end": "2026-09-20T03:11:29+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-09-20T20:28:41+05:30",
+      "end": "2026-09-20T22:50:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7295
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-09-20T22:50:42+05:30",
+      "end": "2026-09-21T01:01:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7856
+        }
+      ]
+    },
+    {
+      "youtube": "s6P9QNj2_o0",
+      "title": "Kuberan",
+      "start": "2026-09-21T01:01:38+05:30",
+      "end": "2026-09-21T03:33:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9104
         }
       ]
     }
