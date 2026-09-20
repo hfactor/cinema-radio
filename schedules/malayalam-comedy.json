@@ -1,136 +1,136 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-20T04:48:35+05:30",
+  "generated": "2026-09-21T04:50:40+05:30",
   "slots": [
     {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-09-20T03:00:00+05:30",
-      "end": "2026-09-20T05:06:39+05:30",
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-09-21T03:00:00+05:30",
+      "end": "2026-09-21T05:24:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7599
+          "to": 8663
         }
       ]
     },
     {
-      "youtube": "1L8zjJMmfsQ",
-      "title": "Nadodikattu",
-      "start": "2026-09-20T05:06:39+05:30",
-      "end": "2026-09-20T07:40:39+05:30",
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-09-21T05:24:23+05:30",
+      "end": "2026-09-21T07:27:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9240
+          "to": 7414
         }
       ]
     },
     {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-09-20T07:40:39+05:30",
-      "end": "2026-09-20T10:10:30+05:30",
+      "youtube": "HqTOaQh5RnI",
+      "title": "Mannadiar Penninu Chenkotta Checkan",
+      "start": "2026-09-21T07:27:57+05:30",
+      "end": "2026-09-21T09:22:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8991
+          "to": 6866
         }
       ]
     },
     {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-09-20T10:10:30+05:30",
-      "end": "2026-09-20T12:00:43+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-09-21T09:22:23+05:30",
+      "end": "2026-09-21T11:33:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6613
+          "to": 7838
         }
       ]
     },
     {
-      "youtube": "3Wt-6kRCgP0",
-      "title": "Aalibabayum Aararakallanmarum",
-      "start": "2026-09-20T12:00:43+05:30",
-      "end": "2026-09-20T13:58:10+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-09-21T11:33:01+05:30",
+      "end": "2026-09-21T14:03:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7047
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-09-20T13:58:10+05:30",
-      "end": "2026-09-20T16:12:59+05:30",
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-09-21T14:03:25+05:30",
+      "end": "2026-09-21T16:36:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 9168
         }
       ]
     },
     {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-09-20T16:12:59+05:30",
-      "end": "2026-09-20T18:29:01+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-09-21T16:36:13+05:30",
+      "end": "2026-09-21T19:22:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8162
+          "to": 9949
         }
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-09-20T18:29:01+05:30",
-      "end": "2026-09-20T20:28:41+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-09-21T19:22:02+05:30",
+      "end": "2026-09-21T21:30:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 7725
         }
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-09-20T20:28:41+05:30",
-      "end": "2026-09-20T22:50:42+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-09-21T21:30:47+05:30",
+      "end": "2026-09-21T23:42:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 7909
         }
       ]
     },
     {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-09-20T22:50:42+05:30",
-      "end": "2026-09-21T01:01:38+05:30",
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-09-21T23:42:36+05:30",
+      "end": "2026-09-22T01:58:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7856
+          "to": 8161
         }
       ]
     },
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-09-21T01:01:38+05:30",
-      "end": "2026-09-21T03:33:22+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-09-22T01:58:37+05:30",
+      "end": "2026-09-22T04:00:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 7295
         }
       ]
     }

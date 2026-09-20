@@ -1,72 +1,24 @@
 {
   "band": "malayalam-thriller",
-  "generated": "2026-09-20T04:48:35+05:30",
+  "generated": "2026-09-21T04:50:40+05:30",
   "slots": [
     {
-      "youtube": "ToZs_GSij8U",
-      "title": "Oru Abhibhashakante Case Diary",
-      "start": "2026-09-20T03:00:00+05:30",
-      "end": "2026-09-20T05:06:29+05:30",
+      "youtube": "GKzQXfJb2iM",
+      "title": "Customs Diary",
+      "start": "2026-09-21T03:00:00+05:30",
+      "end": "2026-09-21T05:03:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7589
-        }
-      ]
-    },
-    {
-      "youtube": "VdN4RgPTyAE",
-      "title": "The Tiger",
-      "start": "2026-09-20T05:06:29+05:30",
-      "end": "2026-09-20T07:20:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8061
-        }
-      ]
-    },
-    {
-      "youtube": "jzswDqpoeQY",
-      "title": "Robin Hood",
-      "start": "2026-09-20T07:20:50+05:30",
-      "end": "2026-09-20T09:42:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8487
-        }
-      ]
-    },
-    {
-      "youtube": "O_j4Lacy64c",
-      "title": "Witness",
-      "start": "2026-09-20T09:42:17+05:30",
-      "end": "2026-09-20T11:55:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8002
-        }
-      ]
-    },
-    {
-      "youtube": "hYcKURLPSBg",
-      "title": "Cover Story",
-      "start": "2026-09-20T11:55:39+05:30",
-      "end": "2026-09-20T14:07:11+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7892
+          "to": 7387
         }
       ]
     },
     {
       "youtube": "gfR5HPg-jJA",
       "title": "Vargam",
-      "start": "2026-09-20T14:07:11+05:30",
-      "end": "2026-09-20T16:30:01+05:30",
+      "start": "2026-09-21T05:03:07+05:30",
+      "end": "2026-09-21T07:25:57+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,22 +27,46 @@
       ]
     },
     {
-      "youtube": "1t2OVFYzP1A",
-      "title": "Utharam",
-      "start": "2026-09-20T16:30:01+05:30",
-      "end": "2026-09-20T18:37:57+05:30",
+      "youtube": "O_j4Lacy64c",
+      "title": "Witness",
+      "start": "2026-09-21T07:25:57+05:30",
+      "end": "2026-09-21T09:39:19+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7676
+          "to": 8002
+        }
+      ]
+    },
+    {
+      "youtube": "40DnL80mUU0",
+      "title": "Manichitrathazhu",
+      "start": "2026-09-21T09:39:19+05:30",
+      "end": "2026-09-21T12:09:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8995
+        }
+      ]
+    },
+    {
+      "youtube": "VdN4RgPTyAE",
+      "title": "The Tiger",
+      "start": "2026-09-21T12:09:14+05:30",
+      "end": "2026-09-21T14:23:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8061
         }
       ]
     },
     {
       "youtube": "9BGliAPpLwI",
       "title": "Moonnam Mura",
-      "start": "2026-09-20T18:37:57+05:30",
-      "end": "2026-09-20T20:51:50+05:30",
+      "start": "2026-09-21T14:23:35+05:30",
+      "end": "2026-09-21T16:37:28+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,10 +75,34 @@
       ]
     },
     {
+      "youtube": "hYcKURLPSBg",
+      "title": "Cover Story",
+      "start": "2026-09-21T16:37:28+05:30",
+      "end": "2026-09-21T18:49:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7892
+        }
+      ]
+    },
+    {
+      "youtube": "1t2OVFYzP1A",
+      "title": "Utharam",
+      "start": "2026-09-21T18:49:00+05:30",
+      "end": "2026-09-21T20:56:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7676
+        }
+      ]
+    },
+    {
       "youtube": "SzwStt19vtw",
       "title": "Memories",
-      "start": "2026-09-20T20:51:50+05:30",
-      "end": "2026-09-20T23:14:59+05:30",
+      "start": "2026-09-21T20:56:56+05:30",
+      "end": "2026-09-21T23:20:05+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,26 +111,26 @@
       ]
     },
     {
-      "youtube": "jb5FMCr1rSc",
-      "title": "Devadoothan",
-      "start": "2026-09-20T23:14:59+05:30",
-      "end": "2026-09-21T01:31:15+05:30",
+      "youtube": "jzswDqpoeQY",
+      "title": "Robin Hood",
+      "start": "2026-09-21T23:20:05+05:30",
+      "end": "2026-09-22T01:41:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8176
+          "to": 8487
         }
       ]
     },
     {
-      "youtube": "VM1rLiBDR6g",
-      "title": "Indraprastham",
-      "start": "2026-09-21T01:31:15+05:30",
-      "end": "2026-09-21T03:56:38+05:30",
+      "youtube": "ToZs_GSij8U",
+      "title": "Oru Abhibhashakante Case Diary",
+      "start": "2026-09-22T01:41:32+05:30",
+      "end": "2026-09-22T03:48:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8723
+          "to": 7589
         }
       ]
     }
