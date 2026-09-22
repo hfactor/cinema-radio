@@ -1,48 +1,60 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-21T04:50:40+05:30",
+  "generated": "2026-09-22T05:43:02+05:30",
   "slots": [
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-09-21T03:00:00+05:30",
-      "end": "2026-09-21T05:28:49+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-09-22T03:00:00+05:30",
+      "end": "2026-09-22T05:36:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 9398
         }
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-09-21T05:28:49+05:30",
-      "end": "2026-09-21T08:09:27+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-09-22T05:36:38+05:30",
+      "end": "2026-09-22T08:04:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
+          "to": 8900
         }
       ]
     },
     {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-09-21T08:09:27+05:30",
-      "end": "2026-09-21T11:07:09+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-09-22T08:04:58+05:30",
+      "end": "2026-09-22T10:53:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10662
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-09-22T10:53:55+05:30",
+      "end": "2026-09-22T13:14:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
         }
       ]
     },
     {
       "youtube": "BN3adoH7XSY",
       "title": "Lokanathan IAS",
-      "start": "2026-09-21T11:07:09+05:30",
-      "end": "2026-09-21T12:49:25+05:30",
+      "start": "2026-09-22T13:14:37+05:30",
+      "end": "2026-09-22T14:56:53+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,34 +63,10 @@
       ]
     },
     {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-09-21T12:49:25+05:30",
-      "end": "2026-09-21T15:02:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
-        }
-      ]
-    },
-    {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-09-21T15:02:42+05:30",
-      "end": "2026-09-21T17:31:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8918
-        }
-      ]
-    },
-    {
       "youtube": "WBzhUsblFNA",
       "title": "Lelam",
-      "start": "2026-09-21T17:31:20+05:30",
-      "end": "2026-09-21T20:28:12+05:30",
+      "start": "2026-09-22T14:56:53+05:30",
+      "end": "2026-09-22T17:53:45+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +75,50 @@
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-09-21T20:28:12+05:30",
-      "end": "2026-09-21T23:23:04+05:30",
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-09-22T17:53:45+05:30",
+      "end": "2026-09-22T20:04:05+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 7820
         }
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-09-21T23:23:04+05:30",
-      "end": "2026-09-22T02:20:08+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-09-22T20:04:05+05:30",
+      "end": "2026-09-22T22:39:31+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 9326
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-09-22T02:20:08+05:30",
-      "end": "2026-09-22T05:14:58+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-09-22T22:39:31+05:30",
+      "end": "2026-09-23T24:58:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-09-23T24:58:16+05:30",
+      "end": "2026-09-23T03:43:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
         }
       ]
     }
