@@ -1,60 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-23T05:12:19+05:30",
+  "generated": "2026-09-24T05:20:41+05:30",
   "slots": [
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-09-23T03:00:00+05:30",
-      "end": "2026-09-23T05:56:52+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-09-24T03:00:00+05:30",
+      "end": "2026-09-24T04:42:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 6136
         }
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-09-23T05:56:52+05:30",
-      "end": "2026-09-23T08:41:45+05:30",
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-09-24T04:42:16+05:30",
+      "end": "2026-09-24T07:30:17+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 10081
         }
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-09-23T08:41:45+05:30",
-      "end": "2026-09-23T11:32:39+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-09-24T07:30:17+05:30",
+      "end": "2026-09-24T09:49:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-09-23T11:32:39+05:30",
-      "end": "2026-09-23T14:05:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "qTAiwIPvYSA",
       "title": "Iyobinte Pusthakam",
-      "start": "2026-09-23T14:05:41+05:30",
-      "end": "2026-09-23T16:42:19+05:30",
+      "start": "2026-09-24T09:49:02+05:30",
+      "end": "2026-09-24T12:25:40+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,50 +51,74 @@
       ]
     },
     {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-09-24T12:25:40+05:30",
+      "end": "2026-09-24T15:00:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-09-24T15:00:49+05:30",
+      "end": "2026-09-24T17:29:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-09-24T17:29:09+05:30",
+      "end": "2026-09-24T20:02:11+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-09-24T20:02:11+05:30",
+      "end": "2026-09-24T22:12:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7820
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-09-24T22:12:31+05:30",
+      "end": "2026-09-25T24:57:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
       "youtube": "nUQre7zjGKE",
       "title": "Ekalavyan",
-      "start": "2026-09-23T16:42:19+05:30",
-      "end": "2026-09-23T19:20:50+05:30",
+      "start": "2026-09-25T24:57:24+05:30",
+      "end": "2026-09-25T03:35:55+05:30",
       "segments": [
         {
           "from": 0,
           "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-09-23T19:20:50+05:30",
-      "end": "2026-09-23T21:56:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-09-23T21:56:16+05:30",
-      "end": "2026-09-24T24:09:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-09-24T24:09:33+05:30",
-      "end": "2026-09-24T03:07:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
         }
       ]
     }
