@@ -1,24 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-09-27T05:13:43+05:30",
+  "generated": "2026-09-28T05:22:04+05:30",
   "slots": [
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-09-27T03:00:00+05:30",
-      "end": "2026-09-27T05:43:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-09-27T05:43:59+05:30",
-      "end": "2026-09-27T08:12:59+05:30",
+      "start": "2026-09-28T03:00:00+05:30",
+      "end": "2026-09-28T05:29:00+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,86 +15,98 @@
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-09-27T08:12:59+05:30",
-      "end": "2026-09-27T11:03:53+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-09-28T05:29:00+05:30",
+      "end": "2026-09-28T08:17:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-09-27T11:03:53+05:30",
-      "end": "2026-09-27T13:51:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-09-27T13:51:54+05:30",
-      "end": "2026-09-27T16:46:46+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-09-27T16:46:46+05:30",
-      "end": "2026-09-27T19:41:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-09-27T19:41:36+05:30",
-      "end": "2026-09-27T22:22:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9638
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-09-27T22:22:14+05:30",
-      "end": "2026-09-28T01:16:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
+          "to": 10137
         }
       ]
     },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-09-28T01:16:53+05:30",
-      "end": "2026-09-28T03:37:35+05:30",
+      "start": "2026-09-28T08:17:57+05:30",
+      "end": "2026-09-28T10:38:39+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-09-28T10:38:39+05:30",
+      "end": "2026-09-28T13:23:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-09-28T13:23:32+05:30",
+      "end": "2026-09-28T16:20:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-09-28T16:20:24+05:30",
+      "end": "2026-09-28T19:18:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-09-28T19:18:06+05:30",
+      "end": "2026-09-28T21:52:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-09-28T21:52:26+05:30",
+      "end": "2026-09-29T24:29:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-09-29T24:29:04+05:30",
+      "end": "2026-09-29T03:04:13+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
         }
       ]
     }
