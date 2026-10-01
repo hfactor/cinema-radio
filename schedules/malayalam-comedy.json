@@ -1,12 +1,36 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-09-30T06:09:18+05:30",
+  "generated": "2026-10-01T06:10:01+05:30",
   "slots": [
+    {
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-10-01T03:00:00+05:30",
+      "end": "2026-10-01T05:24:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8683
+        }
+      ]
+    },
+    {
+      "youtube": "gjT0WXh2wUI",
+      "title": "The Car",
+      "start": "2026-10-01T05:24:43+05:30",
+      "end": "2026-10-01T07:38:02+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7999
+        }
+      ]
+    },
     {
       "youtube": "asffbk9CSI8",
       "title": "Thanneer Mathan Dinangal",
-      "start": "2026-09-30T03:00:00+05:30",
-      "end": "2026-09-30T05:15:45+05:30",
+      "start": "2026-10-01T07:38:02+05:30",
+      "end": "2026-10-01T09:53:47+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,122 +39,98 @@
       ]
     },
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-09-30T05:15:45+05:30",
-      "end": "2026-09-30T07:47:29+05:30",
+      "youtube": "3x5rELI_ihA",
+      "title": "Simhavalan Menon",
+      "start": "2026-10-01T09:53:47+05:30",
+      "end": "2026-10-01T12:13:45+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 8398
         }
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-09-30T07:47:29+05:30",
-      "end": "2026-09-30T09:58:07+05:30",
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-10-01T12:13:45+05:30",
+      "end": "2026-10-01T14:33:38+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
+          "to": 8393
         }
       ]
     },
     {
-      "youtube": "U3P9m8X--Sg",
-      "title": "Grama Panchaayath",
-      "start": "2026-09-30T09:58:07+05:30",
-      "end": "2026-09-30T12:14:08+05:30",
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-10-01T14:33:38+05:30",
+      "end": "2026-10-01T17:12:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8161
+          "to": 9522
         }
       ]
     },
     {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-09-30T12:14:08+05:30",
-      "end": "2026-09-30T14:04:21+05:30",
+      "youtube": "ZHzyq4-sEj4",
+      "title": "Vellimoonga",
+      "start": "2026-10-01T17:12:20+05:30",
+      "end": "2026-10-01T19:21:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6613
+          "to": 7723
         }
       ]
     },
     {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-09-30T14:04:21+05:30",
-      "end": "2026-09-30T16:40:15+05:30",
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-10-01T19:21:03+05:30",
+      "end": "2026-10-01T21:53:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9354
+          "to": 9168
         }
       ]
     },
     {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-09-30T16:40:15+05:30",
-      "end": "2026-09-30T18:52:32+05:30",
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-10-01T21:53:51+05:30",
+      "end": "2026-10-01T23:55:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7937
+          "to": 7295
         }
       ]
     },
     {
-      "youtube": "KBBta864Ong",
-      "title": "Chandralekha",
-      "start": "2026-09-30T18:52:32+05:30",
-      "end": "2026-09-30T21:43:23+05:30",
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-10-01T23:55:26+05:30",
+      "end": "2026-10-02T02:10:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10251
+          "to": 8090
         }
       ]
     },
     {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-09-30T21:43:23+05:30",
-      "end": "2026-10-01T24:07:46+05:30",
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-10-02T02:10:16+05:30",
+      "end": "2026-10-02T04:21:12+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8663
-        }
-      ]
-    },
-    {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-10-01T24:07:46+05:30",
-      "end": "2026-10-01T02:37:33+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8987
-        }
-      ]
-    },
-    {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-10-01T02:37:33+05:30",
-      "end": "2026-10-01T04:44:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7599
+          "to": 7856
         }
       ]
     }
