@@ -1,60 +1,12 @@
 {
   "band": "tamil-comedy",
-  "generated": "2026-10-01T06:10:01+05:30",
+  "generated": "2026-10-02T06:29:00+05:30",
   "slots": [
-    {
-      "youtube": "ybzjHqcV6LE",
-      "title": "Thillu Mullu",
-      "start": "2026-10-01T03:00:00+05:30",
-      "end": "2026-10-01T05:08:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7724
-        }
-      ]
-    },
-    {
-      "youtube": "lEaqAp2VmWM",
-      "title": "Tamizh Padam",
-      "start": "2026-10-01T05:08:44+05:30",
-      "end": "2026-10-01T07:20:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7928
-        }
-      ]
-    },
-    {
-      "youtube": "N2CnE59SBsY",
-      "title": "Sahadevan Mahadevan",
-      "start": "2026-10-01T07:20:52+05:30",
-      "end": "2026-10-01T09:16:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6922
-        }
-      ]
-    },
-    {
-      "youtube": "RhYiXyck8Hg",
-      "title": "Irumbu Kottai Murattu Singam",
-      "start": "2026-10-01T09:16:14+05:30",
-      "end": "2026-10-01T11:39:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8578
-        }
-      ]
-    },
     {
       "youtube": "6-9fHskxkMg",
       "title": "Manmadhan Ambu",
-      "start": "2026-10-01T11:39:12+05:30",
-      "end": "2026-10-01T14:11:23+05:30",
+      "start": "2026-10-02T03:00:00+05:30",
+      "end": "2026-10-02T05:32:11+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,58 +15,10 @@
       ]
     },
     {
-      "youtube": "9aSytxwEzR0",
-      "title": "Sathuranga Vettai",
-      "start": "2026-10-01T14:11:23+05:30",
-      "end": "2026-10-01T16:40:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8941
-        }
-      ]
-    },
-    {
-      "youtube": "DK9acwDioKs",
-      "title": "Soodhu Kavvum",
-      "start": "2026-10-01T16:40:24+05:30",
-      "end": "2026-10-01T18:53:27+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7983
-        }
-      ]
-    },
-    {
-      "youtube": "gRdxIkaIJrg",
-      "title": "Vai Raja Vai",
-      "start": "2026-10-01T18:53:27+05:30",
-      "end": "2026-10-01T20:46:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6801
-        }
-      ]
-    },
-    {
-      "youtube": "2E48ApwYb-c",
-      "title": "Varavu Ettana Selavu Pathana",
-      "start": "2026-10-01T20:46:48+05:30",
-      "end": "2026-10-01T23:20:57+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9249
-        }
-      ]
-    },
-    {
       "youtube": "j9qiYvwpIaM",
       "title": "Boss Engira Baskaran",
-      "start": "2026-10-01T23:20:57+05:30",
-      "end": "2026-10-02T02:02:11+05:30",
+      "start": "2026-10-02T05:32:11+05:30",
+      "end": "2026-10-02T08:13:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +27,98 @@
       ]
     },
     {
+      "youtube": "N2CnE59SBsY",
+      "title": "Sahadevan Mahadevan",
+      "start": "2026-10-02T08:13:25+05:30",
+      "end": "2026-10-02T10:08:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6922
+        }
+      ]
+    },
+    {
+      "youtube": "gRdxIkaIJrg",
+      "title": "Vai Raja Vai",
+      "start": "2026-10-02T10:08:47+05:30",
+      "end": "2026-10-02T12:02:08+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6801
+        }
+      ]
+    },
+    {
       "youtube": "L2Q-3cTKauE",
       "title": "Manal Kayiru",
-      "start": "2026-10-02T02:02:11+05:30",
-      "end": "2026-10-02T04:20:47+05:30",
+      "start": "2026-10-02T12:02:08+05:30",
+      "end": "2026-10-02T14:20:44+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8316
+        }
+      ]
+    },
+    {
+      "youtube": "9Enzl3SnnMM",
+      "title": "Michael Madana Kama Rajan",
+      "start": "2026-10-02T14:20:44+05:30",
+      "end": "2026-10-02T17:08:27+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10063
+        }
+      ]
+    },
+    {
+      "youtube": "Q9IJBHbrC3M",
+      "title": "Kalakalappu",
+      "start": "2026-10-02T17:08:27+05:30",
+      "end": "2026-10-02T19:34:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8780
+        }
+      ]
+    },
+    {
+      "youtube": "RSa-K2uawKc",
+      "title": "Adisaya Piravi",
+      "start": "2026-10-02T19:34:47+05:30",
+      "end": "2026-10-02T21:59:39+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8692
+        }
+      ]
+    },
+    {
+      "youtube": "RhYiXyck8Hg",
+      "title": "Irumbu Kottai Murattu Singam",
+      "start": "2026-10-02T21:59:39+05:30",
+      "end": "2026-10-03T24:22:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8578
+        }
+      ]
+    },
+    {
+      "youtube": "5GnDnEBbM2s",
+      "title": "Muthu",
+      "start": "2026-10-03T24:22:37+05:30",
+      "end": "2026-10-03T03:01:03+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9506
         }
       ]
     }
