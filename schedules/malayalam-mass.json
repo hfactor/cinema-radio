@@ -1,84 +1,36 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-02T06:29:00+05:30",
+  "generated": "2026-10-03T06:06:13+05:30",
   "slots": [
     {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-10-02T03:00:00+05:30",
-      "end": "2026-10-02T05:25:49+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-10-03T03:00:00+05:30",
+      "end": "2026-10-03T05:20:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8749
+          "to": 8442
         }
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-10-02T05:25:49+05:30",
-      "end": "2026-10-02T07:58:51+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-10-03T05:20:42+05:30",
+      "end": "2026-10-03T07:49:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-10-02T07:58:51+05:30",
-      "end": "2026-10-02T10:39:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9638
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-10-02T10:39:29+05:30",
-      "end": "2026-10-02T13:08:18+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-10-02T13:08:18+05:30",
-      "end": "2026-10-02T16:05:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10624
-        }
-      ]
-    },
-    {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-10-02T16:05:22+05:30",
-      "end": "2026-10-02T19:02:14+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10612
+          "to": 8918
         }
       ]
     },
     {
       "youtube": "Z3g5qGQK7eI",
       "title": "Narasimham",
-      "start": "2026-10-02T19:02:14+05:30",
-      "end": "2026-10-02T21:57:06+05:30",
+      "start": "2026-10-03T07:49:20+05:30",
+      "end": "2026-10-03T10:44:12+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,26 +39,74 @@
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-10-02T21:57:06+05:30",
-      "end": "2026-10-03T24:25:26+05:30",
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-10-03T10:44:12+05:30",
+      "end": "2026-10-03T13:19:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-10-03T13:19:21+05:30",
+      "end": "2026-10-03T16:12:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-10-03T24:25:26+05:30",
-      "end": "2026-10-03T03:23:08+05:30",
+      "start": "2026-10-03T16:12:15+05:30",
+      "end": "2026-10-03T19:09:57+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-10-03T19:09:57+05:30",
+      "end": "2026-10-03T22:00:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-10-03T22:00:51+05:30",
+      "end": "2026-10-04T24:49:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-10-04T24:49:48+05:30",
+      "end": "2026-10-04T03:46:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10624
         }
       ]
     }

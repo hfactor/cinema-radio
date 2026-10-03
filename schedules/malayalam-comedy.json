@@ -1,96 +1,24 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-02T06:29:00+05:30",
+  "generated": "2026-10-03T06:06:13+05:30",
   "slots": [
     {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-10-02T03:00:00+05:30",
-      "end": "2026-10-02T05:06:51+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-10-03T03:00:00+05:30",
+      "end": "2026-10-03T05:25:34+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-10-02T05:06:51+05:30",
-      "end": "2026-10-02T07:38:35+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9104
-        }
-      ]
-    },
-    {
-      "youtube": "CQKfDo9JOF4",
-      "title": "Vadakkunokkiyantram",
-      "start": "2026-10-02T07:38:35+05:30",
-      "end": "2026-10-02T09:41:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7377
-        }
-      ]
-    },
-    {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-10-02T09:41:32+05:30",
-      "end": "2026-10-02T12:17:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9354
-        }
-      ]
-    },
-    {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-10-02T12:17:26+05:30",
-      "end": "2026-10-02T14:32:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8090
-        }
-      ]
-    },
-    {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-10-02T14:32:16+05:30",
-      "end": "2026-10-02T16:43:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7856
-        }
-      ]
-    },
-    {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-10-02T16:43:12+05:30",
-      "end": "2026-10-02T19:02:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8386
+          "to": 8734
         }
       ]
     },
     {
       "youtube": "KBBta864Ong",
       "title": "Chandralekha",
-      "start": "2026-10-02T19:02:58+05:30",
-      "end": "2026-10-02T21:53:49+05:30",
+      "start": "2026-10-03T05:25:34+05:30",
+      "end": "2026-10-03T08:16:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,38 +27,98 @@
       ]
     },
     {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-10-02T21:53:49+05:30",
-      "end": "2026-10-03T24:00:28+05:30",
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-10-03T08:16:25+05:30",
+      "end": "2026-10-03T10:58:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7599
+          "to": 9727
         }
       ]
     },
     {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-10-03T24:00:28+05:30",
-      "end": "2026-10-03T02:33:16+05:30",
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-10-03T10:58:32+05:30",
+      "end": "2026-10-03T13:06:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9168
+          "to": 7668
         }
       ]
     },
     {
-      "youtube": "eeKmGeHPiT4",
-      "title": "Mukunthetta Sumitra Vilikkunnu",
-      "start": "2026-10-03T02:33:16+05:30",
-      "end": "2026-10-03T05:03:03+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-10-03T13:06:20+05:30",
+      "end": "2026-10-03T15:36:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8987
+          "to": 8991
+        }
+      ]
+    },
+    {
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-10-03T15:36:11+05:30",
+      "end": "2026-10-03T18:09:34+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9203
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-10-03T18:09:34+05:30",
+      "end": "2026-10-03T20:09:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-10-03T20:09:14+05:30",
+      "end": "2026-10-03T22:33:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-10-03T22:33:37+05:30",
+      "end": "2026-10-04T24:41:16+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7659
+        }
+      ]
+    },
+    {
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-10-04T24:41:16+05:30",
+      "end": "2026-10-04T03:27:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9949
         }
       ]
     }
