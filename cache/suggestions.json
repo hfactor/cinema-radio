@@ -34,6 +34,13 @@
       "timestamp": "8/29/2026 23:08:03",
       "status": "dropped",
       "reason": "too-short (0s)"
+    },
+    "10/5/2026 23:21:35|Gw-WRnyxTog": {
+      "url": "https://youtu.be/Gw-WRnyxTog?si=Y7ZgIzgNbkAEhd7S",
+      "videoId": "Gw-WRnyxTog",
+      "timestamp": "10/5/2026 23:21:35",
+      "status": "dropped",
+      "reason": "too-short (0s)"
     }
   }
 }
