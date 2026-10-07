@@ -1,96 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-06T07:19:54+05:30",
+  "generated": "2026-10-07T06:23:34+05:30",
   "slots": [
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-10-06T03:00:00+05:30",
-      "end": "2026-10-06T05:35:26+05:30",
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-10-07T03:00:00+05:30",
+      "end": "2026-10-07T05:57:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
+          "to": 10624
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-10-06T05:35:26+05:30",
-      "end": "2026-10-06T08:28:20+05:30",
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-10-07T05:57:04+05:30",
+      "end": "2026-10-07T08:10:21+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 7997
         }
       ]
     },
     {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-10-06T08:28:20+05:30",
-      "end": "2026-10-06T10:54:09+05:30",
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-10-07T08:10:21+05:30",
+      "end": "2026-10-07T10:48:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-10-06T10:54:09+05:30",
-      "end": "2026-10-06T13:49:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-10-06T13:49:01+05:30",
-      "end": "2026-10-06T16:46:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
-        }
-      ]
-    },
-    {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-10-06T16:46:43+05:30",
-      "end": "2026-10-06T19:31:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-10-06T19:31:36+05:30",
-      "end": "2026-10-06T22:00:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
+          "to": 9511
         }
       ]
     },
     {
       "youtube": "Q4BPekFLj1c",
       "title": "Rakshasa Rajavu",
-      "start": "2026-10-06T22:00:36+05:30",
-      "end": "2026-10-07T24:44:35+05:30",
+      "start": "2026-10-07T10:48:52+05:30",
+      "end": "2026-10-07T13:32:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,14 +51,74 @@
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-10-07T24:44:35+05:30",
-      "end": "2026-10-07T03:39:25+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-10-07T13:32:51+05:30",
+      "end": "2026-10-07T16:01:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 8940
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-10-07T16:01:51+05:30",
+      "end": "2026-10-07T18:34:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-10-07T18:34:53+05:30",
+      "end": "2026-10-07T21:29:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-10-07T21:29:45+05:30",
+      "end": "2026-10-08T24:26:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
+        }
+      ]
+    },
+    {
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-10-08T24:26:37+05:30",
+      "end": "2026-10-08T02:45:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-10-08T02:45:22+05:30",
+      "end": "2026-10-08T05:26:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
         }
       ]
     }
