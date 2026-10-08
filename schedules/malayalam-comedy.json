@@ -1,24 +1,36 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-07T06:23:34+05:30",
+  "generated": "2026-10-08T06:39:43+05:30",
   "slots": [
     {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-10-07T03:00:00+05:30",
-      "end": "2026-10-07T04:57:54+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-10-08T03:00:00+05:30",
+      "end": "2026-10-08T05:18:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7074
+          "to": 8334
+        }
+      ]
+    },
+    {
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-10-08T05:18:54+05:30",
+      "end": "2026-10-08T07:29:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7841
         }
       ]
     },
     {
       "youtube": "isacm3_fbmA",
       "title": "Sakshal Sreeman Chathunni",
-      "start": "2026-10-07T04:57:54+05:30",
-      "end": "2026-10-07T07:06:39+05:30",
+      "start": "2026-10-08T07:29:35+05:30",
+      "end": "2026-10-08T09:38:20+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,34 +39,22 @@
       ]
     },
     {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-10-07T07:06:39+05:30",
-      "end": "2026-10-07T09:37:03+05:30",
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-10-08T09:38:20+05:30",
+      "end": "2026-10-08T12:29:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9024
-        }
-      ]
-    },
-    {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-10-07T09:37:03+05:30",
-      "end": "2026-10-07T12:11:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9287
+          "to": 10251
         }
       ]
     },
     {
       "youtube": "uNz4A-b147Y",
       "title": "Pradeshika Varthakal",
-      "start": "2026-10-07T12:11:50+05:30",
-      "end": "2026-10-07T14:02:03+05:30",
+      "start": "2026-10-08T12:29:11+05:30",
+      "end": "2026-10-08T14:19:24+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,22 +63,10 @@
       ]
     },
     {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-10-07T14:02:03+05:30",
-      "end": "2026-10-07T16:18:05+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8162
-        }
-      ]
-    },
-    {
       "youtube": "IyBQ1VprUMU",
       "title": "Godfather",
-      "start": "2026-10-07T16:18:05+05:30",
-      "end": "2026-10-07T18:40:06+05:30",
+      "start": "2026-10-08T14:19:24+05:30",
+      "end": "2026-10-08T16:41:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +75,62 @@
       ]
     },
     {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-10-07T18:40:06+05:30",
-      "end": "2026-10-07T21:05:08+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-10-08T16:41:25+05:30",
+      "end": "2026-10-08T19:11:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8702
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-10-07T21:05:08+05:30",
-      "end": "2026-10-07T23:13:51+05:30",
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-10-08T19:11:16+05:30",
+      "end": "2026-10-08T21:17:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 7599
         }
       ]
     },
     {
-      "youtube": "MFHwp26QNr0",
-      "title": "Mookkilla Raajyathu",
-      "start": "2026-10-07T23:13:51+05:30",
-      "end": "2026-10-08T01:26:08+05:30",
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-10-08T21:17:55+05:30",
+      "end": "2026-10-08T23:33:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7937
+          "to": 8163
         }
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-10-08T01:26:08+05:30",
-      "end": "2026-10-08T03:33:47+05:30",
+      "youtube": "xzJhnlxxqpc",
+      "title": "Pavam I.A. Ivachan",
+      "start": "2026-10-08T23:33:58+05:30",
+      "end": "2026-10-09T01:50:00+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 8162
+        }
+      ]
+    },
+    {
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-10-09T01:50:00+05:30",
+      "end": "2026-10-09T04:04:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8089
         }
       ]
     }
