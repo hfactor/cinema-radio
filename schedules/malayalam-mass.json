@@ -1,48 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-08T06:39:43+05:30",
+  "generated": "2026-10-09T06:48:56+05:30",
   "slots": [
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-10-08T03:00:00+05:30",
-      "end": "2026-10-08T05:28:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-10-08T05:28:49+05:30",
-      "end": "2026-10-08T08:03:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9309
-        }
-      ]
-    },
-    {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-10-08T08:03:58+05:30",
-      "end": "2026-10-08T10:22:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8325
-        }
-      ]
-    },
     {
       "youtube": "F_og2xNdeoo",
       "title": "Runway",
-      "start": "2026-10-08T10:22:43+05:30",
-      "end": "2026-10-08T13:03:21+05:30",
+      "start": "2026-10-09T03:00:00+05:30",
+      "end": "2026-10-09T05:40:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,34 +15,22 @@
       ]
     },
     {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-10-08T13:03:21+05:30",
-      "end": "2026-10-08T15:16:38+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-10-09T05:40:38+05:30",
+      "end": "2026-10-09T08:33:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7997
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-10-08T15:16:38+05:30",
-      "end": "2026-10-08T18:11:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
+          "to": 10374
         }
       ]
     },
     {
       "youtube": "aUgN8AZQoPo",
       "title": "Ramji Rao Speaking",
-      "start": "2026-10-08T18:11:30+05:30",
-      "end": "2026-10-08T20:32:12+05:30",
+      "start": "2026-10-09T08:33:32+05:30",
+      "end": "2026-10-09T10:54:14+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,22 +39,22 @@
       ]
     },
     {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-10-08T20:32:12+05:30",
-      "end": "2026-10-08T22:42:32+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-10-09T10:54:14+05:30",
+      "end": "2026-10-09T13:12:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7820
+          "to": 8325
         }
       ]
     },
     {
       "youtube": "I5eQkEBVoYo",
       "title": "Praja",
-      "start": "2026-10-08T22:42:32+05:30",
-      "end": "2026-10-09T01:39:36+05:30",
+      "start": "2026-10-09T13:12:59+05:30",
+      "end": "2026-10-09T16:10:03+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,14 +63,62 @@
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-10-09T01:39:36+05:30",
-      "end": "2026-10-09T04:32:30+05:30",
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-10-09T16:10:03+05:30",
+      "end": "2026-10-09T18:43:05+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-10-09T18:43:05+05:30",
+      "end": "2026-10-09T21:11:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-10-09T21:11:43+05:30",
+      "end": "2026-10-09T23:37:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-10-09T23:37:32+05:30",
+      "end": "2026-10-10T02:05:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-10-10T02:05:52+05:30",
+      "end": "2026-10-10T05:00:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
         }
       ]
     }
