@@ -1,36 +1,48 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-09T06:48:56+05:30",
+  "generated": "2026-10-10T06:34:50+05:30",
   "slots": [
     {
-      "youtube": "uNz4A-b147Y",
-      "title": "Pradeshika Varthakal",
-      "start": "2026-10-09T03:00:00+05:30",
-      "end": "2026-10-09T04:50:13+05:30",
+      "youtube": "MFHwp26QNr0",
+      "title": "Mookkilla Raajyathu",
+      "start": "2026-10-10T03:00:00+05:30",
+      "end": "2026-10-10T05:12:17+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6613
+          "to": 7937
         }
       ]
     },
     {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-10-09T04:50:13+05:30",
-      "end": "2026-10-09T07:23:36+05:30",
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-10-10T05:12:17+05:30",
+      "end": "2026-10-10T07:09:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9203
+          "to": 7047
+        }
+      ]
+    },
+    {
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-10-10T07:09:44+05:30",
+      "end": "2026-10-10T09:29:37+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8393
         }
       ]
     },
     {
       "youtube": "ibw3-fIrgbY",
       "title": "Aadu 2",
-      "start": "2026-10-09T07:23:36+05:30",
-      "end": "2026-10-09T09:56:24+05:30",
+      "start": "2026-10-10T09:29:37+05:30",
+      "end": "2026-10-10T12:02:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,22 +51,22 @@
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-10-09T09:56:24+05:30",
-      "end": "2026-10-09T11:56:04+05:30",
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-10-10T12:02:25+05:30",
+      "end": "2026-10-10T14:36:25+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 9240
         }
       ]
     },
     {
       "youtube": "MJg2fqrF2Tw",
       "title": "Mayavi",
-      "start": "2026-10-09T11:56:04+05:30",
-      "end": "2026-10-09T14:00:45+05:30",
+      "start": "2026-10-10T14:36:25+05:30",
+      "end": "2026-10-10T16:41:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +75,62 @@
       ]
     },
     {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-10-09T14:00:45+05:30",
-      "end": "2026-10-09T16:15:56+05:30",
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-10-10T16:41:06+05:30",
+      "end": "2026-10-10T18:52:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8111
+          "to": 7856
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-10-09T16:15:56+05:30",
-      "end": "2026-10-09T19:01:45+05:30",
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-10-10T18:52:02+05:30",
+      "end": "2026-10-10T20:59:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 7659
         }
       ]
     },
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-10-09T19:01:45+05:30",
-      "end": "2026-10-09T21:13:37+05:30",
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-10-10T20:59:41+05:30",
+      "end": "2026-10-10T23:23:48+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 8647
         }
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-10-09T21:13:37+05:30",
-      "end": "2026-10-09T23:28:27+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-10-10T23:23:48+05:30",
+      "end": "2026-10-11T01:49:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 8734
         }
       ]
     },
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-10-09T23:28:27+05:30",
-      "end": "2026-10-10T01:48:13+05:30",
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-10-11T01:49:22+05:30",
+      "end": "2026-10-11T04:01:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
-        }
-      ]
-    },
-    {
-      "youtube": "tnUApaINfwg",
-      "title": "Kavadiyattam",
-      "start": "2026-10-10T01:48:13+05:30",
-      "end": "2026-10-10T03:56:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7698
+          "to": 7909
         }
       ]
     }
