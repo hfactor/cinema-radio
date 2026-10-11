@@ -1,48 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-10T06:34:50+05:30",
+  "generated": "2026-10-11T05:49:31+05:30",
   "slots": [
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-10-10T03:00:00+05:30",
-      "end": "2026-10-10T05:48:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-10-10T05:48:01+05:30",
-      "end": "2026-10-10T07:30:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-10-10T07:30:17+05:30",
-      "end": "2026-10-10T09:56:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
     {
       "youtube": "nUQre7zjGKE",
       "title": "Ekalavyan",
-      "start": "2026-10-10T09:56:06+05:30",
-      "end": "2026-10-10T12:34:37+05:30",
+      "start": "2026-10-11T03:00:00+05:30",
+      "end": "2026-10-11T05:38:31+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,34 +15,34 @@
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-10-10T12:34:37+05:30",
-      "end": "2026-10-10T15:03:26+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-10-11T05:38:31+05:30",
+      "end": "2026-10-11T08:36:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 10662
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-10-10T15:03:26+05:30",
-      "end": "2026-10-10T17:58:16+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-10-11T08:36:13+05:30",
+      "end": "2026-10-11T11:30:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 10479
         }
       ]
     },
     {
       "youtube": "KmRVJ8ZFew0",
       "title": "Vazhunnor",
-      "start": "2026-10-10T17:58:16+05:30",
-      "end": "2026-10-10T20:33:25+05:30",
+      "start": "2026-10-11T11:30:52+05:30",
+      "end": "2026-10-11T14:06:01+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +51,62 @@
       ]
     },
     {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-10-10T20:33:25+05:30",
-      "end": "2026-10-10T23:08:51+05:30",
+      "youtube": "AzwfbCCouLE",
+      "title": "Onnaman",
+      "start": "2026-10-11T14:06:01+05:30",
+      "end": "2026-10-11T16:54:02+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9326
+          "to": 10081
         }
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-10-10T23:08:51+05:30",
-      "end": "2026-10-11T01:59:45+05:30",
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-10-11T16:54:02+05:30",
+      "end": "2026-10-11T19:48:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
+          "to": 10490
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-10-11T01:59:45+05:30",
-      "end": "2026-10-11T04:52:39+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-10-11T19:48:52+05:30",
+      "end": "2026-10-11T22:17:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 8940
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-10-11T22:17:52+05:30",
+      "end": "2026-10-12T24:46:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-10-12T24:46:12+05:30",
+      "end": "2026-10-12T03:12:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
         }
       ]
     }
