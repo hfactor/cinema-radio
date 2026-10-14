@@ -1,96 +1,36 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-13T08:09:37+05:30",
+  "generated": "2026-10-14T05:57:39+05:30",
   "slots": [
     {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-10-13T03:00:00+05:30",
-      "end": "2026-10-13T05:07:48+05:30",
+      "youtube": "3IqGqL-FyQk",
+      "title": "Pandippada",
+      "start": "2026-10-14T03:00:00+05:30",
+      "end": "2026-10-14T05:29:05+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7668
+          "to": 8945
         }
       ]
     },
     {
-      "youtube": "blf_KJ-LQCQ",
-      "title": "Kunukitta Kozhi",
-      "start": "2026-10-13T05:07:48+05:30",
-      "end": "2026-10-13T07:18:26+05:30",
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-10-14T05:29:05+05:30",
+      "end": "2026-10-14T07:54:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7838
-        }
-      ]
-    },
-    {
-      "youtube": "gF3X54sk0hc",
-      "title": "Kalyanaraman",
-      "start": "2026-10-13T07:18:26+05:30",
-      "end": "2026-10-13T09:30:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7909
-        }
-      ]
-    },
-    {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-10-13T09:30:15+05:30",
-      "end": "2026-10-13T12:03:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9203
-        }
-      ]
-    },
-    {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-10-13T12:03:38+05:30",
-      "end": "2026-10-13T14:16:57+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7999
-        }
-      ]
-    },
-    {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-10-13T14:16:57+05:30",
-      "end": "2026-10-13T16:28:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7912
-        }
-      ]
-    },
-    {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-10-13T16:28:49+05:30",
-      "end": "2026-10-13T18:53:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8702
+          "to": 8746
         }
       ]
     },
     {
       "youtube": "GtgJJotwcRQ",
       "title": "Summer in Bethlehem",
-      "start": "2026-10-13T18:53:51+05:30",
-      "end": "2026-10-13T21:28:38+05:30",
+      "start": "2026-10-14T07:54:51+05:30",
+      "end": "2026-10-14T10:29:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,38 +39,86 @@
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-10-13T21:28:38+05:30",
-      "end": "2026-10-13T23:50:39+05:30",
+      "youtube": "sBLATypOxoE",
+      "title": "Body Guard",
+      "start": "2026-10-14T10:29:38+05:30",
+      "end": "2026-10-14T12:37:06+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 7648
         }
       ]
     },
     {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-10-13T23:50:39+05:30",
-      "end": "2026-10-14T02:21:03+05:30",
+      "youtube": "NmU-3Xh5FB8",
+      "title": "Gajakesariyogam",
+      "start": "2026-10-14T12:37:06+05:30",
+      "end": "2026-10-14T14:44:45+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9024
+          "to": 7659
         }
       ]
     },
     {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-10-14T02:21:03+05:30",
-      "end": "2026-10-14T04:56:57+05:30",
+      "youtube": "s6P9QNj2_o0",
+      "title": "Kuberan",
+      "start": "2026-10-14T14:44:45+05:30",
+      "end": "2026-10-14T17:16:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9354
+          "to": 9104
+        }
+      ]
+    },
+    {
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-10-14T17:16:29+05:30",
+      "end": "2026-10-14T19:49:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9203
+        }
+      ]
+    },
+    {
+      "youtube": "GPMnBx9ZkYI",
+      "title": "Meleparambil Aanveedu",
+      "start": "2026-10-14T19:49:52+05:30",
+      "end": "2026-10-14T22:15:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8722
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-10-14T22:15:14+05:30",
+      "end": "2026-10-15T24:57:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-10-15T24:57:21+05:30",
+      "end": "2026-10-15T03:22:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8734
         }
       ]
     }
