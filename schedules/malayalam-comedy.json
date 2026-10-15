@@ -1,72 +1,12 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-15T05:30:08+05:30",
+  "generated": "2026-10-16T05:14:36+05:30",
   "slots": [
-    {
-      "youtube": "fMc1KYI-orY",
-      "title": "Vellanakalude Nadu",
-      "start": "2026-10-15T03:00:00+05:30",
-      "end": "2026-10-15T05:16:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8182
-        }
-      ]
-    },
-    {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-10-15T05:16:22+05:30",
-      "end": "2026-10-15T07:27:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7841
-        }
-      ]
-    },
-    {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-10-15T07:27:03+05:30",
-      "end": "2026-10-15T09:21:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-10-15T09:21:29+05:30",
-      "end": "2026-10-15T11:51:53+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9024
-        }
-      ]
-    },
-    {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-10-15T11:51:53+05:30",
-      "end": "2026-10-15T14:13:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8521
-        }
-      ]
-    },
     {
       "youtube": "blf_KJ-LQCQ",
       "title": "Kunukitta Kozhi",
-      "start": "2026-10-15T14:13:54+05:30",
-      "end": "2026-10-15T16:24:32+05:30",
+      "start": "2026-10-16T03:00:00+05:30",
+      "end": "2026-10-16T05:10:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,22 +15,10 @@
       ]
     },
     {
-      "youtube": "QlwKwes1qIs",
-      "title": "Mithunam",
-      "start": "2026-10-15T16:24:32+05:30",
-      "end": "2026-10-15T18:49:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8683
-        }
-      ]
-    },
-    {
       "youtube": "yYOXLlxBHdc",
       "title": "Kalyana Sougandhikam",
-      "start": "2026-10-15T18:49:15+05:30",
-      "end": "2026-10-15T21:08:09+05:30",
+      "start": "2026-10-16T05:10:38+05:30",
+      "end": "2026-10-16T07:29:32+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,38 +27,110 @@
       ]
     },
     {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-10-15T21:08:09+05:30",
-      "end": "2026-10-15T23:33:43+05:30",
+      "youtube": "3IqGqL-FyQk",
+      "title": "Pandippada",
+      "start": "2026-10-16T07:29:32+05:30",
+      "end": "2026-10-16T09:58:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8734
+          "to": 8945
         }
       ]
     },
     {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-10-15T23:33:43+05:30",
-      "end": "2026-10-16T02:07:06+05:30",
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-10-16T09:58:37+05:30",
+      "end": "2026-10-16T11:52:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9203
+          "to": 6825
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-10-16T02:07:06+05:30",
-      "end": "2026-10-16T04:21:55+05:30",
+      "youtube": "isacm3_fbmA",
+      "title": "Sakshal Sreeman Chathunni",
+      "start": "2026-10-16T11:52:22+05:30",
+      "end": "2026-10-16T14:01:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 7725
+        }
+      ]
+    },
+    {
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-10-16T14:01:07+05:30",
+      "end": "2026-10-16T16:08:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7651
+        }
+      ]
+    },
+    {
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-10-16T16:08:38+05:30",
+      "end": "2026-10-16T18:25:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8182
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-10-16T18:25:00+05:30",
+      "end": "2026-10-16T21:07:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-10-16T21:07:07+05:30",
+      "end": "2026-10-16T23:27:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8393
+        }
+      ]
+    },
+    {
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-10-16T23:27:00+05:30",
+      "end": "2026-10-17T02:01:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9240
+        }
+      ]
+    },
+    {
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-10-17T02:01:00+05:30",
+      "end": "2026-10-17T04:33:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9168
         }
       ]
     }
