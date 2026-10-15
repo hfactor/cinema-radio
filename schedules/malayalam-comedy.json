@@ -1,84 +1,120 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-14T05:57:39+05:30",
+  "generated": "2026-10-15T05:30:08+05:30",
   "slots": [
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-10-14T03:00:00+05:30",
-      "end": "2026-10-14T05:29:05+05:30",
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-10-15T03:00:00+05:30",
+      "end": "2026-10-15T05:16:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
+          "to": 8182
         }
       ]
     },
     {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-10-14T05:29:05+05:30",
-      "end": "2026-10-14T07:54:51+05:30",
+      "youtube": "CVkZSKEl7O4",
+      "title": "Uppukandam Brothers",
+      "start": "2026-10-15T05:16:22+05:30",
+      "end": "2026-10-15T07:27:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8746
+          "to": 7841
         }
       ]
     },
     {
-      "youtube": "GtgJJotwcRQ",
-      "title": "Summer in Bethlehem",
-      "start": "2026-10-14T07:54:51+05:30",
-      "end": "2026-10-14T10:29:38+05:30",
+      "youtube": "HqTOaQh5RnI",
+      "title": "Mannadiar Penninu Chenkotta Checkan",
+      "start": "2026-10-15T07:27:03+05:30",
+      "end": "2026-10-15T09:21:29+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9287
+          "to": 6866
         }
       ]
     },
     {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-10-14T10:29:38+05:30",
-      "end": "2026-10-14T12:37:06+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-10-15T09:21:29+05:30",
+      "end": "2026-10-15T11:51:53+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7648
+          "to": 9024
         }
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-10-14T12:37:06+05:30",
-      "end": "2026-10-14T14:44:45+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-10-15T11:51:53+05:30",
+      "end": "2026-10-15T14:13:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 8521
         }
       ]
     },
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-10-14T14:44:45+05:30",
-      "end": "2026-10-14T17:16:29+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-10-15T14:13:54+05:30",
+      "end": "2026-10-15T16:24:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 7838
+        }
+      ]
+    },
+    {
+      "youtube": "QlwKwes1qIs",
+      "title": "Mithunam",
+      "start": "2026-10-15T16:24:32+05:30",
+      "end": "2026-10-15T18:49:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8683
+        }
+      ]
+    },
+    {
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-10-15T18:49:15+05:30",
+      "end": "2026-10-15T21:08:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8334
+        }
+      ]
+    },
+    {
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-10-15T21:08:09+05:30",
+      "end": "2026-10-15T23:33:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8734
         }
       ]
     },
     {
       "youtube": "mo4XpjEx__s",
       "title": "Kilukkam",
-      "start": "2026-10-14T17:16:29+05:30",
-      "end": "2026-10-14T19:49:52+05:30",
+      "start": "2026-10-15T23:33:43+05:30",
+      "end": "2026-10-16T02:07:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +123,14 @@
       ]
     },
     {
-      "youtube": "GPMnBx9ZkYI",
-      "title": "Meleparambil Aanveedu",
-      "start": "2026-10-14T19:49:52+05:30",
-      "end": "2026-10-14T22:15:14+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-10-16T02:07:06+05:30",
+      "end": "2026-10-16T04:21:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8722
-        }
-      ]
-    },
-    {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-10-14T22:15:14+05:30",
-      "end": "2026-10-15T24:57:21+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9727
-        }
-      ]
-    },
-    {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-10-15T24:57:21+05:30",
-      "end": "2026-10-15T03:22:55+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8734
+          "to": 8089
         }
       ]
     }
