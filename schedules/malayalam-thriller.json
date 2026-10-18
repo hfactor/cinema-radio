@@ -1,96 +1,12 @@
 {
   "band": "malayalam-thriller",
-  "generated": "2026-10-18T04:47:52+05:30",
+  "generated": "2026-10-19T04:57:12+05:30",
   "slots": [
-    {
-      "youtube": "GKzQXfJb2iM",
-      "title": "Customs Diary",
-      "start": "2026-10-18T03:00:00+05:30",
-      "end": "2026-10-18T05:03:07+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7387
-        }
-      ]
-    },
-    {
-      "youtube": "40DnL80mUU0",
-      "title": "Manichitrathazhu",
-      "start": "2026-10-18T05:03:07+05:30",
-      "end": "2026-10-18T07:33:02+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8995
-        }
-      ]
-    },
-    {
-      "youtube": "gfR5HPg-jJA",
-      "title": "Vargam",
-      "start": "2026-10-18T07:33:02+05:30",
-      "end": "2026-10-18T09:55:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8570
-        }
-      ]
-    },
-    {
-      "youtube": "Bt_dmXcnNsY",
-      "title": "Sainyam",
-      "start": "2026-10-18T09:55:52+05:30",
-      "end": "2026-10-18T12:26:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9014
-        }
-      ]
-    },
-    {
-      "youtube": "VM1rLiBDR6g",
-      "title": "Indraprastham",
-      "start": "2026-10-18T12:26:06+05:30",
-      "end": "2026-10-18T14:51:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8723
-        }
-      ]
-    },
-    {
-      "youtube": "jb5FMCr1rSc",
-      "title": "Devadoothan",
-      "start": "2026-10-18T14:51:29+05:30",
-      "end": "2026-10-18T17:07:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8176
-        }
-      ]
-    },
-    {
-      "youtube": "9BGliAPpLwI",
-      "title": "Moonnam Mura",
-      "start": "2026-10-18T17:07:45+05:30",
-      "end": "2026-10-18T19:21:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8033
-        }
-      ]
-    },
     {
       "youtube": "ZThJXu2eKw4",
       "title": "Ee Thanutha Veluppan Kalathu",
-      "start": "2026-10-18T19:21:38+05:30",
-      "end": "2026-10-18T21:40:34+05:30",
+      "start": "2026-10-19T03:00:00+05:30",
+      "end": "2026-10-19T05:18:56+05:30",
       "segments": [
         {
           "from": 0,
@@ -101,8 +17,8 @@
     {
       "youtube": "VdN4RgPTyAE",
       "title": "The Tiger",
-      "start": "2026-10-18T21:40:34+05:30",
-      "end": "2026-10-18T23:54:55+05:30",
+      "start": "2026-10-19T05:18:56+05:30",
+      "end": "2026-10-19T07:33:17+05:30",
       "segments": [
         {
           "from": 0,
@@ -111,10 +27,94 @@
       ]
     },
     {
+      "youtube": "GKzQXfJb2iM",
+      "title": "Customs Diary",
+      "start": "2026-10-19T07:33:17+05:30",
+      "end": "2026-10-19T09:36:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7387
+        }
+      ]
+    },
+    {
+      "youtube": "jzswDqpoeQY",
+      "title": "Robin Hood",
+      "start": "2026-10-19T09:36:24+05:30",
+      "end": "2026-10-19T11:57:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8487
+        }
+      ]
+    },
+    {
+      "youtube": "SzwStt19vtw",
+      "title": "Memories",
+      "start": "2026-10-19T11:57:51+05:30",
+      "end": "2026-10-19T14:21:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8589
+        }
+      ]
+    },
+    {
+      "youtube": "9BGliAPpLwI",
+      "title": "Moonnam Mura",
+      "start": "2026-10-19T14:21:00+05:30",
+      "end": "2026-10-19T16:34:53+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8033
+        }
+      ]
+    },
+    {
+      "youtube": "hkHesHZGFxM",
+      "title": "Detective",
+      "start": "2026-10-19T16:34:53+05:30",
+      "end": "2026-10-19T18:49:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8047
+        }
+      ]
+    },
+    {
+      "youtube": "Bt_dmXcnNsY",
+      "title": "Sainyam",
+      "start": "2026-10-19T18:49:00+05:30",
+      "end": "2026-10-19T21:19:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9014
+        }
+      ]
+    },
+    {
+      "youtube": "gfR5HPg-jJA",
+      "title": "Vargam",
+      "start": "2026-10-19T21:19:14+05:30",
+      "end": "2026-10-19T23:42:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8570
+        }
+      ]
+    },
+    {
       "youtube": "ToZs_GSij8U",
       "title": "Oru Abhibhashakante Case Diary",
-      "start": "2026-10-18T23:54:55+05:30",
-      "end": "2026-10-19T02:01:24+05:30",
+      "start": "2026-10-19T23:42:04+05:30",
+      "end": "2026-10-20T01:48:33+05:30",
       "segments": [
         {
           "from": 0,
@@ -123,14 +123,14 @@
       ]
     },
     {
-      "youtube": "hkHesHZGFxM",
-      "title": "Detective",
-      "start": "2026-10-19T02:01:24+05:30",
-      "end": "2026-10-19T04:15:31+05:30",
+      "youtube": "VM1rLiBDR6g",
+      "title": "Indraprastham",
+      "start": "2026-10-20T01:48:33+05:30",
+      "end": "2026-10-20T04:13:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8047
+          "to": 8723
         }
       ]
     }

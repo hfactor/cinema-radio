@@ -1,60 +1,96 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-18T04:47:52+05:30",
+  "generated": "2026-10-19T04:57:12+05:30",
   "slots": [
     {
-      "youtube": "tyJ2O3Y6qk0",
-      "title": "Hallo",
-      "start": "2026-10-18T03:00:00+05:30",
-      "end": "2026-10-18T05:25:02+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-10-19T03:00:00+05:30",
+      "end": "2026-10-19T05:02:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8702
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-10-18T05:25:02+05:30",
-      "end": "2026-10-18T07:32:50+05:30",
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-10-19T05:02:57+05:30",
+      "end": "2026-10-19T07:27:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7668
+          "to": 8663
         }
       ]
     },
     {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-10-18T07:32:50+05:30",
-      "end": "2026-10-18T09:48:01+05:30",
+      "youtube": "mo4XpjEx__s",
+      "title": "Kilukkam",
+      "start": "2026-10-19T07:27:20+05:30",
+      "end": "2026-10-19T10:00:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8111
+          "to": 9203
         }
       ]
     },
     {
-      "youtube": "_d-AdeBZVYc",
-      "title": "Akkare Akkare Akkare",
-      "start": "2026-10-18T09:48:01+05:30",
-      "end": "2026-10-18T12:17:52+05:30",
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-10-19T10:00:43+05:30",
+      "end": "2026-10-19T12:22:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8991
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "zS5MDOwDQ9A",
+      "title": "Veendum Chila Veettukaryangal",
+      "start": "2026-10-19T12:22:44+05:30",
+      "end": "2026-10-19T15:01:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9522
+        }
+      ]
+    },
+    {
+      "youtube": "bpFYOUkOybs",
+      "title": "Peruvannapurathe Visheshangal",
+      "start": "2026-10-19T15:01:26+05:30",
+      "end": "2026-10-19T17:01:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7180
+        }
+      ]
+    },
+    {
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-10-19T17:01:06+05:30",
+      "end": "2026-10-19T19:07:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7599
         }
       ]
     },
     {
       "youtube": "CVkZSKEl7O4",
       "title": "Uppukandam Brothers",
-      "start": "2026-10-18T12:17:52+05:30",
-      "end": "2026-10-18T14:28:33+05:30",
+      "start": "2026-10-19T19:07:45+05:30",
+      "end": "2026-10-19T21:18:26+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,74 +99,38 @@
       ]
     },
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-10-18T14:28:33+05:30",
-      "end": "2026-10-18T16:36:12+05:30",
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-10-19T21:18:26+05:30",
+      "end": "2026-10-19T23:39:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 8457
         }
       ]
     },
     {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-10-18T16:36:12+05:30",
-      "end": "2026-10-18T18:51:57+05:30",
+      "youtube": "ZKKazEWcFwQ",
+      "title": "Hitler",
+      "start": "2026-10-19T23:39:23+05:30",
+      "end": "2026-10-20T01:55:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8145
+          "to": 8163
         }
       ]
     },
     {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-10-18T18:51:57+05:30",
-      "end": "2026-10-18T21:05:16+05:30",
+      "youtube": "uNz4A-b147Y",
+      "title": "Pradeshika Varthakal",
+      "start": "2026-10-20T01:55:26+05:30",
+      "end": "2026-10-20T03:45:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7999
-        }
-      ]
-    },
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-10-18T21:05:16+05:30",
-      "end": "2026-10-18T23:03:10+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
-        }
-      ]
-    },
-    {
-      "youtube": "IoTeFxml2Bo",
-      "title": "Oru Maravathoor Kanavu",
-      "start": "2026-10-18T23:03:10+05:30",
-      "end": "2026-10-19T01:14:42+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7892
-        }
-      ]
-    },
-    {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-10-19T01:14:42+05:30",
-      "end": "2026-10-19T03:33:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8334
+          "to": 6613
         }
       ]
     }
