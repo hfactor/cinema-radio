@@ -1,84 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-22T05:35:27+05:30",
+  "generated": "2026-10-23T05:33:51+05:30",
   "slots": [
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-10-22T03:00:00+05:30",
-      "end": "2026-10-22T05:54:39+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-10-23T03:00:00+05:30",
+      "end": "2026-10-23T05:43:59+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-10-22T05:54:39+05:30",
-      "end": "2026-10-22T08:20:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-10-22T08:20:28+05:30",
-      "end": "2026-10-22T10:54:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-10-22T10:54:48+05:30",
-      "end": "2026-10-22T13:51:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10624
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-10-22T13:51:52+05:30",
-      "end": "2026-10-22T16:28:30+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-10-22T16:28:30+05:30",
-      "end": "2026-10-22T19:07:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
+          "to": 9839
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-10-22T19:07:01+05:30",
-      "end": "2026-10-22T22:04:43+05:30",
+      "start": "2026-10-23T05:43:59+05:30",
+      "end": "2026-10-23T08:41:41+05:30",
       "segments": [
         {
           "from": 0,
@@ -89,8 +29,8 @@
     {
       "youtube": "cxW9_c15JHg",
       "title": "Sathyameva Jayathe",
-      "start": "2026-10-22T22:04:43+05:30",
-      "end": "2026-10-23T24:53:40+05:30",
+      "start": "2026-10-23T08:41:41+05:30",
+      "end": "2026-10-23T11:30:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,14 +39,74 @@
       ]
     },
     {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-10-23T24:53:40+05:30",
-      "end": "2026-10-23T03:41:41+05:30",
+      "youtube": "sX-mOuh6FY0",
+      "title": "Pingami",
+      "start": "2026-10-23T11:30:38+05:30",
+      "end": "2026-10-23T13:49:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10081
+          "to": 8325
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-10-23T13:49:23+05:30",
+      "end": "2026-10-23T16:22:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-10-23T16:22:25+05:30",
+      "end": "2026-10-23T18:56:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-10-23T18:56:45+05:30",
+      "end": "2026-10-23T21:41:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-10-23T21:41:38+05:30",
+      "end": "2026-10-24T24:32:32+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-10-24T24:32:32+05:30",
+      "end": "2026-10-24T03:13:10+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
         }
       ]
     }
