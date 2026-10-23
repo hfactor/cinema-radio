@@ -1,48 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-23T05:33:51+05:30",
+  "generated": "2026-10-24T05:24:18+05:30",
   "slots": [
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-10-23T03:00:00+05:30",
-      "end": "2026-10-23T05:43:59+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-10-23T05:43:59+05:30",
-      "end": "2026-10-23T08:41:41+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
-        }
-      ]
-    },
-    {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-10-23T08:41:41+05:30",
-      "end": "2026-10-23T11:30:38+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10137
-        }
-      ]
-    },
     {
       "youtube": "sX-mOuh6FY0",
       "title": "Pingami",
-      "start": "2026-10-23T11:30:38+05:30",
-      "end": "2026-10-23T13:49:23+05:30",
+      "start": "2026-10-24T03:00:00+05:30",
+      "end": "2026-10-24T05:18:45+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,10 +15,70 @@
       ]
     },
     {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-10-24T05:18:45+05:30",
+      "end": "2026-10-24T07:59:23+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-10-24T07:59:23+05:30",
+      "end": "2026-10-24T10:48:20+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-10-24T10:48:20+05:30",
+      "end": "2026-10-24T13:09:02+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-10-24T13:09:02+05:30",
+      "end": "2026-10-24T15:34:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
+        }
+      ]
+    },
+    {
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-10-24T15:34:51+05:30",
+      "end": "2026-10-24T18:10:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9309
+        }
+      ]
+    },
+    {
       "youtube": "1sEWgYDJjPw",
       "title": "Olympian Anthony Adam",
-      "start": "2026-10-23T13:49:23+05:30",
-      "end": "2026-10-23T16:22:25+05:30",
+      "start": "2026-10-24T18:10:00+05:30",
+      "end": "2026-10-24T20:43:02+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,50 +87,38 @@
       ]
     },
     {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-10-23T16:22:25+05:30",
-      "end": "2026-10-23T18:56:45+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-10-24T20:43:02+05:30",
+      "end": "2026-10-24T22:25:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9260
+          "to": 6136
         }
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-10-23T18:56:45+05:30",
-      "end": "2026-10-23T21:41:38+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-10-24T22:25:18+05:30",
+      "end": "2026-10-25T01:19:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 10479
         }
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-10-23T21:41:38+05:30",
-      "end": "2026-10-24T24:32:32+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-10-25T01:19:57+05:30",
+      "end": "2026-10-25T04:17:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-10-24T24:32:32+05:30",
-      "end": "2026-10-24T03:13:10+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9638
+          "to": 10662
         }
       ]
     }
