@@ -1,7 +1,7 @@
 name: Tamil Comedy
 movies:
-  - url: https://www.youtube.com/watch?v=DK9acwDioKs
-    title: Soodhu Kavvum
+# [not-embeddable] - url: https://www.youtube.com/watch?v=DK9acwDioKs
+#     title: Soodhu Kavvum
 
   - url: https://www.youtube.com/watch?v=snBS8R1R9CE
     title: Uttama Villain
