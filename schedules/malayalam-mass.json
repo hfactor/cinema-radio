@@ -1,36 +1,84 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-27T06:09:59+05:30",
+  "generated": "2026-10-28T06:08:02+05:30",
   "slots": [
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-10-27T03:00:00+05:30",
-      "end": "2026-10-27T05:36:38+05:30",
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-10-28T03:00:00+05:30",
+      "end": "2026-10-28T05:52:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
+          "to": 10374
         }
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-10-27T05:36:38+05:30",
-      "end": "2026-10-27T07:18:54+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-10-28T05:52:54+05:30",
+      "end": "2026-10-28T08:21:43+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6136
+          "to": 8929
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-10-28T08:21:43+05:30",
+      "end": "2026-10-28T11:02:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-10-28T11:02:21+05:30",
+      "end": "2026-10-28T13:57:00+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-10-28T13:57:00+05:30",
+      "end": "2026-10-28T16:54:42+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-10-28T16:54:42+05:30",
+      "end": "2026-10-28T19:20:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
         }
       ]
     },
     {
       "youtube": "2qKelKBAdlo",
       "title": "Dubai",
-      "start": "2026-10-27T07:18:54+05:30",
-      "end": "2026-10-27T10:09:48+05:30",
+      "start": "2026-10-28T19:20:31+05:30",
+      "end": "2026-10-28T22:11:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -41,8 +89,8 @@
     {
       "youtube": "cxW9_c15JHg",
       "title": "Sathyameva Jayathe",
-      "start": "2026-10-27T10:09:48+05:30",
-      "end": "2026-10-27T12:58:45+05:30",
+      "start": "2026-10-28T22:11:25+05:30",
+      "end": "2026-10-29T01:00:22+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,74 +99,14 @@
       ]
     },
     {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-10-27T12:58:45+05:30",
-      "end": "2026-10-27T15:33:05+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-10-29T01:00:22+05:30",
+      "end": "2026-10-29T03:37:00+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-10-27T15:33:05+05:30",
-      "end": "2026-10-27T18:11:36+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-10-27T18:11:36+05:30",
-      "end": "2026-10-27T21:06:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
-        }
-      ]
-    },
-    {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-10-27T21:06:15+05:30",
-      "end": "2026-10-27T23:51:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-10-27T23:51:08+05:30",
-      "end": "2026-10-28T02:20:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-10-28T02:20:08+05:30",
-      "end": "2026-10-28T05:14:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
+          "to": 9398
         }
       ]
     }
