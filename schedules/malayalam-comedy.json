@@ -1,24 +1,24 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-28T06:08:02+05:30",
+  "generated": "2026-10-29T06:37:46+05:30",
   "slots": [
     {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-10-28T03:00:00+05:30",
-      "end": "2026-10-28T05:19:58+05:30",
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-10-29T03:00:00+05:30",
+      "end": "2026-10-29T05:25:46+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8398
+          "to": 8746
         }
       ]
     },
     {
       "youtube": "m1zbbDOkkFU",
       "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-10-28T05:19:58+05:30",
-      "end": "2026-10-28T07:40:55+05:30",
+      "start": "2026-10-29T05:25:46+05:30",
+      "end": "2026-10-29T07:46:43+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,22 +27,70 @@
       ]
     },
     {
-      "youtube": "tnUApaINfwg",
-      "title": "Kavadiyattam",
-      "start": "2026-10-28T07:40:55+05:30",
-      "end": "2026-10-28T09:49:13+05:30",
+      "youtube": "xuQOJtrkiZU",
+      "title": "Classmates",
+      "start": "2026-10-29T07:46:43+05:30",
+      "end": "2026-10-29T10:17:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7698
+          "to": 9024
+        }
+      ]
+    },
+    {
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-10-29T10:17:07+05:30",
+      "end": "2026-10-29T12:24:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7651
+        }
+      ]
+    },
+    {
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-10-29T12:24:38+05:30",
+      "end": "2026-10-29T14:27:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7377
+        }
+      ]
+    },
+    {
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-10-29T14:27:35+05:30",
+      "end": "2026-10-29T16:51:58+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-10-29T16:51:58+05:30",
+      "end": "2026-10-29T19:16:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
         }
       ]
     },
     {
       "youtube": "yjaFvFuQ-QM",
       "title": "Premam",
-      "start": "2026-10-28T09:49:13+05:30",
-      "end": "2026-10-28T12:25:07+05:30",
+      "start": "2026-10-29T19:16:21+05:30",
+      "end": "2026-10-29T21:52:15+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,86 +99,38 @@
       ]
     },
     {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-10-28T12:25:07+05:30",
-      "end": "2026-10-28T14:26:42+05:30",
+      "youtube": "jqlKkPdm1AU",
+      "title": "Pattanapravesham (1988)",
+      "start": "2026-10-29T21:52:15+05:30",
+      "end": "2026-10-30T24:12:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7295
+          "to": 8393
         }
       ]
     },
     {
-      "youtube": "s6P9QNj2_o0",
-      "title": "Kuberan",
-      "start": "2026-10-28T14:26:42+05:30",
-      "end": "2026-10-28T16:58:26+05:30",
+      "youtube": "n-vuT-GfF0g",
+      "title": "Thenkasipattanam",
+      "start": "2026-10-30T24:12:08+05:30",
+      "end": "2026-10-30T02:19:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9104
+          "to": 7668
         }
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-10-28T16:58:26+05:30",
-      "end": "2026-10-28T19:20:27+05:30",
+      "youtube": "3x5rELI_ihA",
+      "title": "Simhavalan Menon",
+      "start": "2026-10-30T02:19:56+05:30",
+      "end": "2026-10-30T04:39:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
-        }
-      ]
-    },
-    {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-10-28T19:20:27+05:30",
-      "end": "2026-10-28T22:06:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9949
-        }
-      ]
-    },
-    {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-10-28T22:06:16+05:30",
-      "end": "2026-10-29T24:17:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7856
-        }
-      ]
-    },
-    {
-      "youtube": "ZKKazEWcFwQ",
-      "title": "Hitler",
-      "start": "2026-10-29T24:17:12+05:30",
-      "end": "2026-10-29T02:33:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8163
-        }
-      ]
-    },
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-10-29T02:33:15+05:30",
-      "end": "2026-10-29T04:31:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
+          "to": 8398
         }
       ]
     }
