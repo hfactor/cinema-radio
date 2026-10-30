@@ -1,36 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-10-29T06:37:46+05:30",
+  "generated": "2026-10-30T06:43:11+05:30",
   "slots": [
-    {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-10-29T03:00:00+05:30",
-      "end": "2026-10-29T04:42:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 6136
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-10-29T04:42:16+05:30",
-      "end": "2026-10-29T07:39:58+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
-        }
-      ]
-    },
     {
       "youtube": "F_og2xNdeoo",
       "title": "Runway",
-      "start": "2026-10-29T07:39:58+05:30",
-      "end": "2026-10-29T10:20:36+05:30",
+      "start": "2026-10-30T03:00:00+05:30",
+      "end": "2026-10-30T05:40:38+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,34 +15,22 @@
       ]
     },
     {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-10-29T10:20:36+05:30",
-      "end": "2026-10-29T12:54:56+05:30",
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-10-30T05:40:38+05:30",
+      "end": "2026-10-30T08:37:42+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-10-29T12:54:56+05:30",
-      "end": "2026-10-29T15:49:48+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
+          "to": 10624
         }
       ]
     },
     {
       "youtube": "KmRVJ8ZFew0",
       "title": "Vazhunnor",
-      "start": "2026-10-29T15:49:48+05:30",
-      "end": "2026-10-29T18:24:57+05:30",
+      "start": "2026-10-30T08:37:42+05:30",
+      "end": "2026-10-30T11:12:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,38 +39,86 @@
       ]
     },
     {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-10-29T18:24:57+05:30",
-      "end": "2026-10-29T21:08:56+05:30",
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-10-30T11:12:51+05:30",
+      "end": "2026-10-30T13:41:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9839
+          "to": 8900
         }
       ]
     },
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-10-29T21:08:56+05:30",
-      "end": "2026-10-30T24:03:46+05:30",
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-10-30T13:41:11+05:30",
+      "end": "2026-10-30T16:36:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
+          "to": 10492
         }
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-10-30T24:03:46+05:30",
-      "end": "2026-10-30T03:00:50+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-10-30T16:36:03+05:30",
+      "end": "2026-10-30T19:04:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 8918
+        }
+      ]
+    },
+    {
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-10-30T19:04:41+05:30",
+      "end": "2026-10-30T21:15:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7820
+        }
+      ]
+    },
+    {
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-10-30T21:15:01+05:30",
+      "end": "2026-10-30T23:43:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8929
+        }
+      ]
+    },
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-10-30T23:43:50+05:30",
+      "end": "2026-10-31T01:57:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-10-31T01:57:07+05:30",
+      "end": "2026-10-31T04:48:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
         }
       ]
     }
