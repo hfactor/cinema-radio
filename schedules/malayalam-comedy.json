@@ -1,60 +1,84 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-10-31T06:26:03+05:30",
+  "generated": "2026-11-01T05:46:32+05:30",
   "slots": [
     {
-      "youtube": "N-_uc9HoouY",
-      "title": "Pattanapravesham",
-      "start": "2026-10-31T03:00:00+05:30",
-      "end": "2026-10-31T05:19:46+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-11-01T03:00:00+05:30",
+      "end": "2026-11-01T05:29:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8386
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-10-31T05:19:46+05:30",
-      "end": "2026-10-31T07:31:38+05:30",
+      "youtube": "asffbk9CSI8",
+      "title": "Thanneer Mathan Dinangal",
+      "start": "2026-11-01T05:29:51+05:30",
+      "end": "2026-11-01T07:45:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7912
+          "to": 8145
         }
       ]
     },
     {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-10-31T07:31:38+05:30",
-      "end": "2026-10-31T09:55:45+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-11-01T07:45:36+05:30",
+      "end": "2026-11-01T10:00:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8647
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-10-31T09:55:45+05:30",
-      "end": "2026-10-31T12:06:26+05:30",
+      "youtube": "17OU--IU3XY",
+      "title": "Mattuppetti Machan",
+      "start": "2026-11-01T10:00:47+05:30",
+      "end": "2026-11-01T12:15:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7841
+          "to": 8089
+        }
+      ]
+    },
+    {
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-11-01T12:15:36+05:30",
+      "end": "2026-11-01T14:09:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6825
+        }
+      ]
+    },
+    {
+      "youtube": "KBBta864Ong",
+      "title": "Chandralekha",
+      "start": "2026-11-01T14:09:21+05:30",
+      "end": "2026-11-01T17:00:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10251
         }
       ]
     },
     {
       "youtube": "71cD11uhE_c",
       "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-10-31T12:06:26+05:30",
-      "end": "2026-10-31T14:48:33+05:30",
+      "start": "2026-11-01T17:00:12+05:30",
+      "end": "2026-11-01T19:42:19+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,70 +87,46 @@
       ]
     },
     {
-      "youtube": "TvTCsJhsIHU",
-      "title": "Mazhavilkavadi",
-      "start": "2026-10-31T14:48:33+05:30",
-      "end": "2026-10-31T16:55:12+05:30",
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-11-01T19:42:19+05:30",
+      "end": "2026-11-01T22:03:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7599
+          "to": 8457
         }
       ]
     },
     {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-10-31T16:55:12+05:30",
-      "end": "2026-10-31T19:25:36+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-11-01T22:03:16+05:30",
+      "end": "2026-11-02T24:06:13+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9024
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-10-31T19:25:36+05:30",
-      "end": "2026-10-31T21:20:02+05:30",
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-11-02T24:06:13+05:30",
+      "end": "2026-11-02T02:13:04+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
-        }
-      ]
-    },
-    {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-10-31T21:20:02+05:30",
-      "end": "2026-10-31T23:24:43+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7481
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-10-31T23:24:43+05:30",
-      "end": "2026-11-01T01:32:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
+          "to": 7611
         }
       ]
     },
     {
       "youtube": "uNz4A-b147Y",
       "title": "Pradeshika Varthakal",
-      "start": "2026-11-01T01:32:31+05:30",
-      "end": "2026-11-01T03:22:44+05:30",
+      "start": "2026-11-02T02:13:04+05:30",
+      "end": "2026-11-02T04:03:17+05:30",
       "segments": [
         {
           "from": 0,
