@@ -1,36 +1,12 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-04T07:03:20+05:30",
+  "generated": "2026-11-05T07:05:56+05:30",
   "slots": [
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-11-04T03:00:00+05:30",
-      "end": "2026-11-04T05:48:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-11-04T05:48:01+05:30",
-      "end": "2026-11-04T08:24:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
     {
       "youtube": "Z3g5qGQK7eI",
       "title": "Narasimham",
-      "start": "2026-11-04T08:24:39+05:30",
-      "end": "2026-11-04T11:19:31+05:30",
+      "start": "2026-11-05T03:00:00+05:30",
+      "end": "2026-11-05T05:54:52+05:30",
       "segments": [
         {
           "from": 0,
@@ -39,34 +15,58 @@
       ]
     },
     {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-11-04T11:19:31+05:30",
-      "end": "2026-11-04T13:48:20+05:30",
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-11-05T05:54:52+05:30",
+      "end": "2026-11-05T08:30:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8929
+          "to": 9326
         }
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-11-04T13:48:20+05:30",
-      "end": "2026-11-04T16:26:51+05:30",
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-11-05T08:30:18+05:30",
+      "end": "2026-11-05T11:25:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 10490
+        }
+      ]
+    },
+    {
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-11-05T11:25:08+05:30",
+      "end": "2026-11-05T13:45:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-11-05T13:45:50+05:30",
+      "end": "2026-11-05T15:56:10+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7820
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-11-04T16:26:51+05:30",
-      "end": "2026-11-04T19:24:33+05:30",
+      "start": "2026-11-05T15:56:10+05:30",
+      "end": "2026-11-05T18:53:52+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,10 +75,22 @@
       ]
     },
     {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-11-05T18:53:52+05:30",
+      "end": "2026-11-05T21:50:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
+        }
+      ]
+    },
+    {
       "youtube": "KmRVJ8ZFew0",
       "title": "Vazhunnor",
-      "start": "2026-11-04T19:24:33+05:30",
-      "end": "2026-11-04T21:59:42+05:30",
+      "start": "2026-11-05T21:50:44+05:30",
+      "end": "2026-11-06T24:25:53+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +99,14 @@
       ]
     },
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-11-04T21:59:42+05:30",
-      "end": "2026-11-05T24:18:27+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-06T24:25:53+05:30",
+      "end": "2026-11-06T03:14:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-11-05T24:18:27+05:30",
-      "end": "2026-11-05T02:51:29+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9182
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-11-05T02:51:29+05:30",
-      "end": "2026-11-05T05:01:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
+          "to": 10137
         }
       ]
     }
