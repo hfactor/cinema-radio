@@ -1,72 +1,84 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-05T07:05:56+05:30",
+  "generated": "2026-11-06T07:11:47+05:30",
   "slots": [
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-11-05T03:00:00+05:30",
-      "end": "2026-11-05T05:22:01+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-11-06T03:00:00+05:30",
+      "end": "2026-11-06T05:15:11+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-11-05T05:22:01+05:30",
-      "end": "2026-11-05T07:40:55+05:30",
+      "youtube": "TvTCsJhsIHU",
+      "title": "Mazhavilkavadi",
+      "start": "2026-11-06T05:15:11+05:30",
+      "end": "2026-11-06T07:21:50+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8334
+          "to": 7599
         }
       ]
     },
     {
-      "youtube": "xuQOJtrkiZU",
-      "title": "Classmates",
-      "start": "2026-11-05T07:40:55+05:30",
-      "end": "2026-11-05T10:11:19+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-11-06T07:21:50+05:30",
+      "end": "2026-11-06T09:24:47+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9024
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-11-05T10:11:19+05:30",
-      "end": "2026-11-05T12:10:59+05:30",
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-11-06T09:24:47+05:30",
+      "end": "2026-11-06T11:45:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7180
+          "to": 8457
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-11-05T12:10:59+05:30",
-      "end": "2026-11-05T14:56:48+05:30",
+      "youtube": "1L8zjJMmfsQ",
+      "title": "Nadodikattu",
+      "start": "2026-11-06T11:45:44+05:30",
+      "end": "2026-11-06T14:19:44+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 9240
+        }
+      ]
+    },
+    {
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-11-06T14:19:44+05:30",
+      "end": "2026-11-06T16:36:06+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8182
         }
       ]
     },
     {
       "youtube": "gF3X54sk0hc",
       "title": "Kalyanaraman",
-      "start": "2026-11-05T14:56:48+05:30",
-      "end": "2026-11-05T17:08:37+05:30",
+      "start": "2026-11-06T16:36:06+05:30",
+      "end": "2026-11-06T18:47:55+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,62 +87,50 @@
       ]
     },
     {
+      "youtube": "Mg_C3ZvOyro",
+      "title": "Achan Raajaavu Appan Jethaavu",
+      "start": "2026-11-06T18:47:55+05:30",
+      "end": "2026-11-06T20:54:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7611
+        }
+      ]
+    },
+    {
+      "youtube": "IyBQ1VprUMU",
+      "title": "Godfather",
+      "start": "2026-11-06T20:54:46+05:30",
+      "end": "2026-11-06T23:16:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8521
+        }
+      ]
+    },
+    {
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-11-06T23:16:47+05:30",
+      "end": "2026-11-07T01:32:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8161
+        }
+      ]
+    },
+    {
       "youtube": "c7wDkHdM5Gk",
       "title": "Panchavadi Palam",
-      "start": "2026-11-05T17:08:37+05:30",
-      "end": "2026-11-05T19:19:33+05:30",
+      "start": "2026-11-07T01:32:48+05:30",
+      "end": "2026-11-07T03:43:44+05:30",
       "segments": [
         {
           "from": 0,
           "to": 7856
-        }
-      ]
-    },
-    {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-11-05T19:19:33+05:30",
-      "end": "2026-11-05T21:55:27+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9354
-        }
-      ]
-    },
-    {
-      "youtube": "MJg2fqrF2Tw",
-      "title": "Mayavi",
-      "start": "2026-11-05T21:55:27+05:30",
-      "end": "2026-11-06T24:00:08+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7481
-        }
-      ]
-    },
-    {
-      "youtube": "hOADuqY6iok",
-      "title": "Minnaminuginum Minnukettu",
-      "start": "2026-11-06T24:00:08+05:30",
-      "end": "2026-11-06T02:24:31+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8663
-        }
-      ]
-    },
-    {
-      "youtube": "CVkZSKEl7O4",
-      "title": "Uppukandam Brothers",
-      "start": "2026-11-06T02:24:31+05:30",
-      "end": "2026-11-06T04:35:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7841
         }
       ]
     }
