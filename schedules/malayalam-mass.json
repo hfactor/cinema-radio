@@ -1,84 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-06T07:11:47+05:30",
+  "generated": "2026-11-07T06:31:25+05:30",
   "slots": [
     {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-11-06T03:00:00+05:30",
-      "end": "2026-11-06T05:25:49+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-07T03:00:00+05:30",
+      "end": "2026-11-07T05:48:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8749
+          "to": 10137
         }
       ]
     },
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-11-06T05:25:49+05:30",
-      "end": "2026-11-06T08:22:41+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-11-07T05:48:57+05:30",
+      "end": "2026-11-07T08:29:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 9638
         }
       ]
     },
     {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-11-06T08:22:41+05:30",
-      "end": "2026-11-06T10:43:23+05:30",
+      "youtube": "I5eQkEBVoYo",
+      "title": "Praja",
+      "start": "2026-11-07T08:29:35+05:30",
+      "end": "2026-11-07T11:26:39+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "1CElrdKfAns",
-      "title": "Pattalam",
-      "start": "2026-11-06T10:43:23+05:30",
-      "end": "2026-11-06T13:18:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9326
-        }
-      ]
-    },
-    {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-11-06T13:18:49+05:30",
-      "end": "2026-11-06T15:57:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9511
-        }
-      ]
-    },
-    {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-11-06T15:57:20+05:30",
-      "end": "2026-11-06T18:26:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8940
+          "to": 10624
         }
       ]
     },
     {
       "youtube": "qTAiwIPvYSA",
       "title": "Iyobinte Pusthakam",
-      "start": "2026-11-06T18:26:20+05:30",
-      "end": "2026-11-06T21:02:58+05:30",
+      "start": "2026-11-07T11:26:39+05:30",
+      "end": "2026-11-07T14:03:17+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +51,74 @@
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-11-06T21:02:58+05:30",
-      "end": "2026-11-06T23:47:51+05:30",
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-11-07T14:03:17+05:30",
+      "end": "2026-11-07T16:13:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-11-06T23:47:51+05:30",
-      "end": "2026-11-07T02:31:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
+          "to": 7820
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-11-07T02:31:50+05:30",
-      "end": "2026-11-07T05:29:32+05:30",
+      "start": "2026-11-07T16:13:37+05:30",
+      "end": "2026-11-07T19:11:19+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10662
+        }
+      ]
+    },
+    {
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-11-07T19:11:19+05:30",
+      "end": "2026-11-07T21:46:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9326
+        }
+      ]
+    },
+    {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-11-07T21:46:45+05:30",
+      "end": "2026-11-08T24:19:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-11-08T24:19:47+05:30",
+      "end": "2026-11-08T02:54:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-11-08T02:54:07+05:30",
+      "end": "2026-11-08T05:48:57+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
         }
       ]
     }
