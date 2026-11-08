@@ -1,96 +1,36 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-07T06:31:25+05:30",
+  "generated": "2026-11-08T06:19:34+05:30",
   "slots": [
     {
-      "youtube": "NmU-3Xh5FB8",
-      "title": "Gajakesariyogam",
-      "start": "2026-11-07T03:00:00+05:30",
-      "end": "2026-11-07T05:07:39+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-11-08T03:00:00+05:30",
+      "end": "2026-11-08T05:02:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7659
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "yjaFvFuQ-QM",
-      "title": "Premam",
-      "start": "2026-11-07T05:07:39+05:30",
-      "end": "2026-11-07T07:43:33+05:30",
+      "youtube": "GPMnBx9ZkYI",
+      "title": "Meleparambil Aanveedu",
+      "start": "2026-11-08T05:02:57+05:30",
+      "end": "2026-11-08T07:28:19+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9354
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-11-07T07:43:33+05:30",
-      "end": "2026-11-07T09:47:07+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
-        }
-      ]
-    },
-    {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-11-07T09:47:07+05:30",
-      "end": "2026-11-07T12:02:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8145
-        }
-      ]
-    },
-    {
-      "youtube": "bpFYOUkOybs",
-      "title": "Peruvannapurathe Visheshangal",
-      "start": "2026-11-07T12:02:52+05:30",
-      "end": "2026-11-07T14:02:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7180
-        }
-      ]
-    },
-    {
-      "youtube": "Mg_C3ZvOyro",
-      "title": "Achan Raajaavu Appan Jethaavu",
-      "start": "2026-11-07T14:02:32+05:30",
-      "end": "2026-11-07T16:09:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7611
-        }
-      ]
-    },
-    {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-11-07T16:09:23+05:30",
-      "end": "2026-11-07T18:30:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8457
+          "to": 8722
         }
       ]
     },
     {
       "youtube": "MFHwp26QNr0",
       "title": "Mookkilla Raajyathu",
-      "start": "2026-11-07T18:30:20+05:30",
-      "end": "2026-11-07T20:42:37+05:30",
+      "start": "2026-11-08T07:28:19+05:30",
+      "end": "2026-11-08T09:40:36+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,38 +39,98 @@
       ]
     },
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-11-07T20:42:37+05:30",
-      "end": "2026-11-07T22:42:33+05:30",
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-11-08T09:40:36+05:30",
+      "end": "2026-11-08T12:10:23+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
+          "to": 8987
         }
       ]
     },
     {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-11-07T22:42:33+05:30",
-      "end": "2026-11-08T01:21:15+05:30",
+      "youtube": "asffbk9CSI8",
+      "title": "Thanneer Mathan Dinangal",
+      "start": "2026-11-08T12:10:23+05:30",
+      "end": "2026-11-08T14:26:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9522
+          "to": 8145
         }
       ]
     },
     {
-      "youtube": "sBLATypOxoE",
-      "title": "Body Guard",
-      "start": "2026-11-08T01:21:15+05:30",
-      "end": "2026-11-08T03:28:43+05:30",
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-11-08T14:26:08+05:30",
+      "end": "2026-11-08T16:58:56+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7648
+          "to": 9168
+        }
+      ]
+    },
+    {
+      "youtube": "BfQ5mgl0Ojw",
+      "title": "Kudumba Kodathi",
+      "start": "2026-11-08T16:58:56+05:30",
+      "end": "2026-11-08T19:13:46+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8090
+        }
+      ]
+    },
+    {
+      "youtube": "tyJ2O3Y6qk0",
+      "title": "Hallo",
+      "start": "2026-11-08T19:13:46+05:30",
+      "end": "2026-11-08T21:38:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8702
+        }
+      ]
+    },
+    {
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-11-08T21:38:48+05:30",
+      "end": "2026-11-08T23:50:40+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7912
+        }
+      ]
+    },
+    {
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-11-08T23:50:40+05:30",
+      "end": "2026-11-09T02:16:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8746
+        }
+      ]
+    },
+    {
+      "youtube": "c7wDkHdM5Gk",
+      "title": "Panchavadi Palam",
+      "start": "2026-11-09T02:16:26+05:30",
+      "end": "2026-11-09T04:27:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7856
         }
       ]
     }
