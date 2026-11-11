@@ -1,84 +1,60 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-10T09:12:00+05:30",
+  "generated": "2026-11-11T06:51:08+05:30",
   "slots": [
     {
-      "youtube": "KByu58dvUJA",
-      "title": "Chattambinadu",
-      "start": "2026-11-10T03:00:00+05:30",
-      "end": "2026-11-10T05:01:35+05:30",
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-11-11T03:00:00+05:30",
+      "end": "2026-11-11T05:29:51+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7295
+          "to": 8991
         }
       ]
     },
     {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-11-10T05:01:35+05:30",
-      "end": "2026-11-10T07:20:29+05:30",
+      "youtube": "d2x6hxiMxVc",
+      "title": "One Man Show",
+      "start": "2026-11-11T05:29:51+05:30",
+      "end": "2026-11-11T07:55:37+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8334
+          "to": 8746
         }
       ]
     },
     {
-      "youtube": "iAb1SgB1hwg",
-      "title": "Sandesham",
-      "start": "2026-11-10T07:20:29+05:30",
-      "end": "2026-11-10T09:35:40+05:30",
+      "youtube": "tnUApaINfwg",
+      "title": "Kavadiyattam",
+      "start": "2026-11-11T07:55:37+05:30",
+      "end": "2026-11-11T10:03:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8111
+          "to": 7698
         }
       ]
     },
     {
-      "youtube": "zS5MDOwDQ9A",
-      "title": "Veendum Chila Veettukaryangal",
-      "start": "2026-11-10T09:35:40+05:30",
-      "end": "2026-11-10T12:14:22+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-11-11T10:03:55+05:30",
+      "end": "2026-11-11T12:14:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9522
-        }
-      ]
-    },
-    {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-11-10T12:14:22+05:30",
-      "end": "2026-11-10T14:14:18+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7196
-        }
-      ]
-    },
-    {
-      "youtube": "CQKfDo9JOF4",
-      "title": "Vadakkunokkiyantram",
-      "start": "2026-11-10T14:14:18+05:30",
-      "end": "2026-11-10T16:17:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7377
+          "to": 7838
         }
       ]
     },
     {
       "youtube": "GPMnBx9ZkYI",
       "title": "Meleparambil Aanveedu",
-      "start": "2026-11-10T16:17:15+05:30",
-      "end": "2026-11-10T18:42:37+05:30",
+      "start": "2026-11-11T12:14:33+05:30",
+      "end": "2026-11-11T14:39:55+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +63,74 @@
       ]
     },
     {
-      "youtube": "3IqGqL-FyQk",
-      "title": "Pandippada",
-      "start": "2026-11-10T18:42:37+05:30",
-      "end": "2026-11-10T21:11:42+05:30",
+      "youtube": "3Wt-6kRCgP0",
+      "title": "Aalibabayum Aararakallanmarum",
+      "start": "2026-11-11T14:39:55+05:30",
+      "end": "2026-11-11T16:37:22+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8945
+          "to": 7047
+        }
+      ]
+    },
+    {
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-11-11T16:37:22+05:30",
+      "end": "2026-11-11T19:02:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8734
+        }
+      ]
+    },
+    {
+      "youtube": "ibw3-fIrgbY",
+      "title": "Aadu 2",
+      "start": "2026-11-11T19:02:56+05:30",
+      "end": "2026-11-11T21:35:44+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9168
+        }
+      ]
+    },
+    {
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-11-11T21:35:44+05:30",
+      "end": "2026-11-11T23:54:38+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8334
+        }
+      ]
+    },
+    {
+      "youtube": "hOADuqY6iok",
+      "title": "Minnaminuginum Minnukettu",
+      "start": "2026-11-11T23:54:38+05:30",
+      "end": "2026-11-12T02:19:01+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
         }
       ]
     },
     {
       "youtube": "17OU--IU3XY",
       "title": "Mattuppetti Machan",
-      "start": "2026-11-10T21:11:42+05:30",
-      "end": "2026-11-10T23:26:31+05:30",
+      "start": "2026-11-12T02:19:01+05:30",
+      "end": "2026-11-12T04:33:50+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8089
-        }
-      ]
-    },
-    {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-11-10T23:26:31+05:30",
-      "end": "2026-11-11T02:12:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9949
-        }
-      ]
-    },
-    {
-      "youtube": "yXnh6yb0oz4",
-      "title": "Ponmuttayidunna Tharavu",
-      "start": "2026-11-11T02:12:20+05:30",
-      "end": "2026-11-11T04:15:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7414
         }
       ]
     }
