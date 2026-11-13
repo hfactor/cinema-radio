@@ -1,60 +1,72 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-12T07:52:02+05:30",
+  "generated": "2026-11-13T07:30:09+05:30",
   "slots": [
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-11-12T03:00:00+05:30",
-      "end": "2026-11-12T05:18:45+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-11-13T03:00:00+05:30",
+      "end": "2026-11-13T04:42:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
+          "to": 6136
         }
       ]
     },
     {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-11-12T05:18:45+05:30",
-      "end": "2026-11-12T07:32:02+05:30",
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-11-13T04:42:16+05:30",
+      "end": "2026-11-13T07:27:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7997
+          "to": 9893
         }
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-11-12T07:32:02+05:30",
-      "end": "2026-11-12T10:10:33+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-11-13T07:27:09+05:30",
+      "end": "2026-11-13T10:11:08+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 9839
         }
       ]
     },
     {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-11-12T10:10:33+05:30",
-      "end": "2026-11-12T13:03:27+05:30",
+      "youtube": "KmRVJ8ZFew0",
+      "title": "Vazhunnor",
+      "start": "2026-11-13T10:11:08+05:30",
+      "end": "2026-11-13T12:46:17+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10374
+          "to": 9309
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-13T12:46:17+05:30",
+      "end": "2026-11-13T15:35:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
         }
       ]
     },
     {
       "youtube": "Z3g5qGQK7eI",
       "title": "Narasimham",
-      "start": "2026-11-12T13:03:27+05:30",
-      "end": "2026-11-12T15:58:19+05:30",
+      "start": "2026-11-13T15:35:14+05:30",
+      "end": "2026-11-13T18:30:06+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,62 +75,50 @@
       ]
     },
     {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-11-12T15:58:19+05:30",
-      "end": "2026-11-12T18:49:13+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-11-13T18:30:06+05:30",
+      "end": "2026-11-13T20:58:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10254
+          "to": 8929
+        }
+      ]
+    },
+    {
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-11-13T20:58:55+05:30",
+      "end": "2026-11-13T23:12:12+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7997
+        }
+      ]
+    },
+    {
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-11-13T23:12:12+05:30",
+      "end": "2026-11-14T02:09:04+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10612
         }
       ]
     },
     {
       "youtube": "LLAPYs7YlQI",
       "title": "Commissioner",
-      "start": "2026-11-12T18:49:13+05:30",
-      "end": "2026-11-12T21:44:03+05:30",
+      "start": "2026-11-14T02:09:04+05:30",
+      "end": "2026-11-14T05:03:54+05:30",
       "segments": [
         {
           "from": 0,
           "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-11-12T21:44:03+05:30",
-      "end": "2026-11-13T24:09:52+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-11-13T24:09:52+05:30",
-      "end": "2026-11-13T02:30:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "9znDKVinNFM",
-      "title": "Pathram",
-      "start": "2026-11-13T02:30:34+05:30",
-      "end": "2026-11-13T05:28:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10662
         }
       ]
     }
