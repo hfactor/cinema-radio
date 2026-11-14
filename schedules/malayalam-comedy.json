@@ -1,24 +1,60 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-13T07:30:09+05:30",
+  "generated": "2026-11-14T07:03:10+05:30",
   "slots": [
     {
-      "youtube": "d2x6hxiMxVc",
-      "title": "One Man Show",
-      "start": "2026-11-13T03:00:00+05:30",
-      "end": "2026-11-13T05:25:46+05:30",
+      "youtube": "U3P9m8X--Sg",
+      "title": "Grama Panchaayath",
+      "start": "2026-11-14T03:00:00+05:30",
+      "end": "2026-11-14T05:16:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8746
+          "to": 8161
+        }
+      ]
+    },
+    {
+      "youtube": "ocISEYOb9KY",
+      "title": "Megham",
+      "start": "2026-11-14T05:16:01+05:30",
+      "end": "2026-11-14T07:40:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8663
+        }
+      ]
+    },
+    {
+      "youtube": "_d-AdeBZVYc",
+      "title": "Akkare Akkare Akkare",
+      "start": "2026-11-14T07:40:24+05:30",
+      "end": "2026-11-14T10:10:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8991
+        }
+      ]
+    },
+    {
+      "youtube": "s6P9QNj2_o0",
+      "title": "Kuberan",
+      "start": "2026-11-14T10:10:15+05:30",
+      "end": "2026-11-14T12:41:59+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9104
         }
       ]
     },
     {
       "youtube": "eSIn0GOQRds",
       "title": "Aramana Veedum Anjoorekkarum",
-      "start": "2026-11-13T05:25:46+05:30",
-      "end": "2026-11-13T07:19:31+05:30",
+      "start": "2026-11-14T12:41:59+05:30",
+      "end": "2026-11-14T14:35:44+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,110 +63,74 @@
       ]
     },
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-11-13T07:19:31+05:30",
-      "end": "2026-11-13T09:34:21+05:30",
+      "youtube": "iAb1SgB1hwg",
+      "title": "Sandesham",
+      "start": "2026-11-14T14:35:44+05:30",
+      "end": "2026-11-14T16:50:55+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 8111
         }
       ]
     },
     {
-      "youtube": "HqTOaQh5RnI",
-      "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-11-13T09:34:21+05:30",
-      "end": "2026-11-13T11:28:47+05:30",
+      "youtube": "_bBEvH9bb-4",
+      "title": "Thalayanamanthram",
+      "start": "2026-11-14T16:50:55+05:30",
+      "end": "2026-11-14T18:58:26+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6866
+          "to": 7651
+        }
+      ]
+    },
+    {
+      "youtube": "3x5rELI_ihA",
+      "title": "Simhavalan Menon",
+      "start": "2026-11-14T18:58:26+05:30",
+      "end": "2026-11-14T21:18:24+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8398
+        }
+      ]
+    },
+    {
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-11-14T21:18:24+05:30",
+      "end": "2026-11-15T24:00:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9727
+        }
+      ]
+    },
+    {
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-11-15T24:00:31+05:30",
+      "end": "2026-11-15T02:12:23+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7912
         }
       ]
     },
     {
       "youtube": "GtgJJotwcRQ",
       "title": "Summer in Bethlehem",
-      "start": "2026-11-13T11:28:47+05:30",
-      "end": "2026-11-13T14:03:34+05:30",
+      "start": "2026-11-15T02:12:23+05:30",
+      "end": "2026-11-15T04:47:10+05:30",
       "segments": [
         {
           "from": 0,
           "to": 9287
-        }
-      ]
-    },
-    {
-      "youtube": "yYOXLlxBHdc",
-      "title": "Kalyana Sougandhikam",
-      "start": "2026-11-13T14:03:34+05:30",
-      "end": "2026-11-13T16:22:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8334
-        }
-      ]
-    },
-    {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham (1988)",
-      "start": "2026-11-13T16:22:28+05:30",
-      "end": "2026-11-13T18:42:21+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8393
-        }
-      ]
-    },
-    {
-      "youtube": "m1zbbDOkkFU",
-      "title": "Pidakkozhi Koovunna Noottandu",
-      "start": "2026-11-13T18:42:21+05:30",
-      "end": "2026-11-13T21:03:18+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8457
-        }
-      ]
-    },
-    {
-      "youtube": "asffbk9CSI8",
-      "title": "Thanneer Mathan Dinangal",
-      "start": "2026-11-13T21:03:18+05:30",
-      "end": "2026-11-13T23:19:03+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8145
-        }
-      ]
-    },
-    {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-11-13T23:19:03+05:30",
-      "end": "2026-11-14T01:52:26+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9203
-        }
-      ]
-    },
-    {
-      "youtube": "xzJhnlxxqpc",
-      "title": "Pavam I.A. Ivachan",
-      "start": "2026-11-14T01:52:26+05:30",
-      "end": "2026-11-14T04:08:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8162
         }
       ]
     }
