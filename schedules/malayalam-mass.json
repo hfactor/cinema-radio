@@ -1,48 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-14T07:03:10+05:30",
+  "generated": "2026-11-15T06:40:07+05:30",
   "slots": [
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-11-14T03:00:00+05:30",
-      "end": "2026-11-14T05:54:50+05:30",
+      "youtube": "WBzhUsblFNA",
+      "title": "Lelam",
+      "start": "2026-11-15T03:00:00+05:30",
+      "end": "2026-11-15T05:56:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-11-14T05:54:50+05:30",
-      "end": "2026-11-14T08:45:44+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-11-14T08:45:44+05:30",
-      "end": "2026-11-14T11:40:23+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10479
+          "to": 10612
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-11-14T11:40:23+05:30",
-      "end": "2026-11-14T14:09:23+05:30",
+      "start": "2026-11-15T05:56:52+05:30",
+      "end": "2026-11-15T08:25:52+05:30",
       "segments": [
         {
           "from": 0,
@@ -51,34 +27,10 @@
       ]
     },
     {
-      "youtube": "MZMV8ZoduEM",
-      "title": "Phantom",
-      "start": "2026-11-14T14:09:23+05:30",
-      "end": "2026-11-14T16:35:12+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8749
-        }
-      ]
-    },
-    {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-11-14T16:35:12+05:30",
-      "end": "2026-11-14T19:03:32+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8900
-        }
-      ]
-    },
-    {
       "youtube": "GWuVEXKM8RY",
       "title": "Ustaad",
-      "start": "2026-11-14T19:03:32+05:30",
-      "end": "2026-11-14T21:48:25+05:30",
+      "start": "2026-11-15T08:25:52+05:30",
+      "end": "2026-11-15T11:10:45+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,26 +39,86 @@
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-11-14T21:48:25+05:30",
-      "end": "2026-11-15T24:37:22+05:30",
+      "youtube": "nUQre7zjGKE",
+      "title": "Ekalavyan",
+      "start": "2026-11-15T11:10:45+05:30",
+      "end": "2026-11-15T13:49:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
+          "to": 9511
         }
       ]
     },
     {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-11-15T24:37:22+05:30",
-      "end": "2026-11-15T03:14:00+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-11-15T13:49:16+05:30",
+      "end": "2026-11-15T16:09:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9398
+          "to": 8442
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-11-15T16:09:58+05:30",
+      "end": "2026-11-15T19:04:50+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-11-15T19:04:50+05:30",
+      "end": "2026-11-15T21:48:49+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9839
+        }
+      ]
+    },
+    {
+      "youtube": "vD0GHOyZers",
+      "title": "Big B",
+      "start": "2026-11-15T21:48:49+05:30",
+      "end": "2026-11-15T23:59:09+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7820
+        }
+      ]
+    },
+    {
+      "youtube": "zI8sWVDlZMI",
+      "title": "Simhasanam",
+      "start": "2026-11-15T23:59:09+05:30",
+      "end": "2026-11-16T02:27:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8900
+        }
+      ]
+    },
+    {
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-11-16T02:27:29+05:30",
+      "end": "2026-11-16T04:09:45+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6136
         }
       ]
     }
