@@ -1,24 +1,36 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-15T06:40:07+05:30",
+  "generated": "2026-11-16T06:45:53+05:30",
   "slots": [
     {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-11-15T03:00:00+05:30",
-      "end": "2026-11-15T05:56:52+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-11-16T03:00:00+05:30",
+      "end": "2026-11-16T05:50:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10612
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-11-16T05:50:54+05:30",
+      "end": "2026-11-16T08:43:48+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
         }
       ]
     },
     {
       "youtube": "HUGaoyFF0Ys",
       "title": "Yuvathurkki",
-      "start": "2026-11-15T05:56:52+05:30",
-      "end": "2026-11-15T08:25:52+05:30",
+      "start": "2026-11-16T08:43:48+05:30",
+      "end": "2026-11-16T11:12:48+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,70 +39,46 @@
       ]
     },
     {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-11-15T08:25:52+05:30",
-      "end": "2026-11-15T11:10:45+05:30",
+      "youtube": "Nzuk7ASdjj8",
+      "title": "Irupatham Nootand",
+      "start": "2026-11-16T11:12:48+05:30",
+      "end": "2026-11-16T13:26:05+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9893
+          "to": 7997
         }
       ]
     },
     {
-      "youtube": "nUQre7zjGKE",
-      "title": "Ekalavyan",
-      "start": "2026-11-15T11:10:45+05:30",
-      "end": "2026-11-15T13:49:16+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-11-16T13:26:05+05:30",
+      "end": "2026-11-16T15:51:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9511
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-11-15T13:49:16+05:30",
-      "end": "2026-11-15T16:09:58+05:30",
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-11-16T15:51:54+05:30",
+      "end": "2026-11-16T18:46:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8442
-        }
-      ]
-    },
-    {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-11-15T16:09:58+05:30",
-      "end": "2026-11-15T19:04:50+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10492
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-11-15T19:04:50+05:30",
-      "end": "2026-11-15T21:48:49+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
+          "to": 10479
         }
       ]
     },
     {
       "youtube": "vD0GHOyZers",
       "title": "Big B",
-      "start": "2026-11-15T21:48:49+05:30",
-      "end": "2026-11-15T23:59:09+05:30",
+      "start": "2026-11-16T18:46:33+05:30",
+      "end": "2026-11-16T20:56:53+05:30",
       "segments": [
         {
           "from": 0,
@@ -99,26 +87,38 @@
       ]
     },
     {
-      "youtube": "zI8sWVDlZMI",
-      "title": "Simhasanam",
-      "start": "2026-11-15T23:59:09+05:30",
-      "end": "2026-11-16T02:27:29+05:30",
+      "youtube": "Wf9JIaHlU7w",
+      "title": "Jana Gana Mana",
+      "start": "2026-11-16T20:56:53+05:30",
+      "end": "2026-11-16T23:25:31+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8900
+          "to": 8918
         }
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-11-16T02:27:29+05:30",
-      "end": "2026-11-16T04:09:45+05:30",
+      "youtube": "qTAiwIPvYSA",
+      "title": "Iyobinte Pusthakam",
+      "start": "2026-11-16T23:25:31+05:30",
+      "end": "2026-11-17T02:02:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6136
+          "to": 9398
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-11-17T02:02:09+05:30",
+      "end": "2026-11-17T04:42:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
         }
       ]
     }
