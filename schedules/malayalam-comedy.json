@@ -1,136 +1,136 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-18T08:31:13+05:30",
+  "generated": "2026-11-19T08:12:27+05:30",
   "slots": [
     {
-      "youtube": "BfQ5mgl0Ojw",
-      "title": "Kudumba Kodathi",
-      "start": "2026-11-18T03:00:00+05:30",
-      "end": "2026-11-18T05:14:50+05:30",
+      "youtube": "OifxZ3Xg258",
+      "title": "Oru Marubhoomikkadha",
+      "start": "2026-11-19T03:00:00+05:30",
+      "end": "2026-11-19T05:45:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8090
+          "to": 9949
         }
       ]
     },
     {
-      "youtube": "71cD11uhE_c",
-      "title": "Sreekrishnapurathe Nakshathrathilakkam",
-      "start": "2026-11-18T05:14:50+05:30",
-      "end": "2026-11-18T07:56:57+05:30",
+      "youtube": "N-_uc9HoouY",
+      "title": "Pattanapravesham",
+      "start": "2026-11-19T05:45:49+05:30",
+      "end": "2026-11-19T08:05:35+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9727
+          "to": 8386
         }
       ]
     },
     {
-      "youtube": "7wCxFzs5JsM",
-      "title": "Pavam Pavam Rajakumaran",
-      "start": "2026-11-18T07:56:57+05:30",
-      "end": "2026-11-18T09:56:53+05:30",
+      "youtube": "IUcwLkSaHuo",
+      "title": "CID Unnikrishnan B.A. B.Ed.",
+      "start": "2026-11-19T08:05:35+05:30",
+      "end": "2026-11-19T10:31:09+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7196
+          "to": 8734
         }
       ]
     },
     {
-      "youtube": "c7wDkHdM5Gk",
-      "title": "Panchavadi Palam",
-      "start": "2026-11-18T09:56:53+05:30",
-      "end": "2026-11-18T12:07:49+05:30",
+      "youtube": "m1zbbDOkkFU",
+      "title": "Pidakkozhi Koovunna Noottandu",
+      "start": "2026-11-19T10:31:09+05:30",
+      "end": "2026-11-19T12:52:06+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7856
+          "to": 8457
         }
       ]
     },
     {
-      "youtube": "3x5rELI_ihA",
-      "title": "Simhavalan Menon",
-      "start": "2026-11-18T12:07:49+05:30",
-      "end": "2026-11-18T14:27:47+05:30",
+      "youtube": "CQKfDo9JOF4",
+      "title": "Vadakkunokkiyantram",
+      "start": "2026-11-19T12:52:06+05:30",
+      "end": "2026-11-19T14:55:03+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8398
+          "to": 7377
         }
       ]
     },
     {
-      "youtube": "EjKP52eBapA",
-      "title": "Minnaram",
-      "start": "2026-11-18T14:27:47+05:30",
-      "end": "2026-11-18T16:51:54+05:30",
+      "youtube": "yjaFvFuQ-QM",
+      "title": "Premam",
+      "start": "2026-11-19T14:55:03+05:30",
+      "end": "2026-11-19T17:30:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8647
+          "to": 9354
         }
       ]
     },
     {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-11-18T16:51:54+05:30",
-      "end": "2026-11-18T19:06:43+05:30",
+      "youtube": "84o2X2Ebim4",
+      "title": "English Medium",
+      "start": "2026-11-19T17:30:57+05:30",
+      "end": "2026-11-19T19:42:49+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8089
+          "to": 7912
         }
       ]
     },
     {
-      "youtube": "ibw3-fIrgbY",
-      "title": "Aadu 2",
-      "start": "2026-11-18T19:06:43+05:30",
-      "end": "2026-11-18T21:39:31+05:30",
+      "youtube": "eeKmGeHPiT4",
+      "title": "Mukunthetta Sumitra Vilikkunnu",
+      "start": "2026-11-19T19:42:49+05:30",
+      "end": "2026-11-19T22:12:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9168
+          "to": 8987
+        }
+      ]
+    },
+    {
+      "youtube": "gF3X54sk0hc",
+      "title": "Kalyanaraman",
+      "start": "2026-11-19T22:12:36+05:30",
+      "end": "2026-11-20T24:24:25+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7909
+        }
+      ]
+    },
+    {
+      "youtube": "tnUApaINfwg",
+      "title": "Kavadiyattam",
+      "start": "2026-11-20T24:24:25+05:30",
+      "end": "2026-11-20T02:32:43+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7698
         }
       ]
     },
     {
       "youtube": "_d-AdeBZVYc",
       "title": "Akkare Akkare Akkare",
-      "start": "2026-11-18T21:39:31+05:30",
-      "end": "2026-11-19T24:09:22+05:30",
+      "start": "2026-11-20T02:32:43+05:30",
+      "end": "2026-11-20T05:02:34+05:30",
       "segments": [
         {
           "from": 0,
           "to": 8991
-        }
-      ]
-    },
-    {
-      "youtube": "mo4XpjEx__s",
-      "title": "Kilukkam",
-      "start": "2026-11-19T24:09:22+05:30",
-      "end": "2026-11-19T02:42:45+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9203
-        }
-      ]
-    },
-    {
-      "youtube": "QlwKwes1qIs",
-      "title": "Mithunam",
-      "start": "2026-11-19T02:42:45+05:30",
-      "end": "2026-11-19T05:07:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8683
         }
       ]
     }
