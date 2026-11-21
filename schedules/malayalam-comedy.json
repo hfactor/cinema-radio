@@ -1,84 +1,12 @@
 {
   "band": "malayalam-comedy",
-  "generated": "2026-11-20T07:58:37+05:30",
+  "generated": "2026-11-21T08:10:10+05:30",
   "slots": [
-    {
-      "youtube": "7rkNmfIZ3RQ",
-      "title": "Kalyanji Anandji",
-      "start": "2026-11-20T03:00:00+05:30",
-      "end": "2026-11-20T04:57:54+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7074
-        }
-      ]
-    },
-    {
-      "youtube": "IUcwLkSaHuo",
-      "title": "CID Unnikrishnan B.A. B.Ed.",
-      "start": "2026-11-20T04:57:54+05:30",
-      "end": "2026-11-20T07:23:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8734
-        }
-      ]
-    },
-    {
-      "youtube": "17OU--IU3XY",
-      "title": "Mattuppetti Machan",
-      "start": "2026-11-20T07:23:28+05:30",
-      "end": "2026-11-20T09:38:17+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8089
-        }
-      ]
-    },
-    {
-      "youtube": "84o2X2Ebim4",
-      "title": "English Medium",
-      "start": "2026-11-20T09:38:17+05:30",
-      "end": "2026-11-20T11:50:09+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7912
-        }
-      ]
-    },
-    {
-      "youtube": "n-vuT-GfF0g",
-      "title": "Thenkasipattanam",
-      "start": "2026-11-20T11:50:09+05:30",
-      "end": "2026-11-20T13:57:57+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7668
-        }
-      ]
-    },
-    {
-      "youtube": "gjT0WXh2wUI",
-      "title": "The Car",
-      "start": "2026-11-20T13:57:57+05:30",
-      "end": "2026-11-20T16:11:16+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7999
-        }
-      ]
-    },
     {
       "youtube": "HqTOaQh5RnI",
       "title": "Mannadiar Penninu Chenkotta Checkan",
-      "start": "2026-11-20T16:11:16+05:30",
-      "end": "2026-11-20T18:05:42+05:30",
+      "start": "2026-11-21T03:00:00+05:30",
+      "end": "2026-11-21T04:54:26+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,50 +15,122 @@
       ]
     },
     {
-      "youtube": "jqlKkPdm1AU",
-      "title": "Pattanapravesham (1988)",
-      "start": "2026-11-20T18:05:42+05:30",
-      "end": "2026-11-20T20:25:35+05:30",
+      "youtube": "yYOXLlxBHdc",
+      "title": "Kalyana Sougandhikam",
+      "start": "2026-11-21T04:54:26+05:30",
+      "end": "2026-11-21T07:13:20+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8393
+          "to": 8334
         }
       ]
     },
     {
-      "youtube": "IyBQ1VprUMU",
-      "title": "Godfather",
-      "start": "2026-11-20T20:25:35+05:30",
-      "end": "2026-11-20T22:47:36+05:30",
+      "youtube": "GtgJJotwcRQ",
+      "title": "Summer in Bethlehem",
+      "start": "2026-11-21T07:13:20+05:30",
+      "end": "2026-11-21T09:48:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8521
+          "to": 9287
         }
       ]
     },
     {
-      "youtube": "ZHzyq4-sEj4",
-      "title": "Vellimoonga",
-      "start": "2026-11-20T22:47:36+05:30",
-      "end": "2026-11-21T24:56:19+05:30",
+      "youtube": "71cD11uhE_c",
+      "title": "Sreekrishnapurathe Nakshathrathilakkam",
+      "start": "2026-11-21T09:48:07+05:30",
+      "end": "2026-11-21T12:30:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 7723
+          "to": 9727
         }
       ]
     },
     {
-      "youtube": "OifxZ3Xg258",
-      "title": "Oru Marubhoomikkadha",
-      "start": "2026-11-21T24:56:19+05:30",
-      "end": "2026-11-21T03:42:08+05:30",
+      "youtube": "blf_KJ-LQCQ",
+      "title": "Kunukitta Kozhi",
+      "start": "2026-11-21T12:30:14+05:30",
+      "end": "2026-11-21T14:40:52+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9949
+          "to": 7838
+        }
+      ]
+    },
+    {
+      "youtube": "yXnh6yb0oz4",
+      "title": "Ponmuttayidunna Tharavu",
+      "start": "2026-11-21T14:40:52+05:30",
+      "end": "2026-11-21T16:44:26+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7414
+        }
+      ]
+    },
+    {
+      "youtube": "MJg2fqrF2Tw",
+      "title": "Mayavi",
+      "start": "2026-11-21T16:44:26+05:30",
+      "end": "2026-11-21T18:49:07+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7481
+        }
+      ]
+    },
+    {
+      "youtube": "eSIn0GOQRds",
+      "title": "Aramana Veedum Anjoorekkarum",
+      "start": "2026-11-21T18:49:07+05:30",
+      "end": "2026-11-21T20:42:52+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 6825
+        }
+      ]
+    },
+    {
+      "youtube": "fMc1KYI-orY",
+      "title": "Vellanakalude Nadu",
+      "start": "2026-11-21T20:42:52+05:30",
+      "end": "2026-11-21T22:59:14+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8182
+        }
+      ]
+    },
+    {
+      "youtube": "EjKP52eBapA",
+      "title": "Minnaram",
+      "start": "2026-11-21T22:59:14+05:30",
+      "end": "2026-11-22T01:23:21+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8647
+        }
+      ]
+    },
+    {
+      "youtube": "KByu58dvUJA",
+      "title": "Chattambinadu",
+      "start": "2026-11-22T01:23:21+05:30",
+      "end": "2026-11-22T03:24:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 7295
         }
       ]
     }

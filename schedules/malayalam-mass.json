@@ -1,12 +1,96 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-20T07:58:37+05:30",
+  "generated": "2026-11-21T08:10:10+05:30",
   "slots": [
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-11-21T03:00:00+05:30",
+      "end": "2026-11-21T05:54:39+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "Z3g5qGQK7eI",
+      "title": "Narasimham",
+      "start": "2026-11-21T05:54:39+05:30",
+      "end": "2026-11-21T08:49:31+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10492
+        }
+      ]
+    },
+    {
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-21T08:49:31+05:30",
+      "end": "2026-11-21T11:38:28+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10137
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-11-21T11:38:28+05:30",
+      "end": "2026-11-21T14:31:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-11-21T14:31:22+05:30",
+      "end": "2026-11-21T17:16:15+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
+        }
+      ]
+    },
+    {
+      "youtube": "LLAPYs7YlQI",
+      "title": "Commissioner",
+      "start": "2026-11-21T17:16:15+05:30",
+      "end": "2026-11-21T20:11:05+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10490
+        }
+      ]
+    },
+    {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-11-21T20:11:05+05:30",
+      "end": "2026-11-21T23:08:47+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
     {
       "youtube": "I5eQkEBVoYo",
       "title": "Praja",
-      "start": "2026-11-20T03:00:00+05:30",
-      "end": "2026-11-20T05:57:04+05:30",
+      "start": "2026-11-21T23:08:47+05:30",
+      "end": "2026-11-22T02:05:51+05:30",
       "segments": [
         {
           "from": 0,
@@ -15,110 +99,14 @@
       ]
     },
     {
-      "youtube": "F_og2xNdeoo",
-      "title": "Runway",
-      "start": "2026-11-20T05:57:04+05:30",
-      "end": "2026-11-20T08:37:42+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-11-22T02:05:51+05:30",
+      "end": "2026-11-22T03:48:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9638
-        }
-      ]
-    },
-    {
-      "youtube": "WBzhUsblFNA",
-      "title": "Lelam",
-      "start": "2026-11-20T08:37:42+05:30",
-      "end": "2026-11-20T11:34:34+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10612
-        }
-      ]
-    },
-    {
-      "youtube": "Nzuk7ASdjj8",
-      "title": "Irupatham Nootand",
-      "start": "2026-11-20T11:34:34+05:30",
-      "end": "2026-11-20T13:47:51+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7997
-        }
-      ]
-    },
-    {
-      "youtube": "KmRVJ8ZFew0",
-      "title": "Vazhunnor",
-      "start": "2026-11-20T13:47:51+05:30",
-      "end": "2026-11-20T16:23:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9309
-        }
-      ]
-    },
-    {
-      "youtube": "H88LQE0vJRw",
-      "title": "Harikrishnans",
-      "start": "2026-11-20T16:23:00+05:30",
-      "end": "2026-11-20T18:57:20+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9260
-        }
-      ]
-    },
-    {
-      "youtube": "vD0GHOyZers",
-      "title": "Big B",
-      "start": "2026-11-20T18:57:20+05:30",
-      "end": "2026-11-20T21:07:40+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 7820
-        }
-      ]
-    },
-    {
-      "youtube": "Q4BPekFLj1c",
-      "title": "Rakshasa Rajavu",
-      "start": "2026-11-20T21:07:40+05:30",
-      "end": "2026-11-20T23:51:39+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9839
-        }
-      ]
-    },
-    {
-      "youtube": "dJmHzy4sqn0",
-      "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-11-20T23:51:39+05:30",
-      "end": "2026-11-21T02:20:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8929
-        }
-      ]
-    },
-    {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-11-21T02:20:28+05:30",
-      "end": "2026-11-21T04:49:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8918
+          "to": 6136
         }
       ]
     }
