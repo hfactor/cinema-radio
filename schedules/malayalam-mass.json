@@ -1,84 +1,48 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-21T08:10:10+05:30",
+  "generated": "2026-11-22T06:58:30+05:30",
   "slots": [
     {
-      "youtube": "-FPFH5WwMhU",
-      "title": "Aaraam Thampuran",
-      "start": "2026-11-21T03:00:00+05:30",
-      "end": "2026-11-21T05:54:39+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-11-22T03:00:00+05:30",
+      "end": "2026-11-22T04:42:16+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10479
+          "to": 6136
         }
       ]
     },
     {
-      "youtube": "Z3g5qGQK7eI",
-      "title": "Narasimham",
-      "start": "2026-11-21T05:54:39+05:30",
-      "end": "2026-11-21T08:49:31+05:30",
+      "youtube": "aUgN8AZQoPo",
+      "title": "Ramji Rao Speaking",
+      "start": "2026-11-22T04:42:16+05:30",
+      "end": "2026-11-22T07:02:58+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10492
+          "to": 8442
         }
       ]
     },
     {
-      "youtube": "cxW9_c15JHg",
-      "title": "Sathyameva Jayathe",
-      "start": "2026-11-21T08:49:31+05:30",
-      "end": "2026-11-21T11:38:28+05:30",
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-11-22T07:02:58+05:30",
+      "end": "2026-11-22T09:43:36+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10137
-        }
-      ]
-    },
-    {
-      "youtube": "E45xT6pWM2M",
-      "title": "Adhwaytham",
-      "start": "2026-11-21T11:38:28+05:30",
-      "end": "2026-11-21T14:31:22+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10374
-        }
-      ]
-    },
-    {
-      "youtube": "GWuVEXKM8RY",
-      "title": "Ustaad",
-      "start": "2026-11-21T14:31:22+05:30",
-      "end": "2026-11-21T17:16:15+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9893
-        }
-      ]
-    },
-    {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-11-21T17:16:15+05:30",
-      "end": "2026-11-21T20:11:05+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10490
+          "to": 9638
         }
       ]
     },
     {
       "youtube": "9znDKVinNFM",
       "title": "Pathram",
-      "start": "2026-11-21T20:11:05+05:30",
-      "end": "2026-11-21T23:08:47+05:30",
+      "start": "2026-11-22T09:43:36+05:30",
+      "end": "2026-11-22T12:41:18+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,26 +51,74 @@
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-11-21T23:08:47+05:30",
-      "end": "2026-11-22T02:05:51+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-11-22T12:41:18+05:30",
+      "end": "2026-11-22T15:10:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 8940
         }
       ]
     },
     {
-      "youtube": "BN3adoH7XSY",
-      "title": "Lokanathan IAS",
-      "start": "2026-11-22T02:05:51+05:30",
-      "end": "2026-11-22T03:48:07+05:30",
+      "youtube": "dJmHzy4sqn0",
+      "title": "Sthalathe Pradhana Payyans",
+      "start": "2026-11-22T15:10:18+05:30",
+      "end": "2026-11-22T17:39:07+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 6136
+          "to": 8929
+        }
+      ]
+    },
+    {
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-11-22T17:39:07+05:30",
+      "end": "2026-11-22T20:04:56+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 8749
+        }
+      ]
+    },
+    {
+      "youtube": "-FPFH5WwMhU",
+      "title": "Aaraam Thampuran",
+      "start": "2026-11-22T20:04:56+05:30",
+      "end": "2026-11-22T22:59:35+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10479
+        }
+      ]
+    },
+    {
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-11-22T22:59:35+05:30",
+      "end": "2026-11-23T01:50:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10254
+        }
+      ]
+    },
+    {
+      "youtube": "GWuVEXKM8RY",
+      "title": "Ustaad",
+      "start": "2026-11-23T01:50:29+05:30",
+      "end": "2026-11-23T04:35:22+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9893
         }
       ]
     }
