@@ -1,24 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-25T09:56:10+05:30",
+  "generated": "2026-11-26T09:11:26+05:30",
   "slots": [
     {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-11-25T03:00:00+05:30",
-      "end": "2026-11-25T05:20:42+05:30",
+      "youtube": "2qKelKBAdlo",
+      "title": "Dubai",
+      "start": "2026-11-26T03:00:00+05:30",
+      "end": "2026-11-26T05:50:54+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8442
+          "to": 10254
         }
       ]
     },
     {
       "youtube": "nUQre7zjGKE",
       "title": "Ekalavyan",
-      "start": "2026-11-25T05:20:42+05:30",
-      "end": "2026-11-25T07:59:13+05:30",
+      "start": "2026-11-26T05:50:54+05:30",
+      "end": "2026-11-26T08:29:25+05:30",
       "segments": [
         {
           "from": 0,
@@ -27,34 +27,46 @@
       ]
     },
     {
-      "youtube": "I5eQkEBVoYo",
-      "title": "Praja",
-      "start": "2026-11-25T07:59:13+05:30",
-      "end": "2026-11-25T10:56:17+05:30",
+      "youtube": "BN3adoH7XSY",
+      "title": "Lokanathan IAS",
+      "start": "2026-11-26T08:29:25+05:30",
+      "end": "2026-11-26T10:11:41+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10624
+          "to": 6136
         }
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-11-25T10:56:17+05:30",
-      "end": "2026-11-25T13:29:19+05:30",
+      "youtube": "H88LQE0vJRw",
+      "title": "Harikrishnans",
+      "start": "2026-11-26T10:11:41+05:30",
+      "end": "2026-11-26T12:46:01+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
+          "to": 9260
+        }
+      ]
+    },
+    {
+      "youtube": "E45xT6pWM2M",
+      "title": "Adhwaytham",
+      "start": "2026-11-26T12:46:01+05:30",
+      "end": "2026-11-26T15:38:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10374
         }
       ]
     },
     {
       "youtube": "Z3g5qGQK7eI",
       "title": "Narasimham",
-      "start": "2026-11-25T13:29:19+05:30",
-      "end": "2026-11-25T16:24:11+05:30",
+      "start": "2026-11-26T15:38:55+05:30",
+      "end": "2026-11-26T18:33:47+05:30",
       "segments": [
         {
           "from": 0,
@@ -63,10 +75,22 @@
       ]
     },
     {
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-11-26T18:33:47+05:30",
+      "end": "2026-11-26T21:31:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 10662
+        }
+      ]
+    },
+    {
       "youtube": "MZMV8ZoduEM",
       "title": "Phantom",
-      "start": "2026-11-25T16:24:11+05:30",
-      "end": "2026-11-25T18:50:00+05:30",
+      "start": "2026-11-26T21:31:29+05:30",
+      "end": "2026-11-26T23:57:18+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,50 +99,26 @@
       ]
     },
     {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-11-25T18:50:00+05:30",
-      "end": "2026-11-25T21:18:38+05:30",
+      "youtube": "HUGaoyFF0Ys",
+      "title": "Yuvathurkki",
+      "start": "2026-11-26T23:57:18+05:30",
+      "end": "2026-11-27T02:26:18+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8918
+          "to": 8940
         }
       ]
     },
     {
-      "youtube": "sX-mOuh6FY0",
-      "title": "Pingami",
-      "start": "2026-11-25T21:18:38+05:30",
-      "end": "2026-11-25T23:37:23+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-27T02:26:18+05:30",
+      "end": "2026-11-27T05:15:15+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8325
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-11-25T23:37:23+05:30",
-      "end": "2026-11-26T02:25:24+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-11-26T02:25:24+05:30",
-      "end": "2026-11-26T05:16:18+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
+          "to": 10137
         }
       ]
     }
