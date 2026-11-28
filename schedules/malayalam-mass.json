@@ -1,72 +1,24 @@
 {
   "band": "malayalam-mass",
-  "generated": "2026-11-27T09:12:14+05:30",
+  "generated": "2026-11-28T08:55:21+05:30",
   "slots": [
     {
-      "youtube": "LLAPYs7YlQI",
-      "title": "Commissioner",
-      "start": "2026-11-27T03:00:00+05:30",
-      "end": "2026-11-27T05:54:50+05:30",
+      "youtube": "cxW9_c15JHg",
+      "title": "Sathyameva Jayathe",
+      "start": "2026-11-28T03:00:00+05:30",
+      "end": "2026-11-28T05:48:57+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 10490
-        }
-      ]
-    },
-    {
-      "youtube": "qTAiwIPvYSA",
-      "title": "Iyobinte Pusthakam",
-      "start": "2026-11-27T05:54:50+05:30",
-      "end": "2026-11-27T08:31:28+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 9398
-        }
-      ]
-    },
-    {
-      "youtube": "Wf9JIaHlU7w",
-      "title": "Jana Gana Mana",
-      "start": "2026-11-27T08:31:28+05:30",
-      "end": "2026-11-27T11:00:06+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 8918
-        }
-      ]
-    },
-    {
-      "youtube": "2qKelKBAdlo",
-      "title": "Dubai",
-      "start": "2026-11-27T11:00:06+05:30",
-      "end": "2026-11-27T13:51:00+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10254
-        }
-      ]
-    },
-    {
-      "youtube": "AzwfbCCouLE",
-      "title": "Onnaman",
-      "start": "2026-11-27T13:51:00+05:30",
-      "end": "2026-11-27T16:39:01+05:30",
-      "segments": [
-        {
-          "from": 0,
-          "to": 10081
+          "to": 10137
         }
       ]
     },
     {
       "youtube": "WBzhUsblFNA",
       "title": "Lelam",
-      "start": "2026-11-27T16:39:01+05:30",
-      "end": "2026-11-27T19:35:53+05:30",
+      "start": "2026-11-28T05:48:57+05:30",
+      "end": "2026-11-28T08:45:49+05:30",
       "segments": [
         {
           "from": 0,
@@ -75,10 +27,46 @@
       ]
     },
     {
+      "youtube": "1sEWgYDJjPw",
+      "title": "Olympian Anthony Adam",
+      "start": "2026-11-28T08:45:49+05:30",
+      "end": "2026-11-28T11:18:51+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9182
+        }
+      ]
+    },
+    {
+      "youtube": "F_og2xNdeoo",
+      "title": "Runway",
+      "start": "2026-11-28T11:18:51+05:30",
+      "end": "2026-11-28T13:59:29+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9638
+        }
+      ]
+    },
+    {
+      "youtube": "1CElrdKfAns",
+      "title": "Pattalam",
+      "start": "2026-11-28T13:59:29+05:30",
+      "end": "2026-11-28T16:34:55+05:30",
+      "segments": [
+        {
+          "from": 0,
+          "to": 9326
+        }
+      ]
+    },
+    {
       "youtube": "dJmHzy4sqn0",
       "title": "Sthalathe Pradhana Payyans",
-      "start": "2026-11-27T19:35:53+05:30",
-      "end": "2026-11-27T22:04:42+05:30",
+      "start": "2026-11-28T16:34:55+05:30",
+      "end": "2026-11-28T19:03:44+05:30",
       "segments": [
         {
           "from": 0,
@@ -87,38 +75,38 @@
       ]
     },
     {
-      "youtube": "aUgN8AZQoPo",
-      "title": "Ramji Rao Speaking",
-      "start": "2026-11-27T22:04:42+05:30",
-      "end": "2026-11-28T24:25:24+05:30",
+      "youtube": "MZMV8ZoduEM",
+      "title": "Phantom",
+      "start": "2026-11-28T19:03:44+05:30",
+      "end": "2026-11-28T21:29:33+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8442
+          "to": 8749
         }
       ]
     },
     {
-      "youtube": "HUGaoyFF0Ys",
-      "title": "Yuvathurkki",
-      "start": "2026-11-28T24:25:24+05:30",
-      "end": "2026-11-28T02:54:24+05:30",
+      "youtube": "Q4BPekFLj1c",
+      "title": "Rakshasa Rajavu",
+      "start": "2026-11-28T21:29:33+05:30",
+      "end": "2026-11-29T24:13:32+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 8940
+          "to": 9839
         }
       ]
     },
     {
-      "youtube": "1sEWgYDJjPw",
-      "title": "Olympian Anthony Adam",
-      "start": "2026-11-28T02:54:24+05:30",
-      "end": "2026-11-28T05:27:26+05:30",
+      "youtube": "9znDKVinNFM",
+      "title": "Pathram",
+      "start": "2026-11-29T24:13:32+05:30",
+      "end": "2026-11-29T03:11:14+05:30",
       "segments": [
         {
           "from": 0,
-          "to": 9182
+          "to": 10662
         }
       ]
     }
